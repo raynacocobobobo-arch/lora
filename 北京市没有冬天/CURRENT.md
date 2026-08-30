@@ -8,8 +8,9 @@
 1. `Series-Bible-V2-CANONICAL.md`
 2. `Character-Bible-V0.4-CANONICAL.md`
 3. `Reveal-Public-Action-V0.1-CANONICAL.md`
-4. `System-AI-V0.1-CANONICAL.md`
-5. Current `hermes-creative-ai-short-drama` Skill
+4. `Reveal-Public-Action-V0.1.1-END-TIME-WINTER.md`
+5. `System-AI-V0.1-CANONICAL.md`
+6. Current `hermes-creative-ai-short-drama` Skill
 
 ## Precedence
 
@@ -17,6 +18,7 @@
 - All current character, relationship, two-person-unit and protagonist-scale rules are governed by `Character-Bible-V0.4-CANONICAL.md`.
 - `Character-Bible-V0.4-CANONICAL.md` supersedes conflicting character wording in `Series-Bible-V2-CANONICAL.md`, especially the older formal use of “AI女友”.
 - `Reveal-Public-Action-V0.1-CANONICAL.md` governs the first-season reveal pace, the female chief's minimum-common-reality public-action line, gradual loss of private companion AI access, region-by-region reconnection, and the locked private cost that the companion-AI host station must ultimately be abandoned for common-reality reconstruction.
+- `Reveal-Public-Action-V0.1.1-END-TIME-WINTER.md` specifically locks the season ending: all reconnected Beijing regions again share one valid Beijing Standard Time; only after that shared public “now” is restored can the unified Beijing winter protocol become valid and snow return citywide.
 - `System-AI-V0.1-CANONICAL.md` governs the city system AI and its hard separation from the private companion AI.
 - `TBD` must not be silently filled.
 - `NEEDS_REVIEW` must not be silently resolved.
@@ -54,10 +56,11 @@ These references indicate dramatic function and presentation tone only; do not c
 - Minimum common reality is not lossless: some post-disaster local realities, rights, infrastructure, services, or benefits will lose public effect, be converted, moved, closed, or abandoned.
 - Opponents to reconnection may have legitimate interests; do not write them as generic villains.
 - Private companion AI line = gradual loss of outside-city access → home remains a relatively intact shared private reality longer → final structural cost is abandonment of the companion-AI host station required for full common-reality reconstruction.
-- Exact host-station technology, migration impossibility mechanism, institution names, episode numbers, and shutdown procedure remain `TBD`.
+- Ending = all reconnected regions again share one valid Beijing Standard Time → unified public winter protocol can become valid → citywide snow returns. Snow is evidence of restored shared reality, not the mechanism that restores it.
+- Exact host-station technology, migration impossibility mechanism, institution names, episode numbers, shutdown procedure, and final-scene wording remain `TBD`.
 
 ## Current creative stage
 
-Character canon is consolidated in V0.4. Reveal / Public Action / companion-cost direction is now canonical in `Reveal-Public-Action-V0.1-CANONICAL.md`.
+Character canon is consolidated in V0.4. Reveal / Public Action / companion-cost direction is canonical in `Reveal-Public-Action-V0.1-CANONICAL.md`. The ending's unified-time and winter result is canonical in `Reveal-Public-Action-V0.1.1-END-TIME-WINTER.md`.
 
 Next planned workflow stage: **Antagonist / Pressure Ladder**, while preserving all unresolved `TBD / NEEDS_REVIEW` items above.

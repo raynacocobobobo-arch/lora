@@ -15,7 +15,7 @@ Read and obey:
 1. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
 2. **Later user-confirmed conversation decisions override earlier conflicting decisions.**
 3. `LATEST-CANON-SNAPSHOT` files are consolidated authoritative snapshots of confirmed decisions.
-4. Old Canon / patch files remain valid where they do not conflict with a later confirmed revision.
+4. Old Canon / patch files remain valid where they do not conflict with a later confirmed revision, but are now archived as provenance rather than default working documents.
 5. `TBD` remains unresolved. `NEEDS_REVIEW` remains unresolved.
 6. Never silently overwrite a LOCKED canon; use explicit narrow revision / supersede.
 
@@ -30,54 +30,43 @@ Internal rule:
 ## A. Current consolidated canon
 
 1. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
-2. `Series-LATEST-CANON-SNAPSHOT-V1.md`
-3. `Theme-Keywords-EP01-EP10-V0.2-CANONICAL.md`
-4. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V1.md`
-5. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V1.md`
-6. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md`
-7. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md`
-8. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md`
-9. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V1.md`
-10. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V1.md`
-11. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
-12. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md`
-13. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
-14. Current `hermes-creative-ai-short-drama` Skill
+2. `ACTIVE-DOCS-INDEX.md`
+3. `Series-LATEST-CANON-SNAPSHOT-V1.md`
+4. `Theme-Keywords-EP01-EP10-V0.2-CANONICAL.md`
+5. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V1.md`
+6. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V1.md`
+7. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md`
+8. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md`
+9. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md`
+10. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V1.md`
+11. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V1.md`
+12. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
+13. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md`
+14. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
+15. Current `hermes-creative-ai-short-drama` Skill
 
-## B. Deep canon / provenance — read when details are needed
+## B. Deep canon / provenance — archived, read only when details are needed
 
-### Series / world / characters
+Historical development documents have been moved to:
 
-- `Series-Bible-V2-CANONICAL.md`
-- `Theme-Philosophy-V0.1-ORDER-SACRIFICE-CANONICAL.md`
-- `Series-Format-V0.1-EPISODE-LENGTH.md`
-- `Character-Bible-V0.4-CANONICAL.md`
-- `Character-Bible-V0.4.1-EP06-COMPANION-AI-RELAY.md`
-- `Character-Bible-V0.4.2-COMPANION-AI-WORLD-SHRINKS.md`
-- `System-AI-V0.1-CANONICAL.md`
-- `Pressure-Ladder-V0.1-CANONICAL.md`
-- `Pilot-Recurring-Locations-Entity-Registry-V0.1-CANONICAL.md`
+> `archive/2026-08-31-pre-latest-snapshot/`
 
-### Public-action / finale evolution
+Categories:
 
-- `Reveal-Public-Action-V0.1-CANONICAL.md`
-- `Reveal-Public-Action-V0.1.1-END-TIME-WINTER.md`
-- `Reveal-Public-Action-V0.1.2-MINIMUM-COMMON-CITY.md`
-- `Reveal-Public-Action-V0.1.3-AI-HANDSHAKE-MULTI-REGION-FAREWELL.md`
-- `Reveal-Public-Action-V0.1.4-MINIMUM-REALITY-ONE-CONCEPT.md`
+- `characters/` — older Character Bible versions and companion-AI patches;
+- `episodes/` — pre-snapshot episode Canon / patch files;
+- `series-world-governance/` — older series bible, theme, format, system-AI, pressure-ladder, recurring-location and public-action/reveal files.
 
-### Episode provenance
+Archive rule:
 
-- EP01: `Pilot-EP01-302-Building-V0.2-CANONICAL.md`
-- EP02: `Pilot-EP02-Islands-System-Failure-V0.1-CANONICAL.md` + `V0.1.1-ISLANDING-WINDOW.md`
-- EP03: `Pilot-EP03-Cross-Island-Medicine-V0.1-CANONICAL.md` + `V0.2-SEVEN-MINUTES.md`
-- EP04: `Pilot-EP04-Cinema-Daily-Life-V0.1-CANONICAL.md`
-- EP05: `Wedding-Mirror-Episode-V0.1-CANONICAL.md` + `Pilot-EP05-Wedding-Mirror-V0.2-CANONICAL.md` + `V0.3-BRIDE-SNOW-PATCH.md` + `V0.3.1-TWO-DISASTER-TIMELINE.md`
-- EP06: `Pilot-EP06-Earth-Reference-Synchronous-Isolation-V0.1-CANONICAL.md` + `Pilot-EP06-AI-Restore-Three-Way-Relay-V0.2-CANONICAL.md`
-- EP07: `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1-CANONICAL.md` + `V0.1.1-AI-EXPLANATION-COMPRESSION.md`
-- EP08: `Pilot-EP08-Checkpoint-Security-AI-Standoff-V0.1-CANONICAL.md`
-- EP09: `Pilot-EP09-Proposal-Field-Montage-V0.1-CANONICAL.md` + `Pilot-EP09-302-Return-Companion-AI-Mirror-V0.2-CANONICAL.md` + `V0.3-HIDDEN-FAREWELL.md`
-- EP10: `Pilot-EP10-Finale-Handshake-Farewell-Winter-V0.1-CANONICAL.md`
+> **Archive is provenance, not the default working set.**
+
+Only open archived material when a current `LATEST-CANON-SNAPSHOT` explicitly lacks necessary detail or when tracing why a decision changed. If archive material conflicts with a current snapshot or later user-confirmed decision, the later decision wins.
+
+See:
+
+- `archive/README.md`
+- `archive/2026-08-31-pre-latest-snapshot/README.md`
 
 ---
 

@@ -7,35 +7,37 @@
 
 1. `Series-Bible-V2-CANONICAL.md`
 2. `Theme-Philosophy-V0.1-ORDER-SACRIFICE-CANONICAL.md`
-3. `Series-Format-V0.1-EPISODE-LENGTH.md`
-4. `Character-Bible-V0.4-CANONICAL.md`
-5. `Character-Bible-V0.4.1-EP06-COMPANION-AI-RELAY.md`
-6. `Reveal-Public-Action-V0.1-CANONICAL.md`
-7. `Reveal-Public-Action-V0.1.1-END-TIME-WINTER.md`
-8. `Pressure-Ladder-V0.1-CANONICAL.md`
-9. `Pilot-EP01-302-Building-V0.2-CANONICAL.md`
-10. `Pilot-EP02-Islands-System-Failure-V0.1-CANONICAL.md`
-11. `Pilot-EP03-Cross-Island-Medicine-V0.1-CANONICAL.md`
-12. `Pilot-EP03-Cross-Island-Medicine-V0.2-SEVEN-MINUTES.md`
-13. `Pilot-Recurring-Locations-Entity-Registry-V0.1-CANONICAL.md`
-14. `Pilot-EP04-Cinema-Daily-Life-V0.1-CANONICAL.md`
-15. `Wedding-Mirror-Episode-V0.1-CANONICAL.md`
-16. `Pilot-EP05-Wedding-Mirror-V0.2-CANONICAL.md`
-17. `Pilot-EP05-Wedding-Mirror-V0.3-BRIDE-SNOW-PATCH.md`
-18. `Pilot-EP05-Wedding-Mirror-V0.3.1-TWO-DISASTER-TIMELINE.md`
-19. `System-AI-V0.1-CANONICAL.md`
-20. `Pilot-EP06-Earth-Reference-Synchronous-Isolation-V0.1-CANONICAL.md`
-21. `Pilot-EP06-AI-Restore-Three-Way-Relay-V0.2-CANONICAL.md`
-22. `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1-CANONICAL.md`
-23. `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1.1-AI-EXPLANATION-COMPRESSION.md`
-24. `Pilot-EP08-Checkpoint-Security-AI-Standoff-V0.1-CANONICAL.md`
-25. `Pilot-EP09-Proposal-Field-Montage-V0.1-CANONICAL.md`
-26. Current `hermes-creative-ai-short-drama` Skill
+3. `Theme-Keywords-EP01-EP09-V0.1-CANONICAL.md`
+4. `Series-Format-V0.1-EPISODE-LENGTH.md`
+5. `Character-Bible-V0.4-CANONICAL.md`
+6. `Character-Bible-V0.4.1-EP06-COMPANION-AI-RELAY.md`
+7. `Reveal-Public-Action-V0.1-CANONICAL.md`
+8. `Reveal-Public-Action-V0.1.1-END-TIME-WINTER.md`
+9. `Pressure-Ladder-V0.1-CANONICAL.md`
+10. `Pilot-EP01-302-Building-V0.2-CANONICAL.md`
+11. `Pilot-EP02-Islands-System-Failure-V0.1-CANONICAL.md`
+12. `Pilot-EP03-Cross-Island-Medicine-V0.1-CANONICAL.md`
+13. `Pilot-EP03-Cross-Island-Medicine-V0.2-SEVEN-MINUTES.md`
+14. `Pilot-Recurring-Locations-Entity-Registry-V0.1-CANONICAL.md`
+15. `Pilot-EP04-Cinema-Daily-Life-V0.1-CANONICAL.md`
+16. `Wedding-Mirror-Episode-V0.1-CANONICAL.md`
+17. `Pilot-EP05-Wedding-Mirror-V0.2-CANONICAL.md`
+18. `Pilot-EP05-Wedding-Mirror-V0.3-BRIDE-SNOW-PATCH.md`
+19. `Pilot-EP05-Wedding-Mirror-V0.3.1-TWO-DISASTER-TIMELINE.md`
+20. `System-AI-V0.1-CANONICAL.md`
+21. `Pilot-EP06-Earth-Reference-Synchronous-Isolation-V0.1-CANONICAL.md`
+22. `Pilot-EP06-AI-Restore-Three-Way-Relay-V0.2-CANONICAL.md`
+23. `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1-CANONICAL.md`
+24. `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1.1-AI-EXPLANATION-COMPRESSION.md`
+25. `Pilot-EP08-Checkpoint-Security-AI-Standoff-V0.1-CANONICAL.md`
+26. `Pilot-EP09-Proposal-Field-Montage-V0.1-CANONICAL.md`
+27. Current `hermes-creative-ai-short-drama` Skill
 
 ## Precedence
 
 - Worldbuilding, accident mechanism, A/B Story and production constraints remain governed by `Series-Bible-V2-CANONICAL.md`, except where a newer explicit canonical file revises a narrower topic.
 - `Theme-Philosophy-V0.1-ORDER-SACRIFICE-CANONICAL.md` governs the current highest-level philosophical reading and development checks: **“共同现实” is the central A-story mechanism, while the highest-level thematic pair is “秩序与牺牲”.** Supporting philosophical axes are legitimacy, irreversibility, continuity, and replaceability. The theme must not be flattened into “sacrifice is noble” or “public order is automatically good”; future major beats should ask what order requires to be sacrificed, who bears the cost, who has authority to decide it, and whether the same principle still holds when the cost reaches the protagonists themselves.
+- `Theme-Keywords-EP01-EP09-V0.1-CANONICAL.md` governs the compressed three-keyword thematic shorthand for EP01–EP09: **EP01 存在｜判断｜风险; EP02 责任｜取舍｜代价; EP03 有限｜连接｜充分; EP04 叙述｜差异｜共存; EP05 连续｜承诺｜失去; EP06 同步｜信任｜协作; EP07 不可逆｜牺牲｜降级; EP08 合法性｜秩序｜暴力; EP09 不完整｜授权｜独立.** These keywords do not override episode canon and must not be used to force every episode into a sacrifice structure.
 - `Series-Format-V0.1-EPISODE-LENGTH.md` sets the default target at approximately 2–3 minutes per episode, with one dominant turn per episode.
 - Current character and relationship rules are governed by `Character-Bible-V0.4-CANONICAL.md`, with the narrow EP06 direct-communication exception governed by `Character-Bible-V0.4.1-EP06-COMPANION-AI-RELAY.md`.
 - `Reveal-Public-Action-V0.1-CANONICAL.md` governs the first-season reveal pace, the female chief's minimum-common-reality public-action line, gradual loss of private companion AI access, region-by-region reconnection, and the locked private cost that the companion-AI host station must ultimately be abandoned for common-reality reconstruction.
@@ -91,6 +93,7 @@ These references indicate dramatic function and tone only; do not copy source ch
 ## Current story structure shorthand
 
 - **Highest-level thematic pair = 秩序与牺牲. “共同现实” is the A-story mechanism that exposes how order distributes irreversible cost; future development should keep asking who pays, who decides, whether the decision is legitimate, and whether the same principle survives when the cost reaches the protagonists.**
+- **EP01–EP09 theme keywords = EP01 存在｜判断｜风险; EP02 责任｜取舍｜代价; EP03 有限｜连接｜充分; EP04 叙述｜差异｜共存; EP05 连续｜承诺｜失去; EP06 同步｜信任｜协作; EP07 不可逆｜牺牲｜降级; EP08 合法性｜秩序｜暴力; EP09 不完整｜授权｜独立.**
 - Default episode format = approximately **2–3 minutes**, one dominant turn.
 - Reveal pace = mechanism early, cost late.
 - Pressure escalation = physical danger → conflicting facts → correct decisions create losers → regions / systems defend post-disaster realities → city-level governance question → private cost.

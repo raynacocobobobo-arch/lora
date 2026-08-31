@@ -27,7 +27,8 @@
 20. `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1-CANONICAL.md`
 21. `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1.1-AI-EXPLANATION-COMPRESSION.md`
 22. `Pilot-EP08-Checkpoint-Security-AI-Standoff-V0.1-CANONICAL.md`
-23. Current `hermes-creative-ai-short-drama` Skill
+23. `Pilot-EP09-Proposal-Field-Montage-V0.1-CANONICAL.md`
+24. Current `hermes-creative-ai-short-drama` Skill
 
 ## Precedence
 
@@ -49,6 +50,7 @@
 - `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1-CANONICAL.md` is the current authoritative EP07 macro: two regions have legitimate incompatible claims on one shared AI-service / compute hub; the chief has already partially executed a rational plan and must own irreversible consequences; companion AI proposes permanently cutting the hub rather than choosing A/B; male verifies physical feasibility; chief authorizes; both regions survive degraded; hub and maintenance crew are lost. Tactical success, strategic/methodological failure for the chief.
 - `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1.1-AI-EXPLANATION-COMPRESSION.md` narrows why the companion AI reaches the third solution. Sufficient explanation: **“我看不见外面，所以我开始读你们已经留下来的东西。”** Do not dramatize an unnecessary retrieval/permission/`Rashomon` derivation chain.
 - `Pilot-EP08-Checkpoint-Security-AI-Standoff-V0.1-CANONICAL.md` is the authoritative EP08 Moment of Grace. It reuses the EP02 island boundary / EP03 low-capacity lifeline as a de facto checkpoint. Mutual non-recognition between two locally valid public-security AI systems escalates for the first time in this jurisdiction into a real armed-robot clearance threat. The outside-side public system intentionally sends the male lead to hold a truthful human field-confirmation window and delay final clearance while the female chief, physically beside him, focuses on forcibly stripping the island AI's armed-security control authority. An EP03 medical beneficiary enters the fire zone because reconnection reactivates a pending medical transfer. Both systems still obey a shared protected-person rule, creating a brief no-fire window. Only after she reaches safety does the chief complete the island-security-AI shutdown; the island security robots lower weapons / lose valid control. The outside AI then reclassifies them as uncontrolled armed platforms and, once the protected-person condition clears, **correctly resumes clearance and destroys them**. The result is deliberately morally ugly: the chief prevents reciprocal armed conflict but also completes the island side's disarmament. This is the female chief's formal experiential trigger for EP09's later minimum-common-reality proposal.
+- `Pilot-EP09-Proposal-Field-Montage-V0.1-CANONICAL.md` is the authoritative EP09 macro. It uses a **procedural parallel montage**, not EP05's past/present emotional dual timeline: the female chief takes the EP08 lesson upward and formally proposes a city-level process for finding/rebuilding a minimum common reality, while the male lead simultaneously handles a small ordinary field task as his private companion AI's live external view becomes more intermittent. The proposal is not a finished consensus/database and should enter review rather than be effortlessly approved in EP09. The male lead does not wait for the companion AI to return; he continues observing/measuring/judging and finishes the limited task himself. The companion AI later sees that he continued without her. This is not “human beats AI” and not yet her sacrifice decision; it is a restrained independence/continuity beat feeding the later voluntary host-station sacrifice line.
 - `TBD` must not be silently filled.
 - `NEEDS_REVIEW` must not be silently resolved.
 - New user-confirmed revisions must be recorded explicitly rather than silently overwriting prior canon.
@@ -72,9 +74,9 @@ The following files remain revision history and do not independently override ne
 
 Internal-only shorthand:
 
-- 女科长 = public authorization / procedural responsibility / likes films / rarely raises voice / male confirms physical reality while she owns public consequence. EP06: heavy-snow side + first direct cooperation with companion AI + method relay. EP07: owns irreversible allocation consequences and authorizes hub sacrifice. **EP08: physically at the checkpoint beside the male lead but mentally absorbed in forcibly stripping the island public-security AI's armed-control authority; she succeeds only after the EP03 girl's protected-person window, prevents mutual armed conflict, yet directly causes the island side to become disarmed and vulnerable to a later procedurally valid outside clearance. This is her formal Moment of Grace before EP09 proposal formation.**
-- 私人伴随 AI = Melina-like long-term companion function only / NOT formally “AI女友” / private-personalized AI distinct from city system AI / early strong access → gradually narrower real-time external view → EP06 decisive solution + first direct chief contact → EP07 remains online but increasingly reads history/cache because she cannot see live Beijing. Sufficient explanation for EP07 third solution: **“我看不见外面，所以我开始读你们已经留下来的东西。”**
-- 男主 = value anxiety → EP01 physical fact becomes necessary → EP02 physical risk window → EP03 real transfer window → EP06 loses direct AI support and manually makes final judgment → EP07 verifies physical existence of the hub-cut third path → **EP08 is intentionally dispatched by the outside-side public system as a truthful human field-confirmation node whose job is to delay final armed clearance without fabricating facts, buying time for the chief.** He is not a diplomat, politician, or armed commander.
+- 女科长 = public authorization / procedural responsibility / likes films / rarely raises voice / male confirms physical reality while she owns public consequence. EP06: heavy-snow side + first direct cooperation with companion AI + method relay. EP07: owns irreversible allocation consequences and authorizes hub sacrifice. EP08: physically at the checkpoint beside the male lead but mentally absorbed in forcibly stripping the island public-security AI's armed-control authority; she succeeds only after the EP03 girl's protected-person window, prevents mutual armed conflict, yet directly causes the island side to become disarmed and vulnerable to a later procedurally valid outside clearance. **EP09: she leaves the ordinary field line, takes the EP08 experience to a higher public authorization/representative level, and for the first time formally argues for a city-level process to find/rebuild minimum common reality while explicitly not claiming to possess a complete answer.**
+- 私人伴随 AI = Melina-like long-term companion function only / NOT formally “AI女友” / private-personalized AI distinct from city system AI / early strong access → gradually narrower real-time external view → EP06 decisive solution + first direct chief contact → EP07 remains online but increasingly reads history/cache because she cannot see live Beijing. Sufficient explanation for EP07 third solution: **“我看不见外面，所以我开始读你们已经留下来的东西。”** **EP09: live external access becomes visibly more intermittent while identity/cognition remain continuous; she later discovers the male lead did not wait for her and completed the ordinary field task himself.**
+- 男主 = value anxiety → EP01 physical fact becomes necessary → EP02 physical risk window → EP03 real transfer window → EP06 loses direct AI support and manually makes final judgment → EP07 verifies physical existence of the hub-cut third path → EP08 is intentionally dispatched by the outside-side public system as a truthful human field-confirmation node whose job is to delay final armed clearance without fabricating facts, buying time for the chief → **EP09 handles an ordinary limited field task without the chief and, when the companion AI cannot provide timely live assistance, continues and finishes without waiting.** He is not a diplomat, politician, armed commander, super-engineer, or hacker.
 - 城市系统 AI = EVA/MAGI-like system-state tone / distributed + procedural + depersonalized / NOT one anthropomorphic master character. EP08 reinforces that locally valid security AIs can become mutually dangerous without either becoming evil or stupid.
 - 女科长私人 / 工作 AI = ordinary infrastructure rather than a fourth core character; more compressed and professional than the male lead's long-term companion AI.
 - EP01 302楼小女孩 = Two-Beat Civilian Echo for physical truth vs public validity; not automatically the same child as EP03 medical beneficiary.
@@ -89,7 +91,7 @@ These references indicate dramatic function and tone only; do not copy source ch
 - Reveal pace = mechanism early, cost late.
 - Pressure escalation = physical danger → conflicting facts → correct decisions create losers → regions / systems defend post-disaster realities → city-level governance question → private cost.
 - No traditional season big bad.
-- Public-action line = case-by-case authorization → chief's old complete-answer method fails in EP07 → **EP08 formal Moment of Grace proves that even mutually non-recognizing public realities can still be constrained by a smaller shared protected-person fact/rule** → chief abstracts minimum-common-reality direction → escalates upward in EP09 → city-level authorization should later approve the search/reconstruction process, not a pre-written consensus → regions reconnect one by one.
+- Public-action line = case-by-case authorization → chief's old complete-answer method fails in EP07 → EP08 formal Moment of Grace proves that even mutually non-recognizing public realities can still be constrained by a smaller shared protected-person fact/rule → **EP09 chief formally proposes a city-level search/reconstruction process for minimum common reality** → city-level authorization should later approve the process, not a pre-written consensus → regions reconnect one by one.
 - Minimum common reality is not peace, harmony, lossless recovery, or “everyone agrees.” EP08 explicitly proves a shared rule can pause violence without resolving legitimacy, and violence/cost can resume after the shared condition clears.
 - EP01 = 302楼 / physical fact conflict / orbital reveal.
 - EP02 = progressive islanding / giant opening bridge / system-recovery clock.
@@ -98,8 +100,9 @@ These references indicate dramatic function and tone only; do not copy source ch
 - EP05 = Wedding Mirror / double-missing AI reconstructions / local unstable real snow.
 - EP06 = regional winter divergence / regional AI-service restore / three-way relay / Earth-Central-TV-Tower shared physical moment / chief in heavy snow / male final judgment.
 - EP07 = shared AI-hub allocation deadlock / partially executed irreversible chief plan / companion AI “cannot see outside → reads what Beijing left behind” / permanent hub cut / maintenance-crew loss / chief old-method failure.
-- **EP08 = EP02/EP03 connection becomes a de facto checkpoint → mutual public-security AI non-recognition escalates into armed-robot clearance threat → outside AI sends male to delay truthfully → chief beside him forcibly strips island security-AI control → EP03 medical girl enters fire zone through reactivated transfer → shared protected-person rule creates short no-fire window → chief completes shutdown only after girl is safe → island robots lower weapons / lose valid control → outside AI correctly resumes clearance and destroys them → island residents begin appearing behind the checkpoint because they heard the route may reopen → formal Moment of Grace.**
-- Private companion AI line = access gradually shrinks; EP06 still high-value; EP07 reads what remains; home remains relatively intact longer; final host-station cost remains locked, exact final voluntary-sacrifice mechanics still `TBD`.
+- EP08 = EP02/EP03 connection becomes a de facto checkpoint → mutual public-security AI non-recognition escalates into armed-robot clearance threat → outside AI sends male to delay truthfully → chief beside him forcibly strips island security-AI control → EP03 medical girl enters fire zone through reactivated transfer → shared protected-person rule creates short no-fire window → chief completes shutdown only after girl is safe → island robots lower weapons / lose valid control → outside AI correctly resumes clearance and destroys them → island residents begin appearing behind the checkpoint because they heard the route may reopen → formal Moment of Grace.
+- **EP09 = procedural double-line montage: chief's proposal/defense at higher public level ↔ male's small ordinary field task. The montage is argument/action rather than past/present emotion. Chief allows “we do not have the complete answer” to become part of the official case for starting minimum-common-reality reconstruction; male does not wait for companion-AI live assistance and finishes his own work; companion AI later sees that he can continue without her. Proposal should enter review / further process rather than become instantly approved.**
+- Private companion AI line = access gradually shrinks; EP06 still high-value; EP07 reads what remains; EP09 visibly loses more live outside reach while seeing the male lead's increasing independence; home remains relatively intact longer; final host-station cost remains locked, exact final voluntary-sacrifice mechanics still `TBD`.
 - Ending = one unique valid Beijing Standard Time → unified public winter protocol → citywide snow.
 
 ## Current Pilot order
@@ -118,11 +121,12 @@ Current rhythm shorthand:
 
 ## Post-Pilot escalation
 
-`LOCKED AT MACRO LEVEL THROUGH EP08`
+`LOCKED AT MACRO LEVEL THROUGH EP09`
 
 6. **EP06 — 区域冬季分叉 / 区域 AI 服务恢复 / 三方中继 / 地球-中央电视塔共同瞬间 / 女科长深入暴雪区 / 男主最终判断**
 7. **EP07 — 共享 AI 中枢分配死局 / 女科长旧方法失败 / 私人 AI“看不见外面→读留下来的东西” / 永久切除中枢 / 维护班组牺牲**
 8. **EP08 — EP02/EP03 检查站回收 / 安保 AI 武装对峙 / 男主现场拖延 / 女科长破解孤岛安保权限 / EP03女孩保护窗口 / 孤岛机器人缴械后被程序化清除 / formal Moment of Grace**
+9. **EP09 — 最低共同现实正式提案 / 程序型双线蒙太奇 / 女科长高层辩护 / 男主普通现场独立完成 / 私人 AI 看见“他没有等我”**
 
 Post-Pilot rhythm function:
 
@@ -131,6 +135,8 @@ Post-Pilot rhythm function:
 > **EP07：即使战术上找到正确第三方案，继续逐案寻找完整公共答案仍可能让北京越来越碎。**
 >
 > **EP08：两个完整公共现实已经危险到可以“合法地”清除彼此，但它们仍共同服从少量不能单方面改写的保护规则；这不是和平，却足以成为最低共同现实的治理原型。**
+>
+> **EP09：女科长第一次把这个治理原型带进城市级公共程序；与此同时男主第一次明确不等待私人 AI 的实时辅助也能继续完成自己的现场工作。**
 
 ## Current creative stage
 
@@ -141,6 +147,7 @@ Post-Pilot rhythm function:
 - EP05 Wedding Mirror canonical through V0.3.
 - EP06 current authoritative operational structure V0.2.
 - EP07 shared-AI-hub sacrifice / chief Failure Beat canonical at V0.1 + explanation-compression patch V0.1.1.
-- **EP08 checkpoint / security-AI armed standoff / EP03-girl protected-person window / island disarmament and procedurally valid clearance / formal Moment of Grace canonical at V0.1.**
+- EP08 checkpoint / security-AI armed standoff / EP03-girl protected-person window / island disarmament and procedurally valid clearance / formal Moment of Grace canonical at V0.1.
+- **EP09 proposal/field procedural double-line montage / chief minimum-common-reality proposal / male independent ordinary field work / companion-AI live-access decline and “he did not wait” recognition canonical at V0.1.**
 
-Next structural work can move to **EP09**, where the female chief may take the EP08 experience upward into a minimum-common-reality proposal/defense while the male lead and increasingly unstable private companion AI carry a parallel field/private line. The user has indicated this broad direction, but EP09's concrete incident, proposal content, institution, debate structure, exact AI degradation, and dialogue remain `TBD / NEEDS_REVIEW` and are not yet locked by this file.
+Next structural work can move to **EP10**, where the proposal may receive authorization and the female chief returns to the field line as the city begins concrete preparation for minimum-common-reality reconstruction. Whether EP10 and a later “决战前夜” episode remain separate or merge is still `TBD / NEEDS_REVIEW`; exact city-level approval procedure, preparation actions, host-station revelation timing, and finale episode count remain unresolved.

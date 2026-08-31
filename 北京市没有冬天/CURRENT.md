@@ -1,8 +1,9 @@
 # 《北京市没有冬天》CURRENT — Canonical Entry Point
 
-- Updated: 2026-08-31
+- Updated: 2026-09-01
 - Status: `LOCKED / CURRENT ENTRY POINT`
 - Purpose: future ChatGPT / Codex / Agent sessions MUST start here. Do not reconstruct current canon by guessing across old patches.
+- Latest consolidation pass: complete chronological recovery from `最早对话记录(1).md` → `中间对话记录.md` → `对话记录.md`, mapped back into `hermes-creative-ai-short-drama` fields.
 
 ---
 
@@ -14,14 +15,19 @@ Read and obey:
 
 1. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
 2. **Later user-confirmed conversation decisions override earlier conflicting decisions.**
-3. `LATEST-CANON-SNAPSHOT` files are consolidated authoritative snapshots of confirmed decisions.
-4. Old Canon / patch files remain valid where they do not conflict with a later confirmed revision, but are now archived as provenance rather than default working documents.
-5. `TBD` remains unresolved. `NEEDS_REVIEW` remains unresolved.
-6. Never silently overwrite a LOCKED canon; use explicit narrow revision / supersede.
+3. `LATEST-CANON-SNAPSHOT` files remain authoritative for episode-specific confirmed decisions.
+4. `Series-Bible-V2.1-SKILL-COMPLIANT-CANONICAL.md` is the detailed series-level consolidation. It does not override a later conflicting episode snapshot.
+5. Old Canon / patch files remain valid where they do not conflict with a later confirmed revision, but are archived as provenance rather than default working documents.
+6. `TBD` remains unresolved. `NEEDS_REVIEW` remains unresolved.
+7. Never silently overwrite a LOCKED canon; use explicit narrow revision / supersede.
 
 Internal rule:
 
 > **越新的确认，权重越高。**
+
+Source chronology used for current recovery:
+
+> **最早记录 < 中间记录 < 最晚记录 < any later explicit user confirmation**
 
 ---
 
@@ -31,19 +37,22 @@ Internal rule:
 
 1. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
 2. `ACTIVE-DOCS-INDEX.md`
-3. `Series-LATEST-CANON-SNAPSHOT-V1.md`
-4. `Theme-Keywords-EP01-EP10-V0.2-CANONICAL.md`
-5. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V1.md`
-6. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V1.md`
-7. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md`
-8. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md`
-9. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md`
-10. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V1.md`
-11. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V1.md`
-12. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
-13. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md`
-14. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
-15. Current `hermes-creative-ai-short-drama` Skill
+3. `Series-LATEST-CANON-SNAPSHOT-V1.md` — compact overview
+4. `Series-Bible-V2.1-SKILL-COMPLIANT-CANONICAL.md` — full Skill-compliant Series Bible
+5. `Series-Ladders-Payoff-V0.1-CANONICAL.md` — Reveal / Public Action / Companion Access / Pressure + Payoff Debt
+6. `Series-Development-Status-V0.1-SKILL-CHECKLIST.md` — current unresolved / next decision order
+7. `Theme-Keywords-EP01-EP10-V0.2-CANONICAL.md`
+8. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V1.md`
+9. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V1.md`
+10. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md`
+11. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md`
+12. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md`
+13. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V1.md`
+14. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V1.md`
+15. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
+16. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md`
+17. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
+18. Current `hermes-creative-ai-short-drama` Skill
 
 ## B. Deep canon / provenance — archived, read only when details are needed
 
@@ -61,16 +70,39 @@ Archive rule:
 
 > **Archive is provenance, not the default working set.**
 
-Only open archived material when a current `LATEST-CANON-SNAPSHOT` explicitly lacks necessary detail or when tracing why a decision changed. If archive material conflicts with a current snapshot or later user-confirmed decision, the later decision wins.
-
-See:
-
-- `archive/README.md`
-- `archive/2026-08-31-pre-latest-snapshot/README.md`
+Only open archived material when a current active document explicitly lacks necessary detail or when tracing why a decision changed. If archive material conflicts with a current snapshot or later user-confirmed decision, the later decision wins.
 
 ---
 
-# 03｜Current series premise
+# 03｜Skill-stage status
+
+`LOCKED AS WORKFLOW STATE`
+
+The project originally followed:
+
+> **Greenlight → Series Bible → 3–5 episode Pilot → canonical state**
+
+Current state:
+
+- Greenlight: `GO_PILOT / PASSED`
+- Series Bible: `MOSTLY COMPLETE`
+- Pilot hypothesis: `PASSED AT STORY-DEVELOPMENT LEVEL`
+- First-season macro: `10 EPISODES / EP10 FINALE LOCKED`
+- Reveal Ladder: `CONSOLIDATED`
+- Antagonist Ladder: implemented as `Pressure Ladder P1–P6`
+- Public Action Ladder: `CONSOLIDATED`
+- Companion Access Ladder: `CONSOLIDATED`
+- Entity Registry: `STORY-LEVEL CONSOLIDATED`
+- Payoff Debt Ledger: `MACRO CONSOLIDATED`
+- Dialogue / screenplay / shot specs: not yet locked
+
+Detailed status and remaining work:
+
+> `Series-Development-Status-V0.1-SKILL-CHECKLIST.md`
+
+---
+
+# 04｜Current series premise
 
 `LOCKED`
 
@@ -80,16 +112,25 @@ Core A-story:
 
 > **第二新北京市逐渐失去共同现实，并最终重新成为“同一座北京市”。**
 
+Core B-story:
+
+> **一个害怕自己不再被需要的人，在灾难中终于重新被需要，最后却主动参与结束那个证明自己特别重要的破碎世界。**
+
+Audience promise:
+
+> **正常生活 → 一个细小矛盾 → 越查越合理 → 多个答案都可能正确 → 人必须做决定。**
+
 Recovery does NOT mean perfect reset.
 
 ---
 
-# 04｜Current world logic
+# 05｜Current world logic
 
 `LOCKED`
 
 - Second New Beijing is a mature giant city in lunar orbit; not lunar surface, not Earth Beijing.
-- Meteor damage first breaks physical backbone / cross-region infrastructure / energy / reference conditions.
+- Meteor damage first breaks old industrial / urban backbone, cross-region infrastructure, energy and reference conditions.
+- **AI first saves the city.** Regional autonomy / islanding begins as correct survival action, not AI rebellion.
 - Unified city coordination fails; local AIs split into regional operation to keep people alive.
 - Local AIs may remain highly competent and locally correct.
 - Core problem:
@@ -97,11 +138,16 @@ Recovery does NOT mean perfect reset.
 > **很多局部正确的北京，逐渐无法再组成同一个北京。**
 
 - Physical fragmentation comes first; divergent histories / rules / identities grow during real separated life.
-- Central compute / unified AI recovery does **not** automatically restore old full Beijing because infrastructure no longer supports full real-time reunification.
+- Central compute / unified AI recovery does **not** automatically restore old full Beijing because infrastructure and lived public history no longer support a simple reset.
+- Four-layer reality foundation:
+
+> **物理现实 → 硬件 / 确定性控制 → 公共授权 → 智能 / 模型**
+
+- Digital systems ultimately remain constrained by physical conditions, but physical facts alone cannot answer legitimacy or what ought to be preserved.
 
 ---
 
-# 05｜Season-wide time MacGuffin
+# 06｜Season-wide time MacGuffin
 
 `LOCKED / LATEST`
 
@@ -121,9 +167,13 @@ This pressure should be felt across the season without mechanically displaying a
 
 EP10 explicitly recalls it.
 
+Exact engineering metric / visualization remains:
+
+> `TBD / NEEDS_REVIEW`
+
 ---
 
-# 06｜Minimum common reality — single governance concept
+# 07｜Minimum common reality — single governance concept
 
 `LOCKED / LATEST TERMINOLOGY`
 
@@ -145,7 +195,7 @@ Emotional endpoint:
 
 ---
 
-# 07｜Highest theme + connection motif
+# 08｜Highest theme + connection motif
 
 `LOCKED`
 
@@ -174,9 +224,13 @@ Hand / connection motif:
 - EP10: private AI remains a projection, reaches toward the male, and he cannot physically hold her; then she enters a technically valid system **“握手”**.
 - The word **“握手” must be spoken by a character in EP10**. Exact line TBD.
 
+Detailed payoffs:
+
+> `Series-Ladders-Payoff-V0.1-CANONICAL.md`
+
 ---
 
-# 08｜Artificial winter / snow
+# 09｜Artificial winter / snow
 
 `LOCKED`
 
@@ -184,13 +238,17 @@ Winter is a citywide artificial public-infrastructure / protocol state, not natu
 
 It requires a shared public state and one valid public now.
 
+Core identity statement:
+
+> **北京应该有冬天。**
+
 Ending causality:
 
-> minimum common reality executes
-> → remaining Beijing regains sustainable common operation
-> → one unique valid Beijing Standard Time
-> → one shared public now
-> → unified winter protocol
+> minimum common reality executes  
+> → remaining Beijing regains sustainable common operation  
+> → one unique valid Beijing Standard Time  
+> → one shared public now  
+> → unified winter protocol  
 > → snow
 
 Snow = evidence / result, not solution.
@@ -205,7 +263,7 @@ EP10 snow is **not** a victory reward after every farewell is over.
 
 ---
 
-# 09｜Core character precedence
+# 10｜Core character precedence
 
 ## Male
 
@@ -213,10 +271,12 @@ EP10 snow is **not** a victory reward after every farewell is over.
 
 - field reality / physical verification / “以现场为准”;
 - not a super engineer / hacker / city savior;
+- surface anchor: **平时松、现场硬**;
 - pre-disaster work nearly automated away;
 - false belief: **只有当我的判断无法被替代，它才真正有价值。**
 - disaster temporarily makes him difficult to replace in limited fact-conflict cases;
 - final deeper sacrifice includes helping end the disaster-era world that proves his special necessity.
+- early strong growth direction “make judgment repeatable / inheritable” remains `NEEDS_REVIEW` until tied to a concrete beat.
 
 ## Female chief
 
@@ -224,8 +284,10 @@ EP10 snow is **not** a victory reward after every farewell is over.
 
 - public authorization / procedural responsibility / consequence ownership;
 - male confirms what reality allows; she decides what public reality must do next;
+- leverage: public authorization, cross-region coordination, risk approval, personnel / system permissions, administrative credibility;
 - **她不掌握真理，她只承担决定。**
 - not a superhero and not a villain;
+- increasingly trusts male judgment but cannot let city-wide common reality depend on one “correct person”;
 - EP10 cannot reduce her to a meeting-room leader;
 - she must remain in the real public execution field line;
 - exact physical finale action remains `TBD / NEEDS_REVIEW`.
@@ -239,13 +301,18 @@ EP10 snow is **not** a victory reward after every farewell is over.
 - not city system AI;
 - not “AI girlfriend” trope;
 - independent judgment and agency;
-- normal female-chief access forbidden except EP06 narrow operational relay.
+- normal female-chief access forbidden except EP06 narrow operational relay;
+- visual default should resemble an ordinary real person, not permanent blue-transparent hologram.
 
 Core access rule:
 
 > **AI失去的是“世界”，不是“自我”。**
 
 Cognition / identity / memory / continuity / independent judgment remain intact while live external Beijing access shrinks.
+
+Internal arc:
+
+> **“我知道” → “我不知道” → “我相信你”。**
 
 Relationship reversal:
 
@@ -275,7 +342,7 @@ Handshake is not upload / fusion / migration / hidden survival.
 
 ---
 
-# 10｜Episode order + latest dominant functions
+# 11｜Episode order + latest dominant functions
 
 1. **EP01 — 302楼 / world reveal**  
    Physical existence must be recognized; female chief physically saves male.  
@@ -314,12 +381,12 @@ Handshake is not upload / fusion / migration / hidden survival.
    Themes: **承认｜舍弃｜边界**
 
 10. **EP10 — FIRST-SEASON FINALE**  
-   Islanding window recalled; minimum common reality executed; male learns AI continuity cost and tries to save her; she says / shows she does not want to leave; “握手” is spoken; projected hand cannot be physically held; technical AI↔system handshake begins; region-scale multilingual farewells begin during handshakes; multiple AI continuities end; shared winter begins while old regions are still saying goodbye; final meaning returns to the city.  
+   Islanding window recalled; minimum common reality executed; male learns AI continuity cost and tries to save her; she shows she does not want to leave; “握手” is spoken; projected hand cannot be physically held; technical AI↔system handshake begins; region-scale multilingual farewells begin during handshakes; multiple AI continuities end; shared winter begins while old regions are still saying goodbye; final meaning returns to the city.  
    Themes: **连接｜TBD｜TBD** (`NEEDS_REVIEW`)
 
 ---
 
-# 11｜EP09 → EP10 information rule
+# 12｜EP09 → EP10 information rule
 
 `LOCKED`
 
@@ -335,17 +402,17 @@ His reaction cannot be immediate noble acceptance.
 
 Functional sequence:
 
-> learns severity
-> → tries to save / preserve her
-> → discovers she already knew
-> → confronts her independent desire and choice
-> → does not override her
-> → final human-style unreachable hand gesture
+> learns severity  
+> → tries to save / preserve her  
+> → discovers she already knew  
+> → confronts her independent desire and choice  
+> → does not override her  
+> → final human-style unreachable hand gesture  
 > → technical handshake
 
 ---
 
-# 12｜Multi-region farewell rule
+# 13｜Multi-region farewell rule
 
 `LOCKED`
 
@@ -361,22 +428,30 @@ Exact languages / count / media / authorship remain `TBD / NEEDS_REVIEW` and mus
 
 ---
 
-# 13｜Current unresolved work — do not silently resolve
+# 14｜Current unresolved work — do not silently resolve
+
+The detailed priority order now lives in:
+
+> `Series-Development-Status-V0.1-SKILL-CHECKLIST.md`
+
+Highest-priority open items:
 
 1. EP10 female chief’s **specific physical onsite action**;
 2. exact engineering definition / visualization of the season-wide islanding irreversibility window;
 3. what private AI actually transfers / confirms in the final technical handshake;
-4. male’s concrete failed attempts to preserve her continuity;
-5. exact dialogue around “握手” / her unwillingness to leave;
-6. EP10 remaining two theme words;
-7. exact overlap timing of farewell lights and snow;
-8. female chief + male final beat;
-9. final city shot / title placement;
-10. male + private AI home daily life remains `TBD / NEEDS_REVIEW`.
+4. why a continuous old subject must participate;
+5. male’s concrete failed attempts to preserve her continuity;
+6. exact dialogue around “握手” / her unwillingness to leave;
+7. EP10 remaining two theme words;
+8. exact overlap timing of farewell lights and snow;
+9. female chief + male final beat;
+10. final city shot / title placement;
+11. male + private AI home daily life;
+12. Second New Beijing population/history needed to justify multilingual farewells.
 
 ---
 
-# 14｜Hard prohibitions
+# 15｜Hard prohibitions
 
 - No evil / stupid AI simplification.
 - No female-chief superhero simplification.

@@ -16,8 +16,9 @@
 9. `Pilot-Recurring-Locations-Entity-Registry-V0.1-CANONICAL.md`
 10. `Pilot-EP04-Cinema-Daily-Life-V0.1-CANONICAL.md`
 11. `Wedding-Mirror-Episode-V0.1-CANONICAL.md`
-12. `System-AI-V0.1-CANONICAL.md`
-13. Current `hermes-creative-ai-short-drama` Skill
+12. `Pilot-EP05-Wedding-Mirror-V0.2-CANONICAL.md`
+13. `System-AI-V0.1-CANONICAL.md`
+14. Current `hermes-creative-ai-short-drama` Skill
 
 ## Precedence
 
@@ -30,9 +31,10 @@
 - `Pressure-Ladder-V0.1-CANONICAL.md` governs the macro escalation of opposition/pressure, the no-traditional-big-bad rule, and the structural requirement that the female chief must experience a real-world Moment of Grace before abstracting the minimum-common-reality principle. The concrete incident remains `TBD`.
 - `Pilot-EP01-302-Building-V0.2-CANONICAL.md` is the current authoritative EP01 file. It supersedes the older 343-building naming and “male lead is thrown out by structure” wording. The current version uses 302楼 and a local gravity-direction anomaly/reversal that causes the male lead to fall toward the city exterior / apparent sky before the orbital-Beijing reveal. Precise engineering logic remains `TBD`.
 - `Pilot-EP02-Islands-System-Failure-V0.1-CANONICAL.md` governs EP02 macro structure: the city-level unified AI / shared-city coordination layer has suffered severe physical failure; regional and professional AIs remain capable and locally correct; the backup center is not equivalently destroyed but cannot immediately assume full-city operation because key power-generation infrastructure was also destroyed and the city network is fragmenting; the female chief formally arrives, receives an upper-level contingency mission and temporary authority upgrade; multiple comparable action groups work across Beijing and make different locally reasonable decisions; the male/female pair handle a giant opening cross-region bridge while city status reports continuously show other bridges separating, structures breaking, casualties becoming unknown and regions entering local operation; the male lead determines the physical risk window, but the female chief makes the final public decision on when the bridge opens; the bridge eventually opens with people still stranded, creating another island; the season-level hard pressure becomes system-recovery time versus multiple unequal island survival windows. Exact days, zone numbers, engineering mechanism, institution names and dialogue remain `TBD`.
-- `Pilot-Recurring-Locations-Entity-Registry-V0.1-CANONICAL.md` governs the minimal Pilot asset set: the two-person department, male lead's home, 302楼, a recurring cross-region connection node, the old cinema, the minimal entity list, and the EP01 world-reveal constraint.
-- `Pilot-EP04-Cinema-Daily-Life-V0.1-CANONICAL.md` governs the current EP04 macro direction: workday montage / multiple small cases → final small case at a cinema → only the facts required for one limited screening are confirmed → the female chief, who genuinely likes films and has seen `Rashomon` repeatedly, stays to watch → male lead and private companion AI also remain → first sustained non-emergency three-person relationship scene. Minimum-common-reality is only a seed in behavior, not a theory lesson. **All EP04 dialogue remains `TBD`.**
-- `Wedding-Mirror-Episode-V0.1-CANONICAL.md` governs the current-time wedding / meteor-day flashback dual timeline, the missing groom as a fate mirror of the male lead, the generated AI groom image (not a continuous uploaded personality), the ring/hand visual correspondence with the female chief rescuing the male lead, and the locked ending in which the AI groom is affected by Beijing's fragmentation and disappears during the wedding. Exact vow text, technical failure mechanism, episode placement and edit beats remain `TBD`.
+- `Pilot-Recurring-Locations-Entity-Registry-V0.1-CANONICAL.md` governs the minimal Pilot asset set. Its older wording that Wedding Mirror asset creation depends on whether the event enters the Pilot is now superseded: Wedding Mirror is locked as EP05 by `Pilot-EP05-Wedding-Mirror-V0.2-CANONICAL.md`, so wedding-location/entity assets are now part of Pilot production needs.
+- `Pilot-EP04-Cinema-Daily-Life-V0.1-CANONICAL.md` governs EP04 macro direction: workday montage / multiple small cases → final small case at a cinema → only the facts required for one limited screening are confirmed → the female chief, who genuinely likes films and has seen `Rashomon` repeatedly, stays to watch → male lead and private companion AI also remain → first sustained non-emergency three-person relationship scene. Minimum-common-reality is only a seed in behavior, not a theory lesson. **All EP04 dialogue remains `TBD`.**
+- `Wedding-Mirror-Episode-V0.1-CANONICAL.md` remains the base source for Wedding Mirror's dual timeline, AI-groom continuity distinction, vow structure, hand/ring visual motif and the locked ending in which the AI groom disappears during the wedding.
+- `Pilot-EP05-Wedding-Mirror-V0.2-CANONICAL.md` explicitly revises Wedding Mirror placement and social relation: the event is **EP05**; the missing real groom is **not the male lead's former coworker**, but a member of another department/professional/action group who becomes missing during the EP02-era islanding; the wedding is an EP02 social/private echo with a commemoration/waiting atmosphere; male lead and female chief attend as witnesses/guests through the broader disaster-response context, not because the groom is secretly a close friend. It also locks the EP04→EP05 contrast and the Pilot five-episode macro order.
 - `System-AI-V0.1-CANONICAL.md` governs the city system AI and its hard separation from the private companion AI. EP02's “system AI collapse” means the city-level unified/shared coordination layer is severely degraded, not that every regional or professional AI stops functioning.
 - `TBD` must not be silently filled.
 - `NEEDS_REVIEW` must not be silently resolved.
@@ -68,7 +70,7 @@ Internal-only shorthand:
 - 城市系统 AI = EVA/MAGI-like system-state tone / distributed + procedural + depersonalized / NOT a character persona / in EP02 the unified/shared city layer is severely damaged while many regional and professional systems remain functioning
 - 女科长私人 AI = exists as ordinary world infrastructure, but is not a fourth core character and does not receive a developed persona unless later explicitly revised
 - 302楼小女孩 = Two-Beat Civilian Echo: EP01 makes “the building/person really exists” concrete; later minimum-common-reality reconstruction may require the still-real building to cease functioning as permanent public housing, demonstrating physical truth ≠ permanent public validity
-- 等待的新娘 / 失踪新郎 = recurring civilian / mirror-event line, not a political antagonist; missing groom chose a rescue/field action analogous to the male lead during the meteor accident but had no female-chief rescue counterpart
+- EP05等待的新娘 / 失踪真人新郎 = recurring civilian / mirror-event line, not a political antagonist; real groom belongs to another department/professional/action group and becomes missing during EP02-era islanding; he is not the male lead's old coworker; his field choice mirrors the male lead structurally rather than through a pre-existing friendship
 
 These references indicate dramatic function and presentation tone only; do not copy source characters' powers, lore, appearance, dialogue, interface design, organization names, or plot.
 
@@ -84,22 +86,39 @@ These references indicate dramatic function and presentation tone only; do not c
 - EP01 = male lead's largely automated-away work → 302楼 missing from relevant system reality while physically present with residents → little girl makes the fact conflict human → male lead enters the site despite private companion AI's probability-based opposition → building temporarily survives → local gravity direction reverses → he falls toward the apparent sky / city exterior → first orbital-city reveal via black space / huge Earth → female chief catches him.
 - EP02 = female chief formally arrives and activates an existing degraded-signal contingency under upper-level instruction → city-level unified AI/main shared-city coordination layer is physically disabled and needs extended recovery; backup center survives, but key power-generation infrastructure was also destroyed → many regional/professional AIs continue locally → multiple action groups across Beijing make different reasonable decisions → male/female group handles a giant opening bridge while city reports continuously show separation, breakage, unknown casualties and local autonomous operation elsewhere → male lead gives physical risk window, female chief chooses the separation deadline → bridge opens before everyone clears, leaving a new island → city continues losing connections through the episode rather than becoming islands all at once → the season gains a hard clock because some islands may not survive until unified-system recovery.
 - EP02 hard pressure = **system-level recovery time versus multiple unequal island survival windows**. Exact duration remains `TBD` and must be derived from season calendar rather than guessed.
-- 302楼 later echo = it remains true that the building existed and that saving it was correct, yet minimum common reality may still require it to be abandoned as permanent public housing. The precise engineering/public-policy reason remains `TBD`.
+- EP03 = `TBD`. Its required structural function is to bridge EP02's city-scale emergency into the stable fact-conflict work routine visible by EP04.
 - EP04 = workday routine across multiple small cases → cinema as final limited task → sufficient present facts allow one screening without resolving every historic/system conflict → female chief stays because she genuinely likes movies and has repeatedly watched `Rashomon` → male lead + private companion AI remain → the episode shifts from shared work to voluntarily shared private time. The cinema is a seed for minimum-common-reality thinking, not the Moment of Grace and not a philosophy lesson.
 - EP04 three-person structure = private companion AI owns a long shared past with the male lead; female chief is entering his present and future; the female chief cannot directly converse with the private AI; no jealousy/competition framing is canonical.
-- Wedding mirror event = wedding in story-present while Beijing is still fragmenting ↔ meteor-strike-day flashback driven by the wedding vow; male lead and female chief attend as ordinary guests; AI groom is generated from the missing groom's accumulated daily interaction/voice/image/behavior data and is not the missing groom's continuous personality; ring placement visually corresponds with the female chief grabbing/saving the male lead; AI groom is ultimately affected by fragmentation and disappears during the wedding.
+- EP05 Wedding Mirror = social/private echo of EP02 islanding after EP04 has shown partial return of daily life → real groom from another department/action group remains missing, not confirmed dead → wedding continues as a real wedding but carries commemoration/waiting atmosphere for people whose status remains unresolved → AI groom is generated from his accumulated daily interaction/voice/image/behavior data and is not his continuous personality → wedding vows drive current-wedding / disappearance-day flashbacks → ring placement echoes the female chief grabbing/saving the male lead → AI groom is ultimately affected by fragmentation and disappears during the wedding.
+- EP04→EP05 contrast = EP04 lets the audience experience a continuous long-term AI relationship as ordinary intimate life; EP05 immediately presents a generated AI reconstruction that looks and acts like a missing human but is not the same continuity category. Do not over-explain the distinction in dialogue.
 - Private companion AI line = early she still sees much of the outside city and can argue probability with the male lead → gradual loss of outside-city access → later she increasingly relies on male lead reports for physical reality → home remains a relatively intact shared private reality longer → final structural cost is abandonment of the companion-AI host station required for full common-reality reconstruction.
 - Ending = all reconnected regions again share one valid Beijing Standard Time → unified public winter protocol can become valid → citywide snow returns. Snow is evidence of restored shared reality, not the mechanism that restores it.
-- Exact host-station technology, migration impossibility mechanism, institution names, shutdown procedure, final-scene wording, Moment of Grace incident, wedding vow text, AI-groom failure mechanism, wedding edit beats, EP01 engineering chain, EP01 dialogue, EP02 engineering/time values/dialogue, EP03, EP04 dialogue, final Pilot episode placement and final series episode count remain `TBD / NEEDS_REVIEW`.
+- Exact host-station technology, migration impossibility mechanism, institution names, shutdown procedure, final-scene wording, Moment of Grace incident, wedding vow text, AI-groom failure mechanism, wedding edit beats, EP01 engineering chain, EP01 dialogue, EP02 engineering/time values/dialogue, EP03, EP04 dialogue, EP05 invitation mechanics/dialogue and final series episode count remain `TBD / NEEDS_REVIEW`.
+
+## Current Pilot order
+
+`LOCKED AT MACRO LEVEL`
+
+1. **EP01 — 302楼 / world reveal**
+2. **EP02 — 失血 / 群岛化 / system-recovery clock**
+3. **EP03 — TBD bridge episode**
+4. **EP04 — 电影院 / 《罗生门》 / work-to-private-life turn**
+5. **EP05 — Wedding Mirror / EP02 social-private echo**
+
+Current rhythm shorthand:
+
+> **大 → 大 → 中（TBD）→ 小 / 日常 → 重**
+
+The exact EP03 event must make EP04's established work routine believable without duplicating EP02's city-scale disaster or stealing EP05's emotional function.
 
 ## Current creative stage
 
-The project is now in **Pilot design** with:
+The Pilot is now structurally locked as a five-episode first block except for **EP03 content**:
 
-- EP01 macro structure canonical at V0.2;
-- EP02 progressive-islanding / system-recovery-clock macro structure canonical at V0.1;
-- Pilot minimal recurring locations/entities canonical;
-- EP04 cinema daily-life macro structure canonical, dialogue deliberately not locked;
-- Wedding Mirror Event canonical at macro level, exact episode placement unresolved.
+- EP01 macro canonical at V0.2;
+- EP02 progressive-islanding / system-recovery-clock macro canonical at V0.1;
+- EP03 event and dominant turn still TBD;
+- EP04 cinema daily-life macro canonical, dialogue deliberately not locked;
+- EP05 Wedding Mirror placement and EP02-echo function canonical at V0.2.
 
-The main missing Pilot bridge is now **EP03**. Before screenplay lock, also validate EP01's 302楼 gravity/engineering chain and EP02's bridge/system-recovery engineering logic. Do not expand the full season prematurely.
+Before screenplay lock, validate EP01's 302楼 gravity/engineering chain, EP02's bridge/system-recovery engineering logic, and EP05's AI-groom infrastructure dependency. Do not expand the full season prematurely.

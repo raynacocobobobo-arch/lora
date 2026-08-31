@@ -21,14 +21,15 @@
 14. `Wedding-Mirror-Episode-V0.1-CANONICAL.md`
 15. `Pilot-EP05-Wedding-Mirror-V0.2-CANONICAL.md`
 16. `Pilot-EP05-Wedding-Mirror-V0.3-BRIDE-SNOW-PATCH.md`
-17. `System-AI-V0.1-CANONICAL.md`
-18. `Pilot-EP06-Earth-Reference-Synchronous-Isolation-V0.1-CANONICAL.md`
-19. `Pilot-EP06-AI-Restore-Three-Way-Relay-V0.2-CANONICAL.md`
-20. `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1-CANONICAL.md`
-21. `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1.1-AI-EXPLANATION-COMPRESSION.md`
-22. `Pilot-EP08-Checkpoint-Security-AI-Standoff-V0.1-CANONICAL.md`
-23. `Pilot-EP09-Proposal-Field-Montage-V0.1-CANONICAL.md`
-24. Current `hermes-creative-ai-short-drama` Skill
+17. `Pilot-EP05-Wedding-Mirror-V0.3.1-TWO-DISASTER-TIMELINE.md`
+18. `System-AI-V0.1-CANONICAL.md`
+19. `Pilot-EP06-Earth-Reference-Synchronous-Isolation-V0.1-CANONICAL.md`
+20. `Pilot-EP06-AI-Restore-Three-Way-Relay-V0.2-CANONICAL.md`
+21. `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1-CANONICAL.md`
+22. `Pilot-EP07-AI-Hub-Sacrifice-Failure-V0.1.1-AI-EXPLANATION-COMPRESSION.md`
+23. `Pilot-EP08-Checkpoint-Security-AI-Standoff-V0.1-CANONICAL.md`
+24. `Pilot-EP09-Proposal-Field-Montage-V0.1-CANONICAL.md`
+25. Current `hermes-creative-ai-short-drama` Skill
 
 ## Precedence
 
@@ -43,7 +44,7 @@
 - `Pilot-EP03-Cross-Island-Medicine-V0.1-CANONICAL.md` + `Pilot-EP03-Cross-Island-Medicine-V0.2-SEVEN-MINUTES.md` govern EP03: low-capacity cross-island medicine route, seven-minute late transfer, two locally correct docking states that are physically misaligned, one real physical window, one narrow authorization, medicine arrives. **Beijing does not reconnect; they only make one connection happen.**
 - `Pilot-Recurring-Locations-Entity-Registry-V0.1-CANONICAL.md` governs the minimal reusable Pilot asset set.
 - `Pilot-EP04-Cinema-Daily-Life-V0.1-CANONICAL.md` governs EP04: workday small cases → limited cinema reopening → female chief stays to watch `Rashomon` because she genuinely likes films → first sustained non-emergency three-person relationship scene. Minimum-common-reality is only a seed. All dialogue remains `TBD`.
-- `Wedding-Mirror-Episode-V0.1-CANONICAL.md`, `Pilot-EP05-Wedding-Mirror-V0.2-CANONICAL.md`, and `Pilot-EP05-Wedding-Mirror-V0.3-BRIDE-SNOW-PATCH.md` together govern EP05: both real bride and groom are missing; ceremony uses AI reconstructions of both; audience learns late that bride is also projection; projected wedding snow may appear; a few real local unstable snowflakes appear outside after the ceremony. EP05 snow is not Finale winter.
+- `Wedding-Mirror-Episode-V0.1-CANONICAL.md`, `Pilot-EP05-Wedding-Mirror-V0.2-CANONICAL.md`, `Pilot-EP05-Wedding-Mirror-V0.3-BRIDE-SNOW-PATCH.md`, and `Pilot-EP05-Wedding-Mirror-V0.3.1-TWO-DISASTER-TIMELINE.md` together govern EP05. V0.3.1 specifically revises the missing-person chronology: **the real groom disappears in the initial meteor-impact disaster; the real bride survives that first loss but later disappears during EP02's progressive islanding.** The present-day ceremony uses AI reconstructions of both; the past timeline still follows only the real groom at the meteor-impact disaster; the audience should assume the bride is the surviving person who waited until the wedding day, then learn near the end that she too never made it back after EP02. Projected wedding snow may appear; a few real local unstable snowflakes appear outside after the ceremony. EP05 snow is not Finale winter.
 - `System-AI-V0.1-CANONICAL.md` governs the distributed, procedural, depersonalized city system AI and its hard separation from the private companion AI.
 - `Pilot-EP06-Earth-Reference-Synchronous-Isolation-V0.1-CANONICAL.md` remains provenance/base for winter divergence, Earth reference, `中央电视塔`, one shared physical moment, and temporary transfer of final action judgment to the male lead. Its older environment-isolation main-task and companion-AI disappearance beats are superseded by V0.2.
 - `Pilot-EP06-AI-Restore-Three-Way-Relay-V0.2-CANONICAL.md` is the current authoritative EP06 revision: restore a regional AI/intelligent-service node; chief enters heavy snow; male stays at the initially stable node; first temporary three-way relay; companion AI designs Earth/Central-TV-Tower synchronization; late chain is `companion AI → female chief → male lead`; male manually reads/calculates and owns the final execute/abort call; services return; private relay ends.
@@ -81,7 +82,7 @@ Internal-only shorthand:
 - 女科长私人 / 工作 AI = ordinary infrastructure rather than a fourth core character; more compressed and professional than the male lead's long-term companion AI.
 - EP01 302楼小女孩 = Two-Beat Civilian Echo for physical truth vs public validity; not automatically the same child as EP03 medical beneficiary.
 - EP03 获救女孩 = a medical beneficiary of the cross-island medicine lifeline who is still alive because that connection succeeded; EP08 reuses her as the protected-person common-fact anchor. Exact illness, age, appearance, family and transfer mechanics remain `TBD`.
-- EP05新娘 / 新郎 = both real humans missing; ceremony uses AI reconstructions; groom belongs to another professional/action group and becomes missing during EP02-era islanding; bride disappearance remains deliberately underexplained.
+- **EP05新娘 / 新郎 = both real humans are missing, but from different disasters. The groom belongs to another professional/action group and disappears in the initial meteor-impact disaster; the bride survives that first loss and later disappears during EP02's progressive islanding. EP05 uses AI reconstructions of both. The past timeline follows only the groom's meteor-impact loss; the bride's exact EP02 incident remains deliberately underexplained.**
 
 These references indicate dramatic function and tone only; do not copy source characters' powers, lore, appearance, dialogue, interface design, organization names, or plot.
 
@@ -97,7 +98,7 @@ These references indicate dramatic function and tone only; do not copy source ch
 - EP02 = progressive islanding / giant opening bridge / system-recovery clock.
 - EP03 = cross-island medicine / seven minutes late / one narrow real connection.
 - EP04 = cinema / `Rashomon` / work-to-private-life / minimum-common seed.
-- EP05 = Wedding Mirror / double-missing AI reconstructions / local unstable real snow.
+- **EP05 = Wedding Mirror / groom lost in initial meteor disaster / bride later lost in EP02 islanding / present-day double-AI memorial wedding / vow-driven meteor-day flashback / local unstable real snow.**
 - EP06 = regional winter divergence / regional AI-service restore / three-way relay / Earth-Central-TV-Tower shared physical moment / chief in heavy snow / male final judgment.
 - EP07 = shared AI-hub allocation deadlock / partially executed irreversible chief plan / companion AI “cannot see outside → reads what Beijing left behind” / permanent hub cut / maintenance-crew loss / chief old-method failure.
 - EP08 = EP02/EP03 connection becomes a de facto checkpoint → mutual public-security AI non-recognition escalates into armed-robot clearance threat → outside AI sends male to delay truthfully → chief beside him forcibly strips island security-AI control → EP03 medical girl enters fire zone through reactivated transfer → shared protected-person rule creates short no-fire window → chief completes shutdown only after girl is safe → island robots lower weapons / lose valid control → outside AI correctly resumes clearance and destroys them → island residents begin appearing behind the checkpoint because they heard the route may reopen → formal Moment of Grace.
@@ -113,7 +114,7 @@ These references indicate dramatic function and tone only; do not copy source ch
 2. **EP02 — 失血 / 群岛化 / system-recovery clock**
 3. **EP03 — 跨岛送药 / 晚点七分钟 / low-capacity lifeline**
 4. **EP04 — 电影院 / 《罗生门》 / work-to-private-life turn**
-5. **EP05 — Wedding Mirror / 双失联者纪念婚礼 / local real-snow coda**
+5. **EP05 — Wedding Mirror / 新郎陨石事故失踪 + 新娘EP02失踪 / 双失联者纪念婚礼 / local real-snow coda**
 
 Current rhythm shorthand:
 
@@ -144,7 +145,7 @@ Post-Pilot rhythm function:
 - EP02 progressive-islanding / system-recovery-clock macro canonical at V0.1.
 - EP03 cross-island medicine canonical at V0.1 + seven-minute revision V0.2.
 - EP04 cinema daily-life macro canonical; dialogue deliberately not locked.
-- EP05 Wedding Mirror canonical through V0.3.
+- **EP05 Wedding Mirror canonical through V0.3.1: groom lost in the initial meteor-impact disaster; bride survives that first loss and later disappears during EP02 islanding; present ceremony uses AI reconstructions of both; past line still follows only the groom; local real-snow coda remains V0.3.**
 - EP06 current authoritative operational structure V0.2.
 - EP07 shared-AI-hub sacrifice / chief Failure Beat canonical at V0.1 + explanation-compression patch V0.1.1.
 - EP08 checkpoint / security-AI armed standoff / EP03-girl protected-person window / island disarmament and procedurally valid clearance / formal Moment of Grace canonical at V0.1.

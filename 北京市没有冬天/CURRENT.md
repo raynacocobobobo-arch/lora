@@ -1,7 +1,7 @@
 # 《北京市没有冬天》CURRENT — Canonical Entry Point
 
 - Updated: 2026-09-01
-- Status: `LOCKED / MASTER V3 ACTIVE / EPISODE V3-BACKPROP IN PROGRESS`
+- Status: `LOCKED / MASTER V3.1 ACTIVE / EPISODE BACKPROP IN PROGRESS`
 - Purpose: future ChatGPT / Codex / Agent sessions MUST start here.
 
 ---
@@ -14,11 +14,12 @@ When two statements conflict, use this order:
 
 1. **later explicit user confirmation**;
 2. **the highest-numbered active `Pilot-EPXX-LATEST-CANON-SNAPSHOT-V*.md` for that episode**;
-3. **`BEIJING-NO-WINTER-MASTER-CANON-V3.md`** for series architecture, themes, character arcs, motif/ladders and episode-revision criteria;
-4. retained derived series documents;
-5. archived historical Canon / patches / superseded drafts.
+3. **`BEIJING-NO-WINTER-MASTER-CANON-V3.1.md`** for current series architecture, season dynamics, themes, character arcs, Hand/Handshake structure and episode-revision criteria;
+4. `BEIJING-NO-WINTER-MASTER-CANON-V3.md` only where V3.1 does not revise the same matter;
+5. retained derived series documents;
+6. archived historical Canon / patches / superseded drafts.
 
-Source chronology used for the Master recovery:
+Source chronology used for recovery:
 
 > **最早对话记录(1).md < 中间对话记录.md < 对话记录.md < later explicit user confirmation**
 
@@ -27,8 +28,7 @@ Rules:
 - `TBD` remains unresolved;
 - `NEEDS_REVIEW` remains unresolved;
 - do not silently overwrite LOCKED canon;
-- later revision only supersedes an earlier statement when it addresses the same matter;
-- preserve provenance without letting old plans re-enter Current Canon.
+- preserve provenance without allowing older framing to override a later correction.
 
 ---
 
@@ -36,28 +36,87 @@ Rules:
 
 1. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
 2. `ACTIVE-DOCS-INDEX.md`
-3. **`BEIJING-NO-WINTER-MASTER-CANON-V3.md`**
-4. **`Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`**
-5. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V1.md`
-6. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md`
-7. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md`
-8. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md`
-9. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V1.md`
-10. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V1.md`
-11. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
-12. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md`
-13. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
-14. current `hermes-creative-ai-short-drama` Skill when changing structure / screenplay / production stage.
+3. **`BEIJING-NO-WINTER-MASTER-CANON-V3.1.md`**
+4. `BEIJING-NO-WINTER-MASTER-CANON-V3.md` — provenance / non-conflicting detail only
+5. **`Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`**
+6. **`Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`**
+7. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md`
+8. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md`
+9. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md`
+10. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V1.md`
+11. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V1.md`
+12. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
+13. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md`
+14. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
+15. current `hermes-creative-ai-short-drama` Skill when changing structure / screenplay / production stage.
 
 Important:
 
-> **A filename ending in V1 is not automatically authoritative forever. For each episode, use the highest current Latest Snapshot version listed here / in ACTIVE-DOCS-INDEX.**
+> **For each episode, use the highest active Latest Snapshot version listed here / in ACTIVE-DOCS-INDEX.**
 
 ---
 
-# 03｜Master V3 — current series basis
+# 03｜Master V3.1 — season axis correction
 
-`LOCKED`
+`LOCKED / HIGH PRIORITY`
+
+The current season is NOT:
+
+> **characters gradually learn that sacrifice / disconnection is the right solution.**
+
+The current season is:
+
+> **EP01–EP08：AI、人和制度一直在努力修、保、续、救；这些局部正确的保全动作却不断产生次生灾害，北京被动失血。**
+>
+> **EP09：第一次承认“全部保存”这个目标本身已经失败。**
+>
+> **EP10：第一次把主动决定什么不再继续，提升为城市级战略——主动失血，向死而生。**
+
+Internal structure:
+
+> **被动失血 → 保全悖论 → 目标函数改变 → 主动失血 → 共同生命重新成立。**
+
+## Preservation Paradox / 保全悖论
+
+> **每个系统都在正确保护自己负责的部分；统一前提破坏后，局部保全越来越把资源、规则、权限和基础设施锁进不同现实，整体北京反而越来越无法维持。**
+
+Secondary disaster is therefore NOT primarily:
+
+> AI failure.
+
+It is:
+
+> **the externality produced by locally correct preservation under broken common conditions.**
+
+---
+
+# 04｜Three levels of loss — do not mix them
+
+## L1｜Forced loss / 被迫失血 — EP01–EP06
+
+- disaster creates the incompatible condition first;
+- everyone still tries to preserve the maximum amount of old Beijing;
+- losses are experienced as failures / limits of rescue;
+- characters still believe future restoration remains the goal.
+
+## L2｜Tactical sacrifice to preserve more / 局部手术式止损 — EP07
+
+- the hub is actively sacrificed;
+- **but the objective remains preserving A + B**;
+- this is a local surgery, not yet acceptance of a smaller future community.
+
+## L3｜Strategic active contraction / 战略性主动失血 — EP09–EP10
+
+- a place / state / digital subject may still be real, valuable and technically maintainable;
+- the city nevertheless accepts that not everything maintainable can remain inside future common operation;
+- EP09 permits the idea ethically / politically;
+- EP10 executes it at city scale.
+
+Human evacuation / migration should be planned in advance. Active contraction is NOT a last-second decision to leave living residents to die.
+
+---
+
+# 05｜Core analytical structure remains
 
 Deep story engine:
 
@@ -67,139 +126,118 @@ Moral axis:
 
 > **秩序与牺牲 / 秩序的代价**
 
-Required analytical distinctions:
+But sacrifice must mature late.
+
+Required distinctions:
 
 > **正确 ≠ 正义**  
 > **合法 ≠ 正当**  
 > **正当程序 ≠ 无损结果**  
 > **承担责任 ≠ 道德免责**
 
-Dilemma rule:
-
-> **A valid dilemma protects two real values that cannot both be preserved without irreversible cost. A third path may redistribute cost, but cannot make cost disappear.**
-
 Continuity rule:
 
 > **Representation / copy / memory / function ≠ the same continuing subject.**
 
-Hand / Handshake rule:
+---
 
-> **`手 / 接触` is the physical/existential motif; `握手 / handshake` is ordinary technical/institutional vocabulary that gradually acquires private meaning.**
+# 06｜Handshake Ladder — corrected
+
+`LOCKED / V3.1`
+
+Do NOT force handshake into every episode.
+
+Current natural ladder:
+
+- **EP01** — node / identity handshake may fail; **无法握手 ≠ 现实不存在**;
+- **EP02** — **no handshake seed required**; focus on a connection everyone is still trying to maintain before disaster forces its loss;
+- **EP03** — strongest early explicit seed: **handshake complete ≠ physical reality connected**;
+- **EP05** — human hand / ring / reconstructed contact motif;
+- **EP06** — no shared reference → no trustworthy handshake;
+- **EP08** — mutual authorization handshake fails; protected-person rule becomes a lower-level shared constraint;
+- **EP09** — future common city asks which states must remain mutually confirmable;
+- **EP10** — private AI says “握手”, human hand cannot physically connect, technical handshake succeeds.
+
+Deleted / superseded idea:
+
+> **“EP02: a correct handshake may be for disconnecting.”**
+
+Reason:
+
+> It prematurely gives EP02 the finale's strategic insight.
 
 ---
 
-# 04｜Episode V3-backprop program
+# 07｜EP01 V2 — current authority
 
-`ACTIVE WORK PROGRAM`
-
-The Master V3 was created after EP01–EP10 macro had already formed. We are now revising episodes one by one so their internal structure matches the Master rather than leaving the themes concentrated in EP08–EP10.
-
-Each episode revision should strengthen, without mechanically adding exposition:
-
-1. Connection State;
-2. Order State;
-3. Correctness / Justice / Legitimacy distinction;
-4. the episode's real dilemma;
-5. Male / Chief / private-AI state delta;
-6. Hand / Handshake seeds where natural;
-7. irreversible city-state change passed into the next episode;
-8. payoff debts opened / paid.
-
-Dialogue remains late-lock.
-
----
-
-# 05｜EP01 V2 — completed V3 backprop pass
-
-`LOCKED / CURRENT EP01 AUTHORITY`
-
-Current file:
+File:
 
 > `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`
 
-V2 keeps the original EP01 macro:
+Locked V3 function:
 
-- 302 building reality conflict;
-- specific girl makes existence concrete;
-- private AI reasonably opposes the risk;
-- male confirms onsite reality and uses limited authority to pause an action based on an invalid premise;
-- gravity direction anomaly / reversal;
-- female chief physically saves male;
-- orbital Second New Beijing reveal;
-- themes remain **存在｜判断｜风险**.
+- unified model and physical reality lose reliable connection at one point;
+- private AI's risk judgment and male's onsite fact can both be reasonable;
+- minimum justice seed: a real subject must first enter the decision space;
+- male only has limited authority to pause an invalid premise, not sovereignty over public reality;
+- male regains the dangerous reward that his judgment can touch reality;
+- chief physically grabs him;
+- handshake appears only as an ordinary optional node-verification seed.
 
-V2 adds / sharpens:
+EP01 → EP02:
 
-### Connection
-
-> **The unified model and physical reality lose reliable connection for the first time.**
-
-### Dilemma
-
-> **overall risk safety vs a concrete life that the current system cannot verify.**
-
-### Correctness
-
-> **The private AI's risk judgment and the male's new onsite fact can both be reasonable at the same time.**
-
-No “AI is stupid / human is superior” interpretation.
-
-### Justice seed
-
-> **Before deciding what cost a person may bear, she must at minimum be recognized as a real subject inside the decision space.**
-
-This does NOT imply 302 must be preserved forever; EP09 later completes the problem with **承认 ≠ 保存**.
-
-### Legitimacy seed
-
-> **The male has enough limited field authority to pause / verify an action whose premise has failed; he does not gain sovereignty to permanently define public reality.**
-
-### Male
-
-His deeper want is no longer merely “to be needed”:
-
-> **he wants his judgment to touch and change reality.**
-
-302 gives him that dangerous reward for the first time.
-
-### Private AI
-
-EP01 establishes the strongest-access baseline and the first crack in her early assumption:
-
-> **access to a larger world does not equal possession of complete reality.**
-
-### Female chief
-
-Her first impression remains action, not governance lecture:
-
-> **she converts public responsibility into a real physical act and actually grabs him.**
-
-### Hand / Handshake
-
-- physical motif: **chief's hand really grabs the male**;
-- technical seed: 302 may contain an ordinary background **handshake / identity-verification failure** state;
-- exact system wording remains TBD;
-- `handshake failed` is only a symptom, never the explanation of why 302 “does not exist”.
-
-Core V3 seed:
-
-> **无法握手，不等于现实不存在。**
-
-This is an internal design statement, not required dialogue.
-
-### EP01 → EP02
-
-> **EP01 proves one point can fall out of the unified reality; EP02 expands this into a city physically breaking into islands.**
+> **one point can fall out of unified reality → the city begins physically breaking into islands.**
 
 ---
 
-# 06｜Current active episode versions
+# 08｜EP02 V2 — current authority
 
-| Episode | Active Latest Snapshot | V3 backprop status |
+File:
+
+> `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`
+
+Highest correction:
+
+> **EP02 is forced salvage / passive bleeding, not active contraction.**
+
+The damaged bridge / cross-region structure is already being pushed toward failure by the meteor aftermath.
+
+Everyone is trying to preserve more:
+
+- structural systems try to keep larger structures safe;
+- evacuation / transport systems try to keep the link open longer;
+- male verifies how long the real site can still safely be held;
+- female chief decides when continuing the rescue of that link would expand the disaster.
+
+Her decision is:
+
+> **stop continuing to rescue a failing connection.**
+
+It is NOT:
+
+> **choose a smaller Beijing.**
+
+Core emotional result:
+
+> **We tried to save it and still could not save everything.**
+
+Themes remain:
+
+> **责任｜取舍｜代价**
+
+Current distinction:
+
+> **EP02 被迫止损 → EP07 局部手术式止损 → EP09 目标函数改变 → EP10 战略性主动失血。**
+
+---
+
+# 09｜Current active episode versions
+
+| Episode | Active Latest Snapshot | V3.1 backprop status |
 |---|---|---|
 | EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md` | `DONE — first pass` |
-| EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V1.md` | `NEXT` |
-| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md` | `PENDING` |
+| EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md` | `DONE — first pass` |
+| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md` | `NEXT` |
 | EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md` | `PENDING` |
 | EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md` | `PENDING` |
 | EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V1.md` | `PENDING` |
@@ -210,22 +248,22 @@ This is an internal design statement, not required dialogue.
 
 ---
 
-# 07｜Current macro that must not drift during episode revision
+# 10｜Current macro that must not drift
 
-1. EP01 — 302 / existence / world reveal.
-2. EP02 — islanding / bridge separation / correct decision creates losers / season window.
-3. EP03 — medicine / seven-minute mismatch / one real connection, not city reconnection.
-4. EP04 — daily work / cinema / Rashomon / ordinary life under fragmented reality.
-5. EP05 — Wedding Mirror / reconstruction vs continuity / hand-ring-snow motif.
-6. EP06 — winter divergence / shared physical reference / three-way relay / one shared moment.
-7. EP07 — shared hub / cut the center / irreversible third-path cost.
-8. EP08 — public-security mutual illegitimacy / Moment of Grace / correct procedures create violence.
-9. EP09 — minimum common reality public process + 302 return + hidden AI farewell.
-10. EP10 — minimum common reality executes / male tries to preserve AI / final handshake / multiple farewells / one public now / winter.
+1. EP01 — 302 / existence / world reveal / one-point reality failure.
+2. EP02 — islanding / failing bridge / forced salvage / correct rescue creates losers / season window.
+3. EP03 — medicine / seven-minute mismatch / one real connection / handshake complete ≠ physical contact.
+4. EP04 — daily work / cinema / Rashomon / ordinary life maintained under fragmented reality.
+5. EP05 — Wedding Mirror / preservation of representation vs continuity / hand-ring-snow motif.
+6. EP06 — winter divergence / shared physical reference / three-way relay / preservation succeeds locally but shared now fails.
+7. EP07 — shared hub / tactical sacrifice to preserve A+B / irreversible cost without yet accepting smaller community.
+8. EP08 — two public-security systems both protect correctly and still create institutional violence / Moment of Grace.
+9. EP09 — minimum common reality public process / 302 return / **objective function changes from total preservation to sustainable common boundary** / hidden AI farewell.
+10. EP10 — strategic active contraction / male tries to preserve AI / final handshake / multiple farewells / one public now / winter.
 
 ---
 
-# 08｜Highest unresolved finale items remain open
+# 11｜Highest unresolved finale items remain open
 
 Do not solve these merely because earlier episodes are being revised:
 
@@ -242,11 +280,15 @@ Do not solve these merely because earlier episodes are being revised:
 
 ---
 
-# 09｜Document governance
+# 12｜Document governance
 
-Primary series architecture:
+Primary current series architecture:
 
-> `BEIJING-NO-WINTER-MASTER-CANON-V3.md`
+> **`BEIJING-NO-WINTER-MASTER-CANON-V3.1.md`**
+
+Prior Master:
+
+> `BEIJING-NO-WINTER-MASTER-CANON-V3.md` — retained as provenance / non-conflicting detail.
 
 Current episode authority:
 
@@ -256,10 +298,10 @@ Derived references:
 
 > `SERIES-DERIVED-DOC-STATUS-V3.md`
 
-Historical provenance:
+Historical archive:
 
 > `archive/2026-08-31-pre-latest-snapshot/`
 
 Revision procedure:
 
-> **episode Latest → Master state matrix/ladders if macro changes → derived tables only if useful.**
+> **episode Latest → Master state matrix / ladders if macro changes → derived tables only if useful.**

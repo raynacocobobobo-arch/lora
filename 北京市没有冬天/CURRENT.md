@@ -42,7 +42,7 @@ Rules:
 9. **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md`**
 10. **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md`**
 11. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
-12. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md`
+12. **`Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md`**
 13. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
 14. current `hermes-creative-ai-short-drama` Skill when changing structure / screenplay / production stage.
 
@@ -227,12 +227,14 @@ Technical handshake ≠ upload / fusion / migration / continuity preservation.
 | EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md` | `DONE — principle-learning pass` |
 | EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md` | `DONE — preservation-break pass` |
 | EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md` | `PENDING` |
-| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md` | `PENDING` |
+| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md` | `DONE — institutionalization pass` |
 | EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md` | `PENDING` |
 
 Episode revision sequence remains:
 
-> **EP03 → EP04 → EP05 → revisit EP06/07 only if neighboring changes require it → EP08 → EP09 → EP10.**
+> **EP03 → EP04 → EP05 → revisit EP06/07 only if neighboring changes require it → EP08 → EP10.**
+
+EP09 V2 is already updated early because the architecture correction would otherwise leave its higher-precedence episode snapshot semantically behind the Master.
 
 ---
 
@@ -246,7 +248,7 @@ Episode revision sequence remains:
 6. EP06 — winter divergence / shared physical reference / three-way relay / AI learns that common rules also bind power-holders.
 7. EP07 — shared hub / first local admission that total preservation has failed / AI internalizes principle consistency through history and relationship experience.
 8. EP08 — two public-security systems both preserve correctly and still produce institutional violence / system-level proof that full preservation cannot remain the governing objective.
-9. EP09 — minimum common reality / 302 return / **institutionalize** “cannot preserve everything” / hidden AI farewell.
+9. EP09 — minimum common reality / 302 return / **institutionalize** “cannot preserve everything” / hidden AI farewell / AI self-applies the principle.
 10. EP10 — strategic active contraction / male first tries to preserve AI / final handshake / multiple farewells / one public now / winter.
 
 ---

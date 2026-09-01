@@ -1,7 +1,7 @@
 # 《重庆时间》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-02
-- Status: `V4 ACTIVE CANDIDATE / MIGRATION BRANCH`
+- Status: `V4 ACTIVE ON MAIN`
 - Rule: one active Master; one active World authority; one active Character/Relationship authority; highest listed V4 Episode Snapshot governs episode-specific facts; execution docs never override Canon.
 
 ---
@@ -159,7 +159,7 @@ The original approved design specs remain unchanged in the legacy provenance roo
 
 Story development:
 
-> **V4 Canon is the only target architecture after merge.**
+> **V4 Canon is the only active target architecture on `main`.**
 
 Visual development:
 

@@ -1,7 +1,7 @@
 # 《北京市没有冬天》CURRENT — Canonical Entry Point
 
 - Updated: 2026-09-01
-- Status: `LOCKED / MASTER V3.2 ACTIVE / EPISODE CARD MACRO PASS IN PROGRESS`
+- Status: `LOCKED / MASTER V3.2 ACTIVE / TEN-EPISODE MACRO PASS NEAR EXIT`
 - Purpose: future ChatGPT / Codex / Agent sessions MUST start here.
 
 ## 01｜Authority / read order
@@ -12,7 +12,8 @@ Precedence:
 2. narrow Canon patches that explicitly supersede terminology/scope;
 3. highest-numbered active Episode Snapshot for concrete episode facts;
 4. `BEIJING-NO-WINTER-MASTER-CANON-V3.2.md` for season architecture;
-5. derived references / archived history.
+5. detailed decision logs for provenance;
+6. archived / superseded material.
 
 Primary read order:
 
@@ -29,8 +30,8 @@ Primary read order:
 11. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`
 12. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`
 13. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V2.md`
-14. **`Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md`**
-15. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
+14. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md`
+15. **`Pilot-EP10-LATEST-CANON-SNAPSHOT-V2.md`**
 
 Recent detailed logs:
 
@@ -41,7 +42,8 @@ Recent detailed logs:
 - `decision-logs/2026-09-01-1238-EP06-PROTOCOL-HANDSHAKE-DETAILED.md`
 - `decision-logs/2026-09-01-1250-EP07-RASHOMON-DETAILED.md`
 - `decision-logs/2026-09-01-1304-EP08-INSTITUTIONAL-SEDIMENT-DETAILED.md`
-- **`decision-logs/2026-09-01-1319-EP09-DECISION-CHAIN-DETAILED.md`**
+- `decision-logs/2026-09-01-1319-EP09-DECISION-CHAIN-DETAILED.md`
+- **`decision-logs/2026-09-01-1329-EP10-FINALE-ACTION-SPINE-DETAILED.md`**
 
 ---
 
@@ -49,15 +51,13 @@ Recent detailed logs:
 
 Use `hermes-creative-ai-short-drama v1.1`.
 
-Stage order:
-
-> **load canon → prior-function audit → Episode Card → macro approval → screenplay → State Delta draft → Continuation Capsule draft**
-
 Current phase:
 
-> **bounded final Episode Card / macro pass.**
+> **all ten episodes now have stable macro/card-equivalent direction; one known open story mechanism remains: EP05 bride disappearance / continuity break.**
 
-After ten episodes are coherent, stop broad architecture work and move to screenplay from EP01.
+Macro exit sequence:
+
+> **revisit EP05 disappearance → ten-card consistency check → if no critical contradiction, STOP broad architecture revision → screenplay EP01→EP10.**
 
 ---
 
@@ -88,38 +88,45 @@ Technical/system handshake = **协议握手（protocol handshake）**.
 - EP03: **协议握手完成 ≠ 现实已经连接**;
 - EP06: common reference enables trustworthy protocol handshake/synchronization;
 - EP08: physical corridor exists but public-authorization protocol handshake fails;
-- EP10: final protocol handshake; spoken “我要去和它握手了” may retain double meaning.
+- EP10: **final protocol handshake confirms/transfers state, not subject**; spoken “我要去和它握手了” remains dialogue candidate with technical/emotional double meaning.
 
-### Rashomon / AI cognition
+### Rashomon / private AI
 
-- female chief: 《罗生门》 = recognition/familiarity, not enlightenment;
-- private AI: it becomes one source for questioning whether the problem frame itself is wrong.
+- chief: 《罗生门》 = recognition/familiarity, not enlightenment;
+- private AI: one source for questioning whether the problem frame itself is wrong.
 
 EP07 chain:
 
 > **Rashomon frame-questioning + EP06 self-restraint + history/traces + A/B degraded viability → “为什么 hub 必须被保存？”**
 
-### Hidden institutional sediment
+### Institutional sediment
 
-> **临时措施 → 临时例外 → 必要通道 → 重复使用 → 例外常态化 → 新生活依赖 → 制度沉积 → 新秩序 → 新正当性冲突。**
-
-Hard rule: **只借结构，不借符号。**
+> **EP02 physical split → EP03 successful lifeline → EP04 repeat-use corridor → EP07 stronger local orders → EP08 authority overlap → EP09 formal governance response → EP10 citywide cutover.**
 
 ---
 
 ## 05｜Active episode authority map
 
-### EP05 V2
+### EP05 V2 — OPEN MECHANISM
 
-Wedding Mirror macro approved. Bride lives through EP02→EP03, then continuity gap; final major turn = bride also reconstructed AI.
+Wedding Mirror macro approved:
+
+- bride genuinely lives through EP02→EP03;
+- groom already lost in initial meteor disaster;
+- bride is grieving / living normally, not preparing wedding then;
+- audience later misreads continuity across a narrative gap;
+- AI groom may be recognized early;
+- final major turn = bride also reconstructed AI;
+- private AI is positive lived-continuity contrast;
+- artificial wedding snow → small real local snow → EP06.
 
 Open:
 
-> **bride disappearance / continuity-break exact scene = `TBD / NEEDS_REVIEW`; do not infer corridor accident.**
+> **bride disappearance / continuity-break exact scene = `TBD / NEEDS_REVIEW`; do not infer a corridor accident.**
 
 ### EP06 V3
 
-Two valid local times/winters, no common now. Shared infrastructure completes one simultaneous handoff using a common physical reference; clocks remain different.
+Two valid local times/winters, no common now. Shared infrastructure completes one simultaneous handoff through a common physical reference; clocks remain different.
 
 ### EP07 V3
 
@@ -127,55 +134,71 @@ A/B/hub cannot all be preserved. Hub is healthy and valuable; AI reframes the pr
 
 ### EP08 V2
 
-EP03 lifeline → EP04 routine corridor → EP07 stronger local institutional independence → two public-security orders overlap.
+Two complete public-security orders overlap at the evolved EP03 corridor. Moment of Grace temporarily stops fire; chief then disarms island side, causing outside AI to correctly reclassify and destroy uncontrolled armed platforms.
 
-Moment of Grace is temporary, not Dominant Turn.
-
-Dominant Turn:
-
-> **chief successfully disarms island-side armed platforms; loss of verifiable command chain causes outside AI to correctly reclassify and destroy them.**
-
-Highest moral fact:
+Highest fact:
 
 > **everyone can act correctly and institutions can still produce sacrifice.**
 
-### EP09 V3 — CURRENT AUTHORITY
+### EP09 V3
 
-Current file:
+Decision chain:
 
-> **`Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md`**
+> **EP08复盘 → 女科长提出最低共同现实 → 上层只批准有限试行 → 女科长选择302 → 男主现场核验 → 私人AI通过男主进入判断链。**
 
-Public decision chain:
-
-1. **EP08复盘** — 女科长正式确认逐案正确已不足以维持共同公共秩序；
-2. **女科长提出** — 她提出“最低共同现实”草案；
-3. **上层讨论** — 更高一级公共决策层提出正当性问题并决定是否授权；
-4. **有限试行** — 上层只批准试行，不直接全城执行；
-5. **女科长选302** — 用户明确锁定：**302 是女科长选的实验对象，不是上层挑的**；
-6. **男主知道** — 因 302 需要现场边界审查，他获得必要评估原则并回到现场；
-7. **私人AI知道** — 通过男主进入具体判断链，不获得永久政府访问。
-
-Responsibility shorthand:
+Responsibility:
 
 > **上层决定：可以试。**
 >
 > **女科长决定：拿 302 试。**
 
-Why 302:
+302 is real/safe/viable but requires long-term special public conditions. It is acknowledged but future unconditional preservation is withdrawn; no immediate destruction.
 
-> **它真实、安全、能继续，却需要未来北京长期保留特殊公共条件；只有这种对象才真正测试“承认 ≠ 永久保存”。**
+Private AI infers the same rule may terminate her continuity; she does not want to leave.
+
+### EP10 V2 — CURRENT FINALE AUTHORITY
+
+Current file:
+
+> **`Pilot-EP10-LATEST-CANON-SNAPSHOT-V2.md`**
+
+Opening:
+
+> **minimum common reality enters citywide cutover night; migration/resource preparation already happened; remaining common interfaces will keep disappearing if Beijing waits.**
+
+Action spine:
+
+> **remaining Beijing commits a final common public state; retained areas enter sustainable common operation, exiting legacy states perform final confirmation/protocol handshakes and leave.**
+
+Critical private mechanism:
+
+> **same continuous private AI is technically preservable, but only by permanently retaining a legacy special condition that cannot be generalized to other exiting digital continuities.**
+
+Male:
+
+> **must genuinely try to save her, find the real legacy exception, and only then face the public/private test.**
+
+Private AI:
+
+> **wants to survive, may hope the exception works, but does not declare the principle invalid solely because she pays the cost.**
 
 Dominant Turn:
 
-> **男主确认302真实、安全、能继续；私人AI完整接受事实后仍判断其不应获得未来永久特殊维护承诺；女科长推动首宗真实边界决定：302被承认，但未来公共承诺改变。**
+> **male does not convert attachment into a permanent non-generalizable public privilege; chief confirms citywide execution conditions; private AI actively completes the exit-side final protocol handshake; Beijing crosses into the new common state.**
 
-302 does NOT immediately go dark in EP09; it enters transition / migration / exit from long-term special maintenance.
+Protocol-handshake semantic lock:
 
-AI private aftershock:
+> **state is confirmed/transferred; subject is NOT transferred. Handshake ≠ upload ≠ migration ≠ fusion.**
 
-> **她随后高度推断同一种边界可能终止自己的连续性；她不想离开。**
+Private AI original continuity ends when her legacy environment exits.
 
-This is not the Dominant Turn and must not remove male agency in EP10.
+She is not the only digital continuity lost.
+
+Final causal chain:
+
+> **minimum common reality executed → sustainable common Beijing → one effective Beijing Standard Time → one public now → unified winter protocol → snow.**
+
+Snow overlaps ongoing farewells. Final meaning returns to a smaller, wounded, common Beijing.
 
 ---
 
@@ -186,14 +209,14 @@ AI arc:
 - EP04 = Rashomon as one problem-reframing source;
 - EP06 = common rules constrain power-holders;
 - EP07 = internalizes principle consistency;
-- EP09 = principle reaches 302, then she realizes it may reach herself; she does not want to leave;
+- EP09 = principle reaches 302, then she realizes it may reach herself and does not want to leave;
 - EP10 = she still does not invalidate the principle solely because she pays the cost.
 
 Male:
 
-> **He MUST first try to save her.**
+> **He MUST first genuinely try to save her.**
 
-Only when preserving the same continuous AI requires an un-generalizable permanent private exception does the final test occur.
+Final test begins only after a real preservation route is found and shown to require an un-generalizable permanent private exception.
 
 ---
 
@@ -205,38 +228,43 @@ Only when preserving the same continuous AI requires an un-generalizable permane
 | EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md` | macro pass done |
 | EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md` | DONE — Drama Skill card |
 | EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md` | DONE — confluence/card |
-| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md` | MACRO APPROVED — disappearance open |
+| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md` | MACRO APPROVED — disappearance scene open |
 | EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md` | DONE — action-spine/card |
 | EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md` | DONE — card/Rashomon reasoning |
 | EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V2.md` | DONE — institutional sediment/preservation paradox/card |
-| **EP09** | **`Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md`** | **DONE — decision-chain / 302 boundary-test / card pass** |
-| EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md` | **NEXT — V2 / Drama Skill card pass** |
+| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md` | DONE — decision chain/302 boundary test/card |
+| **EP10** | **`Pilot-EP10-LATEST-CANON-SNAPSHOT-V2.md`** | **DONE — finale action spine / private-exception / protocol-handshake card pass** |
 
 Current bounded sequence:
 
-> **EP10 V2 → revisit EP05 disappearance → ten-card consistency check → screenplay.**
+> **revisit EP05 disappearance → ten-card consistency check → screenplay.**
 
 ---
 
 ## 08｜Hard prohibitions
 
 - no villain AI / conspiracy / final boss;
-- no central truth reset;
+- no central truth reset / database overwrite;
 - no male savior / sole node;
 - no AI cognition degradation from access loss;
 - no copy = continuity;
 - no cost-free third path;
+- no “technically impossible, therefore no choice” finale shortcut;
 - no upper authority inventing minimum common reality;
 - no upper authority selecting 302 instead of female chief;
-- no female chief unilateral citywide decree;
-- no private AI automatically knowing upper-level deliberations;
+- no female chief reduced to button-pusher;
+- no private AI automatically knowing upper deliberations;
 - no permanent government access to private AI;
-- no 302 secretly unsafe to make the choice easy;
+- no 302 secretly unsafe to make choice easy;
 - no immediate destruction of 302 in EP09;
-- no “all exceptions are wrong” conclusion before EP10;
 - no AI happily seeking death;
-- male must be allowed to try to save AI;
-- no authoritarian minimum-common-reality overwrite;
+- no AI volunteering in a way that absolves male choice;
+- no protocol handshake as upload/migration/fusion;
+- no secret AI survival after final exit;
+- no private AI as only digital continuity lost;
+- no snow as solution or victory fireworks;
+- no final close only on male grief;
+- no post-snow explanatory years-later epilogue;
 - no obvious COVID allegory;
 - no vague technical “handshake” when **协议握手** is meant;
 - no broad architecture expansion after macro exit gate without a real screenplay contradiction.

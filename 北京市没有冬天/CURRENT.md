@@ -3,108 +3,88 @@
 - Updated: 2026-09-01
 - Status: `LOCKED / MASTER V3.2 ACTIVE / EPISODE CARD MACRO PASS IN PROGRESS`
 - Purpose: future ChatGPT / Codex / Agent sessions MUST start here.
-- Detailed architecture log: `decision-logs/2026-09-01-1000plus-DETAILED.md`
-- EP03 / Drama Skill log: `decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`
-- EP04 log: `decision-logs/2026-09-01-1134-EP04-CONFLUENCE-RASHOMON-DETAILED.md`
-- Latest EP05 log: **`decision-logs/2026-09-01-1211-EP05-POV-CONTINUITY-DETAILED.md`**
 
----
+## 01｜Current authority / read order
 
-# 01｜Canonical precedence
+Precedence:
 
-1. **later explicit user confirmation**;
-2. **highest-numbered active `Pilot-EPXX-LATEST-CANON-SNAPSHOT-V*.md`** for concrete episode facts;
-3. **`BEIJING-NO-WINTER-MASTER-CANON-V3.2.md`** for current series architecture, season dynamics, character arcs, theme hierarchy, Hand/Handshake structure and episode-revision criteria;
-4. retained derived series references;
-5. archived historical Canon / superseded Masters / patches.
+1. later explicit user confirmation;
+2. narrow Canon patches that explicitly supersede terminology/scope;
+3. highest-numbered active `Pilot-EPXX-LATEST-CANON-SNAPSHOT-V*.md` for concrete episode facts;
+4. `BEIJING-NO-WINTER-MASTER-CANON-V3.2.md` for season architecture;
+5. derived references / archived history.
 
-Source chronology:
-
-> **最早对话记录(1).md < 中间对话记录.md < 对话记录.md < later explicit user confirmation**
-
-Rules:
-
-- `TBD` remains unresolved;
-- `NEEDS_REVIEW` remains unresolved;
-- do not silently overwrite a LOCKED matter;
-- when a new Master becomes active, the old Master leaves the active root and is recorded under `archive/master-canon/` / Git history;
-- architecture-level Git revisions must preserve a detailed Decision Log, not only extracted slogans;
-- when the user approves a significant episode/architecture revision, Git both the **current Canon** and a **detailed Decision Log preserving the original discussion semantics**.
-
----
-
-# 02｜Primary read order
+Primary read order:
 
 1. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
 2. `ACTIVE-DOCS-INDEX.md`
-3. **`BEIJING-NO-WINTER-MASTER-CANON-V3.2.md`**
-4. **`Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`**
-5. **`Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`**
-6. **`Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`**
-7. **`Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`**
-8. **`Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md`**
-9. **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md`**
-10. **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md`**
-11. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
-12. **`Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md`**
-13. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
+3. `BEIJING-NO-WINTER-MASTER-CANON-V3.2.md`
+4. **`CANON-PATCH-V3.2.1-PROTOCOL-HANDSHAKE.md`**
+5. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`
+6. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`
+7. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`
+8. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`
+9. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md`
+10. **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`**
+11. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md`
+12. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
+13. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md`
+14. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
 
-For architecture reasoning/history, read the relevant `decision-logs/` entry before reopening raw conversation records.
+Recent detailed decision logs:
+
+- `decision-logs/2026-09-01-1000plus-DETAILED.md`
+- `decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`
+- `decision-logs/2026-09-01-1134-EP04-CONFLUENCE-RASHOMON-DETAILED.md`
+- `decision-logs/2026-09-01-1211-EP05-POV-CONTINUITY-DETAILED.md`
+- **`decision-logs/2026-09-01-1238-EP06-PROTOCOL-HANDSHAKE-DETAILED.md`**
+
+Workflow rule:
+
+> significant approved revisions Git both **current Canon** and a **detailed Decision Log preserving user wording, rejected alternatives, why the change happened, exact boundaries and downstream impact**.
 
 ---
 
-# 03｜Drama Skill is a HARD GATE for episode development
+## 02｜Drama Skill is a hard gate
 
-`LOCKED WORKFLOW RULE`
-
-This project is a pure-AI serialized short drama intended to proceed all the way to screenplay, storyboard, Shot Specs and a Seedance-oriented Production Pack.
-
-Current drama skill authority:
+Current authority:
 
 > **Hermes Creative AI Short Drama V1.1**
 
-Source:
+For each episode revision explicitly use:
 
-> `raynacocobobobo-arch/skills-share/plugins/hermes-skills/skills/hermes-creative-ai-short-drama/`
-
-For every episode revision / creation, after loading Canon explicitly read current:
-
-1. `SKILL.md`;
-2. `workflows/create-episode.md`;
-3. `references/episode-contract.md` when building/reviewing the Episode Card;
-4. `references/story-architecture.md` when checking differentiation, progression, callbacks, cost or finale setup.
-
-Division:
-
-> **Canon prevents drift. Drama Skill prevents the project from becoming only worldbuilding/analysis instead of watchable drama.**
+- `SKILL.md`;
+- `workflows/create-episode.md`;
+- `references/episode-contract.md`;
+- `references/story-architecture.md` when differentiation/progression/callback/cost requires it.
 
 Current stage order:
 
 > **load canon → prior-function audit → Episode Card → macro approval → screenplay → State Delta draft → Continuation Capsule draft**
 
-Current macro-pass exit condition:
+Current project phase:
 
-> once all ten episodes have macro-approved Episode Cards/equivalent contracts, distinct Dominant Turns, no key cross-episode contradiction, State Delta intent and usable Continuation Capsules, stop broad architecture rewriting and move to screenplay from EP01 forward.
+> **bounded final Episode Card / macro pass.**
 
-Downstream chain:
+Exit macro phase after all ten episodes have a stable card/equivalent, clear dominant turn, no key cross-episode contradiction, State Delta intent and usable Continuation Capsule. Then stop broad re-architecture and move to screenplay from EP01.
 
-> **screenplay → Continuity State / Shot Specs → asset/keyframe plan → Generation Segments → Seedance Production Pack → actual media review/retake when output exists**
+Full intended chain:
 
-No actual media = no `PASS` claim.
+> **screenplay → Continuity State / Shot Specs → asset/keyframe plan → Generation Segments → Seedance Production Pack → actual media review/retake when media exists**
 
 ---
 
-# 04｜Current season axis — Master V3.2
+## 03｜Season axis — do not drift
 
 > **EP01–EP06：尽可能全部保存。**
 >
-> **EP07：第一次在局部案件中承认“全部保存”已经失败。**
+> **EP07：第一次在局部案件中承认“全部保存”失败。**
 >
-> **EP08：证明完整保全目标会产生系统级次生灾害 / 制度暴力。**
+> **EP08：证明完整地方保全目标会产生系统级次生灾害 / 制度暴力。**
 >
-> **EP09：把 EP07–08 已经证明的事实制度化为最低共同现实。**
+> **EP09：把 EP07–08 已证明的事实制度化为最低共同现实。**
 >
-> **EP10：城市级主动执行新的共同边界；同一原则落到私人 AI 与男主自己。**
+> **EP10：城市级主动执行新的共同边界，同一原则落到私人 AI 与男主自己。**
 
 Internal structure:
 
@@ -112,11 +92,11 @@ Internal structure:
 
 Preservation Paradox:
 
-> **每个系统都在正确保护自己负责的部分；共同前提破坏后，局部保全会把资源、规则、权限、时间和基础设施锁进不同现实，整体北京反而越来越无法维持。**
+> **各局部都在正确保护自己负责的现实；共同前提破坏后，局部保全把资源、规则、权限、时间、基础设施与生活锁入不同现实，整体北京反而越来越难维持。**
 
 ---
 
-# 05｜Hidden social-structure reference — INTERNAL ONLY
+## 04｜Hidden social-structure reference — INTERNAL ONLY
 
 > **临时措施 → 临时例外 → 必要通道 → 重复使用 → 例外常态化 → 新生活依赖 → 制度沉积 → 新秩序 → 新正当性冲突。**
 
@@ -126,11 +106,9 @@ Hard rule:
 
 > **结构可以借，表征必须彻底换掉。**
 
-Key consequence:
+Important cross-episode consequence:
 
-> **EP03 的一次医疗连接因为真的救过人而被重复依赖，逐渐沉积成公共通道、管理边界与两套秩序重叠点，最终自然解释 EP08 的检查点。**
-
-EP04 makes the early sediment ordinary background. EP05 now shows the same macro process inside one ordinary person's lived time.
+> **EP03 成功的医疗连接因为真的救过人而被重复依赖，逐渐沉积成公共走廊、管理边界与 EP08 两套秩序重叠点。**
 
 Internal regional-interest rule:
 
@@ -140,268 +118,186 @@ Not mandatory dialogue.
 
 ---
 
-# 06｜Three levels of loss
+## 05｜Protocol Handshake terminology — LOCKED
 
-## L1｜Forced Loss — EP01–EP06
+User correction:
 
-- disaster creates incompatible conditions first;
-- everyone still tries to preserve as much as possible;
-- no one yet accepts a smaller future Beijing as the goal.
+> **“ai握手术语是协议握手”**
 
-## L2｜Local Preservation Break — EP07
+Technical/system handshake is formally:
 
-- hub actively exits;
-- A+B remain preservation objective;
-- first local admission A+B+hub cannot all be saved.
+> **协议握手（protocol handshake）**
 
-## L3｜Institutionalized Boundary / Active Contraction — EP09–EP10
+Distinguish:
 
-- EP09 turns “cannot preserve everything” into public governance;
-- EP10 executes it at city scale.
+- **协议握手** = protocol/system confirmation;
+- **物理连接** = real passage/contact in physical reality;
+- **手 / 身体握手** = physical Hand motif.
 
----
+Current ladder:
 
-# 07｜AI principle-consistency arc
-
-- EP06 = experience: **共同规则也必须约束拥有权力的人自己**;
-- EP07 = history + relationship experience become the internal principle:
-  > **规则如果只在代价落到别人身上时成立，就不是共同规则。**
-- EP09 = AI realizes the principle may reach her continuity and does not want to leave;
-- EP10 = she does not invalidate the principle merely because she now pays the cost.
-
-Male counterpart:
-
-> **He must try to save her first; the final test is that he does not convert private attachment into permanent public privilege.**
-
----
-
-# 08｜Handshake Ladder — current
-
-- EP01 — failed handshake / verification ≠ nonexistence;
-- EP02 — no forced handshake motif;
-- EP03 — handshake complete ≠ physical connection;
+- EP01 — 协议握手 / 验证失败 ≠ 不存在；
+- EP02 — no forced protocol-handshake motif;
+- EP03 — **协议握手完成 ≠ 现实已经连接**；
 - EP05 — reconstructed hand / ring / contact;
-- EP06 — no shared reference → no trustworthy handshake;
-- EP08 — mutual authorization handshake fails; protected-person constraint remains;
-- EP09 — define future minimum mutually confirmable states;
-- EP10 — spoken “握手” + unreachable human hand + real technical handshake.
+- EP06 — **没有共同 reference，就没有可信协议握手 / 同步**；
+- EP08 — public-authorization protocol handshake fails; protected-person constraint remains;
+- EP09 — define future minimum mutually confirmable public states;
+- EP10 — final **protocol handshake**, while spoken “我要去和它握手了” may intentionally keep the ordinary word as a technical/emotional double meaning.
 
-Technical handshake ≠ upload / fusion / migration / continuity preservation.
+See `CANON-PATCH-V3.2.1-PROTOCOL-HANDSHAKE.md`.
 
 ---
 
-# 09｜EP03 V2 — active
+## 06｜Current episode state
 
-Current file:
+### EP03 V2
 
-> **`Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`**
+> **北京没有恢复连接；他们只是把一次连接做成了。**
 
-Dominant Turn:
+Technical motif now read through the terminology patch as:
 
-> **两个区域都认为对接已经完成，但现实中的可通行状态没有真正重合；男主重新找到真实物理窗口，女科长只授权这一次，药真正过去。北京没有恢复连接；他们只是把一次连接做成了。**
+> **协议握手完成 ≠ 现实已经连接。**
 
-Long-term rule:
+Long-term consequence:
 
 > **EP08 的问题不是 EP03 的失败造成的；恰恰是 EP03 成功以后才可能出现。**
 
----
+### EP04 V2
 
-# 10｜EP04 V2 — active
+Confluence episode:
 
-Current file:
-
-> **`Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`**
-
-Current role:
-
-> **EP04 is a confluence episode: EP01 record/reality fractures, EP02 local operation and EP03 repeat-use corridor become ordinary background; the cinema pushes sufficient-fact/limited-authorization from survival into ordinary life; private-AI continuity becomes EP05 baseline.**
+- EP01 record/reality fractures become routine work;
+- EP02 local operation becomes ordinary background;
+- EP03 repeat-use corridor begins to feel normal;
+- private-AI lived continuity becomes EP05 baseline.
 
 Dominant Turn:
 
-> **老电影院只获准今晚这一场；任务结束后，女科长因为真的想看《罗生门》而留下，男主也留下。**
+> **老电影院只获准今晚这一场；任务结束后女科长因为真的想看《罗生门》留下，男主也留下。**
 
-Female-chief correction:
+Female chief:
 
-> **她不是通过《罗生门》才发现现实有多个版本；她一直知道自己处在“罗生门式公共现实”里，只是尚未找到可规模化的制度解法。**
+> **她一直知道自己在“罗生门式公共现实”里工作；缺的是可规模化制度解法，不是哲学觉醒。**
 
----
+### EP05 V2
 
-# 11｜EP05 V2 — CURRENT AUTHORITY / disappearance scene still open
+Current macro:
+
+1. start from familiar EP02 male/chief public scene;
+2. POV transfers to bride passing them;
+3. groom is already gone; bride is only continuing ordinary life with grief;
+4. she gradually realizes EP02's “temporary” state is becoming reality;
+5. she genuinely lives through EP02→EP03;
+6. EP03 success becomes part of her later causal environment;
+7. after a continuity gap, audience assumes wedding bride is the same human survivor;
+8. AI groom may be recognized relatively early without technical exposition;
+9. surface story = **真人新娘 + AI 新郎**;
+10. only major Dominant Turn = **新娘也是 AI 重建人格**;
+11. private AI's cross-episode continuity is the positive contrast;
+12. artificial wedding snow → tiny real local snow → EP06.
+
+Highest open EP05 item:
+
+> **新娘具体怎么失踪 / 在什么事件中失去连续性仍 `TBD / NEEDS_REVIEW`。**
+
+Do NOT infer a corridor accident.
+
+### EP06 V3 — CURRENT AUTHORITY
 
 Current file:
 
-> **`Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md`**
+> **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`**
 
-Approval scope:
+Core:
 
-> **macro structure / viewpoint transfer / EP02→EP03 causal integration / wedding information control / continuity function LOCKED; exact bride-disappearance scene and mechanism remain `TBD / NEEDS_REVIEW`.**
+> **两个区域各自拥有有效时间 / 冬季，却没有共同现在；一项共享环境/生命保障基础设施必须同步交接，迫使三方第一次把“共同现在”变成一个真正公共动作问题。**
 
-## Core redesign
+Conflict grammar:
 
-EP05 no longer relies on one wedding to carry the whole episode.
+> **两个局部正确时间秩序需要共同动作，却没有共同 reference。**
 
-Opening:
+Dominant Turn:
 
-> **先回到 EP02 的男主 + 女科长公共现场；镜头从他们身边转走，跟上一个与他们擦肩而过的普通女人。她就是后来的真人新娘。**
+> **不选 A/B 任一时间为北京真理，而退到双方都不能单方面改写的共同物理 reference；私人 AI 计算关系，女科长给本次有限公共授权，男主现场确认 execute/abort，两个区域完成一次真正同步的基础设施交接。**
 
-She already knows the groom is gone.
+Observable payoff:
 
-Therefore she is NOT continuing wedding preparations. She may grieve, cry, be triggered by shared objects/records, but primarily:
+> **共享基础设施交接真实完成。**
 
-> **她只是继续生活。**
+Cost after solution:
 
-She initially does NOT understand the long-term meaning of EP02's public decision. She experiences ordinary disruptions and gradually realizes temporary local operation is becoming her real life.
+> **两区时间 / 冬季仍不同；只获得一次共同瞬间，没有获得持续共同现在。**
 
-She genuinely lives through the EP02→EP03 interval.
+End image:
 
-EP03's success then changes city behavior:
+> **两个时间仍不同，但它们刚刚确实同时完成了一件事。**
 
-> **既然一次连接真正做成了，人们开始重新相信有限跨区流动是可能的；成功路径被复用并形成新依赖/新风险。**
+AI principle learning remains experience only:
 
-Her later life is causally entangled with that post-EP03 environment, but:
+> **共同规则也必须约束拥有权力的人自己。**
 
-> **EP03 is not simplistically “the action that killed her.”**
+EP07 later historicalizes/internalizes it.
 
-## Current highest open item
+EP04→05→06 structural progression:
 
-`NEEDS_REVIEW`
-
-> **新娘具体怎么失踪 / 何时失去连续性 / 是否跨区 / 哪条线路 / 什么事故或机制 / 是否明示死亡——全部未锁。**
-
-Current structural fact only:
-
-> **真人新娘没有作为同一个连续主体活到婚礼当天；她的连续人生在 EP03 成功及其后续城市状态形成的因果环境中中断。**
-
-Do not infer more.
-
-## Wedding information control
-
-After the continuity gap, time jumps directly toward the wedding.
-
-Audience naturally assumes:
-
-> **the bride survived and reached today.**
-
-At the wedding, the groom may be recognized relatively early by the male/audience as an AI projection/reconstruction through a light visual fact. Do NOT explain him as a “digital proxy” or give technical/legal exposition.
-
-Surface story becomes:
-
-> **真人新娘 + AI 新郎。**
-
-The episode's only large Dominant Turn remains:
-
-> **新娘也是 AI 重建人格；她不是从 EP02 连续活到今天的真人。**
-
-The narrative itself becomes a continuity experiment:
-
-> **A 点是真人新娘；B 点是高度一致的婚礼新娘；观众自动把 A→B 补成同一主体的连续时间，但剧从未真正证明这一点。**
-
-## Private AI contrast
-
-The private AI's continuity is not explained through parameters.
-
-> **观众已经真的看着她跨过 EP01、02、03、04、05。**
-
-This is the emotional/structural basis for EP10:
-
-> **copy / new instance ≠ same continuous subject.**
-
-## Wedding motif remains
-
-- hand / ring / reconstructed contact;
-- vows about future;
-- artificial/projection snow;
-- then a tiny amount of real local snow.
-
-EP05→EP06 interface:
-
-> **EP05：这里真的下雪了。**
->
-> **EP06：但“这里正在冬天”已经不再等于“北京正在冬天”。**
+> **共存 → 连续 → 同步。**
 
 ---
 
-# 12｜Current active episode versions
+## 07｜AI / male final principle boundary
 
-| Episode | Active Latest Snapshot | Macro / Drama Skill status |
+AI arc:
+
+- EP06 = experience that common rules also constrain power-holders;
+- EP07 = history + relationship experience → internal principle:
+  > **规则如果只在代价落到别人身上时成立，就不是共同规则。**
+- EP09 = principle reaches her own continuity; she does not want to leave;
+- EP10 = she does not invalidate the principle because she pays the cost.
+
+Male counterpart:
+
+> **He MUST first try to save her.**
+
+Final test only begins when preserving the same continuous AI requires an un-generalizable permanent private exception. He ultimately does not convert private attachment into permanent public privilege.
+
+---
+
+## 08｜Current active episode versions / macro status
+
+| Episode | Active file | Status |
 |---|---|---|
 | EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md` | macro V3 pass done; formal card retrofit later if needed |
 | EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md` | macro V3 pass done; formal card retrofit later if needed |
-| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md` | DONE — Drama Skill Episode Card pass |
-| EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md` | DONE — confluence / Drama Skill Episode Card pass |
-| **EP05** | **`Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md`** | **MACRO APPROVED — disappearance scene `NEEDS_REVIEW`** |
-| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md` | **NEXT — card audit / retrofit** |
-| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md` | macro preservation-break pass done; card audit later |
+| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md` | DONE — Drama Skill card pass |
+| EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md` | DONE — confluence / Drama Skill card pass |
+| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md` | MACRO APPROVED — disappearance scene `NEEDS_REVIEW` |
+| **EP06** | **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`** | **DONE — action-spine / Drama Skill card pass** |
+| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md` | **NEXT — Drama Skill card audit** |
 | EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md` | pending V3.2 / institutional-sediment pass |
 | EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md` | macro institutionalization pass done; card audit later |
 | EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md` | pending |
 
-Current bounded macro sequence:
+Current bounded sequence:
 
-> **audit/retrofit EP06 → audit/retrofit EP07 → EP08 V2 → audit/retrofit EP09 → EP10 V2 → revisit EP05 disappearance scene before screenplay lock → final ten-card consistency check → SCREENPLAY PHASE.**
-
-The EP05 disappearance scene is intentionally deferred; it must be resolved before EP05 screenplay is final, but it does not block continuing the macro audit into EP06.
+> **audit EP07 → EP08 V2 → audit EP09 → EP10 V2 → revisit EP05 disappearance → ten-card consistency check → screenplay.**
 
 ---
 
-# 13｜Current macro that must not drift
+## 09｜Hard prohibitions that remain active
 
-1. EP01 — 302 / existence / world reveal / one-point model-reality failure.
-2. EP02 — islanding / failing bridge / forced salvage / people still believe restoration is the goal.
-3. EP03 — medicine / seven-minute physical-window mismatch / one real connection / successful temporary exception begins repeat-use dependency.
-4. EP04 — confluence daily-life episode / temporary methods become ordinary life / Rashomon-aware chief / private-AI continuity baseline.
-5. **EP05 — EP02 POV handoff to a grieving bride → lived EP02→EP03 ordinary life → post-EP03 causal environment later breaks her continuity (exact scene TBD) → time-jump continuity misread → AI groom relatively early → final reveal AI bride → hand/ring/snow / continuity.**
-6. EP06 — winter divergence / shared physical reference / three-way relay / AI learns common rules also bind power-holders.
-7. EP07 — shared hub / first local admission total preservation failed / AI internalizes principle consistency.
-8. EP08 — two security orders preserve correctly and still create institutional violence / checkpoint grows from accumulated management needs.
-9. EP09 — minimum common reality / 302 / institutionalize cannot-preserve-everything / hidden AI farewell.
-10. EP10 — strategic active contraction / male first tries to preserve AI / final handshake / farewells / one public now / winter.
-
----
-
-# 14｜Highest unresolved items
-
-### EP05 — immediate
-
-- exact bride disappearance / continuity-break scene;
-- precise post-EP03 causal mechanism;
-- whether she is crossing, why, where, and what audience sees;
-- whether male/chief ever learn her fate.
-
-### Finale — later
-
-- female chief's exact EP10 physical onsite action;
-- final handshake's minimum necessary technical function;
-- why the continuous old private-AI subject must participate;
-- male's concrete preservation attempts;
-- exact irreversibility indicators;
-- farewell/public/private intercut;
-- multilingual farewell justification;
-- EP10 remaining theme words / final city shot / title placement / final dialogue.
-
----
-
-# 15｜Document governance
-
-Primary series architecture:
-
-> **`BEIJING-NO-WINTER-MASTER-CANON-V3.2.md`**
-
-Recent detailed history:
-
-- `decision-logs/2026-09-01-1000plus-DETAILED.md`
-- `decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`
-- `decision-logs/2026-09-01-1134-EP04-CONFLUENCE-RASHOMON-DETAILED.md`
-- **`decision-logs/2026-09-01-1211-EP05-POV-CONTINUITY-DETAILED.md`**
-
-Superseded Master provenance:
-
-> `archive/master-canon/README.md`
-
-Current episode authority:
-
-> **use the highest-numbered active Latest Snapshot per episode.**
-
-Future approved architecture/episode Git rule:
-
-> **write current Canon + detailed Decision Log preserving original user wording/semantic context, rejected interpretation, why it changed, exact boundaries and downstream consequences.**
+- no villain AI / conspiracy / final boss;
+- no central truth reset;
+- no male super-engineer / savior / sole node;
+- no “AI cannot replace humans” moral;
+- no AI cognition/personality degradation from access loss;
+- no copy = continuity;
+- no cost-free third path;
+- no EP08 bad-guy/bug resolution;
+- no minimum-common-reality authoritarian overwrite;
+- no AI happily seeking death;
+- no male forbidden from trying to save AI;
+- no humanoid-AI physical protocol handshake;
+- no obvious COVID allegory;
+- no technical use of vague “handshake” when **协议握手** is meant;
+- no broad architecture expansion after the ten-card exit gate unless screenplay exposes a real contradiction.

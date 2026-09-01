@@ -4,7 +4,8 @@
 - Status: `LOCKED / MASTER V3.2 ACTIVE / EPISODE CARD MACRO PASS IN PROGRESS`
 - Purpose: future ChatGPT / Codex / Agent sessions MUST start here.
 - Detailed architecture log: `decision-logs/2026-09-01-1000plus-DETAILED.md`
-- Latest episode/workflow log: `decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`
+- EP03 / Drama Skill log: `decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`
+- Latest EP04 log: `decision-logs/2026-09-01-1134-EP04-CONFLUENCE-RASHOMON-DETAILED.md`
 
 ---
 
@@ -39,7 +40,7 @@ Rules:
 4. **`Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`**
 5. **`Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`**
 6. **`Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`**
-7. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md`
+7. **`Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`**
 8. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md`
 9. **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md`**
 10. **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md`**
@@ -165,7 +166,7 @@ Locked sequence:
 >
 > **EP07：第一次在局部案件中承认“全部保存”已经失败。**
 >
-> **EP08：证明完整保全目标会产生系统级次生灾害 / 制度暴力。**
+> **EP08：证明完整保全目标不是一个偶发工程问题，而会产生系统级次生灾害 / 制度暴力。**
 >
 > **EP09：把 EP07–08 已经证明的事实制度化为最低共同现实。**
 >
@@ -204,6 +205,8 @@ No recognizable epidemic-policy imagery, terminology, testing analogues, quarant
 Critical cross-episode consequence:
 
 > **EP03 的一次医疗连接因为真的救过人而被重复依赖，逐步沉积成公共通道、管理边界与两套秩序重叠点，最终自然解释 EP08 的检查点。**
+
+EP04 now makes the early sediment visible only as ordinary background: repeated use, local routines, patched routes and low-level management habits — never as explicit social-theory exposition.
 
 Internal regional-interest rule:
 
@@ -310,34 +313,98 @@ Dominant Turn:
 
 > **两个区域都认为对接已经完成，但现实中的可通行状态没有真正重合；男主重新找到真实物理窗口，女科长只授权这一次，药真正过去。北京没有恢复连接；他们只是把一次连接做成了。**
 
-Key V2 changes:
-
-1. EP02 handoff corrected: accident tore the connection; everyone salvaged it but could not fully save it;
-2. seven minutes remains but is NOT locked as a simple clock difference;
-3. ordinary technical `handshake complete` becomes visible/audible, but does not equal physical connection;
-4. conflict grammar = complete public procedure not restored vs an essential medical action cannot wait;
-5. chief uses sufficient facts + sufficient authorization for this action only;
-6. male gets positive reinforcement that broken Beijing needs his field judgment;
-7. private AI experiences “seeing both sides ≠ possessing the physical relationship between them”;
-8. successful rescue itself creates future dependency: repeated need → maintenance → ordering → safety confirmation → management → de facto public corridor → EP08 overlap;
-9. medical girl remains the same person who naturally returns in EP08;
-10. V2 includes a Drama Skill Prior-Function Audit, Episode Card, Draft State Delta and Draft Continuation Capsule.
-
-Core long-term rule:
+Key long-term rule:
 
 > **EP08 的问题不是 EP03 的失败造成的；恰恰是 EP03 成功以后才可能出现。**
 
 ---
 
-# 12｜Current active episode versions
+# 12｜EP04 V2 — CURRENT AUTHORITY / confluence + Drama Skill pass complete
+
+Current file:
+
+> **`Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`**
+
+Approval scope:
+
+> **macro structure / episode function / causal integration / female-chief Rashomon interpretation / EP05 setup LOCKED; exact dialogue, micro-cases, shots and mechanisms remain TBD.**
+
+## EP04 is now a confluence episode
+
+It must absorb prior State Deltas as ordinary life, not as recap:
+
+- EP01: record / physical-reality fractures are now routine work conditions;
+- EP02: islanding, local operation, patched routes and emergency infrastructure are daily spatial/service background;
+- EP03: the low-capacity route is already being reused because the original one-off connection genuinely saved someone;
+- EP05 setup: the audience experiences the private AI as a subject who has continuously lived with the male across years.
+
+Core progression:
+
+> **EP03：生命不能等，所以允许一次有限例外。**
+>
+> **EP04：如果只有救命的事情才能在不完整北京里继续，那北京只剩急救系统，不再是一座城市。**
+
+Dominant Turn:
+
+> **老电影院只获准今晚这一场；工作结束后，女科长因为真的想看《罗生门》而留下，男主也留下。两人第一次从“维持临时生活的人”变成“生活在其中的人”。**
+
+Observable payoff:
+
+> **灯暗，电影真的开始。**
+
+End-image structure:
+
+> **客观物理空间：男主 + 女科长。男主私人感知：私人 AI — 男主 — 女科长。三者没有完整共享同一现实，却共享同一个夜晚。**
+
+## Female chief — Rashomon correction
+
+`LOCKED / HIGH PRIORITY`
+
+Do NOT interpret EP04 as the female chief discovering uncertainty through the film.
+
+> **她一直知道自己就在“罗生门式公共现实”里工作：不同人 / 系统 / 地方可能各自拥有部分成立的叙述，而公共行动仍然必须发生。**
+
+Her problem is not philosophical recognition.
+
+Her missing solution is:
+
+> **how to scale case-by-case judgment into a durable public order that can let multiple local realities coexist without requiring complete narrative unification or a single human adjudicator for every case.**
+
+Therefore:
+
+- 《罗生门》 = recognition / resonance / a familiar condition;
+- she may have watched it many times;
+- exact personal history remains TBD;
+- EP06–08 supply missing structural lessons;
+- EP09's minimum common reality is the institutional solution, not her first discovery that reality has multiple versions.
+
+## EP05 preparation
+
+EP04 should not explain continuity.
+
+Instead:
+
+> **let the audience habitually experience that the private AI was there years ago, yesterday, and today — sharing actual lived time with the male.**
+
+This becomes the emotional baseline for EP05:
+
+> **a reconstruction can be extremely similar and information-rich without being the same subject that continuously lived from yesterday into today.**
+
+## Tone direction
+
+Use restrained institutional/procedural urban-SF observation, infrastructure rhythm, quiet daily-life beats, professional systems and systemic absurdity as high-level traits only; do not copy any specific creator's scenes, dialogue, signature compositions or identifiable sequences.
+
+---
+
+# 13｜Current active episode versions
 
 | Episode | Active Latest Snapshot | Macro / Drama Skill status |
 |---|---|---|
 | EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md` | `MACRO V3 PASS DONE / formal card retrofit later if needed` |
 | EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md` | `MACRO V3 PASS DONE / formal card retrofit later if needed` |
-| **EP03** | **`Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`** | **`DONE — Drama Skill Episode Card pass`** |
-| EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md` | **`NEXT`** |
-| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md` | `PENDING` |
+| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md` | `DONE — Drama Skill Episode Card pass` |
+| **EP04** | **`Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`** | **`DONE — confluence / Drama Skill Episode Card pass`** |
+| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md` | **`NEXT`** |
 | EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md` | `MACRO principle-learning pass done / card audit later` |
 | EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md` | `MACRO preservation-break pass done / card audit later` |
 | EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md` | `PENDING — needs V3.2 + institutional-sediment pass` |
@@ -346,18 +413,18 @@ Core long-term rule:
 
 Current bounded macro sequence:
 
-> **EP04 → EP05 → audit/retrofit EP06 → audit/retrofit EP07 → EP08 V2 → audit/retrofit EP09 → EP10 V2 → final ten-card consistency check → SCREENPLAY PHASE.**
+> **EP05 → audit/retrofit EP06 → audit/retrofit EP07 → EP08 V2 → audit/retrofit EP09 → EP10 V2 → final ten-card consistency check → SCREENPLAY PHASE.**
 
 EP01/02 formal Episode Cards can be retrofitted during the final consistency check if their V2 files do not already contain all required contract fields; do not re-architect them without cause.
 
 ---
 
-# 13｜Current macro that must not drift
+# 14｜Current macro that must not drift
 
 1. EP01 — 302 / existence / world reveal / one-point model-reality failure.
 2. EP02 — islanding / failing bridge / forced salvage / people still believe restoration is the goal.
-3. **EP03 — medicine / seven-minute physical-window mismatch / one real connection / handshake complete ≠ physical contact / successful temporary exception begins repeat-use dependency.**
-4. EP04 — daily work / cinema / Rashomon / ordinary life sustained under fragmented reality / temporary exceptions begin to feel like normal life.
+3. EP03 — medicine / seven-minute physical-window mismatch / one real connection / handshake complete ≠ physical contact / successful temporary exception begins repeat-use dependency.
+4. **EP04 — confluence daily-life episode: EP01 record/reality fractures + EP02 local operation + EP03 repeat-use corridor become ordinary background; cinema pushes sufficient-fact/limited-authorization from survival into ordinary life; female chief already knows the Rashomon condition but lacks scalable governance; private-AI continuity becomes EP05 baseline.**
 5. EP05 — Wedding Mirror / representation vs continuity / hand-ring-snow motif.
 6. EP06 — winter divergence / shared physical reference / three-way relay / AI learns common rules also bind power-holders.
 7. EP07 — shared hub / first local admission total preservation failed / AI internalizes principle consistency.
@@ -367,7 +434,7 @@ EP01/02 formal Episode Cards can be retrofitted during the final consistency che
 
 ---
 
-# 14｜Highest unresolved finale items remain open
+# 15｜Highest unresolved finale items remain open
 
 - female chief's exact EP10 physical onsite action;
 - final handshake's minimum necessary technical function;
@@ -384,7 +451,7 @@ Do not resolve these merely to complete an Episode Card unless they actually aff
 
 ---
 
-# 15｜Document governance
+# 16｜Document governance
 
 Primary series architecture:
 
@@ -396,7 +463,11 @@ Detailed recent architecture history:
 
 Detailed EP03 approval + Drama Skill workflow history:
 
-> **`decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`**
+> `decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`
+
+Detailed EP04 confluence / Rashomon-aware-chief history:
+
+> **`decision-logs/2026-09-01-1134-EP04-CONFLUENCE-RASHOMON-DETAILED.md`**
 
 Superseded Master provenance:
 

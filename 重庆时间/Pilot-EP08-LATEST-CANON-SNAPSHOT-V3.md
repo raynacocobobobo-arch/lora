@@ -1,349 +1,371 @@
-# 《重庆时间》EP08 — LATEST CANON SNAPSHOT V3
+# 《重庆时间》EP08 — STORY CAUSAL REPAIR SNAPSHOT
 
-- Updated: 2026-09-01
-- Status: `LOCKED / ACTIVE V4 EPISODE CANON`
+- Updated: 2026-09-02
+- Status: `NEEDS_REVIEW / STORY-CAUSAL REPAIR ON BRANCH`
 - Project basis: `CHONGQING-TIME-MASTER-CANON-V4.md`
 - World basis: `WORLD-ARCHITECTURE-CANON-V4.md`
-- Approval scope: EP03→04→07 institutional sediment / familiar suspended bridge / resource-asymmetric robot standoff / two valid public orders / protected-person grace / disarmament→reclassification→programmatic destruction / EP09 political necessity locked; exact security protocol, quadruped model, humanoid robot task bundle, dialogue and shot timing remain `EXECUTION_TBD`.
+- Preserved locks: familiar EP03 lifeline / one medium quadruped vs multiple ordinary industrial humanoids / two valid public orders / protected-person grace / successful de-escalation causing programmatic destruction / no villain / no wheeled security vehicles.
+- Story repair: **女科长不能跨区直接“缴械对方”。退化侧必须由自己的公共主体自愿撤销工业机器人的临时 public-force role；撤销以后机器人仍有工业级力能力，因此主城区按另一套正确规则重新分类并程序化 disable。**
 
 ---
 
 # 01｜Episode function
 
-EP08 第一次证明：
+EP08 要证明的不是：
 
-> **当每一个地方公共秩序都继续完整保护自己负责的现实，而共同公共授权前提已经破裂时，正确履职本身也可能生产制度暴力。**
+> AI 出错以后造成误杀。
 
-不是：
+而是：
 
-- 哪一边 AI 出错；
-- 哪个授权字段有 bug；
-- 谁故意挑衅；
-- 找到更多现场事实就能完全解决。
+> **EP07 后，两边都更完整地依赖自己的地方公共秩序。EP03 那条救命桥已经长期变成真实公共路线；当一边的公共安全平台与另一边临时承担公共秩序任务的工业机器人在同一桥上相遇时，两套地方规则都正确保护自己的居民，却没有共同认可的公共强制力授权层。**
 
-本集的新函数：
+Dominant Turn：
 
-> **地方完整保全开始伤害另一块同样真实的第二新重庆。**
+> **双方为了避免真正交火，退化侧主动撤销工业机器人的临时公共强制任务。这个成功的降级动作反而使它们失去“对方公共系统能够识别的公共力量类别”，并被主城区重新分类为桥内无共同认可授权的高力工业平台，随后被程序化 disable / clear。**
 
----
+它不是“已物理缴械却还被当武装”的逻辑矛盾。
 
-# 02｜Location: the familiar lifeline has become an interface
+它是：
 
-地点不能突然出现一个陌生“边境检查站”。
-
-完整因果链：
-
-> **EP02 主桥失去**
-> → **EP03 为医疗打通低容量维护连接**
-> → **因为真的救到人而被再次使用**
-> → **EP04 形成时段 / 容量 / 维护 / 排序**
-> → **EP07 后两边更依赖各自完整地方公共系统**
-> → **EP08 两套公共秩序在同一条已经制度化的桥上实际重叠。**
-
-因此主现场锁为：
-
-> **悬在嘉陵江封闭结构空腔上方的跨区公共桥 / 接口。**
-
-它仍然是一条真的公共路线，不是专门为了安保对峙建造的舞台。
-
-桥下必须可读为有限工程体积，不是无限深渊。
+> **公共角色撤销成功，但物理能力仍然存在；不同系统对“谁有资格在公共通道里保有强制能力”没有共同答案。**
 
 ---
 
-# 03｜Do not write a conventional border checkpoint
+# 02｜Location — 还是那条救过人的桥
 
-这里原本不是国境线，也不是现实城市防疫式关卡。
+完整因果：
 
-它自然长出的功能包括：
+> EP02 主桥 loss
+> → EP03 低容量维护生命线救到人
+> → EP04 重复使用 / 排班 / 维护 / 排序
+> → EP07 两端地方化更完整
+> → EP08 同一条桥第一次出现公共强制力重叠。
 
-- 转运；
-- 维护；
-- 当前状态确认；
-- 有限公共通行；
-- 两端各自安全责任；
-- 不同地方系统对本区居民 / 设备的保护。
+它不是新建边境站。
 
-随着长期运行，它越来越像边界，但：
+仍然承担：
 
-> **边界是成功生命线长期沉积的副产品。**
+- 维修；
+- 医疗；
+- 必要通行；
+- 少量普通居民跨区。
 
-禁止视觉 / 剧情语法：
-
-- 栅栏排队；
-- 通行证政治；
-- 健康码式 UI；
-- 现实国境哨卡；
-- “医疗转运通道”大字标识；
-- 一眼可映射现实封控的符号。
+桥中央 Level 1–2 Gravity Handoff 让两套地方物理状态在身体上可见，但不是政治冲突原因。
 
 ---
 
-# 04｜Resource asymmetry — LOCKED
+# 03｜Cold Open — 普通路线今天为什么出现安全平台
 
-对峙两边资源状态必须不同。
+目标时长：`0:00–0:30`
 
-## Better-resourced side
+当天一批关键维修/公共服务人员需要通过生命线。
 
-> **一台中型四足公共安全机器人 / 平台。**
+资源更完整的一侧按照自己的公共安全规则，给这批必要公共作业配了一台：
 
-特征：
+> **中型四足公共安全平台。**
 
-- 专用公共安全设备；
-- 稳定、较完整；
-- 尺度明显大于普通工业机器人；
-- 有真实压迫感；
-- 不做华丽战争机甲。
+它不是战斗出征。
 
-## Degraded island side
+它的任务是：
 
-> **多台普通工业人形机器人，被本地 AI 协调来承担维护秩序的任务。**
+> 保护本区人员与关键生命线作业。
 
-它们：
+退化侧看到的却是：
 
-- 数量较多；
-- 单体能力低；
-- 原本主要用于工业 / 维护；
-- 因资源不足被重新分配公共秩序任务；
-- 设备与周边环境都能看出长期退化。
+> **一个无法通过自己地方公共授权链验证的专业强制平台正在接近本区负责的桥接口。**
 
-形成第一眼尺度关系：
+于是它用现有资源组织：
 
-> **一只更专业、更大的四足平台 vs 多只更普通、更小的工业人形机器人。**
+> **数台普通工业人形机器人，临时承担本区公共秩序/隔离任务。**
 
-数量差异代表资源现实，不代表善恶。
-
-锁定：
-
-> **不使用轮式安保车辆。**
+两边都合理。
 
 ---
 
-# 05｜Both local security systems are working correctly
+# 04｜Why they cannot simply “check one more field”
 
-一侧公共安全体系看到：
+主城区平台拥有：
 
-> 对方武装 / 具备潜在强制能力的机器人进入本区责任范围，但无法验证共同合法指挥链。
+- 自己完整的公共安全身份；
+- 本地合法授权；
+- 明确责任范围。
 
-它合理执行：
+退化侧工业机器人也拥有：
 
-> 识别 → 警告 → 限制 → 武力条件检查。
+- 由本地公共主体临时赋予的公共秩序任务；
+- 本地居民保护目标；
+- 本地桥口责任。
 
-另一侧得到对称判断：
+问题不是资料缺失。
 
-> 一台无法被本地公共授权验证的专业安全平台正接近自己的关键生命线与居民通路。
+而是：
 
-它也合理：
+> **双方已经没有一个共同上级能够把“对方的公共强制力”认证成自己也必须承认的公共强制力。**
 
-> 组织本地可用机器人维持秩序并建立防御。
+所以补更多现场事实只能说明：
 
-没有恶意 AI。
+- 谁在哪；
+- 谁朝哪；
+- 谁有没有攻击；
+- 桥是否安全。
 
-核心：
+它不能推出：
 
-> **两套都正常工作的公共暴力授权体系，在共同公共现实破裂后，把彼此合理地判定成无法验证的武装力量。**
-
----
-
-# 06｜Opening hook: physical route works, public authorization does not
-
-EP03：
-
-> **协议握手完成，但现实连接没有真正成立。**
-
-EP08 反向升级：
-
-> **现实连接已经长期存在，但公共授权协议握手无法建立。**
-
-观众可以直接看到：
-
-- 普通通行仍在发生；
-- 桥结构正常工作；
-- 两边对同一个机器人 / 安全动作给出互不承认的合法状态；
-- 双方对居民保护却拥有相似底层约束。
-
-问题已经从：
-
-> 能不能过去？
-
-变成：
-
-> **谁有权带着公共强制能力管理这条已经能过去的桥？**
+> **谁有权代表共同第二新重庆在这里使用强制力。**
 
 ---
 
-# 07｜Time mismatch worsens operations, but cannot solve legitimacy
+# 05｜Time / gravity only add pressure
 
-两端 local public time 不同，可以自然造成：
+两端 local public time 不同：
 
-- 一侧处于正常公共通行周期；
-- 另一侧处于夜间维护 / 低容量周期；
-- 安保值班级别不同；
-- 同一动作在双方记录中属于不同班次 / 责任窗口。
+- 一侧处于正常公共通行时段；
+- 另一侧处于低容量维护周期。
 
-这些会增加摩擦。
+这使双方对“今天这个动作属于什么责任窗口”理解更不一致。
 
-但是即使把两个钟完全校准，也不能回答：
+但调成同一个钟也解决不了授权。
 
-> **哪一套地方公共系统拥有共同认可的公共暴力授权？**
+桥中央 Gravity Handoff：
 
-因此时间是压力，不是答案。
+- 四足平台姿态调整；
+- 工业人形扶稳 / 改步态；
+- 普通人抓栏杆。
 
----
-
-# 08｜Gravity as embodied boundary
-
-桥中央存在 Level 1–2 Local Gravity Frame 过渡。
-
-表现：
-
-- 机器人步态在接触线附近改变；
-- 人员 / 运输需要扶栏或固定；
-- 两边设备各自在自己的重力方案里稳定；
-- 桥中央让“两个局部物理世界相接”变成身体事实。
-
-重力不能抢走公共合法性主冲突。
-
-它只让对峙更像：
-
-> **两套现实在一座真实桥上接触。**
+它只让“两个局部现实在同一桥上接触”变成身体事实。
 
 ---
 
-# 09｜Male discovers the limit of onsite fact
+# 06｜Male — 事实第一次明确给不出正当性
 
-男主仍然能确认：
+男主可以确认：
 
-- 平台真实位置；
-- 武器 / 强制能力当前朝向；
-- 谁跨越了什么实际物理界面；
-- 有无居民进入危险范围；
-- 是否存在即时开火事实；
-- 桥 / 重力过渡是否安全。
+- 四足平台没有先开火；
+- 工业机器人也没有主动越过自己的站位；
+- 两边都处于真实 force-capable 状态；
+- 桥结构安全；
+- 普通居民仍可能经过。
 
-但他第一次明确遇到：
+科长问他：
 
-> **“谁有权代表第二新重庆使用公共强制力”无法通过卷尺、传感器或现场观察测出来。**
+> **哪一边有权在这里承担公共强制任务？**
 
-这击穿他的一个危险隐含信念：
+这个问题不能靠现场测出来。
 
-> **只要拿到足够现场事实，我最终总能给出正确答案。**
+男主第一次真正承认：
 
-事实仍然重要，但不自动生成正当性。
-
----
-
-# 10｜Moment of Grace / protected-person common constraint
-
-保留医疗女孩 / 受保护普通人的回调功能。
-
-她通过这条桥时，双方更底层的保护逻辑都仍承认：
-
-> **不能向明确受保护人员开火。**
-
-这制造一个短暂的 Moment of Grace：
-
-> **两套公共秩序虽然互不承认彼此的公共武装授权，却仍共享一个更低层的具体保护约束。**
-
-这不是解决方案。
-
-它只是阻止立即交火，为女科长争取处理窗口。
-
-女孩不能被写成被故意推入射界的人质。
+> **present fact 能定义“现在是什么”，不能自动定义“谁有资格这样做”。**
 
 ---
 
-# 11｜Dominant turn: disarmament succeeds, then causes destruction
+# 07｜Moment of Grace — 医疗女孩只是正常经过
 
-女科长最终成功解除 / 撤销退化一侧机器人体系的公共武装控制，以阻止双方直接交火。
+EP03 医疗女孩再次使用这条生命线。
 
-表面看：
+她不是被推到射界里。
 
-> **冲突解决。**
+她今天本来就有正常通行需求。
 
-但这个动作产生一个完全合理的新系统状态：
+双方底层安全约束都仍保留：
 
-> **这些机器人 / 平台失去可验证合法公共指挥链，却仍具备潜在强制能力。**
+> **明确受保护普通人处在危险范围时，公共安全单位不能主动升级 force。**
 
-另一侧公共安全系统因此正常地重新分类：
+于是：
 
-> **不受控武装平台 / 无法验证控制主体的强制设备。**
+- 四足平台保持；
+- 工业机器人保持；
+- 两边都暂停升级。
 
-随后按照正常规则：
-
-> **执行程序化清除。**
-
-这不是 AI 失控。
-
-恰恰因为每一步都符合各自规则，本集才成立。
+这个短窗口让双方有时间做一个真正的降级动作。
 
 ---
 
-# 12｜Ending
+# 08｜Chief cannot disarm the island — 她只能提出一个双方都能执行的退让
 
-被清除的平台停止活动。
+女科长没有权力直接撤掉退化侧机器人的本地任务。
 
-桥重新开放 / 恢复低容量运行。
+她与退化侧当前公共主体 / local system 建立临时沟通，只提出：
 
-医疗、维护、必要通行继续。
+> **如果退化侧愿意把工业机器人从“临时公共强制任务”退回原本的维护/工业角色，主城区四足平台也停止继续前移，先避免 force-on-force。**
 
-系统从自己的局部角度看：
+退化侧为什么会同意：
 
-> **恢复正常。**
+- 它也不想在居民生命线上开战；
+- 自己的机器人本来就不是专业安保；
+- 受保护人员正在通过；
+- 保住桥继续使用符合本地居民利益。
 
-观众却刚刚看见：
+所以：
 
-> **没有恶人、没有失控系统，一场制度暴力仍然完整发生。**
+> **撤销 public-force role 是退化侧自己的决定。**
 
-这直接制造 EP09 的政治必要性。
-
----
-
-# 13｜Chief delta
-
-女科长的逐案程序能力第一次被证明不够规模化。
-
-她可以：
-
-- 延迟；
-- 撤权；
-- 重新定义一次动作；
-- 避免眼前交火。
-
-却不能靠不断手工特批解决：
-
-> **两套都越来越完整的地方公共秩序缺失共同合法性层。**
-
-因此 EP09 她必须从“继续处理案例”升级为：
-
-> **把共同公共边界本身送入制度。**
+女科长没有跨区夺权。
 
 ---
 
-# 14｜Episode Card V3
+# 09｜Dominant Turn — 正确的降级动作制造新的合法分类
+
+目标时长：`1:45–2:15`
+
+退化侧执行：
+
+> `PUBLIC FORCE ASSIGNMENT: REVOKED`
+
+工业机器人：
+
+- 放低工具；
+- 退出警戒姿态；
+- 回到本地 maintenance control；
+- 没有主动攻击意图。
+
+看起来冲突解决。
+
+但物理事实没有变：
+
+> **这些普通工业平台仍然拥有足以造成严重伤害的高力执行器、切割/维护工具或重型机械能力。**
+
+而主城区安全系统现在看到：
+
+> 桥核心公共安全区内存在多台 force-capable industrial platforms；它们已不再拥有自己能够承认的公共强制身份，控制主体也不是主城区可验证的公共安全链。
+
+于是另一条正常规则生效：
+
+> **未经共同认可公共授权的高力平台不得停留在关键公共生命线安全区。**
+
+系统发出短促程序化警告 / 清场条件。
+
+没有反派。
+
+---
+
+# 10｜Male principle bites back
+
+退化侧机器人已经站下。
+
+医疗女孩已经通过危险区。
+
+科长已经完成她能做的降级协调。
+
+男主再检查现场：
+
+- 没有受保护人员挡在清场区域；
+- 机器人确实仍有高力物理能力；
+- 它们当前公共强制角色确实已撤销；
+- 主城区安全规则的 trigger 条件现在客观满足。
+
+他不能为了阻止结果而撒谎：
+
+> “还有人” / “现场不清楚”。
+
+他的职业原则逼他确认：
+
+> **present condition confirmed。**
+
+这就是他第一次看见：
+
+> **事实本身不是善。事实只决定某个规则现在能不能执行。**
+
+---
+
+# 11｜Programmatic disable / clear
+
+主城区四足平台执行程序化 disable / clear。
+
+不是机甲大战。
+
+推荐：
+
+- 极短；
+- 精确；
+- 工业机器人一个个失去活动能力；
+- 没有英雄动作；
+- 不强调爆炸。
+
+从主城区规则看：
+
+> 正确清理关键公共通道中的未获认可高力设备。
+
+从退化侧居民看：
+
+> **他们刚刚主动让保护自己的机器人退下公共强制任务，下一秒这些机器却被另一边“合法”摧毁。**
+
+制度伤害成立。
+
+---
+
+# 12｜Ending — 系统恢复正常
+
+桥重新开放低容量通行。
+
+医疗、维修、普通人继续。
+
+本地状态显示：
+
+> `TRANSIT NORMAL / SAFETY CLEAR`
+
+没有恶人。
+
+没有 rogue AI。
+
+没有技术故障。
+
+观众却已经看到：
+
+> **一套第二新重庆的公共秩序，程序化摧毁了另一套第二新重庆曾用于保护居民的公共力量。**
+
+这直接迫使 EP09 从逐案处理进入共同合法性边界。
+
+---
+
+# 13｜State Delta
+
+1. EP03 生命线从“连接工具”升级为两套公共秩序真实重叠面。
+2. 双方 public-security systems 均按自身规则正确履职，但共同 legitimacy 缺失被证明会产生制度暴力。
+3. 女科长的手工逐案协调能力被证明不够：她可以避免交火，却无法保证结果不伤害另一套合法秩序。
+4. 男主明确遇到“现场事实不能生成正当性”，并第一次被自己的 present-fact 原则反咬。
+5. 医疗女孩完成因果 callback：观众知道这条桥最初为何值得保留。
+6. EP09 的最低共同现实不再是哲学提案，而是 EP08 事件后的制度必要性。
+
+---
+
+# 14｜Episode Card — repaired
 
 ```yaml
 episode_id: EP08
-episode_function: "第一次系统级证明地方完整保全本身可以成为危险：EP03救人生命线已经制度化为嘉陵江上的跨区公共桥，两套都正确保护本地居民的安全秩序无法互认公共强制力授权；女科长成功解除一侧控制以避免交火，却使其设备合理地被另一侧重新分类为不受控武装并程序化清除。"
-dominant_turn: "成功缴械反而触发合理清除。"
-core_conflict: "双方都必须保护本地居民和关键生命线，但不存在共同认可的公共强制力授权层。"
-conflict_grammar: "two locally valid public orders overlap without common legitimacy。"
-cost_after_solution: "直接交火被避免，但一套第二新重庆公共力量仍被另一套第二新重庆公共系统按正常规则摧毁。"
-ending_image: "桥重新运行，普通服务继续；制度伤害发生后系统仍显示正常。"
+target_duration: "2m30s–2m55s"
+episode_function: "EP07后两端地方公共安全链更完整，同一条EP03生命线出现公共强制力重叠：主城区一台专业四足平台与退化侧多台临时承担秩序任务的工业人形机器人互不承认对方授权。受保护人员通过提供短暂降级窗口；退化侧自愿撤销自己机器人的public-force role以避免交火，却使这些仍有工业高力能力的平台被主城区重新分类为关键通道内无共同认可授权的高力设备并程序化disable。"
+opening_hook: "普通维护/公共作业正在生命线上进行，一台专业四足平台与多台退化侧工业人形第一次正面停在同一桥中央。"
+dominant_turn: "成功撤销一侧public-force role避免了force-on-force，却直接触发另一侧合法的重新分类与程序化清场。"
+core_conflict: "两套地方公共秩序都正确保护自己的居民与生命线，但不存在共同认可的公共强制力授权层。"
+conflict_grammar: "two valid local public-force orders overlap without common legitimacy。"
+progression:
+  reveal_or_knowledge: "足够现场事实不能推出公共正当性。"
+  pressure_or_public_action: "地方完整保全第一次系统性伤害另一块同样真实的重庆公共力量。"
+  relationship_or_capability: "chief的逐案协调达到上限；male present-fact principle反咬自身。"
+callback_or_debt: "EP03 medical girl/lifeline payoff；EP07 local-order autonomy consequence；EP09 governance necessity opened。"
+cost_after_solution: "直接交火避免，但退化侧公共力量被摧毁，居民对共同公共秩序的信任进一步下降。"
+payoff_or_progress: "系统完全正常却产生不可接受公共后果，迫使问题升级到legitimacy层。"
+ending_cliffhanger_or_image: "被disable的工业机器人留在桥边，普通通行恢复，系统显示NORMAL。"
+mechanism_status: "LOCKED_DIRECTION: local voluntary role revocation -> cross-system reclassification -> programmatic disable; exact protocol TBD"
+dialogue_status: TBD
+state_delta:
+  - "lifeline becomes legitimacy-conflict interface"
+  - "degraded-side industrial security units disabled by other local order"
+  - "manual case-by-case coordination proven insufficient"
+  - "male accepts facts do not generate legitimacy"
+continuation_capsule: "EP09从EP08事件复盘开始：没有任何一边报告系统故障，因此女科长必须把问题从‘下次协调更好’升级为‘共同公共边界如何重新成立’。"
 ```
 
 ---
 
 # 15｜Hard prohibitions
 
-- no villain / rogue AI / sabotage explanation；
-- no generic ground checkpoint；
+- no chief remotely commandeering/disarming the island side；
+- no logical contradiction of 'fully disarmed but still armed'；
+- no rogue AI / villain；
+- no generic border checkpoint；
 - no wheeled security vehicles；
-- no generic military-mecha arms race；
-- no “医疗转运通道” explanatory signage；
-- no resource asymmetry coded as moral superiority；
-- no time-sync fix for legitimacy；
-- no gravity anomaly as cause of political conflict；
-- no male deriving legitimacy from physical facts；
-- no chief’s disarmament simply solving the episode；
-- no child used as deliberate human shield；
-- no ending where infrastructure shuts down just to underline tragedy。
+- no child used as shield；
+- no time-sync or gravity fix for legitimacy；
+- no male deriving moral authority from sensor facts；
+- no ending infrastructure shutdown just for tragedy。

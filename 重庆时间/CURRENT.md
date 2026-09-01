@@ -1,10 +1,10 @@
 # 《重庆时间》CURRENT — Canonical Entry Point
 
 - Updated: 2026-09-02
-- Status: `LOCKED / V4 ACTIVE CANDIDATE ON MIGRATION BRANCH`
+- Status: `LOCKED / V4 ACTIVE ON MAIN`
 - Project: **《重庆时间》**
 - City: **第二新重庆市**
-- Purpose: after this branch is merged, future ChatGPT / Codex / Agent sessions MUST start here.
+- Purpose: future ChatGPT / Codex / Agent sessions MUST start here.
 
 ---
 
@@ -158,7 +158,7 @@ The real preservation route for the private AI is to keep the old district + bri
 
 # 08｜Current production / execution phase
 
-V4 Canon migration body is written and consistency-audited on branch `chongqing-time-v4-canon`.
+V4 Canon migration body has been merged into `main` and is the active project authority.
 
 Current visual direction:
 

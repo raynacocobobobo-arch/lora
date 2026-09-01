@@ -1,7 +1,7 @@
 # 《北京市没有冬天》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-01
-- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER SHOWREEL V1 ACTIVE`
+- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER TEASER V2 ACTIVE`
 - Rule: one active Master; highest-numbered active Episode Snapshot wins concrete episode facts; narrow Canon patches may supersede terminology/scope; Drama Skill remains the episode-development gate. Non-Canon execution docs never supersede Canon.
 
 ## Primary Canon read order
@@ -29,35 +29,43 @@
 
 ## Active non-Canon execution layer
 
-### Trailer / visual showreel
+### Current teaser
 
-Current file:
+Current preferred file:
 
-> **`TRAILER-SHOWREEL-V1.md`**
+> **`TRAILER-TEASER-V2.md`**
 
 Status:
 
-> **APPROVED V1 / NON-CANON EXECUTION LAYER.**
+> **APPROVED V2 / NON-CANON EXECUTION LAYER / ~56s TARGET.**
 
-Use it when working on the first visual trailer, shot list, key visuals, asset requirements, or generation segments.
+Use it for current teaser shot design, key visuals, asset requirements, and generation segments.
 
-It does **not** alter Master V3.2 or any Episode Snapshot.
+Historical approved file retained:
 
-Key V1 locks:
+> `TRAILER-SHOWREEL-V1.md`
 
-- EP05 wedding public observation hall is the opening / ending mother space;
-- traditional wedding vow is the audio spine;
-- macro counterpoint: vow promises togetherness while Beijing loses shared space / shared time / shared order;
+V2 does not alter Master V3.2 or any Episode Snapshot.
+
+### V2 high-level locks
+
+- target length 45–60s, current timing ~56s;
+- wedding public observation hall remains opening / ending mother space;
+- traditional wedding vow remains audio spine;
+- macro counterpoint remains: vow promises togetherness while Beijing loses shared space / shared time / shared order;
 - only explicit strong word-action counterpoint: **“将我们分开” → female chief catches falling male**;
-- serious cinematic **cel-animation** direction: defined linework, cel-shadow blocks, dense mechanical backgrounds, restrained lighting;
-- EP06 time divergence is visualized in **one railway station / opposing platforms showing different public times simultaneously**, not two separate explanatory clock inserts;
-- main motion pool: EP02 slow structure separation / EP06 dual-time dual-season station / EP07 A-B capability inversion / EP08 mirrored security targeting / EP01 fall + catch;
-- private AI is not required to appear in this first visual showreel;
+- serious cinematic cel-animation direction remains: defined linework, cel-shadow blocks, dense mechanical backgrounds, restrained lighting;
+- environment storytelling is a hard rule: public life / maintenance should keep operating inside spectacle;
+- **slow ordinary-life contrast is retained** as three short 1.5–3s needles, not removed;
+- preferred contrast points: cleaning robot during wedding / resident-shop beat after structural separation / quiet worker-shop-service beat before security confrontation;
+- EP06 **one railway station / opposing platforms showing different public times and different seasonal states simultaneously** is first-priority key visual;
+- spectacle pool: EP02 slow structural separation / EP06 dual-time dual-season station / EP07 A-B capability inversion / storm-buried working infrastructure / EP08 mirrored security targeting / EP01 fall + catch;
+- private AI is not required to appear in this teaser;
 - protect all major later answers / reveals.
 
 Detailed provenance:
 
-> `decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`
+> `decision-logs/2026-09-01-1819-TRAILER-TEASER-V2-DETAILED.md`
 
 ## Screenplay gate
 
@@ -82,7 +90,8 @@ Only reopen macro Canon if a concrete screenplay scene cannot satisfy two locked
 - `decision-logs/2026-09-01-1422-TEN-EP-CONSISTENCY-TIMELINE-EP01-DETAILED.md`
 - `decision-logs/2026-09-01-1508-EP04-05-10-CHARACTER-RELATIONSHIP-DETAILED.md`
 - `decision-logs/2026-09-01-1542-EP10-LEGACY-BRANCH-RELAY-DETAILED.md`
-- **`decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`**
+- `decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`
+- **`decision-logs/2026-09-01-1819-TRAILER-TEASER-V2-DETAILED.md`**
 
 ## Highest cross-episode relationship locks
 
@@ -212,4 +221,4 @@ Canon:
 
 Trailer:
 
-> **TRAILER V1 → Shot List / Key Visual / Asset Requirements / Generation Segments.**
+> **TEASER V2 → Key Visual Style Test → Shot Asset List → Generation Segment Plan.**

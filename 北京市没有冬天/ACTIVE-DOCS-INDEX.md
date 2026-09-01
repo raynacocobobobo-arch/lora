@@ -57,6 +57,30 @@ Important:
 - EP09 = institutionalization, not first discovery;
 - EP10 = strategic active contraction.
 
+## Hidden social-structure reference — INTERNAL ONLY
+
+Master V3.2 now includes an internal structural reference for EP02→EP08 social evolution:
+
+> **临时措施 → 临时例外 → 必要通道 → 重复使用 → 例外常态化 → 新生活依赖 → 制度沉积 → 新秩序 → 新正当性冲突。**
+
+This may draw abstractly from real long-duration emergency / isolation social dynamics, but it is **never an explicit COVID / lockdown allegory**.
+
+Hard rule:
+
+> **结构可以借，表征必须彻底换掉。**
+
+Do not use recognizable epidemic-policy UI, terminology, testing analogues, quarantine-camp analogues, color-pass systems, slogans or one-to-one real events.
+
+The key story consequence is:
+
+> **EP03 的一次医疗连接因为真的救过人而被重复依赖，逐渐沉积成公共通道、管理边界与两套秩序重叠点，帮助自然解释 EP08 的检查点。**
+
+Regional-interest internal rule:
+
+> **你口中的恢复，对我可能是第二次失序。**
+
+This is a writing principle, not mandatory dialogue.
+
 ## AI principle-consistency arc
 
 - EP06 = experience: common rules also constrain power-holders / rule-makers;

@@ -81,6 +81,7 @@ This relationship setup must converge into the same episode's forced-loss trunk-
 - EP06: shared synchronous action uses a cross-district thermal/environment node and a neutral mechanical phase reference; choosing one side's local timestamp would require unauthorized cross-time-domain trust, not magically declare permanent sovereignty.
 - EP07: Hub is healthy but designed around one coherent shared-city state; A/B divergence invalidates that design premise. Rotation, time-slicing, balanced mode and simple split must be explicitly shown insufficient.
 - EP08: degraded side revokes its own temporary public-force assignment; chief does not remotely commandeer it. Robots retain industrial force capability and are reclassified by the other local order as force-capable platforms without mutually recognized public authorization.
+- EP08 obvious-retreat gate: after public-force role is revoked, the humanoids return to their original **active maintenance role on the degraded-side bridge interface**. They are not free spare units: withdrawing them would force that side to close/abandon the very life-line interface they are maintaining. The degraded local order therefore correctly keeps them in place as maintenance equipment; the better-resourced side correctly sees multiple high-force industrial platforms remaining inside a critical public-safety zone without mutually recognized public-force authorization. The tragedy cannot depend on all characters simply forgetting that the robots could walk away.
 
 ---
 

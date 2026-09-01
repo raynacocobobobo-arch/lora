@@ -1,84 +1,74 @@
 # 《北京市没有冬天》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-01
-- Status: `CURRENT WORKING INDEX / MASTER V3.1 ACTIVE / EPISODE BACKPROP ACTIVE`
-- Rule: future ChatGPT / Codex / Agent sessions should use Master V3.1 as the current series-level creative basis, then use the **highest-numbered active Latest Snapshot** for each episode.
+- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EPISODE BACKPROP ACTIVE`
+- Rule: use one active Master only; use the highest-numbered active Latest Snapshot for each episode.
 
 ## Primary read order
 
-1. `CURRENT.md` — canonical entry point, precedence and current work state.
-2. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md` — conflict-resolution rule.
-3. **`BEIJING-NO-WINTER-MASTER-CANON-V3.1.md` — PRIMARY CURRENT SERIES CREATIVE BASIS.**
-4. `BEIJING-NO-WINTER-MASTER-CANON-V3.md` — prior Master; provenance / non-conflicting detail only.
-5. **`Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`**
-6. **`Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`**
-7. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md`
-8. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md`
-9. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md`
-10. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V1.md`
-11. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V1.md`
-12. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
-13. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md`
-14. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
-15. Current `hermes-creative-ai-short-drama` Skill when changing story structure or moving toward screenplay/production.
+1. `CURRENT.md`
+2. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
+3. **`BEIJING-NO-WINTER-MASTER-CANON-V3.2.md` — PRIMARY CURRENT SERIES CREATIVE BASIS**
+4. **`Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`**
+5. **`Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`**
+6. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md`
+7. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md`
+8. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md`
+9. **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md`**
+10. **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md`**
+11. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
+12. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md`
+13. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
+14. current `hermes-creative-ai-short-drama` Skill when changing structure / screenplay / production stage.
 
-## Current series-axis correction
+## Detailed decision provenance
 
-Master V3.1 supersedes V3 on the season's loss / sacrifice timeline.
+For recent architecture changes, read:
 
-Current locked axis:
+> **`decision-logs/2026-09-01-1000plus-DETAILED.md`**
 
-> **EP01–EP08：AI、人和制度一直努力修、保、续、救；局部正确的保全动作不断制造次生灾害，北京被动失血。**
+This file intentionally preserves more than a conclusion list. It records:
+
+- the user's explicit rejected wording / direction;
+- why the old interpretation was wrong;
+- the corrected semantic boundary;
+- which episode functions changed;
+- how the correction propagates through later episodes;
+- which details remain TBD.
+
+This is the new default for architecture-level Git revisions.
+
+## Current season axis
+
+> **EP01–EP06：尽可能全部保存。**
 >
-> **EP09：第一次承认“全部保存”这个目标已经失败。**
+> **EP07：第一次在局部案件中承认“全部保存”失败。**
 >
-> **EP10：第一次战略性主动决定什么不再继续——主动失血，向死而生。**
+> **EP08：证明完整保全目标会产生系统级次生灾害 / 制度暴力。**
+>
+> **EP09：将这一事实制度化为最低共同现实。**
+>
+> **EP10：执行新的共同边界；同一原则落到私人 AI 与男主自己。**
 
-Important distinctions:
+Important:
 
-- EP01–06 = `被迫失血 / forced loss`;
-- EP07 = `局部手术式止损 / tactical sacrifice to preserve more`;
-- EP09 = `目标函数改变`;
-- EP10 = `战略性主动收缩 / active contraction`.
+- EP02 = forced salvage / passive loss;
+- EP07 = first local preservation break, still intended to preserve A+B;
+- EP09 = institutionalization, not first discovery;
+- EP10 = strategic active contraction.
 
-This distinction must not be flattened back into “the characters gradually learn to sacrifice.”
+## AI principle-consistency arc
 
-## Handshake correction
+- EP06 = experience: common rules also constrain power-holders / rule-makers;
+- EP07 = history + relationship experience become an internal principle;
+- internal principle:
+  > **规则如果只在代价落到别人身上时成立，就不是共同规则。**
+- EP09 = AI realizes the principle may apply to her own continuity and does not want to leave;
+- EP10 = she does not invalidate the principle merely because she is now paying the cost.
 
-Current natural ladder:
+Male counterpart:
 
-- EP01: unable to handshake / verify ≠ nonexistent;
-- **EP02: no handshake seed required**;
-- EP03: handshake complete ≠ physical connection;
-- EP05: hand/ring/reconstructed human contact;
-- EP06: shared reference required for trustworthy handshake;
-- EP08: mutual authorization handshake fails, minimum shared constraint remains;
-- EP09: common future states must remain mutually confirmable;
-- EP10: spoken “握手” + unreachable human hand + real technical handshake.
-
-Superseded:
-
-> **“EP02: correct handshake can mean disconnect.”**
-
-## Episode revision rule
-
-A new episode `V2` does not delete V1.
-
-> **V2 supersedes V1 only where it revises the same matter; V1 remains provenance and may retain non-conflicting detail.**
-
-Current progress:
-
-- EP01 V3/V3.1 backprop: `DONE — first pass`
-- EP02 V3.1 backprop: `DONE — first pass`
-- EP03: `NEXT`
-- EP04–EP10: `PENDING`
-
-When an episode is revised:
-
-1. create / activate the next `LATEST-CANON-SNAPSHOT-V*`;
-2. preserve earlier snapshot as provenance;
-3. if macro function changes, update Master V3.1's matrix / ladders;
-4. do not auto-resolve TBD mechanisms or dialogue.
+> **He must try to save her first; the final test is that he does not convert private attachment into a permanent public privilege.**
 
 ## Current active episode authority
 
@@ -89,15 +79,29 @@ When an episode is revised:
 | EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V1.md` |
 | EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md` |
 | EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md` |
-| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V1.md` |
-| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V1.md` |
+| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md` |
+| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md` |
 | EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md` |
 | EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md` |
 | EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md` |
 
+## Superseded Master archive
+
+Old Masters are no longer allowed to remain beside the current Master in the active root.
+
+Archive index:
+
+> **`archive/master-canon/README.md`**
+
+It records exact historical blob SHAs / creation commits for Master V3 and V3.1. Full texts remain recoverable in Git history.
+
+Current active Master:
+
+> **`BEIJING-NO-WINTER-MASTER-CANON-V3.2.md`**
+
 ## Derived active-root documents
 
-Retained for information density and provenance, but no longer first authority:
+Retained as specialized reference only:
 
 - `Series-LATEST-CANON-SNAPSHOT-V1.md`
 - `Series-Bible-V2.1-SKILL-COMPLIANT-CANONICAL.md`
@@ -105,21 +109,13 @@ Retained for information density and provenance, but no longer first authority:
 - `Series-Development-Status-V0.1-SKILL-CHECKLIST.md`
 - `Theme-Keywords-EP01-EP10-V0.2-CANONICAL.md`
 
-Governance:
+They cannot override Master V3.2 or a later episode Latest Snapshot.
 
-- `SERIES-DERIVED-DOC-STATUS-V3.md`
+## Historical archive
 
-## Design / implementation provenance
+Earlier canon / patches remain under:
 
-- `docs/superpowers/specs/2026-09-01-master-canon-v3-design.md`
-- `docs/superpowers/plans/2026-09-01-master-canon-v3-plan.md`
+- `archive/2026-08-31-pre-latest-snapshot/`
+- `archive/master-canon/`
 
-These are process records, not story canon.
-
-## Archive
-
-Historical canon, patches and superseded episode/character/governance documents remain under:
-
-`archive/2026-08-31-pre-latest-snapshot/`
-
-Archive files are provenance only and cannot override current Master / Latest snapshots.
+Archive is provenance only.

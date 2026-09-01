@@ -1,363 +1,339 @@
-# 《重庆时间》EP06 — LATEST CANON SNAPSHOT V4
+# 《重庆时间》EP06 — STORY CAUSAL REPAIR SNAPSHOT
 
-- Updated: 2026-09-01
-- Status: `LOCKED / ACTIVE V4 EPISODE CANON`
+- Updated: 2026-09-02
+- Status: `NEEDS_REVIEW / STORY-CAUSAL REPAIR ON BRANCH`
 - Project basis: `CHONGQING-TIME-MASTER-CANON-V4.md`
 - Character basis: `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-- Approval scope: two valid local public times / no common now / shared-infrastructure synchronous action / common physical reference / three-person role split / chief↔private-AI major relationship turn / time-gravity independence locked; exact infrastructure, reference, protocol fields, dialogue and shot timing remain `EXECUTION_TBD`.
+- Preserved locks: two valid local public times / no common now / one shared-infrastructure synchronous action / neutral physical reference / male-AI-chief role split / chief↔private-AI restrained recognition / time-gravity independence.
+- Concrete story repair: **本集共享设施锁定方向为嘉陵江跨区热储能/环境换热节点；共同 reference 锁定方向为节点内部双方均可直接观测的机械相位，而不是任一地区时钟。**
 
 ---
 
 # 01｜Episode function — title episode
 
-EP06 是剧名 **《重庆时间》** 第一次在剧情机制上完整成立的一集。
+EP06 不是“两个钟不一样所以大家算一下时差”。
 
-两个城区已经各自正常运行：
+本集具体冲突：
 
-- 有自己的公共时间；
-- 有自己的交通节律；
-- 有自己的工作 / 休息周期；
-- 有自己的维护窗口；
-- 有自己的公共服务状态。
-
-它们都不是“坏掉的时间”。
-
-但：
-
-> **各自拥有有效现在，不等于第二新重庆市仍拥有共同现在。**
-
-本集必须有一项真实共享公共基础设施，需要两个区域在同一个物理瞬间完成同步交接。
+> **A、B 两区已经分别拥有有效 local public time。嘉陵江一座共享热储能 / 环境换热节点必须在同一个真实物理瞬间完成一次跨区负载交接；两边本地安全系统都只接受自己 local-time validity window 内的公共指令，因此双方都准备好了，却没有一个彼此认可的跨区 transaction timestamp。**
 
 Dominant Turn：
 
-> **三方拒绝把任一地区本地时间直接升级成全城真理，而退到一个双方都可观测、任何一方都不能单方面改写的共同物理 reference；私人 AI 计算映射，女科长只授权本次公共动作，男主现场确认 execute / abort，两个区域完成一次真正同步的交接。**
+> **三人不让任一 local clock 临时冒充共同授权基准，而把这一次 transaction 绑定到共享设备本身的机械相位；私人 AI 完成本地状态到机械相位的映射，男主确认现场条件，女科长授权这一次，两区真正同时动作。**
 
-动作成功后：
+成功后：
 
-> **两边仍然回到各自 local now。**
+> 两边仍然回到自己的 local now。
 
-他们只获得一个共同瞬间，没有重新获得持续共同现在。
+他们获得的是：
+
+> **一个共同瞬间。**
 
 ---
 
-# 02｜Opening visual logic
+# 02｜Why now — 不是哲学讨论，是今天必须交接
 
-不需要天空。
+共享节点长期连接 A/B 两区的环境热管理。
 
-优先通过封闭城市环境表现：
+功能可理解为：
+
+- 一组中央热缓冲 / 蓄能单元；
+- 两侧分别有本地泵组与控制阀；
+- 平时各区可在自己的节律中运行；
+- 缓冲单元到达维护/容量边界时，需要把主负载从一组路径切到另一组路径。
+
+今天其中一组缓冲单元到达必须退出的服务窗口。
+
+如果不完成交接：
+
+- A、B 各自的保护系统都会开始环境负载削减；
+- 不会立刻爆炸；
+- 但医院、公共空间、交通设备会逐步进入降级。
+
+所以 why now 很清楚：
+
+> **这次交接今天必须发生。**
+
+---
+
+# 03｜Cold Open — 同一设施，两边活在不同一天
+
+目标时长：`0:00–0:30`
+
+同一共享节点两端：
 
 A 区：
 
-- 明亮白天式公共照明；
-- 通勤 / 工作高峰；
-- 商业开放；
-- 某些维护项目暂停。
+- 白天式照明；
+- 高公共负载；
+- 正常工作/通勤周期。
 
 B 区：
 
 - 夜间低照度；
-- 交通密度降低；
-- 维护窗口开放；
-- 居民休息周期；
-- 不同值班模式。
+- 维护班；
+- 公共负载较低。
 
-两边可以通过正常桥 / 接口 / 共享公共节点在同一画面被看见。
+两边都显示：
 
-关键：
+> `LOCAL TRANSFER READY`
 
-> **不是“一个地方灯亮一个地方灯暗”的纯视觉花活，而是两个时间状态各自真正改变公共行为。**
+但跨区 transfer 无法 arm。
 
----
+因为 A 发出的执行签名带 A 的 local-valid timestamp；B 的公共系统无法把它识别成自己的有效公共时刻。
 
-# 03｜EP05 → EP06 transition
+B 反过来也一样。
 
-EP05 婚礼已经让观众在情绪上看见：
+这不是 bug。
 
-> **同一座城市的不同区域并不自然共享同一个生活时刻。**
-
-EP06 将其从背景 / 情绪反衬升级成公共系统问题：
-
-> **今天两个不同 local now 必须对同一个共享设施真正同时行动。**
-
-因此 EP05→EP06 不需要额外新异常做桥接。
+它们各自都在正确保护本地公共系统不接受“过期/未来/无法验证时间域”的跨区指令。
 
 ---
 
-# 04｜Shared infrastructure requirements
+# 04｜为什么“就用 A 时间”不是中性的技术选择
 
-具体设施仍 `EXECUTION_TBD`，但必须满足：
+旧写法不能再说：
 
-1. A、B 都真实依赖它；
-2. 平时各自本地系统都可以正常工作；
-3. 某次交接 / 切换必须发生在同一个真实物理瞬间；
-4. 任一边提前 / 延后会触发双方各自合理的保护逻辑；
-5. 不能通过“所有人改用 A 区时间”解决；
-6. 动作结果要足够可视、可验证，不只是屏幕数字变化。
+> 用一次 A 时间就等于宣布 A 是全城真理。
 
-优先功能家族：
+那是逻辑跳跃。
 
-- 环境循环；
-- 能源 / 储能；
-- 生命保障；
-- 热管理；
-- 某个跨桥公共服务节点。
+正确问题是更窄、更具体的：
 
-精确选择进入 screenplay / engineering pass。
+> **要让 B 接受一个以 A local time 签名的公共动作，B 必须临时把 A 的时间签名机构提升为本次跨区公共授权的可信 reference；反过来也一样。**
 
----
+当前没有任何公共程序已经授权某一边拥有这个跨区优先级。
 
-# 05｜Why choosing one local time is not neutral
+女科长有权：
 
-最简单技术提议看似是：
+> 批准这次公共操作。
 
-> **所有人都按 A 区的时间做。**
+但她无权仅为省事就替 B 宣布：
 
-问题在于，这会偷偷完成一个远大于当前任务的公共动作：
+> A 的时间签名从现在起可以充当 B 的跨区公共 reference。
 
-> **把一个局部的时间标准提升成第二新重庆市公共真理。**
+所以问题不是哲学洁癖，而是：
 
-同样不能因为女科长拥有公共权力，就把她所在一侧时间写成标准。
-
-她此时可以决定：
-
-> **这一次公共动作是否授权。**
-
-但不能借一次工程操作决定：
-
-> **整个重庆“真正几点”。**
-
-这使“权限自我限制”成为人物动作而非哲学对白。
+> **当前授权边界里没有“让一边的 local time 暂时统治另一边”这个动作。**
 
 ---
 
-# 06｜Common physical reference
+# 05｜Obvious alternatives
 
-解决方案不是 A 赢，也不是 B 赢。
+### “手动把两个钟调一样”
 
-而是寻找：
+无效。
 
-> **双方都可观测、双方都受约束、任一区域不能单方面改写的物理 reference。**
+因为 local public time 不只是显示数字，还绑定：
 
-reference 必须满足：
+- 班次；
+- 维护历史；
+- 安全指令 validity；
+- 本地公共日志；
+- 设备状态窗口。
 
-- A 能观察 / 映射；
-- B 能观察 / 映射；
-- 私人 AI 能计算它与双方 local state 的关系；
-- 男主现场可以验证它与当前物理设备状态的对应；
-- 女科长不能通过行政命令改变其发生；
-- reference 本身不等于新的长期全城统一时间。
+临时改显示不等于公共状态同步。
 
-候选可来自：
+### “让科长强制指定一个时间”
 
-- 外部可共同观测事件；
-- 明确机械周期；
-- 光学 / 轨道 / 结构物理事件；
-- 其他双方无法单方面伪造的事件。
+她可以授权操作，不能用行政权制造一个双方都承认的物理/协议 reference。
 
-精确 reference `EXECUTION_TBD`。
+### “不用同步，先开 A 再开 B”
 
-核心：
+共享热节点的两侧阀组必须在非常窄的同一物理相位完成切换；明显提前/滞后会产生压力/热冲击并触发双方保护停机。
 
-> **共同条件来自所有参与者都必须服从的现实，不来自谁权限最高。**
+因此本集真正需要：
+
+> **双方共同受约束、又不属于任何一边 local clock 的 transaction reference。**
 
 ---
 
-# 07｜Protocol handshake progression
+# 06｜Common physical reference — 用设备自己的“这一刻”
 
-EP03：
+共享节点有一个双方都能直接观测的物理周期，例如：
 
-> **协议握手完成 ≠ 现实已经连接。**
+> **中央惯性泵 / 蓄能转子的机械零位经过固定光学基准。**
 
-EP06：
+它满足：
 
-> **没有足够共同 reference，就没有可信的跨区同步 / 协议握手条件。**
+- A 能直接传感；
+- B 能直接传感；
+- 男主现场能验证；
+- 私人 AI 能把两侧 local state 映射到它；
+- 任一边不能单方面把它提前或改写；
+- 它只定义本次 transaction 的共同瞬间，不定义未来统一重庆时间。
 
-技术系统可以分别知道：
-
-- A 已准备；
-- B 已准备；
-- 双方本地流程都完成。
-
-却仍然不知道：
-
-> **它们是否正在指向同一个可共同执行的真实瞬间。**
-
-本集把 protocol handshake 母题从接口状态推进到 temporal reference。
+这比“看地球到某条线”更紧、更工业，也更适合封闭城市。
 
 ---
 
-# 08｜Three-person action
+# 07｜Three-person action
 
 ## Private AI
 
-能：
+她读取两侧状态，计算：
 
-- 读取双方大量状态；
-- 理解旧同步关系；
-- 映射 local time / local state 与共同 reference；
-- 计算执行窗口。
+> 各自 local-valid window 与中央机械相位的映射。
 
-不能：
-
-> **仅凭内部数据独自创造 / 证明共同现在。**
-
-她必须依赖男主当前现场和公共授权。
-
-## Female chief
-
-能：
-
-- 让私人 AI 的判断进入一次公共动作；
-- 明确使用范围；
-- 授权这一次同步；
-- 承担公共后果。
-
-不能：
-
-- 获得永久私人 AI 访问；
-- 把一侧 local time 提升为全城标准；
-- 越过男主的现场 execute / abort 事实。
+她明显担心男主进入节点现场，但不把偏好伪装成公共规则。
 
 ## Male
 
-能：
+确认：
 
-- 确认设备与桥 / 接口真实状态；
-- 确认物理 reference 是否真的对应到预计窗口；
-- 给出 execute / abort。
+- 实际阀组位置；
+- 当前压力；
+- 机械零位传感没有漂移；
+- 重力过渡稳定；
+- 到 reference 时是否 execute / abort。
 
-不能：
+本集刻意让 Local Gravity Frames 大体兼容，避免观众误以为“时间裂了所以重力也一定裂”。
 
-- 单独定义公共时间；
-- 单独给予公共授权。
+## Female chief
 
----
+她只请求私人 AI 完成本次映射所需的数据范围。
 
-# 09｜Gravity independence — deliberate design
+不要求永久访问。
 
-本集必须刻意避免“时间不同，所以重力也乱”的错误联想。
+她也明确：
 
-EP06 主要连接的两个区域：
+> 这次 reference 不成为未来全城时间标准。
 
-> **Local Gravity Frames 过渡大体兼容 / 可稳定管理。**
-
-重力可以存在为环境事实，但不制造主要风险。
-
-功能：
-
-> **明确告诉观众：Local Public Time 与 Local Gravity Frame 是两个独立的共同-reference 故障轴。**
-
-这使后续 EP08 / EP09 可以在需要时分别调用，不会变成一套万能异常。
+最终公共授权仍由她承担。
 
 ---
 
-# 10｜Chief ↔ private AI major relationship turn
+# 08｜Choice / Dominant Turn
 
-本集必须给这段关系足够戏剧空间。
+目标时长：`1:25–2:10`
 
-## Before
+中央转子接近机械零位。
 
-女科长对私人 AI 的判断：
+A 区的 local clock 与 B 区完全不同。
 
-> **太情绪化、太依附男主、保留过多非任务信息，不像干净的公共系统智能。**
+两边本地系统却都能看到同一个物理相位即将到达。
 
-私人 AI 对女科长的判断：
+私人 AI：
 
-> **过度控制、过度程序化、把效率和边界放在情绪之前。**
+> mapping window valid.
 
-两边都不是无理由偏见。
+男主：
 
-## During operation
+> physical state valid / execute.
 
-科长看见：
+女科长：
 
-- AI 明显想保护男主；
-- 没有假装没有偏好；
-- 但不会把私人愿望偷渡成公共规则；
-- 能接受自身访问 / 能力被任务边界约束。
+> authorize this transfer.
 
-AI 看见：
+机械零位经过。
 
-- 科长确实拥有权力；
-- 却拒绝拿更多；
-- 不把自己的 local time 宣布为全城真理；
-- 让自己的权限也服从共同 reference；
-- 尊重男主的现场现实范围。
+两端阀组同时切换。
+
+热流/泵组/公共环境负载发生可见变化。
+
+成功。
+
+这就是《重庆时间》第一次真正成立：
+
+> **他们没有一个共同钟，却做成了一次必须共同发生的现在。**
+
+不让角色说出来。
+
+---
+
+# 09｜Relationship turn — chief ↔ private AI
+
+本集同时让双方看见对方如何自我限制：
+
+科长看见 AI：
+
+- 有私人偏好；
+- 明显想保护男主；
+- 但不会把这种偏好偷渡成跨区公共规则。
+
+AI 看见科长：
+
+- 有更大权限；
+- 却只取本次必要访问；
+- 不把自己所在区时间强行变成标准；
+- 允许男主保留现场 abort。
 
 结果：
 
 > **互相误读 → 克制的承认。**
 
-不是友情，不是招募。
+不是友情。
 
 ---
 
-# 11｜AI principle-learning debt
+# 10｜Cost / ending
 
-私人 AI 在本集第一次“经历”而不是“总结”：
+交接完成以后：
 
-> **真正共同的规则会同时限制所有参与者，包括拥有更大能力或权限的人。**
+A 区公共钟继续自己的时间。
 
-她不需要在 EP06 说出原则。
+B 区公共钟也继续自己的时间。
 
-EP07 她在实时外部世界进一步缩小时，才会把：
+商店、轨道、工作班次仍不同。
 
-- 这次经验；
-- EP04《罗生门》；
-- 历史记录；
-- A/B 真实降级能力；
+这次共同 reference 结束。
 
-共同转化成问题重构。
+他们没有重建持续共同 now。
 
----
+所以成功的成本/限制是：
 
-# 12｜Cost after success
+> **每一次跨区共同动作以后，双方仍会回到各自本地秩序。**
 
-交接成功不等于统一恢复。
-
-A、B：
-
-- 仍保留自己的 local public time；
-- 仍保留自己的生活节律；
-- 仍可能有不同维护周期；
-- 仍没有持续共同 now。
-
-他们获得的是：
-
-> **一次真实共同瞬间。**
-
-不是：
-
-> **重新变成一个统一时间系统。**
-
-这为 EP07 的共享资源问题和后续公共治理保留压力。
+这为 EP07 的共享 Hub 困境保留压力。
 
 ---
 
-# 13｜Episode Card V4
+# 11｜State Delta
+
+1. 两区 local public time 被明确证明都是有效公共状态，而非坏钟。
+2. 共享设施第一次在没有统一时钟的情况下依靠 neutral physical reference 完成同步 transaction。
+3. 一边 local time 不可在未授权情况下直接充当另一边公共指令 reference。
+4. 女科长与私人 AI 建立克制的可信关系基础。
+5. 私人 AI 亲历“共同规则也限制拥有更多能力的人自己”。
+6. 时间与重力被明确分离为不同故障轴。
+
+---
+
+# 12｜Episode Card — repaired
 
 ```yaml
 episode_id: EP06
-episode_function: "两个城区各自拥有有效local public time，却因此没有持续共同现在；一项共享基础设施必须在同一真实物理瞬间交接，三方拒绝把任一区时间提升成全城真理，转而使用双方都受约束的共同物理reference完成一次同步公共动作。"
-dominant_turn: "私人AI完成两边local state到共同reference的映射，女科长给予一次性窄公共授权，男主现场确认execute/abort，两个区域真正同时行动。"
-core_conflict: "两个局部正确时间秩序需要共同动作，却没有共同reference；选一边作为标准又会把技术操作偷偷变成公共主权决定。"
-conflict_grammar: "two valid local nows vs no common now。"
-cost_after_solution: "只获得一次共同瞬间，两边仍回到不同local now；公共时间问题没有被消灭。"
-relationship_turn: "chief↔private AI mutual misreading → restrained recognition。"
+target_duration: "2m25s–2m50s"
+episode_function: "A/B各自拥有有效local public time，但嘉陵江共享热储能/环境换热节点必须在同一个物理瞬间完成负载交接。双方公共安全系统都不接受对方local-time签名作为自己的跨区授权reference；三人改用共享设备本身不可单方改写的机械相位完成一次transaction。"
+opening_hook: "同一设施两端分别处于白天工作周期与夜间维护周期，两边都LOCAL READY，却无法arm同一次transfer。"
+dominant_turn: "机械共同reference到达，AI映射、男主execute、科长授权，两端真正同时切换。"
+core_conflict: "两个有效local now必须共同操作一件共享设施，但不存在互相认可的跨区transaction reference。"
+conflict_grammar: "two valid local time-authority domains vs one shared physical action。"
+progression:
+  reveal_or_knowledge: "没有共同钟不等于不能拥有一次共同瞬间；公共时间是授权/生活状态，不只是数字。"
+  pressure_or_public_action: "一次共享环境节点交接成功，但不产生长期统一时间。"
+  relationship_or_capability: "chief/private-AI通过自我限制建立克制承认；三人角色边界完成。"
+callback_or_debt: "AI self-limitation experience -> EP07 reframing；time independence -> EP08/09。"
+cost_after_solution: "只解决这一次transaction；两边仍回到各自local now，跨区协调成本继续存在。"
+payoff_or_progress: "标题机制第一次完整戏剧化。"
+ending_cliffhanger_or_image: "操作成功后，两边公共钟仍显示不同时间，生活继续。"
+mechanism_status: "LOCKED_DIRECTION: shared thermal/environment node + neutral mechanical phase; exact hardware VALIDATE_LATER"
+dialogue_status: TBD
+state_delta:
+  - "one-shot neutral physical reference proven workable"
+  - "local time authority remains separate"
+  - "chief/private-AI restrained recognition established"
+continuation_capsule: "EP07面对的不是一次同步，而是一台本来依赖单一共享城市状态才能长期优化的健康Hub；A/B分叉已经让它持续服务任何一边都会伤到另一边。"
 ```
 
 ---
 
-# 14｜Hard prohibitions
+# 13｜Hard prohibitions
 
-- no visible sky required to explain day/night split；
-- no multiple-sun / magical-time aesthetic；
-- no simple “sync clocks” solution；
-- no one district winning as city truth；
-- no chief using public authority to define physical reality；
+- no simple clock-sync solution；
+- no claim that using A once automatically means permanent city sovereignty；
+- no external-sky spectacle required；
+- no administrative order creating physical reference；
 - no permanent government access to private AI；
-- no AI independently proving common now from internal data alone；
 - no gravity crisis stealing the episode；
-- no repeat of EP03 transport-through-a-window as primary action；
-- no philosophical lecture explaining the title；
-- no chief↔AI relationship turn reduced to a minor API call。
+- no repeat of EP03 transport-through-window grammar。

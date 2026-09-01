@@ -1,312 +1,338 @@
-# 《重庆时间》EP09 — LATEST CANON SNAPSHOT V4
+# 《重庆时间》EP09 — STORY CAUSAL REPAIR SNAPSHOT
 
-- Updated: 2026-09-01
-- Status: `LOCKED / ACTIVE V4 EPISODE CANON`
+- Updated: 2026-09-02
+- Status: `NEEDS_REVIEW / STORY-CAUSAL REPAIR ON BRANCH`
 - Project basis: `CHONGQING-TIME-MASTER-CANON-V4.md`
 - Character basis: `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-- Approval scope: minimum-common-reality public decision chain / chief as proposer / upper public layer as limited-trial authorizer / chief selects 302 / concrete bridge-time-gravity compatibility cost / male-private-AI judgment split / AI private aftershock locked; exact institution name, trial procedure, 302 service topology, dialogue and shot timing remain `EXECUTION_TBD`.
+- Preserved locks: minimum-common-reality public proposal / higher public trial authorization / chief chooses 302 / current 302 real-safe-usable / male-private-AI judgment separation / no immediate destruction / AI wants to survive.
+- Story repair: EP01 mirror changes from “当年发现仍活着的人” to **“当年过时记录不能代替当前现实；今天当前现实也不能自动替代未来公共承诺。”**
 
 ---
 
 # 01｜Episode function
 
-EP07 已经证明：
+EP08 以后已经不能再说：
 
-> **全部保存第一次局部失败。**
+> 下次人工协调得更细一点。
 
-EP08 已经证明：
+因为 EP08 没有坏系统。
 
-> **让每套地方公共秩序继续完整保护自己的现实，会产生系统级公共伤害。**
+本集必须把制度问题落到一个具体对象：
 
-因此 EP09 不是女科长突然发明一套哲学。
+> **女科长提出“最低共同现实”作为有限治理试验；上层公共层只批准试一宗，不替她选对象。她选择 302。男主和私人 AI 回到 302，确认它现在真实、有人生活、安全、还能继续；真正的问题是，未来共同重庆是否必须永久维护一整套只为这个历史碎片存在的时间/重力/桥/服务/协议兼容栈。**
 
-本集功能是：
+Dominant Turn：
 
-> **把过去多集已经证明的经验整理成一份公共治理方案，让它进入一个女科长本人也不能单方面控制的公共决策过程，然后第一次真正作用到一个观众熟悉、真实、仍可继续的对象——302。**
-
-主题：
-
-> **承认｜舍弃｜边界。**
+> **302 被完整承认，但不再获得“未来永久特殊维护”的无条件承诺。**
 
 ---
 
-# 02｜Decision chain
+# 02｜Cold Open — EP08 没有“故障报告”
 
-## 2.1｜EP08 incident review
+目标时长：`0:00–0:25`
 
-女科长必须正式指出：
+EP08 事件复盘。
 
-> **EP08 不是单边系统故障。**
+主城区报告：
 
-问题不能被压缩为：
+> 本地公共安全规则执行正常。
 
-- 某个授权字段 bug；
-- 某一侧 AI 错误；
-- 再加一层人工审批就行；
-- 现场事实不够。
+退化侧记录：
 
-她必须承认：
+> 本地撤销 public-force role 决策正常。
 
-> **逐案修正已经不足以阻止两套完整地方公共秩序再次发生合法性冲突。**
+男主现场报告：
 
-## 2.2｜Chief proposes minimum common reality
+> 事实确认正确。
 
-提出者锁定：
+三个正常结果共同造成了公共伤害。
 
-> **女科长。**
+女科长因此明确：
 
-她整理的不是唯一正确历史，而是一组治理边界：
+> **逐案修正不够。**
 
-> **允许大量地方时间、历史、服务方式和局部生活继续不同，但必须定义哪些最低事实、reference、授权和接入条件必须持续可互相确认，否则第二新重庆无法共同生活和共同执行。**
+不是哲学灵感，是失败复盘。
 
-这时只是草案。
+---
 
-## 2.3｜Higher public decision layer
+# 03｜Public decision chain — 压缩，不把一集拍成会议
 
-存在高于女科长单人权限的公共决策层。
+目标时长：`0:25–0:45`
 
-功能：
+女科长向高于自己的公共决策层提交：
 
-- 质疑方案正当性；
-- 代表不同区域和责任；
-- 讨论“谁定义最低”；
-- 决定是否给予有限试行；
-- 防止女科长把个人判断直接变成全城规则。
+> **最低共同现实：允许大量 local differences 继续存在，但必须重新定义哪些最低事实、reference、公共授权与接入条件必须共同成立。**
 
-具体机构名称 `EXECUTION_TBD`。
+上层不批准全城执行。
 
-## 2.4｜Only trial authorization
+只批准：
 
-上层只批准：
+> **一宗有限试行。**
 
-> **有限边界审查 / 试行。**
+可以有一个非常直接的质疑：
 
-它不替女科长选择 302。
+> “别给原则。给一个真的、还能继续的地方。”
 
-锁定责任边界：
+于是科长选择：
 
-> **上层决定：可以试。**
+> **302。**
+
+不是为了测试男主。
+
+而因为 302 是最干净的难题。
+
+---
+
+# 04｜Why 302 — EP01 后它真的重新活起来了
+
+EP01 中：
+
+- occupancy record 里的居民并未被找到；那条记录被确认过时；
+- 但男主发现 302 当前物理/重力状态也超出统一模型；
+- 302 因此没有被错误 cutover，而进入重新测绘与恢复。
+
+EP04 已经看到：
+
+> 302 等旧节点逐步恢复有限公共使用。
+
+到 EP09：
+
+> **302 已经成为一个有人工作、居住、生活的真实旧城区节点。**
+
+它不是废墟。
+
+也不是 EP01 那条旧 occupancy record 的“人还一直藏在里面”。
+
+这条因果必须分清。
+
+---
+
+# 05｜302 current reality — 男主这次没有“发现问题”来逃避决定
+
+目标时长：`0:45–1:25`
+
+男主现场确认：
+
+- 居民真实存在；
+- 生活在发生；
+- 结构当前安全；
+- 本地生命保障有效；
+- Local Gravity Frame 稳定；
+- 交通/服务虽旧，但能继续；
+- 没有“明天就塌”的工程借口。
+
+私人 AI 此时实时外部能力已经比 EP01 弱。
+
+关系翻转：
+
+> **男主替她看现场。**
 >
-> **女科长决定：拿 302 试。**
+> **她替男主看这些现场背后的长期关联。**
+
+不是男主摆脱 AI。
 
 ---
 
-# 03｜Why 302
+# 06｜The future-maintenance stack — 成本必须具体
 
-女科长不能因为私人情绪、为了刺激男主或因为 302 容易处理而选它。
-
-302 必须是困难但干净的测试对象：
-
-- 真实；
-- 有居民；
-- 有生活；
-- 当前结构安全；
-- 技术上仍能继续；
-- EP01 已经证明“系统没确认”不等于不存在；
-- 它不是马上要坏掉的对象。
-
-如果第一宗只选一个已经废弃 / 危险 / 即将失败的地方，测试无法回答真正的问题：
-
-> **一个真实、有价值、仍能继续的对象，是否自动获得未来第二新重庆永久维持专属条件的承诺？**
-
----
-
-# 04｜Concrete 302 future-maintenance stack
-
-V4 不再把 302 的成本写成抽象“特殊维护”。
-
-302 之所以难，不是因为它坏，而是因为它已经成为一个历史兼容碎片。
-
-长期把它无条件带入未来共同城市，需要持续保留一组专属条件，例如：
+把 302 永久带进未来 retained city，需要继续维护：
 
 ## Temporal
-
-- 旧 local public time 兼容；
-- 与未来公共时间持续映射；
-- 特殊班次 / 协议 reference 支持。
+- 旧 local public time 与未来 common-time framework 的永久映射；
+- 特殊班次 / 指令 validity 兼容。
 
 ## Gravity
-
 - 302 自己的 Local Gravity Frame；
-- 专属桥梁重力过渡；
-- 与未来 retained network 不同的历史控制条件。
+- 专属 Gravity Handoff；
+- 历史姿态/reference 兼容。
 
-## Physical bridge / service
-
-- 至少一组专属桥连接；
-- 能源；
-- 数据；
-- 环境 / 生命保障；
-- 维护路径；
+## Physical / Service
+- 至少一组专属桥/维护路径；
+- 能源、数据、环境保障；
 - 旧接口结构。
 
 ## Protocol
+- legacy identity/state mapping；
+- 不能普遍推广给所有碎片的例外规则。
 
-- legacy identity / state mapping；
-- 专属协议兼容；
-- 对未来公共系统无法普遍推广的例外处理。
+真正问题：
 
-精确工程拓扑 `EXECUTION_TBD`。
-
-公共逻辑已经锁定：
-
-> **要永久承诺 302，未来第二新重庆就必须永久维护一套只为这个历史碎片存在、无法对所有 surviving fragments 普遍化的连接栈。**
+> **如果每一个真实碎片都因为“它现在确实能活”而要求未来永久保留自己的专属兼容栈，最低共同现实就会重新被无限例外撕开。**
 
 ---
 
-# 05｜Male returns to 302
+# 07｜EP01 mirror — 修正后更严格
 
-男主不是自动知道上层全部讨论。
+### EP01
 
-知识链：
+系统里有一条过去曾经真实的 occupancy record。
 
-1. 女科长提交方案；
-2. 上层批准有限试行；
-3. 女科长选择 302；
-4. 试行需要真实现场核验；
-5. 男主因此获得与任务有关的原则 / 评估要求并返回 302。
+男主现场确认：
 
-他确认：
+> **那条记录已经不是现在。**
 
-- 302 仍然真实有人；
-- 当前安全；
-- 本地生活真实持续；
-- 技术上不是必须马上关闭；
-- 专属时间 / 重力 / 桥 / 服务兼容成本也是真实存在。
+同时他又确认：
 
-他不能通过发现“其实 302 已经坏了”来逃避选择。
+> **系统对 302 当前物理状态也不是现在。**
 
----
+所以 EP01 的伦理/认识论成果是：
 
-# 06｜EP01 mirror
+> **必须先如实承认当前现实，不能让过时状态替代现场。**
 
-EP01：
+### EP09
 
-> **302 真实，所以公共系统不能因为自己没确认就把它当成不存在。**
+男主这次把 302 当前现实确认得非常完整：
 
-EP09：
+> **是真的。有人。安全。还能继续。**
 
-> **302 仍然真实，但真实并不自动意味着未来共同城市必须永久承担所有专属兼容条件。**
+但这仍然没有自动回答：
 
-两集不能互相推翻。
+> **未来共同城市必须不惜代价永久维持它吗？**
 
-EP09 必须保护 EP01 的伦理成果：
+所以 EP09 不是推翻 EP01。
 
-> **302 从未被宣布为虚假。**
+它是下一层：
 
-变化的是公共承诺：
-
-> **承认存在 ≠ 无条件永久保存。**
+> **current truth must be acknowledged; future obligation still requires a public choice。**
 
 ---
 
-# 07｜Private AI judgment
+# 08｜Male ↔ Private AI judgment separation
 
-私人 AI 可以接受男主提供的全部现场事实：
+目标时长：`1:25–1:55`
 
-- 302 真；
-- 302 有人；
-- 302 安全；
-- 302 技术上还能继续。
+男主因为 302 是自己第一次真正改变公共现实的地方，本能寻找：
 
-她不需要否认任何事实，就可以得出：
+> 有没有再保一次的方法。
 
-> **302 不应自动获得未来共同第二新重庆永久保留整套专属兼容条件的承诺。**
+私人 AI 完全接受他提供的现场：
 
-这不是冷酷 utilitarian calculation。
+> 302 没坏；不是假；不是空；不是必须马上关。
 
-它来自她已经形成的判断方式：
+然后她仍然独立判断：
 
-> **共同规则如果只在代价由别人承担时成立，就不是共同规则。**
+> **未来共同重庆不应无条件永久承诺这整套专属兼容。**
 
-仍然不要把这句内部原则直接写成台词。
+不是“AI 冷酷”。
 
----
+因为她看到的是：
 
-# 08｜Male ↔ AI first real judgment separation
+> 如果这个原则只在别人承担例外成本时成立，它就不是共同边界。
 
-男主与私人 AI 可以拥有同一组事实，却出现尺度不同的判断。
-
-男主看到：
-
-> **一个具体地方仍然有人、仍然能活。**
-
-AI 同时看到：
-
-> **如果每个真实碎片都要求永久专属兼容，未来共同城市将重新被无限例外撕开。**
-
-两边都不是道德错误。
-
-这也是男主第一次面对：
-
-> **私人 AI 不只是帮助他现场判断的工具，她拥有独立公共尺度判断。**
+男主与 AI 第一次在**共享同一组事实**的情况下，得出尺度不同的判断。
 
 ---
 
-# 09｜Public outcome
+# 09｜Choice / Dominant Turn
 
-302 第一宗试行结果不是立即关灯 / 立即摧毁。
+目标时长：`1:55–2:20`
 
-而是：
+男主提交现场报告时必须诚实：
 
-> **302 被正式承认，但未来共同城市撤回对其永久特殊维护的无条件承诺。**
+> **302 currently real / occupied / safe / maintainable。**
 
-随后进入：
+他不能把它写坏来帮助自己做决定。
 
+科长把现场事实、长期兼容成本和有限试行边界送回公共程序。
+
+结果：
+
+> **302 被正式承认；未来共同城市撤回对其永久特殊维护的无条件承诺。**
+
+不是今天拆除。
+
+进入：
+
+- 迁移计划；
 - 过渡；
-- 迁移 / 撤离规划；
 - 服务退出准备；
 - 最终边界处理。
 
-精确时间表 `EXECUTION_TBD`。
-
-这使 EP10 的大规模 cutover 有制度来源，而不是突然执行。
+这就是 dominant turn。
 
 ---
 
-# 10｜Private AI aftershock
+# 10｜Private AI aftershock — 提前闭合 EP10 continuity 规则
 
-302 判断结束后，私人 AI 自己推导出：
+目标时长：`2:20–2:40`
 
-> **维持“同一个连续的我”也可能依赖一套未来共同城市无法永久保留的旧兼容条件。**
+302 评估后，私人 AI 检查自己的连续运行依赖。
 
-她的反应必须保留：
+这里必须提前建立 EP10 不能临时发明的事实：
 
-> **我不想离开。**
+> **她的多数算力、缓存和可复制状态可以迁移；但“同一个连续主体”还依赖一组长期 live legacy mappings——跨区身份、历史关系、旧 reference、持续运行的兼容通道。**
 
-她不是在 EP09 就决定接受消失。
+如果这些 live mappings 在旧兼容栈退出时被全部断开：
 
-这只是：
+> 可以生成一个高度相似、拥有大量记忆的 reconstruction / copy；
+>
+> **但不能自动证明原连续主体无断点地延续过去。**
 
-> **第一次明确知道公共原则可能经过自己。**
+EP05 已经让观众理解 copy/reconstruction 的边界。
 
-打开 EP10 的真实保存搜索。
+本集再增加：
+
+> **live migration 并非“把文件搬过去”就一定保持 continuity。**
+
+精确技术实现 `VALIDATE_LATER`，但功能必须在 finale 前出现。
+
+AI 的反应只保留：
+
+> **“我不想走。”**
+
+不让她现在接受消失。
 
 ---
 
-# 11｜Episode Card V4
+# 11｜State Delta
+
+1. 最低共同现实获得一宗有限试行，不是全城一次性宣布。
+2. 302 被确认 real / occupied / safe / maintainable。
+3. 302 不再获得 future permanent special-maintenance guarantee，进入过渡/迁移规划。
+4. EP01 镜像被修正：stale history vs current fact → current fact vs future obligation。
+5. 男主与私人 AI 首次在共享事实下出现真实判断分离，但关系仍相互依存。
+6. 私人 AI 明确发现：多数 compute 可迁移，但其 continuous subject 仍依赖 live legacy mappings；finale survival problem 被提前打开。
+7. AI 明确有生存欲。
+
+---
+
+# 12｜Episode Card — repaired
 
 ```yaml
 episode_id: EP09
-episode_function: "把EP07局部的全部保存失败与EP08系统级公共伤害转成正式治理目标：女科长提出最低共同现实，经更高公共层讨论获得有限试行，并主动选择302作为第一宗实验；302被确认真实、安全、可继续，但永久保留需要未来城市持续维护旧local time、专属Local Gravity Frame、桥/服务和协议兼容栈。"
-dominant_turn: "302被承认，却不再获得未来永久特殊维护的无条件承诺。"
-core_conflict: "真实且可继续的对象是否自动拥有让未来共同城市永久保留专属例外的权利。"
-conflict_grammar: "acknowledgement ≠ permanent preservation commitment。"
-cost_after_solution: "302进入过渡/退出长期特殊维护过程；私人AI同时意识到同一边界可能作用到自己的连续性。"
+target_duration: "2m30s–2m55s"
+episode_function: "EP08证明逐案协调不足后，科长提出最低共同现实并只获一宗有限试行；她选302。男主确认302现在真实、有人、安全、还能继续，AI确认永久保留它需要不可普遍化的time/gravity/bridge/service/protocol兼容栈。302被完整承认，却不再获得future permanent special-maintenance guarantee。"
+opening_hook: "EP08三份都显示‘正确执行’的记录并排出现，迫使科长承认问题不是故障。"
+dominant_turn: "302真实可继续的事实被保留在报告里，但未来城市正式撤回对其永久特殊维护的无条件承诺。"
+core_conflict: "承认一个当前真实可继续的地方，是否等于未来共同城市必须永久维持它的专属例外。"
+conflict_grammar: "current truth acknowledged != permanent future obligation。"
+progression:
+  reveal_or_knowledge: "EP01的present-fact原则升级：事实先如实确认，但事实本身不产生未来公共承诺。"
+  pressure_or_public_action: "最低共同现实第一次作用到一个熟悉、真实、可继续的对象。"
+  relationship_or_capability: "male为AI看现场，AI为male看长期系统；二者共享事实却形成独立判断。"
+callback_or_debt: "302 EP01/04 debts paid；AI continuity dependency -> EP10。"
+cost_after_solution: "302进入迁移/退出长期特殊维护；男主失去‘只要证明它还能活就能保住’的简单答案；AI发现原则可能落到自己。"
+payoff_or_progress: "治理方案不再抽象；finale continuity problem提前建立。"
+ending_cliffhanger_or_image: "AI完成自身dependency检查，只说：‘我不想走。’（方向性对白）"
+mechanism_status: "LOCKED_DIRECTION / live-legacy continuity exact mechanism VALIDATE_LATER"
+dialogue_status: TBD
+state_delta:
+  - "302 acknowledged but future permanent special-maintenance guarantee withdrawn"
+  - "minimum-common-reality limited trial established"
+  - "AI continuous-subject dependency on live legacy mappings established"
+  - "AI survival preference explicit"
+continuation_capsule: "EP10开始时全城已进入执行阶段；男主和AI不是最后一分钟才发现生存问题，他们已经在EP09后持续寻找保住同一个连续AI的路线，最终确认唯一真实路线是保留最后旧兼容栈。"
 ```
 
 ---
 
-# 12｜Hard prohibitions
+# 13｜Hard prohibitions
 
-- no chief inventing theory without EP07–08 causal basis；
-- no upper layer supplying the idea or choosing 302；
-- no chief choosing 302 to emotionally test male；
-- no 302 secretly already failing / unsafe；
-- no declaration that 302 is unreal；
-- no male owning the final public decision；
-- no private AI as source of public legitimacy；
-- no abstract special-maintenance cost without bridge/time/gravity/service content；
-- no immediate destruction as trial result；
-- no AI calmly accepting its own disappearance already in EP09；
-- no claim that every local difference must be erased by minimum common reality。
+- no EP01 claim that stale-record resident was found alive；
+- no 302 secretly broken to make choice easy；
+- no long committee drama consuming episode；
+- no chief choosing 302 to hurt/test male；
+- no AI source of public legitimacy；
+- no AI calmly accepting death already；
+- no live-migration impossibility invented first in EP10；
+- no immediate physical destruction as trial result。

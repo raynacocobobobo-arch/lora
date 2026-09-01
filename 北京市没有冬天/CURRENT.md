@@ -19,17 +19,18 @@ Primary read order:
 1. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
 2. `ACTIVE-DOCS-INDEX.md`
 3. `BEIJING-NO-WINTER-MASTER-CANON-V3.2.md`
-4. **`CANON-PATCH-V3.2.1-PROTOCOL-HANDSHAKE.md`**
-5. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`
-6. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`
-7. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`
-8. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`
-9. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md`
-10. **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`**
-11. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md`
-12. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
-13. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md`
-14. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
+4. `CANON-PATCH-V3.2.1-PROTOCOL-HANDSHAKE.md`
+5. **`CANON-PATCH-V3.2.2-RASHOMON-AI-COGNITIVE-SOURCE.md`**
+6. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`
+7. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`
+8. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`
+9. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`
+10. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md`
+11. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`
+12. **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`**
+13. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
+14. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md`
+15. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
 
 Recent detailed decision logs:
 
@@ -37,7 +38,8 @@ Recent detailed decision logs:
 - `decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`
 - `decision-logs/2026-09-01-1134-EP04-CONFLUENCE-RASHOMON-DETAILED.md`
 - `decision-logs/2026-09-01-1211-EP05-POV-CONTINUITY-DETAILED.md`
-- **`decision-logs/2026-09-01-1238-EP06-PROTOCOL-HANDSHAKE-DETAILED.md`**
+- `decision-logs/2026-09-01-1238-EP06-PROTOCOL-HANDSHAKE-DETAILED.md`
+- **`decision-logs/2026-09-01-1250-EP07-RASHOMON-DETAILED.md`**
 
 Workflow rule:
 
@@ -120,10 +122,6 @@ Not mandatory dialogue.
 
 ## 05｜Protocol Handshake terminology — LOCKED
 
-User correction:
-
-> **“ai握手术语是协议握手”**
-
 Technical/system handshake is formally:
 
 > **协议握手（protocol handshake）**
@@ -149,13 +147,44 @@ See `CANON-PATCH-V3.2.1-PROTOCOL-HANDSHAKE.md`.
 
 ---
 
-## 06｜Current episode state
+## 06｜Rashomon → AI problem-reframing source — LOCKED
+
+User correction:
+
+> **“AI 为什么想到切 hub，还有因为罗生门啊。”**
+
+Current interpretation:
+
+- EP04: for the female chief, 《罗生门》 remains **识别 / 共鸣 / 熟悉感**, not first awakening;
+- for the private AI, the shared cultural experience becomes one later cognitive template:
+  > **如果多个冲突版本都可能各自成立，问题未必应该继续按“哪个版本赢”来问；既有问题框架本身也可以被重新检查。**
+
+EP07 AI reasoning source is now four-part:
+
+1. **EP04《罗生门》** — helps her question the A/B binary frame;
+2. **EP06 common-rule experience** — common rules must also constrain power/capability holders;
+3. **history / traces** — “我看不见外面，所以我开始读你们已经留下来的东西。”;
+4. **A/B degraded-survival capability** — makes the reframed third path executable.
+
+Therefore:
+
+> **《罗生门》帮助她怀疑 frame；EP06 给原则结构；历史给尺度与证据；地方降级能力让“切 hub”真实可执行。**
+
+Hard boundary:
+
+> **not “watch movie → sudden inspiration → cut hub.”**
+
+See `CANON-PATCH-V3.2.2-RASHOMON-AI-COGNITIVE-SOURCE.md`.
+
+---
+
+## 07｜Current episode state
 
 ### EP03 V2
 
 > **北京没有恢复连接；他们只是把一次连接做成了。**
 
-Technical motif now read through the terminology patch as:
+Protocol motif:
 
 > **协议握手完成 ≠ 现实已经连接。**
 
@@ -203,54 +232,80 @@ Highest open EP05 item:
 
 Do NOT infer a corridor accident.
 
-### EP06 V3 — CURRENT AUTHORITY
-
-Current file:
-
-> **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`**
+### EP06 V3
 
 Core:
 
 > **两个区域各自拥有有效时间 / 冬季，却没有共同现在；一项共享环境/生命保障基础设施必须同步交接，迫使三方第一次把“共同现在”变成一个真正公共动作问题。**
 
-Conflict grammar:
-
-> **两个局部正确时间秩序需要共同动作，却没有共同 reference。**
-
 Dominant Turn:
 
 > **不选 A/B 任一时间为北京真理，而退到双方都不能单方面改写的共同物理 reference；私人 AI 计算关系，女科长给本次有限公共授权，男主现场确认 execute/abort，两个区域完成一次真正同步的基础设施交接。**
 
-Observable payoff:
-
-> **共享基础设施交接真实完成。**
-
-Cost after solution:
+Cost:
 
 > **两区时间 / 冬季仍不同；只获得一次共同瞬间，没有获得持续共同现在。**
 
-End image:
-
-> **两个时间仍不同，但它们刚刚确实同时完成了一件事。**
-
-AI principle learning remains experience only:
+AI experience:
 
 > **共同规则也必须约束拥有权力的人自己。**
 
-EP07 later historicalizes/internalizes it.
+### EP07 V3 — CURRENT AUTHORITY
 
-EP04→05→06 structural progression:
+Current file:
 
-> **共存 → 连续 → 同步。**
+> **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`**
+
+Core:
+
+> **A、B、hub 三个真实价值无法全部维持当前状态；第一次主动让一个仍健康、有价值、可继续工作的共享 hub 永久退出，以保 A+B 两边降级继续。**
+
+Opening Hook:
+
+> **hub 给 A 时 A 恢复、B 降；切给 B 时结果反转。**
+
+Critical fact:
+
+> **hub 本身是好的。**
+
+Third-path basis:
+
+> **A/B 的无 hub 降级生存能力来自 EP02–06 已经形成的本地运行，不是本集突然发明。**
+
+AI reasoning:
+
+> **《罗生门》问题框架 + EP06 自我约束经验 + 历史阅读 + A/B 降级现实 → “为什么 hub 必须被保存？”**
+
+Dominant Turn:
+
+> **私人 AI 重新定义问题；男主确认 hub 健康且 A/B 可降级继续；女科长第一次批准一个正常共享公共基础设施永久退出。**
+
+Cost after solution:
+
+- hub permanently exits;
+- A/B both degrade;
+- losses are not perfectly symmetric;
+- some shared city capability permanently disappears;
+- high-level future reconnection capability worsens;
+- third path is not proof of fairness.
+
+Observable Payoff / End Image:
+
+> **hub 熄灭，A、B 没有熄灭；共享中心黑掉，两边各自以更低能力继续。**
+
+EP07 season function:
+
+> **第一次局部承认“全部保存”失败。**
 
 ---
 
-## 07｜AI / male final principle boundary
+## 08｜AI / male final principle boundary
 
 AI arc:
 
+- EP04 = Rashomon becomes one problem-reframing cognitive source;
 - EP06 = experience that common rules also constrain power-holders;
-- EP07 = history + relationship experience → internal principle:
+- EP07 = Rashomon + history + relationship experience + EP06 → internal principle / independent public judgment:
   > **规则如果只在代价落到别人身上时成立，就不是共同规则。**
 - EP09 = principle reaches her own continuity; she does not want to leave;
 - EP10 = she does not invalidate the principle because she pays the cost.
@@ -263,7 +318,7 @@ Final test only begins when preserving the same continuous AI requires an un-gen
 
 ---
 
-## 08｜Current active episode versions / macro status
+## 09｜Current active episode versions / macro status
 
 | Episode | Active file | Status |
 |---|---|---|
@@ -272,19 +327,19 @@ Final test only begins when preserving the same continuous AI requires an un-gen
 | EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md` | DONE — Drama Skill card pass |
 | EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md` | DONE — confluence / Drama Skill card pass |
 | EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md` | MACRO APPROVED — disappearance scene `NEEDS_REVIEW` |
-| **EP06** | **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`** | **DONE — action-spine / Drama Skill card pass** |
-| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md` | **NEXT — Drama Skill card audit** |
-| EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md` | pending V3.2 / institutional-sediment pass |
+| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md` | DONE — action-spine / Drama Skill card pass |
+| **EP07** | **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`** | **DONE — Drama Skill card / Rashomon reasoning pass** |
+| EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md` | **NEXT — V3.2 + institutional-sediment + Drama Skill card pass** |
 | EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md` | macro institutionalization pass done; card audit later |
 | EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md` | pending |
 
 Current bounded sequence:
 
-> **audit EP07 → EP08 V2 → audit EP09 → EP10 V2 → revisit EP05 disappearance → ten-card consistency check → screenplay.**
+> **EP08 V2 → audit EP09 → EP10 V2 → revisit EP05 disappearance → ten-card consistency check → screenplay.**
 
 ---
 
-## 09｜Hard prohibitions that remain active
+## 10｜Hard prohibitions that remain active
 
 - no villain AI / conspiracy / final boss;
 - no central truth reset;
@@ -300,4 +355,5 @@ Current bounded sequence:
 - no humanoid-AI physical protocol handshake;
 - no obvious COVID allegory;
 - no technical use of vague “handshake” when **协议握手** is meant;
+- no “watch Rashomon → sudden EP07 solution” shortcut;
 - no broad architecture expansion after the ten-card exit gate unless screenplay exposes a real contradiction.

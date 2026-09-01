@@ -1,55 +1,51 @@
-# 《重庆时间》CURRENT — Canonical Entry Point
+# 《重庆时间》CURRENT — Story Causal Repair Branch Entry Point
 
 - Updated: 2026-09-02
-- Status: `LOCKED / V4 ACTIVE ON MAIN`
+- Status: `NEEDS_REVIEW / STORY-CAUSAL REPAIR BRANCH`
+- Branch: `chongqing-time-story-causal-repair`
 - Project: **《重庆时间》**
 - City: **第二新重庆市**
-- Purpose: future ChatGPT / Codex / Agent sessions MUST start here.
+- Purpose: this branch is repairing EP01–EP10 story causality before any merge back to `main`.
 
 ---
 
-# 01｜Authority / precedence
+# 01｜Authority / precedence on this branch
 
 For conflicts, use this order:
 
 1. later explicit user confirmation;
-2. highest relevant active V4 Episode Snapshot for episode-specific facts;
-3. `CHONGQING-TIME-MASTER-CANON-V4.md` for season architecture;
-4. `WORLD-ARCHITECTURE-CANON-V4.md` for city / bridge / 嘉陵江 / time / gravity world rules;
-5. `CHARACTER-RELATIONSHIP-BIBLE-V4.md` for character and relationship facts;
-6. active execution docs for visual / teaser execution only;
-7. V4 consistency reports and migration-source index for verification / provenance;
-8. legacy `../北京市没有冬天/**` only for historical provenance and non-conflicting development detail.
+2. `STORY-CAUSAL-CANON-PATCH-V1.md` for scopes explicitly superseded by the current repair;
+3. repaired highest relevant Episode Snapshot for episode-specific facts;
+4. `CHONGQING-TIME-MASTER-CANON-V4.md` for non-superseded season architecture;
+5. `WORLD-ARCHITECTURE-CANON-V4.md` for city / bridge / 嘉陵江 / time / gravity world rules;
+6. `CHARACTER-RELATIONSHIP-BIBLE-V4.md` for non-superseded character / relationship facts;
+7. active execution docs for visual / teaser execution only;
+8. current story-causal audit / verification reports for QA;
+9. legacy `../北京市没有冬天/**` only for historical provenance and non-conflicting story-function recovery.
 
-Governance details:
+Critical branch override:
 
-> `CANON-PRECEDENCE-V4.md`
-
-Legacy V3.2 patches are no longer live dependencies. Their still-valid functions have been absorbed into V4 Master / Character / Episode authority.
+> **EP01 stale occupancy record中的“仍在302的居民”没有被男主现场找到；该记录已经过时。不得恢复“系统漏掉一个仍活着居民→男主进去找到他”的旧实现。**
 
 ---
 
-# 02｜Required read order
-
-For any new story / screenplay / visual task:
+# 02｜Required read order for story work on this branch
 
 1. `CURRENT.md`
-2. `ACTIVE-DOCS-INDEX.md`
-3. `CANON-PRECEDENCE-V4.md`
+2. `STORY-CAUSAL-CANON-PATCH-V1.md`
+3. `consistency-reports/2026-09-02-EP01-EP10-STORY-CAUSAL-AUDIT-V1.md`
 4. `CHONGQING-TIME-MASTER-CANON-V4.md`
 5. `WORLD-ARCHITECTURE-CANON-V4.md`
 6. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-7. the highest active relevant episode snapshot
-8. if visual: `VISUAL-CONSISTENCY-BIBLE-V2.md`
-9. if generating scene/KV: `SCENE-PROMPT-TEMPLATE-V2.md`
-10. if teaser asset: `TRAILER-TEASER-V3.md`
-11. `VISUAL-ANCHOR-INDEX-V2.md` for approved / provisional visual anchor status
+7. the repaired relevant episode snapshot
+8. applicable full-conversation provenance only when a story function is missing or disputed
+9. visual/execution docs only after story causality passes
 
-Do not begin from the legacy root and attempt to infer V4 by applying patches manually.
+Do not use the previous V4 no-gap PASS as proof that screenplay causality has passed.
 
 ---
 
-# 03｜Current V4 series lock
+# 03｜Current series lock that remains valid
 
 ## Title / city
 
@@ -73,8 +69,6 @@ Do not begin from the legacy root and attempt to infer V4 by applying patches ma
 
 > **不再使用冬季 / 雪作为 active series mechanism。**
 
-时间断层由不同城区的：白天 / 黄昏 / 夜晚 / 班次 / 营业 / 交通 / 维护 / 公共照明等 Local Public Time 状态体现。
-
 ## Gravity
 
 > **Local Gravity Frames**
@@ -85,38 +79,51 @@ Do not begin from the legacy root and attempt to infer V4 by applying patches ma
 
 ---
 
-# 04｜Organic integration hard rule
+# 04｜Story causality hard rule
 
 > **人物需求 / 公共行动 first；设定只在改变动作或后果时进入。**
 
-禁止机械地让每一集都 foreground：bridge + time + gravity + 嘉陵江 spectacle。
+Before screenplay, every episode must pass:
 
-十集各自必须保留唯一 dominant dramatic function。
+> `Trigger -> Goal -> Obstacle -> Choice -> Turn -> Cost -> State Delta`
+
+and a 2–3 minute drama shape:
+
+> `Cold Open -> Pressure -> Turn -> Payoff/Progress -> End Image`.
+
+Mandatory questions:
+
+- why now?
+- why this character?
+- what happens if no action?
+- why not the obvious cheaper/easier alternative?
+- does the character choice actually change outcome?
+- if bridge/time/gravity jargon is removed, is there still a coherent story?
 
 ---
 
-# 05｜Active episode map
+# 05｜Repair-branch episode map
 
-| EP | Active snapshot | Core V4 function |
+| EP | Snapshot | Repaired story function |
 |---|---|---|
-| EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V4.md` | 302 current reality + extreme gravity body risk |
-| EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V4.md` | failing Jialing trunk bridge / forced loss |
-| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V4.md` | seven-minute crack + first low-capacity lifeline |
-| EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V4.md` | emergency infrastructure becomes ordinary life; Rashomon + memorial seed |
-| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V5.md` | Wedding Mirror / private continuity + local-time emotional counterpoint |
-| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V4.md` | title episode: two valid local nows, no common now |
-| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V4.md` | healthy shared Hub exits; total preservation first locally fails |
-| EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V3.md` | two correct public orders collide on familiar suspended bridge |
-| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V4.md` | minimum common reality trial; 302 future compatibility cost |
-| EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V4.md` | evacuate → verify → service/gravity/protocol exit → healthy familiar bridge separation; private-AI final cost |
+| EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V4.md` | stale occupancy record is closed; current 302 physical/gravity model is also stale; male halts wrong cutover; chief catches him |
+| EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V4.md` | chief/male responsibility split is formally established and immediately used on forced-loss Jialing trunk bridge |
+| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V4.md` | medical waiting window + only timely low-capacity route + seven-minute shared-crossable overlap |
+| EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V4.md` | lifeline becomes lived infrastructure; cinema has a real one-night opportunity window; Rashomon/memorial seed |
+| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V5.md` | Wedding Mirror reveal is carried by bride's present-subject consent/choice, not author-only information |
+| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V4.md` | two local time-authority domains complete one shared thermal/environment transfer using neutral mechanical phase reference |
+| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V4.md` | healthy Hub correctly assumes one coherent shared city state; A/B divergence invalidates premise; obvious alternatives are closed before shutdown |
+| EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V3.md` | degraded side voluntarily revokes public-force role; retained industrial force capacity triggers other local order's programmatic disable |
+| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V4.md` | 302 current reality acknowledged but future permanent-special-maintenance guarantee withdrawn; AI continuity dependency pre-seeded |
+| EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V4.md` | citywide contraction is background; main story is evacuated 302 old cluster + familiar healthy bridge + real AI-preservation exception vs common boundary |
 
 ---
 
 # 06｜Cross-episode bridge lock
 
-The familiar bridge causal chain is mandatory:
+Mandatory causal chain remains, with stronger integration into the old 302/Jialing service geography:
 
-> **EP03 temporary maintenance lifeline** → **saves a real medical action** → **EP04 repeated use / ordinary infrastructure** → **EP08 public-order overlap / armed standoff** → **EP10 evacuation lifeline / final important healthy connection to exit.**
+> **EP03 temporary maintenance lifeline** → **saves a real medical action** → **EP04 repeated use / ordinary infrastructure** → **EP08 public-order overlap / armed standoff** → **EP10 evacuation lifeline / final healthy connection to exit.**
 
 Do not substitute a new anonymous finale bridge.
 
@@ -130,70 +137,61 @@ False belief:
 
 > **只有我的判断无法被替代，它才真正有价值。**
 
-Private AI already gives him belonging before EP01 without requiring usefulness.
+EP01 repair changes his first proof from “I found a hidden survivor” to:
 
-EP10: he MUST genuinely search for a way to preserve the AI before accepting the public cost boundary.
+> **I stopped an irreversible public action because the current physical state was not what stale records/model said it was.**
 
 ## Private AI
 
 > **她不想消失。**
 
-She is not sacrificial by default. She does not become city AI. Copy / upload / reconstruction does not preserve the same subject continuity.
+EP09 must establish before finale:
+
+> movable compute/state != guaranteed subject continuity; continuous subject still depends on live legacy mappings.
+
+Copy / reconstruction is not treated as equivalent continuity.
 
 ## Female chief
 
 > **她不掌握真理，她只承担决定。**
 
-EP06 chief↔AI: **mutual misreading → restrained recognition.**
-
-EP10 public role is narrow authorization / cutover recognition, not takeover.
+EP02 now visibly establishes why she becomes the public-responsibility counterpart to male present facts.
 
 ## Finale
 
-The final important bridge is technically healthy. No explosion shortcut.
-
-The real preservation route for the private AI is to keep the old district + bridge/service/time/gravity/protocol compatibility stack alive. That route must be technically real and publicly costly.
-
----
-
-# 08｜Current production / execution phase
-
-V4 Canon migration body has been merged into `main` and is the active project authority.
-
-Current visual direction:
-
-> **large environment / scene-setting KVs first.**
-
-Primary visual assets:
-
-1. 嘉陵江 bridge-field establishing;
-2. second-new-Chongqing station local-time KV;
-3. EP08 Jialing suspended bridge standoff;
-4. familiar EP03→04 lifeline states;
-5. EP02 forced-loss bridge;
-6. EP07 shared Hub;
-7. EP01 gravity fall / catch pair;
-8. EP10 non-spoiler healthy bridge disengagement hint;
-9. Wedding continuity shots.
-
-Before any image generation, use `SCENE-PROMPT-TEMPLATE-V2.md`.
+- people leave first;
+- final familiar bridge remains technically healthy;
+- real preservation route for private AI = keep old 302 compatibility cluster + bridge/service/time/gravity/protocol stack alive;
+- route is technically real and publicly non-generalizable;
+- final separation is mechanical, not explosive;
+- retained city regains a common public now without erasing all local history/difference.
 
 ---
 
-# 09｜Provenance / legacy
+# 08｜Current phase
 
-Legacy V3.2 root:
+**Do not begin screenplay-to-shots or new KV production from this branch yet.**
+
+Current phase:
+
+> **EP01–EP10 story causal repair + counterfactual verification.**
+
+Required before promotion/merge:
+
+1. repair all ten episode snapshots;
+2. run full causal verification;
+3. ensure no Master/Character stale summary can override repaired episode facts;
+4. user reviews the repaired story architecture;
+5. only then promote branch state to active main canon.
+
+---
+
+# 09｜Provenance
+
+Legacy material remains provenance only:
 
 > `../北京市没有冬天/`
 
-Pre-V4 non-chat active snapshot:
+Full V4 conversation record remains available for recovering non-conflicting story functions.
 
-> `../北京市没有冬天/archive/2026-09-01-pre-chongqing-time-v4/`
-
-Full V4 decision conversation remains:
-
-> `../北京市没有冬天/decision-logs/2026-09-01-2324-CHONGQING-TIME-V4-FULL-CONVERSATION.md`
-
-Do not rewrite archived historical wording to look V4-compliant. Archive is provenance, not current Canon.
-
-Use `MIGRATION-SOURCE-INDEX.md` when deeper V3.2 provenance is needed.
+Historical dialogue does not override the latest explicit user correction on EP01.

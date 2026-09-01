@@ -1,8 +1,8 @@
 # 《北京市没有冬天》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-01
-- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / TEN-EPISODE MACRO PASS COMPLETE — CONSISTENCY CHECK NEXT`
-- Rule: one active Master; highest-numbered active Episode Snapshot wins concrete episode facts; narrow Canon patches may supersede terminology/scope; Drama Skill is a hard episode-development gate.
+- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / TEN-EPISODE CONSISTENCY PASS COMPLETE / MACRO ARCHITECTURE CLOSED / SCREENPLAY NEXT`
+- Rule: one active Master; highest-numbered active Episode Latest wins concrete episode facts; narrow Canon patches may supersede terminology/scope; Drama Skill remains the episode-development gate.
 
 ## Primary read order
 
@@ -11,141 +11,144 @@
 3. `BEIJING-NO-WINTER-MASTER-CANON-V3.2.md`
 4. `CANON-PATCH-V3.2.1-PROTOCOL-HANDSHAKE.md`
 5. `CANON-PATCH-V3.2.2-RASHOMON-AI-COGNITIVE-SOURCE.md`
-6. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`
-7. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`
-8. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`
-9. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`
-10. **`Pilot-EP05-LATEST-CANON-SNAPSHOT-V3.md`**
-11. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`
-12. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`
-13. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V2.md`
-14. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md`
-15. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V2.md`
+6. **`CANON-PATCH-V3.2.3-PRE-EP01-METEOR-TIMELINE-AND-VISUAL-REVEAL.md`**
+7. **`Pilot-EP01-LATEST-CANON-SNAPSHOT-V3.md`**
+8. **`Pilot-EP02-LATEST-CANON-SNAPSHOT-V3.md`**
+9. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`
+10. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`
+11. **`Pilot-EP05-LATEST-CANON-SNAPSHOT-V4.md`**
+12. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`
+13. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`
+14. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V2.md`
+15. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md`
+16. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V2.md`
+17. **`consistency-reports/2026-09-01-TEN-EPISODE-CONSISTENCY-CHECK-V1.md`**
 
-## Drama Skill hard gate
+## Macro gate
 
-Use current `hermes-creative-ai-short-drama v1.1`.
+Ten-episode consistency result:
 
-Macro state:
+> **PASS AFTER NARROW PATCHES / NO CRITICAL MACRO CONTRADICTION.**
 
-> **all ten episodes now have stable macro/card-equivalent direction; no known open macro story mechanism remains.**
+Current rule:
 
-Next gate:
+> **STOP broad architecture revision → screenplay EP01→EP10.**
 
-> **ten-card consistency check → if no critical contradiction, STOP broad architecture revision → screenplay EP01→EP10.**
+Only reopen macro Canon if screenplay exposes a real execution contradiction.
 
-## Detailed decision provenance
+## Recent detailed provenance
 
-- `decision-logs/2026-09-01-1000plus-DETAILED.md`
-- `decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`
-- `decision-logs/2026-09-01-1134-EP04-CONFLUENCE-RASHOMON-DETAILED.md`
-- `decision-logs/2026-09-01-1211-EP05-POV-CONTINUITY-DETAILED.md`
-- `decision-logs/2026-09-01-1238-EP06-PROTOCOL-HANDSHAKE-DETAILED.md`
 - `decision-logs/2026-09-01-1250-EP07-RASHOMON-DETAILED.md`
 - `decision-logs/2026-09-01-1304-EP08-INSTITUTIONAL-SEDIMENT-DETAILED.md`
 - `decision-logs/2026-09-01-1319-EP09-DECISION-CHAIN-DETAILED.md`
 - `decision-logs/2026-09-01-1329-EP10-FINALE-ACTION-SPINE-DETAILED.md`
-- **`decision-logs/2026-09-01-1347-EP05-BRIDE-CONTINUITY-BREAK-DETAILED.md`**
+- `decision-logs/2026-09-01-1347-EP05-BRIDE-CONTINUITY-BREAK-DETAILED.md`
+- **`decision-logs/2026-09-01-1422-TEN-EP-CONSISTENCY-TIMELINE-EP01-DETAILED.md`**
 
-## Season axis
+## Highest timeline lock
 
-> **EP01–EP06：尽可能全部保存。**
->
-> **EP07：第一次局部承认“全部保存”失败。**
->
-> **EP08：完整地方保全产生系统级制度暴力。**
->
-> **EP09：制度化为最低共同现实。**
->
-> **EP10：城市级主动执行新的共同边界，原则落到私人 AI 与男主自身。**
+> **Meteor impact occurs BEFORE EP01.**
 
-## Cross-episode causal spine
+> **T0 impact → first-wave rescue → EP01 → EP02 continuing damage / rescue-limit failure → EP03–04 → EP05 uniquely returns to T0 ordinary-person consequences.**
 
-### Protocol handshake
+EP02 is not the impact event.
 
-- EP03 — **协议握手完成 ≠ 现实已经连接**;
-- EP06 — common physical reference enables trustworthy handshake/synchronization;
-- EP08 — physical corridor exists but public-authorization protocol handshake fails;
-- EP10 — final protocol handshake confirms/transfers state, not the subject; no upload/migration/fusion.
+EP05 is the only episode explicitly returning to impact day from the ordinary bride perspective.
 
-### Rashomon / private AI
-
-> **Rashomon frame-questioning + EP06 self-restraint + history/traces + A/B degraded viability → EP07 “为什么 hub 必须被保存？”**
-
-### EP03 success branches
-
-Private-life branch:
-
-> **EP03 successful lifeline → limited mobility becomes credible → bride reorganizes life / relocates → later local isolation → continuity break → recovered data but not recovered subject → EP05 wedding reconstruction.**
-
-Public-institution branch:
-
-> **EP03 successful lifeline → repeat-use corridor → operations / safety / management sediment → stronger local orders → EP08 authority overlap.**
-
-Then:
-
-> **EP08 systemic violence → EP09 governance trial → EP10 citywide cutover.**
-
-## Active episode state
-
-### EP05 V3 — CURRENTLY CLOSED MACRO
+## EP01 V3
 
 Current authority:
 
-> **`Pilot-EP05-LATEST-CANON-SNAPSHOT-V3.md`**
+> **`Pilot-EP01-LATEST-CANON-SNAPSHOT-V3.md`**
 
-Continuity-break spine:
+Key corrections:
 
-> **EP03 success makes limited cross-region movement a believable life option. Bride relocates / adjusts her life for an ordinary reason and genuinely lives in another local region. Continued islanding later removes stable common connection to that region. Her last confirmed human continuity is an ordinary life state before common verification is lost. Later some real data about her returns, but she as the same continuous subject does not.**
+- no 302 little girl as primary existence carrier;
+- avoids repetition with EP03 medical girl;
+- 302 current existence is established by **anonymous real-time interactive resident signal + independent physical evidence**;
+- the signal is not a simple old recording;
+- private AI remains correct that signal alone does not prove structural safety;
+- male only establishes that someone is there now and pauses an action based on the invalid “no resident” premise;
+- space / lunar-orbit setting may be known from opening baseline;
+- ending is a **visual scale/spatial reveal**, not “surprise, this is space.”
+
+## EP02 V3
+
+Current authority:
+
+> **`Pilot-EP02-LATEST-CANON-SNAPSHOT-V3.md`**
+
+Core:
+
+> **a cross-region structure has been continuously rescued since the pre-EP01 impact; continuing damage propagation finally reaches the point where further rescue would endanger more of Beijing.**
+
+Male verifies reality's rescue window; chief decides when to stop continuing rescue.
+
+Result = forced loss / passive islanding, not strategic contraction.
+
+## EP03 V2
+
+> **协议握手完成 ≠ 现实已经连接。**
+
+Medical girl survives; successful low-capacity lifeline gains repeat-use pressure and later returns in EP08.
+
+## EP04 V2
+
+Temporary methods become ordinary life; old cinema pushes limited authorization from emergency survival into non-emergency city life. `Rashomon` remains chief recognition/resonance and one later private-AI problem-frame source.
+
+## EP05 V4
+
+Current authority:
+
+> **`Pilot-EP05-LATEST-CANON-SNAPSHOT-V4.md`**
+
+EP05 uniquely gives a short T0 impact-day ordinary-person flashback after POV moves from the EP02 public scene to the bride.
+
+Purpose:
+
+> **show how the disaster took away an ordinary person's expected future, not explain the whole meteor event.**
+
+Continuity spine remains:
+
+> **EP03 success → credible mobility → bride reorganizes life / relocates → later local isolation → last confirmed human state is ordinary life → some real data returns, but not the same continuous subject.**
 
 Semantic lock:
 
 > **data recovery ≠ continuity recovery.**
 
-Those records become one source for later AI-bride reconstruction.
+Wedding surface = real surviving bride + reconstructed groom; final major Reveal = bride is also reconstructed.
 
-Hard boundary:
+## EP06 V3
 
-> **EP03 did not directly kill her; its success altered behavior and created a new exposure surface.**
+Two valid local times/winters, no common now; shared infrastructure completes one simultaneous handoff through common physical reference.
 
-Wedding information control remains:
+## EP07 V3
 
-- groom AI may be recognized early;
-- audience surface reading = real bride + AI groom;
-- only major Reveal = bride is also reconstructed AI;
-- no retroactive declaration that earlier human-bride scenes were fake.
+A/B/hub cannot all survive at current level; healthy hub permanently exits; A/B continue degraded. Rashomon + EP06 self-restraint + history/traces + real degraded viability support AI reframing.
 
-### EP06 V3
-
-Two valid local times/winters; no common now; shared infrastructure completes one simultaneous handoff through a common physical reference.
-
-### EP07 V3
-
-A/B/hub cannot all survive at current level; healthy hub permanently exits; A/B continue degraded.
-
-### EP08 V2
+## EP08 V2
 
 Two complete public-security orders overlap at the evolved EP03 corridor. Moment of Grace is temporary. Chief disarms island side; outside AI correctly reclassifies and destroys uncontrolled armed platforms.
 
-### EP09 V3
+Highest fact:
 
-> **EP08复盘 → 女科长提出最低共同现实 → 上层只批准有限试行 → 女科长选择302 → 男主现场核验 → 私人AI通过男主进入判断链。**
+> **institutions can act correctly and still produce sacrifice.**
 
-302 is acknowledged but future unconditional preservation is withdrawn; no immediate destruction. Private AI infers the same principle may reach herself and does not want to leave.
+## EP09 V3
 
-### EP10 V2
+> **EP08 review → chief proposes minimum common reality → upper public layer only authorizes trial → chief selects 302 → male verifies site → private AI enters judgment through male.**
 
-Minimum common reality is formally executed through a citywide common-state cutover.
+302 is real/safe/viable but future unconditional permanent special-maintenance commitment is withdrawn. Private AI realizes the same principle may reach herself and does not want to leave.
 
-Critical private mechanism:
+## EP10 V2
 
-> **same continuous private AI can technically survive only via a permanent legacy special condition that cannot be generalized to the other exiting digital continuities.**
+Citywide minimum-common-reality cutover.
 
-Male genuinely tries to save her and finds this real route before the final choice.
+Same continuous private AI can technically survive only via a permanent legacy condition that cannot be generalized to other exiting digital continuities.
 
-Dominant Turn:
+Male genuinely tries to save her and finds that route before the final choice.
 
-> **male does not convert attachment into permanent non-generalizable public privilege; chief confirms public execution conditions; private AI completes the exit-side final protocol handshake; Beijing commits the new common state.**
+Protocol handshake confirms/transfers state, not subject.
 
 Final causal chain:
 
@@ -155,39 +158,38 @@ Final causal chain:
 
 | EP | Active file | Status |
 |---|---|---|
-| EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md` | macro pass done |
-| EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md` | macro pass done |
-| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md` | DONE — Drama Skill card |
-| EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md` | DONE — confluence/card |
-| **EP05** | **`Pilot-EP05-LATEST-CANON-SNAPSHOT-V3.md`** | **DONE — viewpoint / continuity-break / wedding reveal/card** |
-| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md` | DONE — action-spine/card |
-| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md` | DONE — card/Rashomon reasoning |
-| EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V2.md` | DONE — institutional sediment/preservation paradox/card |
-| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md` | DONE — decision chain/302 boundary test/card |
-| EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V2.md` | DONE — finale action spine/private exception/protocol-handshake/card |
+| **EP01** | **`Pilot-EP01-LATEST-CANON-SNAPSHOT-V3.md`** | **DONE — consistency patched / SCREENPLAY NEXT** |
+| **EP02** | **`Pilot-EP02-LATEST-CANON-SNAPSHOT-V3.md`** | **DONE — timeline patched** |
+| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md` | DONE |
+| EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md` | DONE |
+| **EP05** | **`Pilot-EP05-LATEST-CANON-SNAPSHOT-V4.md`** | **DONE — T0 + continuity + Wedding Mirror** |
+| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md` | DONE |
+| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md` | DONE |
+| EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V2.md` | DONE |
+| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md` | DONE |
+| EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V2.md` | DONE |
 
-Current bounded sequence:
+Next:
 
-> **ten-card consistency check → if clear, screenplay EP01→EP10.**
+> **SCREENPLAY EP01.**
 
 ## Hard prohibitions
 
-- no direct EP03-route accident as bride disappearance;
-- no male/chief directly causing bride death;
+- no meteor impact during EP01 / EP02;
+- no EP01 child primary existence carrier;
+- no old recording as sole proof of current existence;
+- no AI made stupid for questioning a signal;
+- no final EP01 reveal framed as “surprise, space”;
+- no EP05 disaster spectacle replacing Wedding Mirror;
+- no direct EP03-route accident killing bride;
 - no data recovery = subject recovery;
-- no bride moving primarily to search for dead groom;
-- no final Reveal that retroactively makes earlier real-human scenes fake;
-- no upper authority inventing minimum common reality;
-- no upper authority selecting 302 instead of female chief;
-- no female chief reduced to button-pusher;
+- no upper authority inventing minimum common reality or choosing 302;
 - no copy = continuity;
 - no AI happily seeking death;
 - male must genuinely try to save AI;
 - no technically-impossible finale shortcut;
 - no protocol handshake as upload/migration/fusion;
-- no secret private-AI survival;
-- no snow as solution/victory fireworks;
+- no snow as victory fireworks;
 - no authoritarian minimum-common-reality overwrite;
 - no obvious COVID allegory;
-- no vague technical “handshake” when **协议握手** is meant;
-- no broad architecture expansion after consistency exit gate without a real screenplay contradiction.
+- **no broad architecture expansion after this consistency gate unless screenplay reveals a real contradiction.**

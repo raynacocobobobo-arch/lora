@@ -17,7 +17,7 @@
 9. **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md`**
 10. **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md`**
 11. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
-12. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md`
+12. **`Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md`**
 13. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
 14. current `hermes-creative-ai-short-drama` Skill when changing structure / screenplay / production stage.
 
@@ -82,7 +82,7 @@ Male counterpart:
 | EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md` |
 | EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md` |
 | EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md` |
-| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V1.md` |
+| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md` |
 | EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md` |
 
 ## Superseded Master archive

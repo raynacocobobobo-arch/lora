@@ -1,306 +1,340 @@
-# 《重庆时间》EP07 — LATEST CANON SNAPSHOT V4
+# 《重庆时间》EP07 — STORY CAUSAL REPAIR SNAPSHOT
 
-- Updated: 2026-09-01
-- Status: `LOCKED / ACTIVE V4 EPISODE CANON`
+- Updated: 2026-09-02
+- Status: `NEEDS_REVIEW / STORY-CAUSAL REPAIR ON BRANCH`
 - Project basis: `CHONGQING-TIME-MASTER-CANON-V4.md`
 - Character basis: `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-- Approval scope: healthy shared Hub / A-B capability inversion / first local admission total preservation failed / four-source private-AI reframing / bridge-network municipal-node integration locked; exact Hub service bundle, engineering topology, dialogue and shot timing remain `EXECUTION_TBD`.
+- Preserved locks: healthy shared Hub / A-B inversion / first local admission all-preservation failed / private-AI four-source reframing / chief public authorization / male physical validation.
+- Story repair requirement: **必须明确为什么轮流服务、时间切片、balanced mode、拆分 Hub 都不能无损保住 A/B；否则“关掉健康 Hub”只是作者制造的第三路。**
 
 ---
 
 # 01｜Episode function
 
-EP01–EP06 一直在证明：
+EP07 是整季第一次主动结束一个：
 
-> **还可以再救一点、再接一点、再维持一点。**
+> **健康、有价值、按设计正确工作的公共能力。**
 
-EP07 第一次改变问题本身：
+但原因不能是“Hub只有一个，所以只能选 A 或 B”。
 
-> **A、B、共享 Hub 三个真实、有价值的对象无法保持当前状态全部保存。**
+更严格的因果是：
 
-Dominant Turn：
+> **这台 Hub 的设计前提是一座拥有一个共享高阶城市状态的重庆。它必须维护一套单一、连续、可预测的跨区状态图，用来协调交通、能源、桥梁 Gravity Handoff 与高等级公共服务。A/B 在数集本地化之后已经形成两套都真实但彼此分叉的状态。Hub 没坏；它仍然正确地尝试把城市当成一个共同状态来优化。正因为它正确工作，服务 A 时就会把 A 的状态假设带进 B，服务 B 时反过来。**
 
-> **私人 AI 不再接受“Hub 必须保留”这个隐藏前提；男主确认 Hub 本身健康且 A/B 在无 Hub 状态下都能降级继续；女科长第一次批准一个正常、有价值、仍能工作的共享公共基础设施永久退出。**
+于是本集问题是：
 
-本集是：
-
-> **第一次局部承认“全部保存”失败。**
-
-还不是全城主动收缩。
+> **一个健康系统的设计前提已经不存在，还应不应该为了保留系统本身继续强迫两个局部共享它无法成立的前提？**
 
 ---
 
-# 02｜Opening: visible A/B inversion
+# 02｜Cold Open — A 好起来，B 马上变差
 
-不从会议室解释资源冲突。
+目标时长：`0:00–0:30`
 
-优先让观众直接看见：
+不从会议室开始。
 
-- Hub 倾向 A 时，A 的关键城市能力恢复；
-- 同时 B 进入无法继续承受的降级；
-- 尝试切向 B 后，结果反转。
+Hub 当前锁定 A 的高阶状态图：
 
-观众先理解：
+A 可见改善：
 
-> **Hub 只有一个，而现在 A、B 都真的需要。**
+- 桥梁容量提升；
+- 环境/能源余量恢复；
+- 交通更顺；
+- Gravity Handoff 更稳定。
 
-精确能力表现 `EXECUTION_TBD`，但必须是生活 / 公共服务可见结果，而不是只有屏幕指标。
+同时 B 可见进入保护降级：
 
----
+- 部分公共线路退出；
+- 环境负载收缩；
+- 本地系统频繁拒绝 Hub 的跨区预测/调度；
+- 某些桥只能回到低容量本地模式。
 
-# 03｜Hub as bridge-network municipal node
+切换 Hub 到 B。
 
-Hub 不再是孤立的抽象服务器大厅。
+结果镜像反转。
 
-它是桥网中的共享市政节点，可以同时支撑若干：
+观众先懂：
 
-- 交通协调；
-- 公共服务；
-- 环境 / 能源分配；
-- 数据 / compute；
-- 某些桥梁运行能力；
-- 跨区重力过渡协调；
-- 其他共享高等级城市能力。
-
-精确服务组合仍 `EXECUTION_TBD`。
-
-关键视觉 / 因果要求：
-
-> **Hub 的价值必须通过 A/B 两侧真实公共能力变化被理解，不靠长篇技术说明。**
-
-它属于第二新重庆桥网，而不是一台脱离城市空间的机器。
+> **Hub不是“资源少一点”的普通问题；它的高阶共同状态一次只能与一套真实城市历史充分一致。**
 
 ---
 
-# 04｜Hub must be healthy
+# 03｜Why now
 
-`LOCKED / CRITICAL`
+过去数集大家一直相信：
 
-男主必须确认：
+> 本地化只是暂时的，等连接恢复就能重新统一。
 
-> **Hub 没有坏。**
+所以 Hub 一直被努力保留，作为未来重联能力。
 
-它：
+到 EP07，A/B 的本地状态已经累积到一个临界点：
 
-- 结构正常；
-- 功能正常；
-- 可以继续工作；
-- 仍然有价值；
-- 不是寿命耗尽；
-- 不是即将爆炸；
-- 不是“反正迟早保不住”。
+- local public time 已长期独立；
+- 服务历史不同；
+- Local Gravity Frame 调度不同；
+- EP03/04 的临时路线已沉积成本地生活；
+- 公共系统各自完成大量灾后承诺。
 
-如果 Hub 已经坏，本集会退回 EP02 forced loss。
+Hub 若继续频繁把其中一套状态投射到另一边，两个本地系统都会越来越多触发保护逻辑。
 
-EP07 的意义在于：
+今天出现的具体压力：
 
-> **第一次主动退出的是一个真正值得保存、技术上也可以继续的东西。**
+> **A/B 同时进入无法再承受下一轮反向切换的公共服务窗口。**
 
----
-
-# 05｜Why A and B can survive without Hub
-
-第三路不能是本集临时发明的新技术。
-
-它来自前面已经发生的城市演化：
-
-- EP02 后，城区被迫发展本地运行；
-- EP03 证明不恢复全局也能完成必要动作；
-- EP04 临时本地秩序已经能承载日常；
-- EP06 不同 local now 已经可以稳定支撑生活。
-
-因此现实已经证明：
-
-> **A 无 Hub 会降级，但不会立刻消失。**
->
-> **B 无 Hub 也会降级，但不会立刻消失。**
-
-Hub 退出不是无损方案。
-
-A/B 都会失去：
-
-- 高等级共享能力；
-- 一部分未来重联能力；
-- 某些效率；
-- 资源冗余；
-- 服务水平。
-
-但两边都继续存在。
+必须决定下一阶段 Hub 怎么运行。
 
 ---
 
-# 06｜Private AI: four-source reframing chain
+# 04｜Hub is healthy
 
-私人 AI 不是“算出第三路”。
+男主必须现场确认：
 
-她重新检查问题框架来自四部分共同作用。
+- 主硬件正常；
+- 供能正常；
+- 计算/控制功能正常；
+- 传感输入在自身设计标准内；
+- 没有即将损坏；
+- 没有“反正要报废”。
 
-## A｜EP04《罗生门》
+真正的异常是：
 
-留下：
+> **它所要求的“一个共享城市状态”已经不再存在。**
 
-> **多个冲突位置都可能分别成立；如果问题只允许选一个版本赢，也许提问方式本身值得检查。**
-
-不是答案。
-
-## B｜EP06 self-limitation experience
-
-她刚亲历：
-
-> **真正共同规则会约束有能力 / 有权力的人自身，而不是默认某个主体永远不承担代价。**
-
-## C｜History / traces
-
-她的实时共同世界正在缩小，因此越来越依赖：
-
-- 历史；
-- 旧记录；
-- 长期关系；
-- 人留下来的城市选择。
-
-允许方向性台词：
-
-> **“我看不见外面，所以我开始读你们已经留下来的东西。”**
-
-精确对白待定。
-
-## D｜Real degraded survivability
-
-A/B 已经真实拥有无 Hub 降级生存能力。
-
-没有这一点，前三个认知来源只能产生思考，不能形成执行方案。
-
-四者共同使她问出：
-
-> **为什么只有 A 或 B 被列为承担完整代价的候选，而 Hub 本身从来不进入代价集合？**
+所以 EP07 不是 repair episode。
 
 ---
 
-# 07｜Third path is still loss
+# 05｜Obvious alternatives — 必须逐个被现实排除
 
-错误写法：
+## A｜轮流给 A / B
 
-> AI 找到聪明方案，所有人都得救。
+他们已经在这样做。
 
-正确：
+问题：
 
-> **第三路只是重新分配不可逆代价。**
+> 每次切换都必须重新校验大量跨区状态；切换完成所需的稳定期长于另一侧能够承受的失配时间。
 
-A 与 B：
+于是时间切片不是“公平共享”，而是：
 
-- 都活；
-- 都降级；
-- 不完全对称；
-- 以后更依赖本地系统。
+> A 刚恢复，B 已经进入保护降级；切过去后反过来。
+
+长期只是在两个失配状态间摆动。
+
+## B｜50/50 balanced mode
+
+Hub 可以降低高阶控制力度，同时保留部分协调。
+
+但现实测试显示：
+
+> **两侧都停在低于各自可持续安全余量的中间状态。**
+
+不是双赢，而是让两边都长期处于需要继续补救的边缘。
+
+## C｜把 Hub 一分为二
+
+不能简单复制/切半，因为它高阶协调的对象包括共享物理资源：
+
+- 同一桥组；
+- 同一热/能源缓冲；
+- 同一重力过渡设施；
+- 同一跨区网络路径。
+
+两套 Hub 若同时对同一共享物理资源拥有完整主控，会制造新的冲突。
+
+如果把共享物理资源也彻底拆开：
+
+> 那实际上已经在做“各自地方化”，而不是保留原 Hub 的共同功能。
+
+## D｜继续等以后修复
+
+可以保留 Hub 硬件，但不能继续让它维持当前共同控制角色而不让 A/B 承担持续伤害。
+
+本集要决定的是：
+
+> **现在是否结束这项共同运行功能。**
+
+---
+
+# 06｜Private AI — 她不是突然灵光一现
+
+私人 AI 的问题重构来自已经发生的四类经验：
+
+1. EP04《罗生门》：如果问题强迫多个真实版本里只能选一个赢家，可能要检查问题框架；
+2. EP06：共同规则也限制拥有更多能力/权限的人自己；
+3. 她的实时共同世界缩小，越来越依赖历史与长期关系；
+4. 最关键：A/B 已经真实证明可以在没有完整共享能力时以较低水平继续生活。
+
+因此她提出的不是“聪明优化参数”，而是一个问题：
+
+> **为什么代价集合里永远只有 A 或 B？Hub 的共同功能本身是不是也可以退出？**
+
+这句话是方向，精确对白 `TBD`。
+
+---
+
+# 07｜Third path — 不是所有人都得救
+
+关闭 Hub 的高阶共同运行后：
+
+A：
+
+- 活；
+- 但失去高等级跨区协调；
+- 交通/环境/能源效率下降；
+- 更依赖自己的 Local Gravity Frame 与本地时间。
+
+B：
+
+- 同样活；
+- 同样降级；
+- 损失不要求完全对称。
 
 Hub：
 
-> **永久退出。**
+> **健康功能永久退出。**
 
-所以第三路不是公平答案，也不是无损答案。
+未来城市也失去：
+
+- 一部分高等级重联能力；
+- 共享冗余；
+- 统一优化空间。
+
+所以第三路的真实定义是：
+
+> **不再让 A/B 轮流承担完整失配，而让两边共同承担能力下降，并让 Hub 本身承担不可逆退出。**
 
 ---
 
-# 08｜Male role
+# 08｜Male / Chief — 独立责任不能被 AI 吃掉
 
-男主不能只负责点头同意 AI。
+## Male
 
-他必须确认：
+必须确认：
 
 - Hub 真的健康；
-- Hub 退出不是结构事故；
-- A/B 无 Hub 的降级生存是现实而不是模拟乐观；
-- 哪些能力会永久失去；
-- 是否存在隐藏的立即物理死亡风险。
+- balanced/切换状态的现场后果是真的；
+- A/B 在失去 Hub 后的 local fallback 已经在前几集真实运行过；
+- shutdown 不会隐藏立即物理死亡风险。
 
-他的 State Delta：
+他第一次接受：
 
-> **第一次接受“换一个问题框架”仍然可能意味着结束一个完全正常的东西。**
+> **一个东西“还能正常工作”并不自动意味着继续工作就是唯一正确选择。**
 
-这为 EP10 健康桥退出做心理前置。
+## Female chief
 
----
+她不是听 AI 说完就点头。
 
-# 09｜Chief role
+她必须承担：
 
-女科长第一次批准：
+> **第一次永久终止一个健康、有价值、仍可工作的共享公共功能。**
 
-> **一个健康、有价值、仍可运行的公共基础设施永久退出。**
-
-她没有被 AI 替代。
-
-责任链：
-
-- AI 提出问题重构 / 可执行方案；
-- 男主确认现实条件；
-- 女科长承担公共授权和后果。
-
-EP06 的克制互认使她愿意认真听 AI，但：
-
-> **最终公共决定仍由她承担。**
+EP06 让她愿意认真听 AI 的判断，但公共责任仍属于她。
 
 ---
 
-# 10｜Time / gravity role
+# 09｜Dominant Turn / Payoff
 
-本集不需要再证明“时间断层是什么”。
+目标时长：`1:35–2:20`
 
-A/B 已经有自己的 local public time。
+最后一次验证 A/B local fallback。
 
-Hub 退出后可以进一步造成：
+男主确认：
 
-- 跨区高等级协调减少；
-- 更依赖本地时间调度；
-- 更依赖本地 Local Gravity Frame 管理；
-- 某些桥从高容量共享服务降为地方 / 低容量模式。
+> 两边都会降级，但都能继续。
 
-这些是成本，不是本集主谜题。
+科长授权：
 
----
+> **结束 Hub 的高阶共同运行。**
 
-# 11｜Why this leads to EP08
+Hub 自检仍显示：
 
-Hub 退出后，A/B 都继续生活，但：
+> NORMAL.
 
-> **它们必须更完整地依赖自己的地方公共系统。**
+然后进入：
 
-于是：
+> SHUTDOWN / RETIRE SHARED CONTROL.
 
-- 地方服务更独立；
-- 地方安全链更完整；
-- 地方授权更自足；
-- 各自更能够“正确地保护自己负责的居民”。
+A/B 都没有熄灭。
 
-这在工程上让两边活下来，却在政治上埋下一件事：
+两边只是：
 
-> **当两套完整地方秩序重新在同一条桥上相遇，它们是否还互相承认？**
+> **都变慢、都变小、都更地方化。**
 
-EP08 由此自然发生。
+这就是本集的痛。
 
 ---
 
-# 12｜Episode Card V4
+# 10｜Why this directly creates EP08
+
+Hub 退出后，两边为了继续活必须把更多职责交回本地：
+
+- 本地公共安全；
+- 本地交通；
+- 本地服务；
+- 本地时间；
+- 本地 Gravity Frame 管理。
+
+这在工程上让它们更稳定。
+
+同时意味着：
+
+> **两套地方公共秩序都变得更完整、更能独立保护自己的居民。**
+
+当它们在 EP03 那条已经日常化的生命线桥上重新遇到：
+
+> 现实路线还连着，但共同公共强制授权已经不再天然存在。
+
+EP08 因此不是突然政治化。
+
+---
+
+# 11｜State Delta
+
+1. 健康共享 Hub 的高阶共同运行永久退出。
+2. A/B 都转入更低能力、更完整地方化的运行状态。
+3. “全部保存”第一次在局部案例中被明确承认失败。
+4. 私人 AI 第一次把问题从“谁输”重构成“谁被默认排除在代价集合外”。
+5. 男主第一次接受健康能力也可能被主动结束。
+6. 女科长第一次授权健康公共价值永久退出。
+7. EP08 的双地方安全秩序获得直接制度来源。
+
+---
+
+# 12｜Episode Card — repaired
 
 ```yaml
 episode_id: EP07
-episode_function: "第一次在具体案件中承认全部保存已经失败：A、B与共享Hub无法保持当前能力全部存在；Hub本身健康且有价值，私人AI基于Rashomon问题重构、EP06自我约束经验、历史痕迹和A/B真实降级生存能力重新检查‘Hub必须保存’的隐藏前提，男主确认现实可行，女科长批准Hub永久退出。"
-dominant_turn: "健康Hub退出，A/B都以更低能力继续。"
-core_conflict: "三个真实价值不能全保，但既有问题框架把其中一个价值默认设为不可牺牲。"
-conflict_grammar: "all-preservation impossible / cost-set reframing。"
-cost_after_solution: "Hub永久失去；A/B能力下降，更依赖各自地方公共系统；未来高等级重联能力下降。"
+target_duration: "2m25s–2m50s"
+episode_function: "健康共享Hub按设计维护一个单一高阶城市状态，但A/B已经形成两套真实分叉状态；服务A会让B失配，服务B反之。轮流、切片、balanced mode、简单拆分都无法同时维持两边当前能力。AI重新检查‘Hub必须保留’的隐藏前提，男主确认A/B无Hub都能降级生存，科长首次批准健康共享能力永久退出。"
+opening_hook: "Hub锁A时A恢复、B迅速降级；切B后结果完全反转。"
+dominant_turn: "健康Hub退出，A/B都以较低能力继续。"
+core_conflict: "一个按原设计正确工作的共同系统，要求的共享现实前提已经不存在；继续保它会让两个局部轮流承担失配。"
+conflict_grammar: "healthy shared system vs vanished shared-state premise。"
+progression:
+  reveal_or_knowledge: "‘系统正常’与‘继续运行符合未来公共利益’第一次分离。"
+  pressure_or_public_action: "第一次主动永久退出健康公共能力。"
+  relationship_or_capability: "AI提出问题重构；男主验证现实可行；科长承担公共授权。"
+callback_or_debt: "EP04 Rashomon + EP06 self-limitation paid into reframing；local-order completeness -> EP08。"
+cost_after_solution: "Hub永久失去；A/B服务水平、效率、冗余和未来高等级重联能力下降。"
+payoff_or_progress: "全部保存第一次局部失败，但不是无损妙计。"
+ending_cliffhanger_or_image: "Hub状态仍NORMAL却安静关闭；两边城市都继续亮着，只是变得更地方化。"
+mechanism_status: "LOCKED_DIRECTION: single-coherent-state Hub / alternative tests required; exact topology VALIDATE_LATER"
+dialogue_status: TBD
+state_delta:
+  - "healthy shared Hub retired"
+  - "A/B local-order autonomy increases"
+  - "all-preservation first locally rejected"
+continuation_capsule: "EP08发生在EP03生命线：路线本身已经长期可用，但Hub退出后两端各自公共安全链更完整，第一次在同一桥上面对‘谁有权使用公共强制力’。"
 ```
 
 ---
 
 # 13｜Hard prohibitions
 
-- no broken Hub excuse；
+- no broken-Hub excuse；
+- no unexplained 'Hub only serves one' arbitrary rule；
+- no obvious time-sharing/partition alternative left unanswered；
 - no no-cost third path；
-- no AI omniscient optimization answer；
-- no Rashomon flashback as inspiration cue；
-- no chief handing public authority to AI；
-- no male merely rubber-stamping the idea；
-- no EP07 already declaring citywide strategic contraction；
-- no time/gravity subplots taking over the Hub decision；
-- no Hub as abstract server disconnected from bridge-city life；
-- no claim that A/B degradation is perfectly fair or symmetrical。
+- no AI as omniscient optimizer；
+- no chief handing authority to AI；
+- no citywide strategic contraction already declared in EP07。

@@ -1,7 +1,7 @@
 # 《北京市没有冬天》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-01
-- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER TEASER V2 ACTIVE / VISUAL STANDARD V1.1 ACTIVE / KV04 APPROVED`
+- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER TEASER V2 ACTIVE / VISUAL STANDARD V1.1 + PATCH V1.1.1 ACTIVE / KV05 APPROVED`
 - Rule: one active Master; highest-numbered active Episode Snapshot wins concrete episode facts; narrow Canon patches may supersede terminology/scope; Drama Skill remains the episode-development gate. Non-Canon execution docs never supersede Canon.
 
 ## Primary Canon read order
@@ -29,12 +29,13 @@
 
 ## Active non-Canon execution layer
 
-### Visual generation standards V1.1
+### Visual generation standards V1.1 + active patch V1.1.1
 
 Current locked files:
 
 - **`VISUAL-CONSISTENCY-BIBLE-V1.1.md`** — current visual world, spatial scale, composition, material, signage, equipment, lighting, rendering and two-layer QC standard;
-- **`SCENE-PROMPT-TEMPLATE-V1.1.md`** — mandatory Canon Handshake → Dramatic Handshake → Visual Handshake → prompt assembly → two-layer QC workflow.
+- **`SCENE-PROMPT-TEMPLATE-V1.1.md`** — mandatory Canon Handshake → Dramatic Handshake → Visual Handshake → prompt assembly → two-layer QC workflow;
+- **`VISUAL-PATCH-V1.1.1-KV05-CEL-SIMPLIFICATION.md`** — active large-setting/KV simplification patch: large structural masses, lower micro-detail density, stronger cel-shadow blocks, KV05 anchor and environment-only current KV phase.
 
 Historical superseded visual files retained:
 
@@ -43,11 +44,11 @@ Historical superseded visual files retained:
 
 Status:
 
-> **LOCKED / ACTIVE NON-CANON VISUAL EXECUTION STANDARD V1.1.**
+> **LOCKED / ACTIVE NON-CANON VISUAL EXECUTION STANDARD V1.1 + PATCH V1.1.1.**
 
 Mandatory rule for every new scene / KV / storyboard keyframe / generation segment:
 
-> **read Canon first; confirm the actual scene action; then translate through the Visual Bible and approved KV anchors.**
+> **read Canon first; confirm the actual scene action; then translate through the Visual Bible, active visual patch and approved KV anchors.**
 
 Minimum scene-generation reading sequence:
 
@@ -59,32 +60,41 @@ Minimum scene-generation reading sequence:
 6. current execution document such as `TRAILER-TEASER-V2.md`;
 7. `VISUAL-CONSISTENCY-BIBLE-V1.1.md`;
 8. `SCENE-PROMPT-TEMPLATE-V1.1.md`;
-9. approved KV visual anchors available in the working context.
+9. `VISUAL-PATCH-V1.1.1-KV05-CEL-SIMPLIFICATION.md` for large-setting/KV generation;
+10. approved KV visual anchors available in the working context.
 
 When the active Episode Snapshot leaves execution details TBD, older detailed episode documents may be consulted only for non-conflicting scene-space provenance.
 
 Authority split:
 
-> **Canon decides WHAT exists / happens. Visual Bible + approved KV anchors decide HOW it is visualized.**
+> **Canon decides WHAT exists / happens. Visual Bible + active visual patch + approved KV anchors decide HOW it is visualized.**
 
 V1.1 adds a second acceptance rule:
 
 > **“像同一部片”与“像这场戏”必须同时成立。**
 
+Patch V1.1.1 adds a large-setting production rule:
+
+> **少一点设计炫技，多一点空间逻辑；少一点写实复杂度，多一点赛璐璐结构感。**
+
 Current visual-execution locks include:
 
 - 2.35:1 scene / KV frame ratio, superseding the earlier teaser 2.39:1 visual-output ratio where they conflict;
-- current approved visual ground truth = KV01 station + KV02 wedding observation hall + KV03 checkpoint + **KV04 EP02 opening connector bridge**;
+- current approved visual ground truth = KV01 station + KV02 wedding observation hall + KV03 checkpoint + KV04 EP02 opening connector bridge + **KV05 EP07 A/B/shared-Hub large-setting scene**;
 - same art system does NOT mean every scene copies the same central-axis hall composition;
 - orbital-city interiors may be monumental but must retain finite engineered volume / enclosure; no infinite internal abyss by default;
 - exterior Earth / stars / celestial spectacle remains subordinate unless an approved shot specifically makes it the subject;
 - every major spectacle frame requires 1–3 concrete ongoing public / maintenance / life operations;
+- large-setting KVs prioritize large structural masses, clear negative space and 2–3 hard cel-shadow tiers over photoreal micro-detail accumulation;
+- if an environment image starts reading as premium 3D hard-SF concept art, reduce micro-detail before adding more content;
+- signage confirms spatial / operational state; it should not be the only way to understand the frame;
 - current visible city signage uses `第二新重庆 / SECOND NEW CHONGQING` where explicitly required by visual execution; this does not automatically rewrite series Canon from 第二新北京;
-- a generated image becomes a visual anchor only after explicit user approval.
+- a generated image becomes a visual anchor only after explicit user approval;
+- **current KV phase prioritizes large environment / scene-setting images; character-action shots are deferred to later Shot Asset / Character Action development.**
 
 #### KV04 approved anchor
 
-KV04 now locks a new spatial family:
+KV04 locks a spatial family:
 
 > **inside the orbital city, a city-scale opening connector bridge spans a bounded industrial-maintenance chasm and enters controlled mechanical separation while evacuation / transit / municipal systems are still operating.**
 
@@ -94,7 +104,21 @@ KV04 scale correction:
 
 Detailed conversation provenance:
 
-- **`decision-logs/2026-09-01-2137-VISUAL-V1.1-KV04-CONVERSATION.md`**
+- `decision-logs/2026-09-01-2137-VISUAL-V1.1-KV04-CONVERSATION.md`
+
+#### KV05 approved anchor
+
+KV05 locks a new large-setting and rendering family:
+
+> **inside the orbital city, a central shared public Hub visibly serves A/B regional interfaces; one side can remain high-capability while the other is degraded, with the relation communicated primarily through large architecture, lighting, activity and service state rather than dense explanatory screens.**
+
+KV05 rendering correction:
+
+> **large shapes first; micro-detail second. Use simplified steel masses, fewer/thicker pipe groups, restrained signage, sparse municipal vehicles / workers, and clear 2–3 tier cel-shadow blocks. Avoid photoreal metallic reflection noise and high-frequency greeble.**
+
+Detailed provenance:
+
+- **`decision-logs/2026-09-01-2158-KV05-CEL-SIMPLIFICATION-LOCK.md`**
 
 ### Current teaser
 
@@ -159,7 +183,8 @@ Only reopen macro Canon if a concrete screenplay scene cannot satisfy two locked
 - `decision-logs/2026-09-01-1542-EP10-LEGACY-BRANCH-RELAY-DETAILED.md`
 - `decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`
 - `decision-logs/2026-09-01-1819-TRAILER-TEASER-V2-DETAILED.md`
-- **`decision-logs/2026-09-01-2137-VISUAL-V1.1-KV04-CONVERSATION.md`**
+- `decision-logs/2026-09-01-2137-VISUAL-V1.1-KV04-CONVERSATION.md`
+- **`decision-logs/2026-09-01-2158-KV05-CEL-SIMPLIFICATION-LOCK.md`**
 
 ## Highest cross-episode relationship locks
 
@@ -289,4 +314,4 @@ Canon:
 
 Trailer:
 
-> **TEASER V2 → remaining KV tests / assets → Shot Asset List → Generation Segment Plan.**
+> **TEASER V2 → remaining large-setting KV tests / environment assets → Shot Asset List → Generation Segment Plan.**

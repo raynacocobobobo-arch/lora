@@ -1,7 +1,7 @@
 # 《北京市没有冬天》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-01
-- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER TEASER V2 ACTIVE`
+- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER TEASER V2 ACTIVE / VISUAL STANDARD V1 ACTIVE`
 - Rule: one active Master; highest-numbered active Episode Snapshot wins concrete episode facts; narrow Canon patches may supersede terminology/scope; Drama Skill remains the episode-development gate. Non-Canon execution docs never supersede Canon.
 
 ## Primary Canon read order
@@ -28,6 +28,44 @@
 20. `consistency-reports/2026-09-01-TEN-EPISODE-DRAMA-RHYTHM-EMOTION-REVIEW-V2.md`
 
 ## Active non-Canon execution layer
+
+### Visual generation standards V1
+
+Current locked files:
+
+- **`VISUAL-CONSISTENCY-BIBLE-V1.md`** — visual world, composition, material, signage, equipment, lighting, rendering and QC standard;
+- **`SCENE-PROMPT-TEMPLATE-V1.md`** — mandatory Canon Handshake → Visual Handshake → prompt assembly → generation QC workflow.
+
+Status:
+
+> **LOCKED / ACTIVE NON-CANON VISUAL EXECUTION STANDARD.**
+
+Mandatory rule for every new scene / KV / storyboard keyframe / generation segment:
+
+> **read Canon first; then translate through the Visual Bible and approved KV anchors.**
+
+Minimum scene-generation reading sequence:
+
+1. `CURRENT.md`;
+2. this `ACTIVE-DOCS-INDEX.md`;
+3. active Master Canon;
+4. relevant active narrow Canon patch(es);
+5. highest active Episode Snapshot for the scene;
+6. current execution document such as `TRAILER-TEASER-V2.md`;
+7. `VISUAL-CONSISTENCY-BIBLE-V1.md`;
+8. `SCENE-PROMPT-TEMPLATE-V1.md`;
+9. approved KV visual anchors available in the working context.
+
+Authority split:
+
+> **Canon decides WHAT exists / happens. Visual Bible + approved KV anchors decide HOW it is visualized.**
+
+Current visual-execution locks include:
+
+- 2.35:1 scene / KV frame ratio, superseding the earlier teaser 2.39:1 visual-output ratio where they conflict;
+- approved KV-01 station + KV-02 wedding observation hall + KV-03 checkpoint are the current visual ground truth;
+- current visible city signage uses `第二新重庆 / SECOND NEW CHONGQING` where explicitly required by the visual execution; this does not automatically rewrite series Canon from 第二新北京;
+- a generated image becomes a visual anchor only after explicit user approval.
 
 ### Current teaser
 

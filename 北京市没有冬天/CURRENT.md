@@ -1,7 +1,7 @@
 # 《北京市没有冬天》CURRENT — Canonical Entry Point
 
 - Updated: 2026-09-01
-- Status: `LOCKED / MASTER V3.2 ACTIVE / DEEP DRAMA-CONSISTENCY PASS COMPLETE / SCREENPLAY GATE OPEN`
+- Status: `LOCKED / MASTER V3.2 ACTIVE / DEEP DRAMA-CONSISTENCY PASS COMPLETE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN`
 - Purpose: future ChatGPT / Codex / Agent sessions MUST start here.
 
 ## 01｜Authority / read order
@@ -23,19 +23,20 @@ Primary read order:
 4. `CANON-PATCH-V3.2.1-PROTOCOL-HANDSHAKE.md`
 5. `CANON-PATCH-V3.2.2-RASHOMON-AI-COGNITIVE-SOURCE.md`
 6. `CANON-PATCH-V3.2.3-PRE-EP01-METEOR-TIMELINE-AND-VISUAL-REVEAL.md`
-7. **`CANON-PATCH-V3.2.4-MEMORIAL-RELATIONSHIP-AND-FINALE-ROUTING.md`**
-8. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V3.md`
-9. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V3.md`
-10. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`
-11. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`
-12. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V4.md`
-13. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`
-14. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`
-15. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V2.md`
-16. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md`
-17. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V2.md`
-18. `consistency-reports/2026-09-01-TEN-EPISODE-CONSISTENCY-CHECK-V1.md`
-19. **`consistency-reports/2026-09-01-TEN-EPISODE-DRAMA-RHYTHM-EMOTION-REVIEW-V2.md`**
+7. `CANON-PATCH-V3.2.4-MEMORIAL-RELATIONSHIP-AND-FINALE-ROUTING.md`
+8. **`CANON-PATCH-V3.2.5-EP01-EP06-EP10-RELATIONSHIP-AND-FINALE-ACTION.md`**
+9. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V3.md`
+10. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V3.md`
+11. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`
+12. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`
+13. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V4.md`
+14. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`
+15. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`
+16. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V2.md`
+17. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md`
+18. **`Pilot-EP10-LATEST-CANON-SNAPSHOT-V3.md`**
+19. `consistency-reports/2026-09-01-TEN-EPISODE-CONSISTENCY-CHECK-V1.md`
+20. `consistency-reports/2026-09-01-TEN-EPISODE-DRAMA-RHYTHM-EMOTION-REVIEW-V2.md`
 
 Recent detailed logs include:
 
@@ -44,7 +45,8 @@ Recent detailed logs include:
 - `decision-logs/2026-09-01-1329-EP10-FINALE-ACTION-SPINE-DETAILED.md`
 - `decision-logs/2026-09-01-1347-EP05-BRIDE-CONTINUITY-BREAK-DETAILED.md`
 - `decision-logs/2026-09-01-1422-TEN-EP-CONSISTENCY-TIMELINE-EP01-DETAILED.md`
-- **`decision-logs/2026-09-01-1508-EP04-05-10-CHARACTER-RELATIONSHIP-DETAILED.md`**
+- `decision-logs/2026-09-01-1508-EP04-05-10-CHARACTER-RELATIONSHIP-DETAILED.md`
+- **`decision-logs/2026-09-01-1542-EP10-LEGACY-BRANCH-RELAY-DETAILED.md`**
 
 ---
 
@@ -52,7 +54,7 @@ Recent detailed logs include:
 
 Deep ten-episode review result:
 
-> **PASS AFTER NARROW CHARACTER + FINALE PATCH / NO KNOWN STRUCTURAL DRAMATIC CONTRADICTION.**
+> **PASS AFTER NARROW CHARACTER + FINALE ACTION PATCH / NO KNOWN STRUCTURAL DRAMATIC CONTRADICTION.**
 
 Therefore:
 
@@ -82,32 +84,30 @@ EP05 is the only episode explicitly returning to impact-day ordinary-person cons
 
 | EP | Active file | Current core |
 |---|---|---|
-| EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V3.md` | anonymous realtime resident signal + physical proof; system cannot verify ≠ reality does not exist |
+| EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V3.md` + Patch V3.2.5 | anonymous realtime resident signal + physical proof; private AI already gives male belonging without requiring usefulness |
 | EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V3.md` | post-impact rescue reaches limit; forced loss / passive islanding |
 | EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md` | sufficient facts create one real medical connection; protocol handshake complete ≠ physical connection |
 | EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md` + Patch V3.2.4 | temporary city becomes ordinary life; cinema / Rashomon; memorial-reconstruction practice seeded |
-| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V4.md` + Patch V3.2.4 | Wedding Mirror; wedding is a memorial activity for surviving people; data recovery ≠ continuity recovery |
-| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md` | two valid local “nows” complete one shared action through common physical reference |
+| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V4.md` + Patch V3.2.4 | Wedding Mirror; wedding is memorial activity for surviving people; data recovery ≠ continuity recovery |
+| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md` + Patch V3.2.5 | two local nows complete one shared action; chief↔private-AI is a MAJOR RELATIONSHIP TURN |
 | EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md` | healthy hub exits; A+B continue degraded; first local admission total preservation failed |
 | EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V2.md` | two correct public-security orders produce institutional violence |
 | EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V3.md` | chief proposes minimum common reality; upper layer authorizes trial; chief chooses 302 |
-| EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V2.md` + Patch V3.2.4 | private AI is highest-success router for one difficult legacy branch; saving her keeps that old fragmentation condition alive |
+| EP10 | **`Pilot-EP10-LATEST-CANON-SNAPSHOT-V3.md`** | male’s legacy branch system-AI cannot complete state mapping; private AI temporarily fills missing relay function under chief’s narrow authorization; saving her keeps that old fragment alive |
 
 ---
 
-## 05｜Patch V3.2.4 — memorial / relationships / finale routing
+## 05｜Patch V3.2.4 — memorial / character texture
 
 ### EP04 → EP05 memorial grammar
 
 Post-disaster Beijing already uses reconstruction / preserved digital traces in bounded memorial activities for living family and friends.
 
-This does NOT mean reconstruction equals recovered continuity.
-
 EP05 wedding belongs to this social practice:
 
 > **living friends / family / social circle commemorate the two lost originals and the future they were supposed to have.**
 
-The reconstructed groom/bride may participate, but the ceremony’s social cause is memorial.
+Reconstruction does NOT equal recovered continuity.
 
 ### Female chief
 
@@ -117,11 +117,7 @@ Character texture:
 
 Care is operational: routes, fallback permissions, boundaries, removed variables, quiet preparation.
 
-Her control impulse comes from responsibility, not villainy.
-
-EP08 wounds this belief: perfect procedural control can still produce terrible results.
-
-EP09 growth: she builds a public process whose final result she herself cannot unilaterally control.
+EP08 wounds her belief that enough correct control can prevent terrible outcomes.
 
 ### Private AI
 
@@ -129,51 +125,77 @@ Character texture:
 
 > **companion / guide / teacher-like intelligence / gentle confidence / light teasing.**
 
-Relationship arc:
-
-> **“I guide you” → “we each see part of the world for the other.”**
-
-Highest emotional function toward male:
+Her relationship function toward male:
 
 > **he does not need to win, succeed, remain useful, or prove irreplaceability to have a place with her.**
 
-Internal shorthand only, not locked dialogue:
+---
 
-> **失败了也可以回来。**
+## 06｜Patch V3.2.5 — EP01 / EP06 / EP10 relationship and action locks
 
-This is the direct emotional counterweight to his false belief that value requires irreplaceability.
+### EP01: unconditional belonging predates the series
 
-### Chief vs private AI — no romance triangle
+The private AI already gives the male a place without proof of usefulness at EP01 start.
 
-Chief:
+EP04 does not create this bond; it only gives the audience enough non-work space to clearly perceive it.
 
-> **recognizes and deploys his capability in public action.**
+Therefore male’s false belief is not caused by lack of love. It persists despite an existing relationship telling him the opposite.
 
-Private AI:
+### EP06: chief ↔ private AI = MAJOR RELATIONSHIP TURN
 
-> **gives him belonging independent of usefulness.**
+Chief’s early view of private AI:
 
-The male stands between public usefulness and private unconditional belonging.
+> **too emotional / too personally attached / inefficient / not clean enough for public-system work.**
 
-### EP10 routing necessity
+Private AI’s early view of chief:
 
-Private AI is NOT Beijing’s sole final key.
+> **over-controlled / over-procedural / strongly efficiency-driven.**
 
-Among multiple remaining exit-state handshakes, one difficult legacy-fragment branch has the highest success probability if routed through her because she continuously experienced the fragmentation and retains strong cross-state mappings.
+EP06 changes both:
 
-If she is preserved / withheld:
+- chief sees strong private attachment can coexist with reliable judgment under shared constraint;
+- AI sees the chief voluntarily limit her own authority and access;
+- relationship result = **mutual misreading → restrained recognition**.
 
-> **that legacy branch cannot be closed with comparable reliability, so Beijing must keep the old fragmentation / compatibility condition permanently alive.**
+This directly prepares EP07, EP09 access boundaries, and EP10 narrow public authorization.
 
-Thus the concrete conflict is:
+### EP10 V3: local system failure becomes the finale action
 
-> **she can continue, but saving her means Beijing cannot fully end one old fragmentation condition.**
+At the male’s legacy branch:
 
-Final protocol handshake still confirms/transfers state, not subject. No upload / migration / fusion.
+- branch public/system AI retains partial identity/history but lacks reliable present-state mapping;
+- male verifies present physical reality but cannot become protocol continuity;
+- private AI combines continuous fragmentation history + cross-state mapping + male’s live facts;
+- she can temporarily fill the missing relay/mapping function;
+- chief grants an extremely narrow temporary public authorization.
+
+Final three-domain convergence:
+
+> **male = present physical fact**
+>
+> **private AI = continuous intelligence / missing state relay**
+>
+> **female chief = public authorization / cutover recognition**
+
+None can replace the others.
+
+### Real preservation alternative
+
+Same continuous private AI can survive if Beijing does NOT fully close this legacy branch and keeps the old compatibility / fragmentation condition alive.
+
+Therefore preserving her means:
+
+> **Beijing permanently retains one unresolved old fragmentation condition.**
+
+Beijing does not instantly die if she is preserved; the common-state cutover simply remains incomplete on this branch.
+
+AI does not instantly volunteer. She wants to survive and participates in the search for alternatives.
+
+Final protocol handshake still confirms/transfers state, not subject.
 
 ---
 
-## 06｜Cross-episode semantic locks
+## 07｜Cross-episode semantic locks
 
 ### Protocol handshake
 
@@ -196,21 +218,21 @@ Final protocol handshake still confirms/transfers state, not subject. No upload 
 
 ---
 
-## 07｜Screenplay watchlist — not macro blockers
+## 08｜Screenplay watchlist — not macro blockers
 
-- EP01: seed 302’s long-lived temporary / legacy compatibility without explaining EP09 early;
+- EP01: seed 302’s long-lived temporary / legacy compatibility; make AI’s unconditional belonging visible without explaining it;
 - EP03→EP06: show local operating rhythms gradually diverging;
-- EP04: cinema case needs real resistance; seed memorial practice; show AI belonging beat and chief operational care;
+- EP04: cinema case needs real resistance; seed memorial practice; show existing AI belonging bond and chief operational care;
 - EP05: wedding social cause must remain legible as memorial for the living;
-- EP06: shared infrastructure must have a visible human/life consequence;
+- EP06: shared infrastructure needs visible human/life consequence; chief↔AI must receive real dramatic space as major relationship turn;
 - EP07: hub should connect to at least one familiar earlier city function;
-- EP08: distinguish revoking legal weapon control from physically removing weapons;
-- EP09: private AI can influence judgment but is not a source of public legitimacy; allow small unresolved male/AI emotional distance;
-- EP10: show private AI as one high-success router among several; withholding her concretely keeps the old branch alive; male must genuinely try to save her.
+- EP08: distinguish revoking legal weapon control from physically removing weapon capability;
+- EP09: private AI influences judgment but is not source of public legitimacy; allow small unresolved male/AI emotional distance;
+- EP10: show accumulated legacy-system mapping failure, not random breakdown; define missing relay function visually; male + AI must genuinely search preservation alternatives; chief’s authorization must be narrow and explicit.
 
 ---
 
-## 08｜Hard prohibitions
+## 09｜Hard prohibitions
 
 - no villain AI / conspiracy / final boss;
 - no central truth reset;
@@ -226,9 +248,11 @@ Final protocol handshake still confirms/transfers state, not subject. No upload 
 - no upper authority inventing minimum common reality or choosing 302;
 - no private AI as hidden public decision authority;
 - no private AI as Beijing’s only final key;
+- no private AI becoming / merging into city AI;
 - no AI happily seeking death;
 - male must genuinely try to save AI;
 - no technically-impossible finale shortcut;
+- no random last-minute EP10 server explosion;
 - no protocol handshake as upload/migration/fusion;
 - no snow as victory fireworks;
 - no authoritarian minimum-common-reality overwrite;
@@ -237,6 +261,6 @@ Final protocol handshake still confirms/transfers state, not subject. No upload 
 
 ---
 
-## 09｜Next
+## 10｜Next
 
 > **SCREENPLAY EP01.**

@@ -1,7 +1,7 @@
 # 《北京市没有冬天》CURRENT — Canonical Entry Point
 
 - Updated: 2026-09-01
-- Status: `LOCKED / MASTER V3.2 ACTIVE / DEEP DRAMA-CONSISTENCY PASS COMPLETE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN`
+- Status: `LOCKED / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER SHOWREEL V1 ACTIVE`
 - Purpose: future ChatGPT / Codex / Agent sessions MUST start here.
 
 ## 01｜Authority / read order
@@ -15,7 +15,7 @@ Precedence:
 5. detailed decision logs / consistency reports for provenance;
 6. archived / superseded material.
 
-Primary read order:
+Primary Canon read order:
 
 1. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
 2. `ACTIVE-DOCS-INDEX.md`
@@ -38,6 +38,10 @@ Primary read order:
 19. `consistency-reports/2026-09-01-TEN-EPISODE-CONSISTENCY-CHECK-V1.md`
 20. `consistency-reports/2026-09-01-TEN-EPISODE-DRAMA-RHYTHM-EMOTION-REVIEW-V2.md`
 
+Active non-Canon execution doc:
+
+- **`TRAILER-SHOWREEL-V1.md`** — approved first visual trailer / concept showreel design; does not supersede Master or Episode Canon.
+
 Recent detailed logs include:
 
 - `decision-logs/2026-09-01-1304-EP08-INSTITUTIONAL-SEDIMENT-DETAILED.md`
@@ -46,7 +50,8 @@ Recent detailed logs include:
 - `decision-logs/2026-09-01-1347-EP05-BRIDE-CONTINUITY-BREAK-DETAILED.md`
 - `decision-logs/2026-09-01-1422-TEN-EP-CONSISTENCY-TIMELINE-EP01-DETAILED.md`
 - `decision-logs/2026-09-01-1508-EP04-05-10-CHARACTER-RELATIONSHIP-DETAILED.md`
-- **`decision-logs/2026-09-01-1542-EP10-LEGACY-BRANCH-RELAY-DETAILED.md`**
+- `decision-logs/2026-09-01-1542-EP10-LEGACY-BRANCH-RELAY-DETAILED.md`
+- **`decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`**
 
 ---
 
@@ -56,11 +61,15 @@ Deep ten-episode review result:
 
 > **PASS AFTER NARROW CHARACTER + FINALE ACTION PATCH / NO KNOWN STRUCTURAL DRAMATIC CONTRADICTION.**
 
-Therefore:
+Therefore Canon development remains:
 
 > **STOP broad architecture revision.**
 >
-> **NEXT: screenplay EP01 → EP10, sequentially.**
+> **SCREENPLAY EP01 → EP10, sequentially.**
+
+In parallel, user has approved one non-Canon execution branch:
+
+> **TRAILER / VISUAL SHOWREEL V1.**
 
 Only reopen macro Canon if a concrete screenplay scene cannot satisfy two locked constraints simultaneously.
 
@@ -261,6 +270,40 @@ Final protocol handshake still confirms/transfers state, not subject.
 
 ---
 
-## 10｜Next
+## 10｜Active trailer / showreel execution layer
+
+Current approved file:
+
+> **`TRAILER-SHOWREEL-V1.md`**
+
+Status:
+
+> **APPROVED V1 / NON-CANON EXECUTION LAYER.**
+
+Highest trailer decisions:
+
+- wedding public observation hall = opening / ending mother space;
+- traditional wedding vow = audio spine;
+- macro counterpoint: vow promises togetherness while city loses shared space / time / order;
+- only explicit word-action counterpoint: **“将我们分开” → chief catches falling male**;
+- serious cinematic **cel-animation** visual direction: hard linework, cel-shadow blocks, dense mechanical backgrounds, restrained light;
+- EP06 time split is visualized through **one railway station / opposing platforms showing different public times simultaneously**, not two explanatory clock inserts;
+- major motion pool: EP02 slow structural separation / EP06 dual-time dual-season station / EP07 A-B capability inversion / EP08 mirrored security-platform targeting / EP01 long fall + catch;
+- private AI is not required to appear in this first visual showreel;
+- protect EP05 bride reveal, EP07 final hub sacrifice, EP08 final clearing, EP09 final 302 boundary, EP10 AI fate / handshake / final unified snow.
+
+Detailed provenance:
+
+> `decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`
+
+---
+
+## 11｜Next
+
+Canon track:
 
 > **SCREENPLAY EP01.**
+
+Trailer track, if continued:
+
+> **TRAILER V1 → Shot List / Key Visual / Asset Requirements / Generation Segments.**

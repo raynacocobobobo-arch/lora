@@ -1,10 +1,10 @@
 # 《北京市没有冬天》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-01
-- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN`
-- Rule: one active Master; highest-numbered active Episode Snapshot wins concrete episode facts; narrow Canon patches may supersede terminology/scope; Drama Skill remains the episode-development gate.
+- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER SHOWREEL V1 ACTIVE`
+- Rule: one active Master; highest-numbered active Episode Snapshot wins concrete episode facts; narrow Canon patches may supersede terminology/scope; Drama Skill remains the episode-development gate. Non-Canon execution docs never supersede Canon.
 
-## Primary read order
+## Primary Canon read order
 
 1. `CURRENT.md`
 2. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
@@ -27,15 +27,49 @@
 19. `consistency-reports/2026-09-01-TEN-EPISODE-CONSISTENCY-CHECK-V1.md`
 20. `consistency-reports/2026-09-01-TEN-EPISODE-DRAMA-RHYTHM-EMOTION-REVIEW-V2.md`
 
+## Active non-Canon execution layer
+
+### Trailer / visual showreel
+
+Current file:
+
+> **`TRAILER-SHOWREEL-V1.md`**
+
+Status:
+
+> **APPROVED V1 / NON-CANON EXECUTION LAYER.**
+
+Use it when working on the first visual trailer, shot list, key visuals, asset requirements, or generation segments.
+
+It does **not** alter Master V3.2 or any Episode Snapshot.
+
+Key V1 locks:
+
+- EP05 wedding public observation hall is the opening / ending mother space;
+- traditional wedding vow is the audio spine;
+- macro counterpoint: vow promises togetherness while Beijing loses shared space / shared time / shared order;
+- only explicit strong word-action counterpoint: **“将我们分开” → female chief catches falling male**;
+- serious cinematic **cel-animation** direction: defined linework, cel-shadow blocks, dense mechanical backgrounds, restrained lighting;
+- EP06 time divergence is visualized in **one railway station / opposing platforms showing different public times simultaneously**, not two separate explanatory clock inserts;
+- main motion pool: EP02 slow structure separation / EP06 dual-time dual-season station / EP07 A-B capability inversion / EP08 mirrored security targeting / EP01 fall + catch;
+- private AI is not required to appear in this first visual showreel;
+- protect all major later answers / reveals.
+
+Detailed provenance:
+
+> `decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`
+
 ## Screenplay gate
 
 Current result:
 
 > **PASS AFTER NARROW CHARACTER + FINALE ACTION PATCH / NO KNOWN STRUCTURAL DRAMATIC CONTRADICTION.**
 
-Current rule:
+Current Canon rule:
 
 > **STOP broad architecture revision → screenplay EP01→EP10.**
+
+Trailer execution may proceed in parallel without reopening Canon.
 
 Only reopen macro Canon if a concrete screenplay scene cannot satisfy two locked constraints simultaneously.
 
@@ -47,7 +81,8 @@ Only reopen macro Canon if a concrete screenplay scene cannot satisfy two locked
 - `decision-logs/2026-09-01-1347-EP05-BRIDE-CONTINUITY-BREAK-DETAILED.md`
 - `decision-logs/2026-09-01-1422-TEN-EP-CONSISTENCY-TIMELINE-EP01-DETAILED.md`
 - `decision-logs/2026-09-01-1508-EP04-05-10-CHARACTER-RELATIONSHIP-DETAILED.md`
-- **`decision-logs/2026-09-01-1542-EP10-LEGACY-BRANCH-RELAY-DETAILED.md`**
+- `decision-logs/2026-09-01-1542-EP10-LEGACY-BRANCH-RELAY-DETAILED.md`
+- **`decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`**
 
 ## Highest cross-episode relationship locks
 
@@ -171,4 +206,10 @@ Final protocol handshake confirms/transfers state, not subject.
 
 ## Next
 
+Canon:
+
 > **SCREENPLAY EP01.**
+
+Trailer:
+
+> **TRAILER V1 → Shot List / Key Visual / Asset Requirements / Generation Segments.**

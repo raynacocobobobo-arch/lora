@@ -86,6 +86,53 @@ It is:
 
 > **the externality of locally correct preservation under broken common conditions.**
 
+## Hidden social-structure reference — INTERNAL ONLY
+
+`LOCKED / NEVER EXPLICIT ALLEGORY`
+
+For EP02→EP08 social evolution, the project may use a highly abstract internal reference drawn from how long emergency states can transform society:
+
+> **临时措施 → 临时例外 → 必要通道 → 重复使用 → 例外常态化 → 新生活依赖 → 制度沉积 → 新秩序 → 新正当性冲突。**
+
+This is **structural reference only**, not an instance-level COVID / lockdown allegory.
+
+Hard requirement:
+
+> **结构可以借，表征必须彻底换掉。**
+
+Audience should ideally feel only:
+
+> **“这个社会变化很真实、似曾相识。”**
+
+They should NOT think:
+
+> **“这是在影射疫情 / 封控。”**
+
+Therefore do not use recognizable real-world epidemic-policy imagery, terminology, UI, testing analogues, quarantine-camp analogues, color-pass systems, slogans or one-to-one event structures.
+
+Second New Beijing must keep its own vocabulary:
+
+- 区域自治；
+- 本地运行；
+- 临时接口；
+- 低容量连接；
+- 服务连续性；
+- 跨区状态确认；
+- 公共状态冲突；
+- 授权链；
+- shared reference；
+- handshake。
+
+Critical cross-episode effect:
+
+> **EP03 的一次医疗连接不能片尾归零。它因为真的救过人而被重复依赖，逐步沉积成公共基础设施 / 管理边界，最终帮助解释 EP08 为什么会出现两套公共秩序重叠的检查点。**
+
+Internal regional-interest rule:
+
+> **你口中的恢复，对我可能是第二次失序。**
+
+Not mandatory dialogue.
+
 ---
 
 # 04｜Three levels of loss
@@ -242,12 +289,12 @@ EP09 V2 is already updated early because the architecture correction would other
 
 1. EP01 — 302 / existence / world reveal / one-point model-reality failure.
 2. EP02 — islanding / failing bridge / forced salvage / people still believe restoration is the goal.
-3. EP03 — medicine / seven-minute mismatch / one real connection / handshake complete ≠ physical contact.
-4. EP04 — daily work / cinema / Rashomon / ordinary life sustained under fragmented reality.
+3. EP03 — medicine / seven-minute mismatch / one real connection / handshake complete ≠ physical contact / temporary success begins a repeat-use dependency chain.
+4. EP04 — daily work / cinema / Rashomon / ordinary life sustained under fragmented reality / temporary exceptions begin to feel like normal life.
 5. EP05 — Wedding Mirror / representation vs continuity / hand-ring-snow motif.
-6. EP06 — winter divergence / shared physical reference / three-way relay / AI learns that common rules also bind power-holders.
-7. EP07 — shared hub / first local admission that total preservation has failed / AI internalizes principle consistency through history and relationship experience.
-8. EP08 — two public-security systems both preserve correctly and still produce institutional violence / system-level proof that full preservation cannot remain the governing objective.
+6. EP06 — winter divergence / shared physical reference / three-way relay / AI learns that common rules also bind power-holders / each local “normal” can succeed while common normal fails.
+7. EP07 — shared hub / first local admission that total preservation has failed / AI internalizes principle consistency through history and relationship experience / local dependencies are now real life, not temporary technical states.
+8. EP08 — two public-security systems both preserve correctly and still produce institutional violence / system-level proof that full preservation cannot remain the governing objective / the checkpoint must grow from earlier accumulated management needs rather than appear suddenly.
 9. EP09 — minimum common reality / 302 return / **institutionalize** “cannot preserve everything” / hidden AI farewell / AI self-applies the principle.
 10. EP10 — strategic active contraction / male first tries to preserve AI / final handshake / multiple farewells / one public now / winter.
 

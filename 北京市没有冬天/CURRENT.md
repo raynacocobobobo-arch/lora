@@ -1,7 +1,7 @@
 # 《北京市没有冬天》CURRENT — Canonical Entry Point
 
 - Updated: 2026-09-01
-- Status: `LOCKED / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER SHOWREEL V1 ACTIVE`
+- Status: `LOCKED / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER TEASER V2 ACTIVE`
 - Purpose: future ChatGPT / Codex / Agent sessions MUST start here.
 
 ## 01｜Authority / read order
@@ -38,9 +38,10 @@ Primary Canon read order:
 19. `consistency-reports/2026-09-01-TEN-EPISODE-CONSISTENCY-CHECK-V1.md`
 20. `consistency-reports/2026-09-01-TEN-EPISODE-DRAMA-RHYTHM-EMOTION-REVIEW-V2.md`
 
-Active non-Canon execution doc:
+Active non-Canon execution docs:
 
-- **`TRAILER-SHOWREEL-V1.md`** — approved first visual trailer / concept showreel design; does not supersede Master or Episode Canon.
+- `TRAILER-SHOWREEL-V1.md` — approved historical first visual showreel design;
+- **`TRAILER-TEASER-V2.md`** — current preferred 45–60s high-density teaser execution draft.
 
 Recent detailed logs include:
 
@@ -51,7 +52,8 @@ Recent detailed logs include:
 - `decision-logs/2026-09-01-1422-TEN-EP-CONSISTENCY-TIMELINE-EP01-DETAILED.md`
 - `decision-logs/2026-09-01-1508-EP04-05-10-CHARACTER-RELATIONSHIP-DETAILED.md`
 - `decision-logs/2026-09-01-1542-EP10-LEGACY-BRANCH-RELAY-DETAILED.md`
-- **`decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`**
+- `decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`
+- **`decision-logs/2026-09-01-1819-TRAILER-TEASER-V2-DETAILED.md`**
 
 ---
 
@@ -67,9 +69,9 @@ Therefore Canon development remains:
 >
 > **SCREENPLAY EP01 → EP10, sequentially.**
 
-In parallel, user has approved one non-Canon execution branch:
+In parallel, approved non-Canon trailer work may proceed:
 
-> **TRAILER / VISUAL SHOWREEL V1.**
+> **TRAILER / TEASER V2 — ~56s high-density cut.**
 
 Only reopen macro Canon if a concrete screenplay scene cannot satisfy two locked constraints simultaneously.
 
@@ -270,31 +272,39 @@ Final protocol handshake still confirms/transfers state, not subject.
 
 ---
 
-## 10｜Active trailer / showreel execution layer
+## 10｜Active trailer / teaser execution layer
 
-Current approved file:
+Current preferred file:
 
-> **`TRAILER-SHOWREEL-V1.md`**
+> **`TRAILER-TEASER-V2.md`**
 
 Status:
 
-> **APPROVED V1 / NON-CANON EXECUTION LAYER.**
+> **APPROVED V2 / NON-CANON EXECUTION LAYER / ~56s TARGET.**
 
-Highest trailer decisions:
+Highest V2 decisions:
 
-- wedding public observation hall = opening / ending mother space;
-- traditional wedding vow = audio spine;
-- macro counterpoint: vow promises togetherness while city loses shared space / time / order;
-- only explicit word-action counterpoint: **“将我们分开” → chief catches falling male**;
-- serious cinematic **cel-animation** visual direction: hard linework, cel-shadow blocks, dense mechanical backgrounds, restrained light;
-- EP06 time split is visualized through **one railway station / opposing platforms showing different public times simultaneously**, not two explanatory clock inserts;
-- major motion pool: EP02 slow structural separation / EP06 dual-time dual-season station / EP07 A-B capability inversion / EP08 mirrored security-platform targeting / EP01 long fall + catch;
-- private AI is not required to appear in this first visual showreel;
+- 45–60s high-density teaser, target ~56s;
+- wedding public observation hall remains opening / ending mother space;
+- traditional wedding vow remains audio spine;
+- serious cinematic cel-animation visual direction remains active;
+- environmental storytelling is now a hard rule: every major spectacle should carry signs of ordinary public life / maintenance still running;
+- **slow ordinary-life contrast is retained**, but compressed into 1.5–3s needles rather than long passages;
+- three preferred ordinary-life contrast points: wedding cleaning robot / resident or shop after structural separation / quiet worker-shop-service beat before security-platform confrontation;
+- EP06 **dual-time / dual-season railway station** is the first-priority key visual;
+- spectacle emphasis: EP02 structural separation / EP06 dual-time station + dual seasons / EP07 A-B inverse lighting / storm-buried infrastructure / EP08 mirrored public-security targeting / EP01 fall + catch;
+- crisis should be felt as loss of shared space + shared time + shared order, not as generic explosions;
+- **“将我们分开” → chief catches falling male** remains the only explicit strong word-action counterpoint;
+- private AI is not required to appear in this teaser;
 - protect EP05 bride reveal, EP07 final hub sacrifice, EP08 final clearing, EP09 final 302 boundary, EP10 AI fate / handshake / final unified snow.
 
-Detailed provenance:
+Historical trailer file retained:
 
-> `decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`
+> `TRAILER-SHOWREEL-V1.md`
+
+Detailed V2 provenance:
+
+> `decision-logs/2026-09-01-1819-TRAILER-TEASER-V2-DETAILED.md`
 
 ---
 
@@ -304,6 +314,6 @@ Canon track:
 
 > **SCREENPLAY EP01.**
 
-Trailer track, if continued:
+Trailer track:
 
-> **TRAILER V1 → Shot List / Key Visual / Asset Requirements / Generation Segments.**
+> **TEASER V2 → Key Visual Style Test → Shot Asset List → Generation Segment Plan.**

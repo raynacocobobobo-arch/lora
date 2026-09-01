@@ -9,17 +9,18 @@
 1. `CURRENT.md`
 2. `CANON-PRECEDENCE-V0.1-LATEST-CONVERSATION-WINS.md`
 3. `BEIJING-NO-WINTER-MASTER-CANON-V3.2.md`
-4. **`CANON-PATCH-V3.2.1-PROTOCOL-HANDSHAKE.md`**
-5. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`
-6. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`
-7. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`
-8. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`
-9. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md`
-10. **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`**
-11. `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md`
-12. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
-13. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md`
-14. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
+4. `CANON-PATCH-V3.2.1-PROTOCOL-HANDSHAKE.md`
+5. **`CANON-PATCH-V3.2.2-RASHOMON-AI-COGNITIVE-SOURCE.md`**
+6. `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`
+7. `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`
+8. `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`
+9. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`
+10. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md`
+11. `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`
+12. **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`**
+13. `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md`
+14. `Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md`
+15. `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md`
 
 ## Current Drama Skill hard gate
 
@@ -43,7 +44,8 @@ Downstream:
 - `decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`
 - `decision-logs/2026-09-01-1134-EP04-CONFLUENCE-RASHOMON-DETAILED.md`
 - `decision-logs/2026-09-01-1211-EP05-POV-CONTINUITY-DETAILED.md`
-- **`decision-logs/2026-09-01-1238-EP06-PROTOCOL-HANDSHAKE-DETAILED.md`**
+- `decision-logs/2026-09-01-1238-EP06-PROTOCOL-HANDSHAKE-DETAILED.md`
+- **`decision-logs/2026-09-01-1250-EP07-RASHOMON-DETAILED.md`**
 
 Decision Logs preserve original user wording, rejected directions, why they changed, exact semantic boundaries and downstream effects.
 
@@ -61,27 +63,39 @@ Decision Logs preserve original user wording, rejected directions, why they chan
 
 ## Protocol Handshake terminology
 
-User correction:
-
-> **“ai握手术语是协议握手”**
-
 Technical/system handshake must be written as:
 
 > **协议握手（protocol handshake）**
 
-Do not confuse with:
+Do not confuse with physical connection or physical Hand motif.
 
-- physical connection;
-- physical hand / handshake motif.
-
-Current key phrases:
+Key phrases:
 
 - EP03 — **协议握手完成 ≠ 现实已经连接**;
 - EP06 — **没有共同 reference，就没有可信协议握手 / 同步**;
 - EP08 — public-authorization protocol handshake fails;
-- EP10 — final protocol handshake; spoken “我要去和它握手了” may intentionally retain ordinary wording as a double meaning.
+- EP10 — final protocol handshake; spoken “我要去和它握手了” may retain ordinary wording as a technical/emotional double meaning.
 
-See `CANON-PATCH-V3.2.1-PROTOCOL-HANDSHAKE.md`.
+## Rashomon cognitive-source patch
+
+User correction:
+
+> **“AI 为什么想到切 hub，还有因为罗生门啊。”**
+
+Current scope:
+
+- female chief in EP04: Rashomon = recognition/familiarity, not enlightenment;
+- private AI: Rashomon becomes one cognitive template for questioning whether the problem frame itself is wrong.
+
+EP07 reasoning chain:
+
+> **Rashomon frame-questioning + EP06 self-limiting common-rule experience + history/traces + A/B degraded-survival reality → “为什么 hub 必须被保存？”**
+
+Hard boundary:
+
+> **not watch movie → sudden inspiration.**
+
+See `CANON-PATCH-V3.2.2-RASHOMON-AI-COGNITIVE-SOURCE.md`.
 
 ## Hidden social-structure reference — INTERNAL ONLY
 
@@ -136,29 +150,17 @@ Open:
 
 > **bride disappearance / continuity-break scene = `TBD / NEEDS_REVIEW`; do not infer a corridor accident.**
 
-### EP06 V3 — CURRENT
-
-Current authority:
-
-> **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`**
-
-Opening:
-
-> EP05 tiny real snow expands into the discovery that different regions are actually living in different seasonal/time states.
+### EP06 V3
 
 Action spine:
 
 > **a shared environmental/life-support infrastructure must perform a simultaneous handoff across two regions that each have valid local time but no common now.**
 
-Conflict grammar:
-
-> **two locally correct time orders need one joint action but lack a common reference.**
-
 Dominant Turn:
 
 > **do not choose either local time as Beijing truth; use a shared physical reference neither side can rewrite. Private AI computes mapping, chief gives limited public authorization, male confirms field execute/abort; the infrastructure handoff succeeds.**
 
-Cost after solution:
+Cost:
 
 > **two clocks / winters remain different; they gain one shared moment, not a persistent shared present.**
 
@@ -166,11 +168,52 @@ Character principle experience:
 
 > **共同规则也必须约束拥有权力的人自己。**
 
-Do not turn this into a lecture; EP07 internalizes it later.
+### EP07 V3 — CURRENT
 
-Structural progression:
+Current authority:
 
-> **EP04 共存 → EP05 连续 → EP06 同步。**
+> **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`**
+
+Opening:
+
+> **hub 给 A 时 A 恢复、B 降；切给 B 时结果反转。**
+
+Core conflict:
+
+> **A、B、hub 三个真实价值无法全保，但既有问题框架把 hub 偷偷设成不可牺牲。**
+
+Critical fact:
+
+> **hub is healthy, valuable and still operable.**
+
+Third path is not a new technology:
+
+> **A/B degraded survival without hub already exists because EP02–06 created local operating capability.**
+
+AI reasoning:
+
+> **EP04 Rashomon cognitive template + EP06 common-rule self-restraint + history/traces + actual A/B degraded viability → question the A/B binary and ask why hub must be saved.**
+
+Dominant Turn:
+
+> **AI reframes the problem; male confirms hub health and A/B viability; female chief approves permanent hub exit.**
+
+Cost:
+
+- hub permanently exits;
+- A/B both degrade;
+- losses are not perfectly symmetric;
+- shared city capability disappears;
+- higher-level reconnection capability worsens;
+- third path does not prove fairness.
+
+Observable payoff / end image:
+
+> **hub 熄灭，A、B 没有熄灭；共享中心黑掉，两边各自以更低能力继续。**
+
+Season function:
+
+> **第一次局部承认“全部保存”失败。**
 
 ## Active versions / macro status
 
@@ -181,15 +224,15 @@ Structural progression:
 | EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md` | DONE — Drama Skill card pass |
 | EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md` | DONE — confluence/card pass |
 | EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V2.md` | MACRO APPROVED — disappearance scene open |
-| **EP06** | **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md`** | **DONE — action-spine/card pass** |
-| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md` | **NEXT — card audit** |
-| EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md` | pending V3.2 + institutional-sediment pass |
+| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V3.md` | DONE — action-spine/card pass |
+| **EP07** | **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V3.md`** | **DONE — card / Rashomon reasoning pass** |
+| EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md` | **NEXT — V3.2 + institutional-sediment + card pass** |
 | EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V2.md` | macro institutionalization done; card audit later |
 | EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V1.md` | pending |
 
 Current bounded sequence:
 
-> **audit EP07 → EP08 V2 → audit EP09 → EP10 V2 → revisit EP05 disappearance → ten-card consistency check → screenplay.**
+> **EP08 V2 → audit EP09 → EP10 V2 → revisit EP05 disappearance → ten-card consistency check → screenplay.**
 
 ## Hard prohibitions still active
 
@@ -205,4 +248,5 @@ Current bounded sequence:
 - male must be allowed to try to save AI;
 - no obvious COVID allegory;
 - no technical vague “handshake” when **协议握手** is meant;
+- no “watch Rashomon → sudden EP07 solution” shortcut;
 - no broad architecture expansion after the macro exit gate without a real screenplay contradiction.

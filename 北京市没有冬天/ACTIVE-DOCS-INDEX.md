@@ -12,7 +12,7 @@
 4. **`Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md`**
 5. **`Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md`**
 6. **`Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`**
-7. `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md`
+7. **`Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`**
 8. `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md`
 9. **`Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md`**
 10. **`Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md`**
@@ -76,7 +76,11 @@ Recent architecture decisions:
 
 EP03 approval + workflow correction:
 
-> **`decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`**
+> `decision-logs/2026-09-01-1113-EP03-DRAMA-SKILL-DETAILED.md`
+
+EP04 confluence / Rashomon-aware chief correction:
+
+> **`decision-logs/2026-09-01-1134-EP04-CONFLUENCE-RASHOMON-DETAILED.md`**
 
 Decision Logs preserve:
 
@@ -122,6 +126,8 @@ Key consequence:
 
 > **EP03 的一次医疗连接因为真的救过人而被重复依赖，逐渐沉积成公共通道、管理边界与两套秩序重叠点，帮助自然解释 EP08 的检查点。**
 
+EP04 now makes the first stage of that sediment visible as ordinary background, not as a new exposition-heavy case.
+
 Internal regional-interest rule:
 
 > **你口中的恢复，对我可能是第二次失序。**
@@ -134,17 +140,6 @@ Current authority:
 
 > **`Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`**
 
-It now contains a Drama Skill-compatible:
-
-- Prior Episode Function Audit;
-- Episode Card;
-- Dominant Turn;
-- conflict grammar / novelty;
-- progression;
-- cost after solution;
-- Draft State Delta;
-- Draft Continuation Capsule.
-
 Core:
 
 > **北京没有恢复连接；他们只是把一次连接做成了。**
@@ -156,6 +151,43 @@ Technical motif:
 Long-term consequence:
 
 > **EP08 的问题不是 EP03 的失败造成的；恰恰是 EP03 成功以后才可能出现。**
+
+## EP04 V2 — active
+
+Current authority:
+
+> **`Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`**
+
+Current role:
+
+> **EP04 is a confluence episode: EP01's record/reality fracture, EP02's islanding/local operation, and EP03's repeat-use corridor all become ordinary background; at the same time the private AI's long continuity is made emotionally normal before EP05.**
+
+Core episode progression:
+
+> **EP03：生命不能等，所以允许一次有限例外。**
+>
+> **EP04：如果只有救命的事情才能在不完整北京里继续，那北京只剩急救系统，不再是一座城市。**
+
+Dominant Turn:
+
+> **老电影院只获准今晚这一场；任务结束后，女科长因为真的想看《罗生门》而留下，男主也留下。两人第一次从“维持临时生活的人”变成“生活在其中的人”。**
+
+Female-chief correction:
+
+> **她不是通过《罗生门》才发现现实有多个版本。她一直知道自己就在“罗生门式公共现实”里工作；她缺的是把这种长期自知转化成可规模化公共秩序的方法。**
+
+Therefore:
+
+- 《罗生门》 = recognition / resonance, not enlightenment;
+- EP04 = case-by-case competence is strong but not scalable;
+- EP06–08 provide missing structural lessons;
+- EP09 provides the institutional answer: minimum common reality.
+
+EP05 preparation:
+
+> **First let the audience experience the private AI as a subject who has continuously lived with the male across years; only then show EP05 reconstructed personas that may look/behave convincingly but did not continuously live from yesterday to today.**
+
+High-level tonal reference may use restrained institutional/procedural urban-SF observation, infrastructure rhythm, quiet daily-life beats and systemic absurdity; do not copy any specific creator's scenes/dialogue/signature compositions.
 
 ## AI principle-consistency arc
 
@@ -176,9 +208,9 @@ Male counterpart:
 |---|---|---|
 | EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V2.md` | macro V3 pass done; formal card audit later if needed |
 | EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V2.md` | macro V3 pass done; formal card audit later if needed |
-| **EP03** | **`Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md`** | **DONE — Drama Skill Episode Card pass** |
-| EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V1.md` | **NEXT** |
-| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md` | pending |
+| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V2.md` | DONE — Drama Skill Episode Card pass |
+| **EP04** | **`Pilot-EP04-LATEST-CANON-SNAPSHOT-V2.md`** | **DONE — confluence / Drama Skill Episode Card pass** |
+| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V1.md` | **NEXT** |
 | EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V2.md` | macro principle pass done; card audit later |
 | EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V2.md` | macro preservation-break pass done; card audit later |
 | EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V1.md` | pending V3.2 / institutional-sediment pass |
@@ -187,7 +219,7 @@ Male counterpart:
 
 Current bounded macro sequence:
 
-> **EP04 → EP05 → audit EP06 → audit EP07 → EP08 V2 → audit EP09 → EP10 V2 → ten-card consistency check → screenplay.**
+> **EP05 → audit EP06 → audit EP07 → EP08 V2 → audit EP09 → EP10 V2 → ten-card consistency check → screenplay.**
 
 Do not re-architect EP01/02 merely to retrofit formatting; only add missing Episode Card fields during the final audit unless a real contradiction appears.
 

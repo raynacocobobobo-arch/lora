@@ -1,7 +1,7 @@
 # 《北京市没有冬天》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-01
-- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER TEASER V2 ACTIVE / VISUAL STANDARD V1 ACTIVE`
+- Status: `CURRENT WORKING INDEX / MASTER V3.2 ACTIVE / EP10 V3 ACTIVE / SCREENPLAY GATE OPEN / TRAILER TEASER V2 ACTIVE / VISUAL STANDARD V1.1 ACTIVE / KV04 APPROVED`
 - Rule: one active Master; highest-numbered active Episode Snapshot wins concrete episode facts; narrow Canon patches may supersede terminology/scope; Drama Skill remains the episode-development gate. Non-Canon execution docs never supersede Canon.
 
 ## Primary Canon read order
@@ -29,20 +29,25 @@
 
 ## Active non-Canon execution layer
 
-### Visual generation standards V1
+### Visual generation standards V1.1
 
 Current locked files:
 
-- **`VISUAL-CONSISTENCY-BIBLE-V1.md`** — visual world, composition, material, signage, equipment, lighting, rendering and QC standard;
-- **`SCENE-PROMPT-TEMPLATE-V1.md`** — mandatory Canon Handshake → Visual Handshake → prompt assembly → generation QC workflow.
+- **`VISUAL-CONSISTENCY-BIBLE-V1.1.md`** — current visual world, spatial scale, composition, material, signage, equipment, lighting, rendering and two-layer QC standard;
+- **`SCENE-PROMPT-TEMPLATE-V1.1.md`** — mandatory Canon Handshake → Dramatic Handshake → Visual Handshake → prompt assembly → two-layer QC workflow.
+
+Historical superseded visual files retained:
+
+- `VISUAL-CONSISTENCY-BIBLE-V1.md`
+- `SCENE-PROMPT-TEMPLATE-V1.md`
 
 Status:
 
-> **LOCKED / ACTIVE NON-CANON VISUAL EXECUTION STANDARD.**
+> **LOCKED / ACTIVE NON-CANON VISUAL EXECUTION STANDARD V1.1.**
 
 Mandatory rule for every new scene / KV / storyboard keyframe / generation segment:
 
-> **read Canon first; then translate through the Visual Bible and approved KV anchors.**
+> **read Canon first; confirm the actual scene action; then translate through the Visual Bible and approved KV anchors.**
 
 Minimum scene-generation reading sequence:
 
@@ -52,20 +57,44 @@ Minimum scene-generation reading sequence:
 4. relevant active narrow Canon patch(es);
 5. highest active Episode Snapshot for the scene;
 6. current execution document such as `TRAILER-TEASER-V2.md`;
-7. `VISUAL-CONSISTENCY-BIBLE-V1.md`;
-8. `SCENE-PROMPT-TEMPLATE-V1.md`;
+7. `VISUAL-CONSISTENCY-BIBLE-V1.1.md`;
+8. `SCENE-PROMPT-TEMPLATE-V1.1.md`;
 9. approved KV visual anchors available in the working context.
+
+When the active Episode Snapshot leaves execution details TBD, older detailed episode documents may be consulted only for non-conflicting scene-space provenance.
 
 Authority split:
 
 > **Canon decides WHAT exists / happens. Visual Bible + approved KV anchors decide HOW it is visualized.**
 
+V1.1 adds a second acceptance rule:
+
+> **“像同一部片”与“像这场戏”必须同时成立。**
+
 Current visual-execution locks include:
 
 - 2.35:1 scene / KV frame ratio, superseding the earlier teaser 2.39:1 visual-output ratio where they conflict;
-- approved KV-01 station + KV-02 wedding observation hall + KV-03 checkpoint are the current visual ground truth;
-- current visible city signage uses `第二新重庆 / SECOND NEW CHONGQING` where explicitly required by the visual execution; this does not automatically rewrite series Canon from 第二新北京;
+- current approved visual ground truth = KV01 station + KV02 wedding observation hall + KV03 checkpoint + **KV04 EP02 opening connector bridge**;
+- same art system does NOT mean every scene copies the same central-axis hall composition;
+- orbital-city interiors may be monumental but must retain finite engineered volume / enclosure; no infinite internal abyss by default;
+- exterior Earth / stars / celestial spectacle remains subordinate unless an approved shot specifically makes it the subject;
+- every major spectacle frame requires 1–3 concrete ongoing public / maintenance / life operations;
+- current visible city signage uses `第二新重庆 / SECOND NEW CHONGQING` where explicitly required by visual execution; this does not automatically rewrite series Canon from 第二新北京;
 - a generated image becomes a visual anchor only after explicit user approval.
+
+#### KV04 approved anchor
+
+KV04 now locks a new spatial family:
+
+> **inside the orbital city, a city-scale opening connector bridge spans a bounded industrial-maintenance chasm and enters controlled mechanical separation while evacuation / transit / municipal systems are still operating.**
+
+KV04 scale correction:
+
+> **the internal cavity must feel huge but finite; enclosing walls, decks, service layers and structural boundaries must keep the viewer inside an engineered space-city volume.**
+
+Detailed conversation provenance:
+
+- **`decision-logs/2026-09-01-2137-VISUAL-V1.1-KV04-CONVERSATION.md`**
 
 ### Current teaser
 
@@ -129,7 +158,8 @@ Only reopen macro Canon if a concrete screenplay scene cannot satisfy two locked
 - `decision-logs/2026-09-01-1508-EP04-05-10-CHARACTER-RELATIONSHIP-DETAILED.md`
 - `decision-logs/2026-09-01-1542-EP10-LEGACY-BRANCH-RELAY-DETAILED.md`
 - `decision-logs/2026-09-01-1751-TRAILER-SHOWREEL-V1-DETAILED.md`
-- **`decision-logs/2026-09-01-1819-TRAILER-TEASER-V2-DETAILED.md`**
+- `decision-logs/2026-09-01-1819-TRAILER-TEASER-V2-DETAILED.md`
+- **`decision-logs/2026-09-01-2137-VISUAL-V1.1-KV04-CONVERSATION.md`**
 
 ## Highest cross-episode relationship locks
 
@@ -259,4 +289,4 @@ Canon:
 
 Trailer:
 
-> **TEASER V2 → Key Visual Style Test → Shot Asset List → Generation Segment Plan.**
+> **TEASER V2 → remaining KV tests / assets → Shot Asset List → Generation Segment Plan.**

@@ -1,129 +1,141 @@
 # 《重庆时间》EP03 — STORY CAUSAL REPAIR SNAPSHOT
 
 - Updated: 2026-09-02
-- Status: `NEEDS_REVIEW / STORY-CAUSAL REPAIR ON BRANCH`
+- Status: `LOCKED_DIRECTION / STORY + SPATIAL V2 RECONCILED`
 - Project basis: `CHONGQING-TIME-MASTER-CANON-V4.md`
-- Preserved locks: post-EP02 medical need / protocol handshake semantics / seven-minute crack / low-capacity familiar lifeline / Level-2 gravity crossing / EP03→04→08→10 bridge debt.
+- Spatial basis: `SPATIAL-ENVIRONMENT-CANON-V2.md`
+- Preserved locks: post-EP02 medical need / protocol handshake semantics / seven-minute crack / small familiar maintenance lifeline / Level-2 gravity crossing constraint / EP03→04→08→10 bridge debt.
 
 ---
 
 # 01｜Episode function
 
-EP03 的问题不是：
+EP03 不是又一次“系统没看见现实”。
 
-> 又一次证明系统没看见现实。
+它是：
 
-而是：
-
-> **主桥已经真的失去，一个不能等待完整重建的医疗需求必须跨区；两边各自的维护接口都显示 READY，但“各自 ready”并不自动形成一个真实可通行的共同窗口。**
+> **EP02 的 Level-1 嘉陵江主干桥已经退出，一个不能等待的医疗需求必须跨区。正常公共绕行仍存在，但耗时超过医疗窗口；主桥附近一条原本只用于工程维护的、物理尺度很小的 Level-4 maintenance bridge 成为唯一来得及尝试的路径。两边各自接口都显示 READY，但各自 ready 并不自动形成一个真实可通行的共同窗口。**
 
 Dominant Turn：
 
 > **男主找出真正只有七分钟的 shared-crossable window，女科长只授权这一次，医疗物资真正通过。**
 
-成功本身制造后续债务：
+成功制造债务：
 
-> 既然这条丑陋的维护连接真的救过人，它以后就不可能再被社会当成不存在。
+> **既然这条不起眼的小维护桥真的救过人，它以后就不可能再被社会当成不存在。**
 
 ---
 
 # 02｜Why now / medical clock
 
-EP02 主桥退出后，正常绕行出现真实时间成本。
+EP02 主干桥退出后，正常跨区路线需要更长绕行。
 
-本集锁定一个不需要煽情、但有明确时限的医疗刚需：
+本集锁定一个有明确等待成本但不煽情的医疗刚需：
 
-> **医院正在使用的一组关键治疗耗材 / 药物批次将在短时间内失去可用条件，新的标准补给路线耗时超过这个窗口。**
+> **医院正在使用的一组关键治疗耗材 / 药物批次将在短时间内失去可用条件，标准补给绕行时间超过这个窗口。**
 
-精确病种与物资名称继续 `EXECUTION_TBD`，但 screenplay 必须让观众一眼明白：
+Exact病种/物资 `EXECUTION_TBD`。
 
-- 病人此刻稳定；
-- 等完整公共线路恢复来不及；
-- 不是“马上死给你看”的人工倒计时；
-- 这是医疗系统真实的等待成本。
+Audience must understand：
 
-EP03 医疗女孩继续作为这次动作的具体受益者，但不承担哭喊推动剧情。
+- patient stable now；
+- waiting for normal public detour is too slow；
+- no artificial “dies in ten seconds” countdown；
+- medical system has a real waiting cost。
 
----
-
-# 03｜Why this route / obvious alternatives
-
-正常主干桥：
-
-> 已在 EP02 退出。
-
-其他可用跨区路线：
-
-> **绕行时间超过医疗窗口，或当前并不具备允许公众/医疗货物通过的物理条件。**
-
-因此嘉陵江旧服务层的一条低容量维护连接成为：
-
-> **时间上唯一仍有机会完成这一次动作的路线。**
-
-这条连接原本只用于工程维护：
-
-- 容量小；
-- 需要人工复核；
-- 两端接口分别由本地系统控制；
-- 中央过渡段有压力/结构/Local Gravity Frame 交接要求；
-- 不适合大规模公众交通。
-
-不是角色为了主题突然发现秘密捷径，而是灾后工程人员本来就知道它存在，只是过去没有理由把它当公共路线。
+EP03 medical girl remains concrete beneficiary, not crying plot engine.
 
 ---
 
-# 04｜Cold Open — 两边都 READY，药还是过不去
+# 03｜Why this route / spatial scale
 
-目标时长：`0:00–0:25`
+## Lost normal route
 
-医疗箱已经到 A 端。
+EP02 Level-1 Trunk Bridge：
 
-B 端接收人员也准备好了。
+> **gone / retired。**
 
-双方本地系统分别显示：
+## Other public routes
+
+Still exist at other parts of the ring / Jialing geography, but：
+
+> **detour time exceeds the medical window, or their current public operating state cannot complete this transfer in time.**
+
+## Familiar Lifeline
+
+The candidate is：
+
+> **a small Level-4 maintenance bridge near/within the same broader cross-district connection geography as the lost Trunk Bridge, but structurally independent from it.**
+
+Physical design supports：
+
+- maintenance personnel；
+- small transport rack；
+- industrial robots；
+- local inspection；
+- emergency limited passage。
+
+It is **not**：
+
+- a rail bridge；
+- a vehicular public bridge；
+- a hidden giant alternate route；
+- a Level-2 Regional Bridge。
+
+The bridge exists because engineers always knew it existed; it simply had no reason to be treated as public infrastructure before EP02.
+
+---
+
+# 04｜Cold Open — both ends READY, box still cannot cross
+
+Target: `0:00–0:25`.
+
+Medical box at A bridgehead.
+
+Receiving team ready at B bridgehead.
+
+Both local interfaces show：
 
 > `LOCAL INTERFACE: READY`
 
-或协议握手完成。
+Yet the narrow bridge cannot open as one shared passage.
 
-但中央连接不能开放。
+Visible reasons：
 
-可见原因不是抽象报错：
+- A pressure/interface state allows passage；
+- B remains in its own safe maintenance phase；
+- one Gravity Handoff side is ready while the other is not compatible yet；
+- central structure lock is not simultaneously valid。
 
-- A 端压力锁已进入通行状态；
-- B 端仍处于自己的安全维护相位；
-- 一侧 Gravity Handoff 已建立，另一侧尚未进入兼容状态；
-- 中央结构锁没有同时满足通行条件。
+Meaning：
 
-观众只需理解：
-
-> **两边都没撒谎，但两边说的“准备好了”不是同一个完整问题。**
+> **两边都没撒谎，但两边说“准备好了”回答的不是同一个完整问题。**
 
 ---
 
-# 05｜Seven minutes — 为什么是现实窗口，不是两块钟
+# 05｜Seven minutes — a physical overlap, not two clock displays
 
-两个本地系统在灾后都独立维护自己的：
+Two local systems independently maintain：
 
-- 接口安全周期；
-- 压力平衡；
-- 结构卸载；
-- Gravity Handoff 调整；
-- 维护流程 reference。
+- interface safety cycles；
+- pressure balance；
+- structure unload；
+- Gravity Handoff adjustment；
+- maintenance reference windows。
 
-它们各自在自己的 local public time / local state 中都是正确的。
+Each is correct locally.
 
-问题是：
+Mapped onto the same real small bridge：
 
-> **映射到同一座真实维护连接以后，这些局部安全窗口只在下一轮出现约七分钟的实际重叠。**
+> **the next actual overlap in which both sides' physical conditions allow passage lasts about seven minutes.**
 
-因此七分钟不是：
+Thus seven minutes is not：
 
-> A 的钟比 B 快七分钟。
+> A clock = B clock + 7。
 
-而是：
+It is：
 
-> **只有七分钟，两边的真实物理条件同时允许一个东西通过。**
+> **only seven minutes of real shared-crossable physical state.**
 
 ---
 
@@ -131,156 +143,155 @@ B 端接收人员也准备好了。
 
 ## Private AI
 
-能：
+Can：
 
-- 读两边大量 local state；
-- 找到各自周期关系；
-- 提供可能的重叠候选。
+- read both sides' local state；
+- map their cycles；
+- propose overlap candidates。
 
-不能：
+Cannot：
 
-> 只靠数据证明中央连接此刻真实可走。
+> data alone prove the narrow central bridge is physically safe now.
 
 ## Male
 
-必须在桥/接口现场验证：
+At bridgehead / interface verifies：
 
-- 结构锁；
-- 压力实际状态；
-- Gravity Handoff 是否稳定；
-- 医疗箱固定方式；
-- 真正 execute / abort 条件。
+- structure lock；
+- actual pressure/interface state；
+- Gravity Handoff stability；
+- medical rack fixation；
+- execute/abort condition。
 
 ## Female chief
 
-只授权：
+Authorizes only：
 
-> **这一批医疗动作，在这个窗口内。**
+> **this medical movement, inside this one window.**
 
-她不宣布维护桥从此成为永久公共线路。
+She does not declare the maintenance bridge a permanent public line.
 
 ---
 
-# 07｜Pressure — 七分钟不是免费通行
+# 07｜Pressure — seven minutes is not free passage
 
-目标时长：`0:45–1:35`
+Target: `0:45–1:35`.
 
-窗口到来前，角色做的是最少量必要准备：
+Before window：
 
-- 把医疗箱固定到可适应方向变化的运输架；
-- 清空维护连接；
-- 两端只保留本次动作需要的人员；
-- 设定 abort 条件。
+- secure medical box to direction-tolerant rack；
+- clear the narrow maintenance span；
+- keep only required staff at bridgeheads；
+- set abort conditions。
 
-进入窗口以后：
+During window：
 
-- 人需要扶栏；
-- 运输架有明显倾斜趋势；
-- 工业机器人调整步态；
-- 中央过渡段的“下方”缓慢改变。
+- people use rails；
+- rack visibly tends to tilt；
+- industrial robot gait adjusts；
+- central “down” changes mildly through Gravity Handoff。
 
-不做机动作秀。
+Do not turn it into acrobatics.
 
-压力来自：
+Pressure：
 
-> **窗口会关闭，而不是敌人在追。**
+> **the shared window closes.**
 
 ---
 
 # 08｜Choice / Dominant Turn
 
-目标时长：`1:35–2:05`
+Target: `1:35–2:05`.
 
-一个过渡锁比预测慢。
+One transition lock runs slower than expected.
 
-系统建议剩余时间进入保守阈值。
+System enters conservative remaining-time threshold.
 
-男主现场确认：
+Male confirms：
 
-- 真实结构仍在安全边界内；
-- 运输架已进入可完成段；
-- 继续比回撤风险更低。
+- actual structure remains in safe boundary；
+- rack has entered the completable section；
+- continuing is less risky than retreating now。
 
-他给出：
+He submits：
 
 > `EXECUTE / CONTINUE`
 
-女科长承担：
+Chief authorizes：
 
-> **这一次例外继续。**
+> **this one exception continues.**
 
-医疗箱真正到达 B 端。
+Medical box reaches B bridgehead.
 
 Dominant Turn：
 
-> **破碎的两个局部没有先恢复成一个系统，却完成了一次真实共同动作。**
+> **两个局部没有先恢复成一个完整系统，却完成了一次真实共同动作。**
 
 ---
 
 # 09｜Cost / ending debt
 
-医疗女孩得到需要的治疗资源。
+Medical girl receives needed treatment resource.
 
-不拍感谢。
+No gratitude scene required.
 
-镜头回到维护连接。
+Workers begin to return bridge to engineering state, then reality creates new questions：
 
-工作人员本来准备恢复工程封闭状态，却已经出现下一个现实问题：
+- next maintenance batch when；
+- what if another medical need appears；
+- who schedules access；
+- when does the bridge itself need maintenance。
 
-- 下一批维修件什么时候过；
-- 明天还有没有同样的医疗需求；
-- 谁负责排班；
-- 什么时候维护桥自己要检修。
-
-一句最简单的工作问题即可：
+Simple work question can carry consequence：
 
 > **“下一次窗口几点？”**
 
-这就是后果。
+One narrow exception worked, therefore：
 
-一次窄例外成功以后：
+> **society has a real reason to request it again.**
 
-> **社会获得了要求再次使用它的真实理由。**
+The bridge becomes narratively important without becoming physically large.
 
 ---
 
 # 10｜State Delta
 
-1. EP02 主桥失去后的跨区刚需第一次通过低容量维护连接完成。
-2. `protocol/local-ready != shared physical connection` 被具体证明。
-3. 七分钟成为第一处明确 public-time/reference 裂纹。
-4. 医疗女孩真实受益，为 EP08 protected-person callback 建立因果。
-5. 这条维护连接获得公共价值，进入重复使用压力；EP04 将其日常化。
-6. 男主/AI/科长三人分工第一次完成完整协作案例。
+1. EP02 loss creates real time pressure for a medical cross-district need.
+2. Familiar Lifeline is established as a **small Level-4 maintenance bridge**.
+3. `protocol/local ready != shared physical connection` becomes concrete.
+4. Seven-minute shared-crossable window becomes the first clear public-time/reference fracture in action.
+5. Medical girl benefits, supporting EP08 callback.
+6. Small bridge gains public value and repeat-use pressure; EP04 will normalize it.
+7. Male/AI/chief complete their first full cooperation pattern.
 
 ---
 
-# 11｜Episode Card — repaired
+# 11｜Episode Card
 
 ```yaml
 episode_id: EP03
 target_duration: "2m15s–2m35s"
-episode_function: "EP02主桥失去后，一个有明确等待成本的医疗补给必须跨区；标准绕行来不及，只有一条低容量维护连接仍有机会。两边local接口都ready却无法同时形成现实通行条件，男主验证出下一次只有七分钟的shared-crossable window，科长只授权这一次，物资真正通过。"
-opening_hook: "两端都显示READY，医疗箱却停在桥口过不去。"
+episode_function: "EP02 Level-1主桥退出后，一个有明确等待成本的医疗补给必须跨区。远处公共绕行来不及，只有主桥附近一条结构独立、物理尺度很小的Level-4 maintenance bridge还有机会。两边local接口都ready却不能同时形成现实通行条件，男主验证出下一次只有七分钟的shared-crossable window，科长只授权这一次，物资真正通过。"
+opening_hook: "两端都显示READY，医疗箱却停在一条小维护桥的桥口过不去。"
 dominant_turn: "七分钟真实窗口被找到并完成一次医疗跨越。"
-core_conflict: "完整公共连接没有恢复，而当前医疗需求不能承担等待全部规则/状态重新统一的成本。"
-conflict_grammar: "local readiness vs sufficient shared physical condition。"
+core_conflict: "完整公共连接没有恢复，而当前医疗需求不能承担远距离公共绕行的等待成本。"
+conflict_grammar: "local readiness vs sufficient shared physical condition"
 progression:
-  reveal_or_knowledge: "协议/本地ready状态不等于现实连接；共同现在第一次以七分钟物理窗口显形。"
-  pressure_or_public_action: "一次窄、可追责的跨区医疗例外成立。"
-  relationship_or_capability: "AI映射、男主现场、科长授权三者首次完整互补。"
-callback_or_debt: "lifeline -> EP04日常化 -> EP08秩序重叠 -> EP10最后健康桥。"
-cost_after_solution: "成功制造公共依赖：临时工程路径从此有重复使用、排班、维护和安全责任。"
-payoff_or_progress: "医疗物资到达，病人得到真实帮助。"
-ending_cliffhanger_or_image: "桥重新进入低容量状态，但工作人员已经开始问下一次窗口。"
+  reveal_or_knowledge: "协议/本地ready状态不等于现实连接；共同现在第一次以七分钟物理窗口显形"
+  pressure_or_public_action: "一次窄、可追责的跨区医疗例外成立"
+  relationship_or_capability: "AI映射、男主现场、科长授权三者首次完整互补"
+callback_or_debt: "small lifeline -> EP04日常化 -> EP08桥头秩序重叠 -> EP10最后active connection"
+cost_after_solution: "成功制造公共依赖：原本不起眼的小维护桥从此有重复使用、排班、维护和安全责任"
+payoff_or_progress: "医疗物资到达，病人得到真实帮助"
+ending_cliffhanger_or_image: "小桥重新进入低容量状态，但工作人员已经开始问下一次窗口"
 mechanism_status: "LOCKED_DIRECTION / exact equipment VALIDATE_LATER"
 dialogue_status: TBD
 state_delta:
-  - "familiar low-capacity lifeline proven usable"
+  - "small Level-4 Familiar Lifeline proven usable"
   - "medical girl benefited"
   - "seven-minute shared-crossable crack established"
   - "repeat-use institutional debt opened"
-continuation_capsule: "EP04开场时这条桥已经被再次使用并形成基本时段/容量/维护惯例；灾后例外开始沉积成普通生活。"
+continuation_capsule: "EP04开场时这条桥物理上仍然很小，但已经被再次使用并形成基本时段/容量/维护惯例；灾后例外开始沉积成普通生活。"
 ```
 
 ---
@@ -288,9 +299,11 @@ continuation_capsule: "EP04开场时这条桥已经被再次使用并形成基�
 # 12｜Hard prohibitions
 
 - no simple clock-offset explanation；
-- no secret route invented only for the episode；
-- no alternative normal route that obviously solves the problem faster；
+- no secret route invented only for this episode；
+- no claim all other routes vanished；
+- no public detour that obviously beats the medical window；
 - no system lying about readiness；
 - no gravity causing time drift；
-- no permanent rule granted from one medical case；
-- no repeat of EP01 stale-record grammar。
+- no permanent citywide rule granted from one medical case；
+- no physical promotion of Familiar Lifeline to Level-2/large bridge；
+- no repeat of EP01 stale-record grammar.

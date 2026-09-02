@@ -15,61 +15,101 @@ Outside these scopes, existing V4 precedence remains unchanged.
 
 ---
 
-## PATCH-01｜EP01 302 premise
+## PATCH-01｜EP01 premise — task record / trusted time split / gravity choice
 
-SUPERSEDES any active wording that says:
+The following EP01 engines are now `SUPERSEDED / NOT CANON ON THIS BRANCH`:
 
-> EP01 男主在 302 发现记录中“仍然活着的人” / 通过实时信号确认这个记录中的居民当前仍在。
+1. `system says nobody -> male finds hidden/current survivor`;
+2. `stale occupancy record -> physical clearance -> public current model also stale -> HOLD CUTOVER`.
 
-New branch-scoped fact:
+Active EP01 engine:
 
-> **男主执行最终现场确认时没有找到记录中仍显示留在302的居民，因为那是一条过时 occupancy record。**
+> **男主与私人 AI 执行一张普通 302 Gravity Reference Reset 工单。开场任务纪录在当前行动中建立第二新重庆、T0 灾后维护、LOCAL OPERATION、Local Public Time、Local Gravity Frame、协议握手和安全重置窗口。多数维修步骤正常；最后 trusted public/local handshake 失败。男主进入旧 relay 建立当前物理桥接，partial handshake 首次提供可信 302 local time 与本地 safety channel，显示 `302 LOCAL = CHONGQING PUBLIC + 08:00`，因此他们发现安全重置窗口已过、已知 gravity re-lock / instability cycle 已经开始。**
 
-EP01 的 causal turn becomes:
+Time and gravity remain independent axes:
 
-> **男主核销 stale occupancy record 后发现，公共系统对 302 当前物理拓扑 / Local Gravity Frame 的模型也已过时；他用窄现场权限阻止一个基于 stale current-state assumption 的不可逆 cutover。**
+> **time mismatch does not cause gravity failure; it causes the crew to misjudge where the known gravity cycle already is.**
 
-EP01 lesson becomes:
+EP01 dominant turn:
 
-> **过去曾经正确的记录不能替代当前现场。**
+> **撤离中 full handshake 完成，private AI 获得 Gravity Control，但当前男主 / debris / structural loads 已在异常向量下重新分布。立即 restore nominal gravity 会让男主几乎必死，因此 AI 拒绝立即恢复，把任务目标改成：先抵达安全重置点、固定男主，再恢复重力完成原任务。**
 
-It is NOT:
+Plan B is a complete task-ending plan, not a decision to keep gravity abnormal forever.
 
-> system says nobody -> human finds hidden survivor.
+Payoff / cost:
+
+> **男主真实抵达并被安全重置点的 recovery system 固定，回收开始工作，AI 准备 RESTORE；随后一处此前不可完整观测的 T0 深层结构裂伤在持续异常载荷下贯穿，使安全点的支撑结构本身脱离。方案已经开始成功，现实物理事实随后改变。AI 重新评估后，最优解仍是不恢复重力。**
+
+End progression:
+
+> **男主越过 Local Gravity Frame 后靠惯性漂离；AI 只用 EVA 能力止旋 / 减速，均成功但不足以返航。能源危机中她先关闭 high-compute nodes，最后为最大化 life support + minimum rescue beacon 而主动关闭 local core。最后一只未知人类 EVA 手抓住男主；身份留到 EP02。**
+
+Approved final dialogue direction:
+
+> **“我很抱歉。”**
+>
+> **“祝你早安……晚安。”**
+
+No dialogue after AI shutdown / final hand.
+
+EP01 lesson cluster becomes:
+
+> **系统都在工作 ≠ shared reality intact。**
+>
+> **恢复正常 ≠ 当前最安全。**
+>
+> **方案正确 ≠ 结果保证。**
+>
+> **现场新事实有最后一票。**
 
 ---
 
-## PATCH-02｜302 season continuity
+## PATCH-02｜302 season continuity after the EP01 redesign
 
-EP01 后：
+302 does not depend on an occupancy-record remap story anymore.
 
-> 302 被重新测绘 / remap / 修复，而不是被错误 cutover。
+Correct active chain:
 
-By EP04:
+> **T0 creates structural + local-time + gravity + protocol legacy damage / compatibility in 302**
+> → **EP01 routine reset exposes trusted `+08:00` public/local split and an extreme gravity/reference incident**
+> → **302 remains a real old district/service node under continued repair**
+> → **by EP04 some old nodes / routes can return to limited civic use**
+> → **by EP09 302 is real / occupied / safe / maintainable, but permanent preservation requires a non-generalizable time/gravity/bridge/service/protocol compatibility stack**
+> → **EP10 residents migrate first, then the final old compatibility stack exits.**
 
-> 302 等旧节点开始有限恢复公共使用。
+The old mirror:
 
-By EP09:
+> stale history cannot substitute for current fact → current fact cannot substitute for future obligation
 
-> 302 已经是 real / occupied / safe / maintainable 的旧城区节点。
+is superseded because stale occupancy history is no longer EP01's engine.
 
-Therefore EP09 does NOT depend on the stale-record resident secretly remaining there since EP01.
+New useful EP01→EP09 relation:
 
-Correct mirror:
-
-> **EP01: stale history cannot substitute for current fact.**
+> **EP01: a normal procedure / reasonable model must yield when the actual present physical state no longer supports it.**
 >
-> **EP09: current fact cannot automatically substitute for future public obligation.**
+> **EP09: current truth and current operability must be fully acknowledged, but they still do not automatically create a permanent future public obligation to preserve every legacy exception.**
+
+EP09 must therefore preserve 302 as genuinely real / occupied / safe / maintainable and may not make it conveniently broken to simplify the choice.
 
 ---
 
 ## PATCH-03｜EP02 male/chief relationship bridge
 
-Restore the non-setting story function preserved in historical conversation provenance:
+Restore the non-setting story function preserved in historical conversation provenance, with EP01 opening revised:
 
-> EP01 抓住男主的女人在 EP02 正式进入责任链并揭示为当前科长；她给予男主的是“系统无法完成可靠交叉验证时的窄 present-state / execute-abort 事实接口”，不是广泛行政权。
+> **EP01 最后抓住男主的未知女人在 EP02 正式揭示为当前 / 新任科长并进入责任链。**
 
-This relationship setup must converge into the same episode's forced-loss trunk-bridge decision.
+EP02 must no longer open from:
+
+> stale occupancy record closed / HOLD CUTOVER review.
+
+It opens from:
+
+> **EP01 gravity/reference incident rescue + incident responsibility / technical review.**
+
+The chief gives the male only a narrow present-state / execute-abort factual interface when unified systems cannot reliably verify current physical state; she does not give him broad administrative authority.
+
+This relationship setup must still converge into the same episode's forced-loss trunk-bridge decision.
 
 ---
 
@@ -103,6 +143,8 @@ The AI explicitly retains survival preference:
 
 > **她不想消失。**
 
+EP01 local-core shutdown is only a temporary/local operational survival action and does not pre-answer EP09/10 continuity stakes.
+
 ---
 
 ## PATCH-06｜EP10 convergence
@@ -126,6 +168,8 @@ It must genuinely preserve the same continuous AI, and it must carry a real publ
 Final cutover remains:
 
 > occupancy clear → transit/service exit → gravity transition unload → temporal/protocol compatibility exit → mechanical bridge separation.
+
+The word `occupancy` here means EP10 **current evacuation clearance**, not an EP01 stale occupancy-record callback.
 
 No explosion.
 
@@ -151,5 +195,14 @@ Required counterfactual checks:
 - why not the obvious cheaper alternative?
 - does character choice actually alter outcome?
 - does the episode still work when bridge/time/gravity jargon is removed?
+- is there exactly one dominant turn?
+- if the smart solution works, what cost remains afterward?
 
-Old V4 no-gap/consistency PASS does not equal story-causality PASS.
+For EP01 specifically:
+
+- `+08:00` is **Pressure**, not a second turn;
+- private AI's refusal to restore immediately is the **Dominant Turn**;
+- latent structural fracture after real recovery success is **Cost after solution**;
+- final human hand is **Cliffhanger / relationship handoff**.
+
+Old V4 no-gap/consistency PASS does not equal story-causality or screenplay PASS.

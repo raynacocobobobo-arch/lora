@@ -1,8 +1,9 @@
 # 《重庆时间》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-02
-- Status: `V4 ACTIVE ON MAIN`
-- Rule: one active Master; one active World authority; one active Character/Relationship authority; highest listed V4 Episode Snapshot governs episode-specific facts; execution docs never override Canon.
+- Status: `REPAIR BRANCH ACTIVE / SPATIAL V2`
+- Branch: `chongqing-time-story-causal-repair`
+- Rule: story, world, spatial/environment, character and episode authorities are all explicit; execution docs never override Canon.
 
 ---
 
@@ -10,14 +11,17 @@
 
 1. `CURRENT.md`
 2. `CANON-PRECEDENCE-V4.md`
-3. `CHONGQING-TIME-MASTER-CANON-V4.md`
-4. `WORLD-ARCHITECTURE-CANON-V4.md`
-5. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-6. relevant highest active episode snapshot
-7. `consistency-reports/2026-09-02-CHONGQING-TIME-V4-CONSISTENCY-CHECK.md` when checking migration/causal consistency
-8. `MIGRATION-SOURCE-INDEX.md` only when tracing legacy provenance
+3. `STORY-CAUSAL-CANON-PATCH-V1.md`
+4. `SPATIAL-ENVIRONMENT-CANON-V2.md`
+5. `EP01-EP10-SPATIAL-SCENE-MAP-V2.md`
+6. `CHONGQING-TIME-MASTER-CANON-V4.md`
+7. `WORLD-ARCHITECTURE-CANON-V4.md`
+8. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
+9. relevant highest active episode snapshot / approved outline
+10. current consistency / verification report when auditing
+11. `MIGRATION-SOURCE-INDEX.md` only for provenance.
 
-Legacy V3.2 Canon / patches are not in the active read order.
+Old V1 spatial patch/map files are retired and are not active reading targets.
 
 ---
 
@@ -25,16 +29,20 @@ Legacy V3.2 Canon / patches are not in the active read order.
 
 ## Series
 
-- **Master:** `CHONGQING-TIME-MASTER-CANON-V4.md`
-- **World Architecture:** `WORLD-ARCHITECTURE-CANON-V4.md`
-- **Character / Relationship:** `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
+- **Branch entry:** `CURRENT.md`
 - **Precedence:** `CANON-PRECEDENCE-V4.md`
+- **Story causal repair:** `STORY-CAUSAL-CANON-PATCH-V1.md`
+- **Spatial / environment:** `SPATIAL-ENVIRONMENT-CANON-V2.md`
+- **Season spatial map:** `EP01-EP10-SPATIAL-SCENE-MAP-V2.md`
+- **Master:** `CHONGQING-TIME-MASTER-CANON-V4.md`
+- **World:** `WORLD-ARCHITECTURE-CANON-V4.md`
+- **Character / Relationship:** `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
 
 ## Episodes
 
 | EP | Active file |
 |---|---|
-| EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V4.md` |
+| EP01 | `EP01-STORY-OUTLINE-V1.md` for outline/timing + `Pilot-EP01-LATEST-CANON-SNAPSHOT-V4.md` for episode canon |
 | EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V4.md` |
 | EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V4.md` |
 | EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V4.md` |
@@ -45,8 +53,6 @@ Legacy V3.2 Canon / patches are not in the active read order.
 | EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V4.md` |
 | EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V4.md` |
 
-No other episode snapshot in either project root should be treated as current V4 authority.
-
 ---
 
 # 03｜Active non-Canon execution layer
@@ -56,113 +62,127 @@ No other episode snapshot in either project root should be treated as current V4
 - **Visual anchor status:** `VISUAL-ANCHOR-INDEX-V2.md`
 - **Current teaser:** `TRAILER-TEASER-V3.md`
 
-Execution authority rule:
+Execution rule:
 
-> Canon decides facts / action / time / location; execution docs decide how those facts are visualized.
+> **Canon decides facts / action / time / location / spatial topology. Execution docs decide how those facts are visualized.**
 
----
-
-# 04｜Current visual anchor status
-
-Use `VISUAL-ANCHOR-INDEX-V2.md` as the source of truth for exact approval status.
-
-High-level current anchors / lessons include:
-
-- 第二新重庆车站：old white passenger trains, dusk/night Local Public Time split, dry, simple signage;
-- public wedding hall;
-- bridge / public-security development provenance;
-- EP02 bridge separation logic;
-- KV05 simplified cel megastructure language as strongest style anchor.
-
-Important:
-
-> old images remain visual provenance only where they do not conflict with V4 story geometry.
-
-EP08 ground-checkpoint geometry is superseded by suspended Jialing bridge/interface logic.
+For any environment / KV / storyboard / scene-generation task, read Spatial V2 before the visual execution docs.
 
 ---
 
-# 05｜V4 hard-setting locks
+# 04｜Spatial V2 hard locks
+
+- macro city = **modular ring-shipyard city on a permanent ring backbone**;
+- design scale direction ≈ `1 km` main-ring radius / `200 m` major interior clear-height;
+- ring topology does not generate gravity;
+- district modules are normal lived city spaces;
+- `嘉陵江` = **finite continuous open urban/public corridor inside the ring**, not the torus center hole and not an infinite canyon;
+- ordinary inhabited districts have broadly similar visual nominal down;
+- Local Gravity Frame differences become most visible at bridge/interface/damage zones;
+- EP02 bridge = **large Level-1 Trunk Bridge**;
+- EP03/04/08/10 Familiar Lifeline = **small Level-4 maintenance bridge for the entire season**;
+- 302 = outer legacy district cluster, **one side faces city, one side faces space**;
+- EP01 loses only a small 302 outer attached maintenance/interface segment, not 302 itself;
+- EP10 bulk 302 migration largely predates the episode; small lifeline is only the last active legacy connection;
+- city contraction retires modules/connections, not the permanent ring backbone.
+
+---
+
+# 05｜Story hard locks
 
 - project title = **《重庆时间》**;
 - city = **第二新重庆市**;
-- macro city = bridge-network city, not continuous ground;
-- `嘉陵江` = giant enclosed engineered structural canyon, not a real river;
-- Local Public Time = day/dusk/night/service rhythms;
+- T0 impact occurs before EP01;
+- Local Public Time = valid local day/dusk/night/service rhythms;
 - winter/snow are not active series mechanism;
-- Local Gravity Frames recur across season;
 - time and gravity are independent axes;
-- EP03 familiar lifeline must causally reach EP04 / EP08 / EP10;
-- EP08 = one medium quadruped public-security platform vs multiple ordinary industrial humanoid robots on degraded side; no wheeled security vehicles;
-- EP10 = evacuate first, then procedural service/gravity/protocol/mechanical separation;
-- final important bridge = familiar and technically healthy;
-- private AI wants to survive and has a real preservation route; no city-AI merge; copy/upload ≠ continuity.
+- EP01 active engine = task-record / `+08:00` / gravity choice / safe-reset Plan B / small outer-segment detachment / AI shutdown / final hand;
+- no stale occupancy / hidden resident / HOLD CUTOVER EP01 engine;
+- EP03 small Familiar Lifeline must causally reach EP04 / EP08 / EP10;
+- EP08 = one medium quadruped vs ordinary industrial humanoids at the same small lifeline bridgeheads; degraded side voluntarily revokes temporary public-force role;
+- EP10 = people first, then service/gravity/protocol/mechanical separation;
+- final important bridge = same familiar small bridge, technically healthy;
+- private AI wants to survive and has a real preservation route; copy/upload ≠ continuity.
 
 ---
 
-# 06｜Consistency / verification docs
+# 06｜Visual anchor use after Spatial V2
 
-Active migration audit:
+Existing approved visual anchors remain useful for **style, drawing language, lighting and material discipline** where they do not contradict Spatial V2 geometry.
 
-- `consistency-reports/2026-09-02-CHONGQING-TIME-V4-CONSISTENCY-CHECK.md`
+They must not silently restore old geography such as:
 
-This report explicitly verifies:
+- bottomless internal canyon;
+- endless vertical city layers;
+- giant Familiar Lifeline;
+- ordinary districts rotated at extreme angles;
+- generic ground checkpoint for EP08;
+- whole-302 ejection.
 
-- old→new function replacement;
-- bridge progression;
-- time progression;
-- gravity progression;
-- Preservation Paradox progression;
-- character continuity;
-- organic integration;
-- legacy-term provenance separation.
+Future visual-environment development priority:
+
+1. overall ring-city orientation;
+2. unrolled topology;
+3. ordinary lived district;
+4. finite Jialing wide view with visibly different bridge scales;
+5. 302 city-facing / space-facing orientation;
+6. large EP02 Trunk Bridge;
+7. small Familiar Lifeline + both bridgeheads;
+8. EP06/07 shared infrastructure family;
+9. EP01 outer attached maintenance segment / detachment geometry.
 
 ---
 
-# 07｜Legacy / provenance
+# 07｜Consistency / verification docs
 
-Historical project root:
+Current story-causal reports remain useful only within their stated scope.
+
+The active spatial consolidation audit should be:
+
+> `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md`
+
+Once created, it verifies that old spatial assumptions cannot override the V2 environment architecture.
+
+---
+
+# 08｜Legacy / provenance
+
+Historical root:
 
 > `../北京市没有冬天/`
 
-Pre-V4 non-chat working snapshot:
+Git history and old branch documents remain provenance.
 
-> `../北京市没有冬天/archive/2026-09-01-pre-chongqing-time-v4/`
+Historical files may intentionally contain earlier Beijing / winter / snow / multi-layer / old EP01 engine wording.
 
-Decision / full-conversation provenance remains under:
-
-> `../北京市没有冬天/decision-logs/`
-
-Most important V4 full conversation record:
-
-> `../北京市没有冬天/decision-logs/2026-09-01-2324-CHONGQING-TIME-V4-FULL-CONVERSATION.md`
-
-Historical docs may contain Beijing / winter / snow wording intentionally. They do not become active by being more detailed.
+> **Historical detail does not become active merely because it is more detailed.**
 
 ---
 
-# 08｜Docs / plans
+# 09｜Docs / plans
 
-Implementation plan:
+Spatial V2 design spec:
 
-- `docs/superpowers/plans/2026-09-01-chongqing-time-v4-canon-migration-plan.md`
+> `docs/superpowers/specs/2026-09-02-second-new-chongqing-spatial-environment-v2.md`
 
-Design provenance note:
+Spatial V2 implementation plan:
 
-- `docs/superpowers/specs/README.md`
+> `docs/superpowers/plans/2026-09-02-second-new-chongqing-spatial-environment-v2.md`
 
-The original approved design specs remain unchanged in the legacy provenance root; the new root does not retain stale `PRE-INTEGRATION` copies.
+EP01 causal design spec remains active within its scope:
+
+> `docs/superpowers/specs/2026-09-02-ep01-task-record-gravity-redesign.md`
 
 ---
 
-# 09｜Current workflow gate
+# 10｜Current workflow gate
 
-Story development:
+Story development next target:
 
-> **V4 Canon is the only active target architecture on `main`.**
+> **EP01 formal screenplay draft using approved outline + Spatial V2.**
 
 Visual development:
 
-> **large environment / scene-setting KVs first; one image at a time when directed; scene generation must use V2 prompt handshake.**
+> **do not generate new large environment/KV geometry from the old world topology. Establish Spatial V2 orientation assets first.**
 
-Do not reopen broad architecture unless a concrete screenplay / visual execution conflict cannot satisfy two active V4 locks simultaneously.
+No promotion to `main` until current repair branch passes its story + spatial verification and the user explicitly requests PR/merge.

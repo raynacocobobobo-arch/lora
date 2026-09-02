@@ -1,7 +1,7 @@
 # 《重庆时间》CURRENT — Active Story + Spatial Entry Point
 
 - Updated: 2026-09-02
-- Status: `NEEDS_REVIEW / STORY-CAUSAL + SPATIAL V2 REPAIR BRANCH`
+- Status: `STORY-CAUSAL REPAIR ACTIVE / SPATIAL V2 VERIFIED PASS / REPAIR BRANCH`
 - Branch: `chongqing-time-story-causal-repair`
 - Project: **《重庆时间》**
 - City: **第二新重庆市**
@@ -22,7 +22,7 @@ For conflicts, use this order:
 7. `CHONGQING-TIME-MASTER-CANON-V4.md` for active reconciled season architecture;
 8. `WORLD-ARCHITECTURE-CANON-V4.md` for active reconciled time / gravity / bridge / islanding world rules;
 9. `CHARACTER-RELATIONSHIP-BIBLE-V4.md` for non-superseded character / relationship facts;
-10. current QA / verification reports;
+10. `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md` for current spatial QA status;
 11. visual/execution docs only after story + spatial architecture pass;
 12. legacy `../北京市没有冬天/**` and Git history only as provenance, never as active canon.
 
@@ -254,11 +254,17 @@ EP01 only final unidentified hand; EP02 reveals her.
 
 ---
 
-# 11｜Current phase
+# 11｜Verification status / current phase
 
-**Spatial/environment architecture V2 is now the active foundation for both story and visual work.**
+Spatial V2 verification report：
 
-Current next story task remains：
+> `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md`
+
+Result：
+
+> **PASS / active spatial-environment foundation for story + visual work.**
+
+Current next story task：
 
 > **EP01 formal screenplay draft / scene writing, using `EP01-STORY-OUTLINE-V1.md` + Spatial V2.**
 
@@ -272,10 +278,9 @@ Before storyboard / production：
 
 Before promotion/merge to `main`：
 
-1. spatial V2 consistency report must pass；
-2. no active V1 spatial references remain；
-3. no stale Master/World/episode wording can override repaired story/spatial facts；
-4. user explicitly chooses PR/merge.
+1. story-causal readiness for the intended promotion scope must be reviewed；
+2. no stale Master/World/episode wording may override repaired story/spatial facts；
+3. user explicitly chooses PR/merge.
 
 ---
 

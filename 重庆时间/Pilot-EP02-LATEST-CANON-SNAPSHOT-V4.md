@@ -1,29 +1,29 @@
 # 《重庆时间》EP02 — STORY CAUSAL REPAIR SNAPSHOT
 
 - Updated: 2026-09-02
-- Status: `NEEDS_REVIEW / STORY-CAUSAL REPAIR ON BRANCH`
+- Status: `LOCKED_DIRECTION / STORY + SPATIAL V2 RECONCILED`
 - Project basis: `CHONGQING-TIME-MASTER-CANON-V4.md`
 - World basis: `WORLD-ARCHITECTURE-CANON-V4.md`
+- Spatial basis: `SPATIAL-ENVIRONMENT-CANON-V2.md`
 - Character basis: `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-- Preserved locks: post-impact continuing rescue / major Jialing trunk bridge / forced-loss / gravity as contributor / EP02→03→05→08 handoffs.
-- EP01 handoff: **EP01 最后一只真实人手把男主从太空漂离中抓住；本集才揭示那名救援者是当前 / 新任科长。EP01 的 task-record / +08:00 / gravity incident replaces the old stale-occupancy / HOLD-CUTOVER review.**
+- Preserved locks: EP01 rescue hand reveal / present-state vs public responsibility split / Level-1 Jialing Trunk Bridge / forced-loss / gravity as contributor / EP02→03 handoff.
 
 ---
 
 # 01｜Episode function
 
-EP02 同时完成两件必须汇聚到同一 dominant turn 的事：
+EP02完成两件汇聚到同一 dominant turn 的事：
 
-1. **把 EP01 中“现场现实最终能否安全执行”这一临时生死经验，正式接入可追责的工作关系。**
-2. **马上让这套分工面对一个更难的问题：现场事实不是为了找到一条救回来的路，而是为了确认什么时候已经不能再救。**
+1. 把 EP01 中“当前物理现实决定动作能否安全执行”的经验正式接入可追责工作关系；
+2. 立即让这套分工面对更难的问题：现场事实不是为了找到救回来的路，而是为了确认什么时候已经不能再救。
 
-Dominant Turn 保持：
+Dominant Turn：
 
-> **男主确认嘉陵江主干桥继续安全抢救的窗口已经结束；女科长承担停止继续抢救的公共决定。**
+> **男主确认嘉陵江 Level-1 主干桥继续安全抢救的窗口已经结束；女科长承担停止继续抢救的公共决定。**
 
-人物建立不是独立 B 集，它的功能是让观众理解：
+人物分工：
 
-> **为什么这个男人负责说“现实到哪一步了”，而这个女人负责说“既然如此，现在做什么”。**
+> **男主负责说现实到了哪一步；科长负责说既然如此，现在做什么。**
 
 ---
 
@@ -31,287 +31,279 @@ Dominant Turn 保持：
 
 Target direction: `0:00–0:25`.
 
-紧接 EP01 rescue aftermath.
+紧接 EP01 rescue aftermath。
 
-男主已经被拉回安全结构 / 气闸救援区。
+男主已被拉回安全结构 / 气闸救援区。
 
-EP01 incident log 只保留与当前责任有关的事实：
+Incident log只保留当前责任事实：
 
-- 302 routine Gravity Reference Reset did not complete normally;
-- trusted public/local mapping exposed `302 LOCAL = CHONGQING PUBLIC + 08:00` during the incident;
-- gravity re-lock / vector instability entered Extreme state;
-- full Gravity Control became available but immediate restore was unsafe for the male's current physical geometry;
-- safe-reset Plan B began working, then a latent T0 structural fracture invalidated the safe point;
-- the male crossed beyond the Local Gravity Frame and was recovered after an external rescue response;
-- private AI local session had shut down to preserve suit life support / beacon power and can resume only after rescue power/resources are restored.
+- 302 routine Gravity Reference Reset did not complete normally；
+- trusted `302 LOCAL = PUBLIC +08:00` exposed；
+- Extreme gravity vector instability occurred；
+- full control became available but immediate nominal restore was unsafe；
+- safe-reset Plan B genuinely began working；
+- T0 latent interface damage caused a **small 302 outer attached maintenance/interface segment** to lose structural connection；
+- 302 itself remained；
+- male drifted outside and was recovered；
+- private AI local session had shut down for life support/beacon power and later resumes after rescue power is restored。
 
-The woman who caught him does not make the incident disappear and does not frame it as a heroic exception.
+EP01最终抓住他的女人在这里才被明确为：
 
-She identifies herself only now:
+> **current / new female chief。**
 
-> **current / new chief.**
+她不把 EP01 处理成“英雄特例”。
 
-No long introduction.
+她把它视为证据：
 
-The key relationship beat is not “she approves what he did in EP01.”
-
-It is:
-
-> **she treats the EP01 incident as evidence that current physical state must remain a formal input when shared models/reference cannot reliably tell whether an action is safe now.**
+> **当 shared model/reference 无法可靠判断当前能否执行时，present physical state 必须正式进入责任链。**
 
 ---
 
-# 03｜Relationship Turn seed — she authorizes facts, not answers
+# 03｜Relationship rule — facts, not answers
 
-The chief does not give the male broad administrative authority because he survived EP01.
+科长只建立一个窄规则：
 
-She only formalizes a narrow work rule:
+> **统一系统无法可靠交叉验证当前物理状态时，男主可以提交 present-state conflict / execute-abort fact；公共动作是否继续，仍由责任链授权。**
 
-> **当统一系统无法对当前物理状态完成可靠交叉验证时，男主可以提交 present-state conflict / execute-abort fact；公共动作是否继续，仍由责任链授权。**
+不是升职幻想，也不是男主获得广泛行政权。
 
-This is not a promotion fantasy.
+Before conversation becomes an office episode, a high-priority work order arrives：
 
-EP01 demonstrated the split in practice:
+> **一条长期抢救的嘉陵江 Level-1 Trunk Bridge 正接近新的损伤传播阈值。**
 
-- private AI could recover protocol / control authority;
-- the male's actual geometry and changing physical environment still determined whether `RESTORE` was safe;
-- a new physical fact could invalidate a previously valid plan.
-
-EP02 turns that experience into a limited public interface.
-
-Before the conversation becomes an office episode, a new high-priority work order arrives:
-
-> **a Jialing trunk bridge that has been under prolonged rescue/support is approaching a new propagation threshold.**
-
-Directionally, the chief's function can be reduced to:
+Directionally：
 
 > **“现场你看。停不停，我来。”**
 
-Exact dialogue `TBD`.
+Exact dialogue `TBD`。
 
 ---
 
-# 04｜Why now — the main bridge has been saved for a long time
+# 04｜Spatial scale — this is the big bridge
 
-Target direction: `0:25–0:55`.
+这座桥必须和后续 Familiar Lifeline 在视觉上完全不同。
 
-This is not a bridge that suddenly breaks today.
+它是 Level-1 城市主干桥，可承担：
 
-The trunk bridge has already gone through:
+- 大规模人员；
+- 轨道/公共交通；
+- 大宗物流；
+- 能源/环境；
+- 数据；
+- Gravity Handoff；
+- 公共服务/参考连接。
 
-- temporary support;
-- repeated load limits;
-- service reroutes;
-- prolonged evacuation;
-- logistics priority changes;
-- Gravity Handoff compensation;
-- manual repair;
-- continuously shrinking safe windows.
+它位于嘉陵江有限开放城市带中的重要跨区位置。
 
-Now a new physical change appears:
+同一较大连接地理附近可以存在较小 service/maintenance structures，但：
 
-> **damage propagation begins moving beyond the bridge itself into structural interfaces shared with neighboring districts.**
+> **它们不能替代主干桥的容量与公共功能。**
 
-If they continue keeping the bridge alive, they may still move more people / services for a little longer.
-
-But after a physical threshold, the question changes from:
-
-> losing this bridge
-
-to:
-
-> **letting the attempt to save this bridge damage more city that can still be preserved.**
-
-This is why now.
+EP03后来使用的小维护桥与此桥**结构独立、尺度远小**。
 
 ---
 
-# 05｜Goal / Obstacle — every extra minute contains two real values
+# 05｜Why now — the bridge has been saved for a long time
 
-The bridge still carries:
+这不是今天突然坏的桥。
 
-- final evacuation loads;
-- medical / essential supplies;
-- remaining everyday connections;
-- some service lines.
+它已经经历：
 
-So continued support is rational.
+- temporary support；
+- repeated load limits；
+- service reroutes；
+- prolonged evacuation；
+- logistics priority changes；
+- Gravity Handoff compensation；
+- manual repair；
+- continuously shrinking safe windows。
 
-At the same time:
+今天出现新物理变化：
 
-- temporary support develops irreversible slip;
-- long-term Local Gravity Frame compensation produces more complex loading;
-- adjacent interfaces begin coupled displacement.
+> **damage propagation begins moving beyond the bridge itself into interfaces shared with neighboring district modules.**
 
-So stopping is also rational.
+继续维持，可能再多送一些人/服务过去。
 
-The conflict is not:
+但越过阈值后，问题从：
 
-> majority vs minority.
+> lose this bridge
 
-It is:
+变成：
 
-> **continuing to preserve one real connection is beginning to threaten other real connections.**
+> **the attempt to save this bridge begins damaging more city that can still be preserved.**
 
 ---
 
-# 06｜Male — present physical fact gives bad news this time
+# 06｜Goal / obstacle
 
-Target direction: `0:55–1:30`.
+桥仍承担：
 
-The male enters the current verification position.
+- final evacuation loads；
+- medical / essential supplies；
+- remaining everyday connections；
+- some service lines。
 
-Private AI is again available after the EP01 rescue/power recovery and supplies broad models / history / risk ranges.
+继续支撑是合理的。
 
-The male must verify physical facts the model cannot replace at the decisive moment:
+同时：
 
-- actual temporary-support slip;
-- whether cracking has crossed the propagation interface;
-- current Gravity Handoff extra loading;
-- time required for the last safe transit;
-- the state after which continued rescue changes the risk object from “bridge” to “shared city structure.”
+- temporary support develops irreversible slip；
+- long-term Gravity compensation changes load；
+- adjacent interfaces begin coupled displacement。
 
-EP01's lesson is used in the opposite emotional direction:
+停止也合理。
+
+Conflict：
+
+> **继续保一个真实连接，正在开始威胁其他真实连接。**
+
+---
+
+# 07｜Male present fact
+
+男主进入当前 verification position。
+
+私人 AI 恢复在线，提供广域模型 / 历史 / 风险区间。
+
+男主验证：
+
+- actual temporary-support slip；
+- cracking crossing the propagation interface；
+- current Gravity Handoff extra loading；
+- time required for last safe transit；
+- threshold after which risk object changes from “bridge” to “shared city structure”。
+
+EP01 lesson now gives bad news：
 
 > **current physical fact can invalidate an apparently correct continuation plan.**
 
-In EP01 that fact kept AI from executing `RESTORE` too early.
+---
 
-Here it may force the characters to stop preserving a bridge they want to keep.
+# 08｜Obvious alternatives
+
+### 再限载一点
+
+已经长期这么做；当前风险来自传播，不只是总载荷。
+
+### 先停桥，等修好再开
+
+这就是长期 rescue mode；当前 temporary support 自身已无法保持 connected state stable。
+
+### 再撑十分钟
+
+十分钟不是免费。越过 propagation threshold 后，威胁对象变成更大的共享结构。
+
+男主真正要确认的是：
+
+> **问题是否已经换了类别。**
 
 ---
 
-# 07｜Obvious-alternative test
-
-The episode must close three cheap answers.
-
-### “再限载一点”
-
-Already done repeatedly; current risk comes from propagation, not only total bridge load.
-
-### “先停桥，等修好再开”
-
-That rescue mode is what they have been doing; current temporary support itself can no longer keep the connected state stable.
-
-### “再多撑最后十分钟”
-
-Ten minutes is not free. Once the physical propagation threshold is crossed, the threatened object becomes larger than the bridge.
-
-So the male's task is not to choose a conservative percentage.
-
-It is:
-
-> **confirm whether the physical problem has already changed category.**
-
----
-
-# 08｜Choice / Dominant Turn
+# 09｜Choice / Dominant Turn
 
 Target direction: `1:30–2:05`.
 
-The last people / essential material that can still pass within the safe state leave.
+最后仍可在安全状态内通过的人/关键物资离开。
 
-The male confirms:
+男主确认：
 
-> **continuing support is no longer the same “save a little more” problem; the next stage transfers damage into larger shared structure.**
+> **继续 support 已不再是“再救一点桥”，而是在把损伤转移进更大的城市结构。**
 
-He reports the present physical fact / execute-abort condition.
+他提交 present physical execute/abort fact。
 
-The chief owns the public action:
+科长承担公共决定：
 
-> **stop continuing rescue of the trunk bridge.**
+> **stop continuing rescue of the Trunk Bridge。**
 
-She does not invoke a future strategic-shrink doctrine.
+此时全城仍相信“能保就保”。
 
-At this phase everyone still believes the city should preserve as much as possible.
-
-Reality has forced this one bridge out of the preservation set.
+不是战略收缩，只是现实把这一座桥推出 preservation set。
 
 ---
 
-# 09｜Payoff — the bridge is not destroyed, it is released
+# 10｜Payoff — release, not explosion
 
-Target direction: `2:05–2:25`.
+Action：
 
-Action:
+- last traffic exits；
+- service transfers away；
+- Gravity Handoff unloads；
+- temporary support releases；
+- bridge enters controlled separation / retirement。
 
-- last traffic exits;
-- service transfers away;
-- gravity transition unloads;
-- temporary support releases;
-- bridge enters controlled separation / closure.
+No explosion。
 
-No explosion.
+两边城区仍亮着、有人生活。
 
-Both sides remain lit and inhabited.
+失去主桥以后 local systems：
 
-After the bridge is gone, local systems immediately:
+- reroute；
+- reorganize services；
+- create temporary boundaries；
+- lengthen normal detours；
+- shrink daily life radius。
 
-- reroute;
-- reorganize services;
-- create temporary boundaries;
-- shrink daily life radius.
+重要空间后果：
 
-Everyone still interprets this as:
-
-> **forced loss now, possible reconnection someday.**
-
----
-
-# 10｜State Delta
-
-1. The unknown EP01 rescuer is revealed as the current/new female chief.
-2. The chief formally becomes the public authorization / responsibility counterpart to the male's present physical facts.
-3. The male receives a narrow, accountable present-state conflict / execute-abort factual interface, not broad public power.
-4. Private AI remains the male's established companion; EP01 local-core shutdown is confirmed to have been a temporary suit-power survival action, not permanent continuity death.
-5. Jialing trunk bridge genuinely exits, forming a new island boundary.
-6. A living/service topology including old 302 geography becomes more dependent on lower-capacity alternatives and local systems.
-7. EP03 medical urgency gains direct causality: normal main route is gone.
-8. The male experiences the other side of “present fact matters”: correct field truth can become the basis for someone else to authorize stopping a rescue.
+> **远处仍有可绕行的公共连接，但成本明显增加。主桥附近那条原本不起眼的小 Level-4 maintenance bridge 因此在 EP03 才第一次变成“时间上值得尝试”的路径。**
 
 ---
 
-# 11｜Episode Card — repaired after EP01 redesign
+# 11｜State Delta
+
+1. EP01 rescuer revealed as current/new female chief。
+2. chief becomes public authorization/responsibility counterpart to male present facts。
+3. male receives narrow present-state conflict / execute-abort factual interface。
+4. private AI EP01 shutdown confirmed temporary/local。
+5. **Level-1 Jialing Trunk Bridge exits。**
+6. City retains other routes, but major direct capacity disappears and detours lengthen。
+7. Nearby small maintenance alternatives become newly relevant without becoming equivalent in capacity。
+8. EP03 medical urgency gains direct causality。
+9. Male experiences the other side of “present fact matters”: correct field truth can justify stopping preservation。
+
+---
+
+# 12｜Episode Card
 
 ```yaml
 episode_id: EP02
 target_duration: "2m20s–2m40s"
-episode_function: "EP01最后抓住男主的未知女人在本集揭示为当前/新任科长。她不奖励英雄行为，而是把EP01已经证明的present-physical-state需要正式接入责任链：男主提供窄execute/abort事实，科长承担公共决定。该分工立即用于一条长期抢救的嘉陵江主桥；男主确认继续安全维持的物理窗口已经结束，科长承担停止继续抢救的决定。"
-opening_hook: "EP01太空救援后的incident log与救援者身份揭示；男主刚明白抓住自己的人是新科长，嘉陵江主桥工单立即升级。"
-dominant_turn: "男主确认主桥抢救窗口结束，科长正式下令停止继续抢救，主桥受控退出。"
+episode_function: "EP01最后抓住男主的未知女人揭示为当前/新任科长。她把EP01证明的present-physical-state正式接入责任链：男主提供窄execute/abort事实，科长承担公共决定。该分工立即用于一条长期抢救的Level-1嘉陵江主干桥；男主确认继续安全维持的物理窗口结束，科长下令停止抢救，主桥受控退出。"
+opening_hook: "EP01救援后的incident log与救援者身份揭示；随后嘉陵江主干桥工单升级。"
+dominant_turn: "男主确认主桥抢救窗口结束，科长正式下令停止继续抢救，Level-1主桥受控退出。"
 core_conflict: "桥每多撑一分钟仍能保护真实生活，但继续维持已经开始威胁更大的共享结构。"
-conflict_grammar: "two valid preservation goals compress into one forced-loss threshold。"
+conflict_grammar: "two valid preservation goals compress into one forced-loss threshold"
 progression:
-  reveal_or_knowledge: "EP01的present-state规则进入公共责任：事实能告诉你当前还能不能执行，但不能替代谁承担公共决定。"
-  pressure_or_public_action: "第一条城市级主干连接被迫永久退出当前运行。"
-  relationship_or_capability: "male=present fact / chief=public decision 的分工正式建立；private AI继续承担广域模型/历史信息。"
-callback_or_debt: "EP01 physical hand paid as identity reveal；main bridge loss -> EP03 low-capacity lifeline；EP05/08 island consequences。"
-cost_after_solution: "保住更大结构，但新增孤岛，医疗/生活/服务绕行成为真实后果。"
-payoff_or_progress: "EP01关系悬念落地；EP02 forced loss真实改变城市拓扑。"
-ending_cliffhanger_or_image: "桥两侧仍然亮着，却第一次真正不能正常过去。"
+  reveal_or_knowledge: "EP01 present-state rule enters public responsibility"
+  pressure_or_public_action: "first city-scale trunk connection is forced out"
+  relationship_or_capability: "male=present fact / chief=public decision / AI=wide model-history"
+callback_or_debt: "EP01 hand paid as identity reveal; Trunk Bridge loss -> EP03 small maintenance lifeline"
+cost_after_solution: "larger structure preserved, but major direct capacity is lost and normal detours lengthen"
+payoff_or_progress: "relationship handoff lands; city topology genuinely changes"
+ending_cliffhanger_or_image: "bridge sides remain lit, but the large direct route is gone; a tiny maintenance connection nearby is still physically present"
 mechanism_status: "LOCKED_DIRECTION / exact bridge engineering VALIDATE_LATER"
 dialogue_status: TBD
 state_delta:
-  - "EP01 rescuer revealed as current/new chief"
-  - "chief formally owns public authorization chain around male field facts"
-  - "male narrow field present-state authority established"
-  - "private AI EP01 shutdown confirmed temporary/local"
-  - "Jialing trunk bridge lost"
-  - "new island boundary created"
-continuation_capsule: "正常主桥已失去。下一集不是再讨论该不该断桥，而是一个不能等的医疗需求必须跨过已经断裂的城市；角色只能寻找低容量维护生命线。"
+  - "chief identity revealed"
+  - "male/chief responsibility split formalized"
+  - "Level-1 Trunk Bridge lost"
+  - "small maintenance alternatives remain physically distinct"
+continuation_capsule: "EP03 begins when a medical need cannot tolerate the long public detour. A nearby small Level-4 maintenance bridge, never designed as public transit, becomes the only timely candidate."
 ```
 
 ---
 
-# 12｜Hard prohibitions
+# 13｜Hard prohibitions
 
-- no stale-occupancy / HOLD-CUTOVER EP01 review language;
-- no claim that chief was an early visible manager/authorizer inside EP01;
-- no separate “new chief office episode” that steals the forced-loss turn;
-- no promotion fantasy / male gets broad authority;
-- no male making the public stop decision;
-- no healthy bridge voluntarily sacrificed in EP02;
-- no new meteor event;
-- no gravity as sole cause;
-- no explosion as emotional shortcut;
-- no characters already believing the city should strategically shrink.
+- no stale occupancy / HOLD CUTOVER EP01 review language；
+- no claim chief was visibly managing EP01 before final rescue；
+- no separate office episode stealing forced-loss turn；
+- no male broad public authority；
+- no male making public stop decision；
+- no healthy bridge voluntary strategic sacrifice in EP02；
+- no new meteor event；
+- no gravity as sole cause；
+- no explosion；
+- no claim all other cross-city routes vanished；
+- no visual equivalence between Level-1 Trunk Bridge and later small Familiar Lifeline；
+- no characters already believing city should strategically shrink.

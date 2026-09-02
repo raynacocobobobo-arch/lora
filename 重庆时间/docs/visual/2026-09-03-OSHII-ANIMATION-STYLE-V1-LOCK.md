@@ -5,46 +5,72 @@
 - Official Chinese name: **《重庆时间》押井守动画风格 V1**
 - Internal English name: **CHONGQING TIME — OSHII ANIMATION STYLE V1**
 - Short name: **押井守风格 V1 / OSHII STYLE V1**
-- Previous internal name: `Animation Style V1` — now treated as a legacy alias for this same production style.
+- Previous internal name: `Animation Style V1` — legacy alias for the same production style.
 - Canon status: **NON-CANON VISUAL EXECUTION LAYER** — this document controls how scenes are drawn, never what story/spatial facts are true.
+- 2026-09-03 calibration: **white/off-white dominance + strong directional structural lighting + explicit anti-flat-light rule**.
 
 ---
 
-# 01｜Core definition
+# 01｜Corrected core definition
 
-Short definition:
+The active definition is:
 
-> **严肃电影赛璐璐 + 漫画式工业结构线稿 + 大面积黑色负空间 + 旧白公共基础设施 + 少量锈红维修/识别系统 + 中国公共系统标语 + 低微细节 Seedance 稳定设计。**
+> **严肃动画电影背景 + 明确结构光影 + 旧白/灰白公共工业结构主体 + 2–3 档硬边赛璐璐 + 漫画式建筑结构线稿 + 少量锈红维修/公共系统色 + 可见长期维修历史 + 低微细节 Seedance 稳定设计。**
 
 The project rule is:
 
 > **剧本 / Spatial Canon 决定“画什么”；押井守动画风格 V1 决定“怎么画”。**
 
-The style is intentionally restrained, quiet, procedural and lived-in. Public systems, architecture, maintenance and long-term operation should feel more important than spectacle.
+Important correction:
+
+> **This style is NOT a flat black-and-white manga poster style. It is a cinematic anime environment style with strong readable light-shadow structure.**
 
 ---
 
-# 02｜Primary style master image
+# 02｜Primary style master + lighting calibration anchor
+
+## Primary project-wide style master
 
 Persistent image:
 
 > `/重庆时间/visual/style-masters/SECOND_NEW_CHONGQING_OSHII_ANIMATION_STYLE_MASTER_V1.png`
 
-Image role:
+Role:
 
 > **APPROVED SPACE-STATION VISUAL MASTER + APPROVED PROJECT-WIDE OSHII ANIMATION STYLE MASTER**
 
-Fingerprint remains unchanged from the previously approved Animation Style master:
+Fingerprint:
 
 - dimensions: `1918 × 820`
 - SHA-256: `35f4f27601817f95a7bc7f1c5854aa8aaa0eba5afa613600f1d842edae15f80a`
 
-The master locks two separate things:
+## Lighting / color calibration anchor
 
-1. Second New Chongqing exterior macro appearance;
-2. project-wide animation rendering grammar.
+Persistent image:
 
-Future non-exterior scenes inherit the rendering grammar, not the station's literal ring geometry.
+> `/重庆时间/visual/style-masters/OSHII_STYLE_V1_LIGHTING_CALIBRATION_HALL_V1.png`
+
+Role:
+
+> **APPROVED LIGHTING / WHITE-MATERIAL / INTERIOR CONTRAST CALIBRATION ANCHOR**
+
+Fingerprint:
+
+- dimensions: `1915 × 821`
+- SHA-256: `a991c49eecf481dd2785e7c38587499ea71ff059fed06141b4760a34ff005c31`
+
+This calibration image specifically locks:
+
+- off-white / warm off-white as the dominant visible structural material;
+- bright readable illuminated planes;
+- strong directional light;
+- hard-edged architectural cast shadows;
+- clear separation of light / midtone / deep shadow;
+- restrained rust-red accents;
+- dark audience / deep-shadow zones used as contrast, not as the dominant whole-frame material;
+- 2.35:1 production-source composition for this environment family.
+
+The station master supplies the project-wide material/graphic DNA; the hall calibration anchor corrects the light/color interpretation for interiors and other lit public spaces.
 
 ---
 
@@ -54,7 +80,7 @@ Future non-exterior scenes inherit the rendering grammar, not the station's lite
 
 Use stronger, stable, continuous outlines for:
 
-- main architecture silhouette;
+- main architectural silhouette;
 - bridge body;
 - district mass;
 - station hull;
@@ -89,59 +115,134 @@ Rule:
 
 ---
 
-# 04｜Value / cel-shading system
+# 04｜Lighting system — HARD LOCK
 
-Default value structure:
+This is now a primary style rule, not an optional scene effect.
 
-1. light — aged off-white / pale gray public structural surfaces;
-2. midtone — cold gray secondary planes;
-3. dark — charcoal / near-black deep structure, shadow and negative space.
+For scenes with an available directional source, use:
 
-Use primarily **2–3 hard-edged cel-shadow tiers**.
+- **strong directional lighting**;
+- **large readable illuminated planes**;
+- **large hard-edged cast-shadow shapes**;
+- architecture-defined shadow geometry;
+- clear light / midtone / deep-shadow hierarchy;
+- shadows that carve the structure and reveal depth;
+- restrained atmospheric softness only where needed.
 
-Avoid many soft gradient steps, dense AO noise, glossy highlights, photoreal reflections and lens-flare depth tricks.
+The image must NOT default to:
 
-Depth should come from overlap, perspective, silhouette separation and large black shapes.
+- flat lighting;
+- evenly distributed exposure;
+- weak diffuse fill over the entire frame;
+- crushed black poster composition;
+- low-contrast gray wash.
+
+Key rule:
+
+> **The light must explain the architecture.**
+
+For interiors near a large window, hatch, skylight or observation opening, directional exterior light should create obvious bright wall/floor planes and hard structural shadows.
+
+For exterior deep-space scenes, retain strong cel-shaded form separation even when there is no conventional interior sunlight beam.
 
 ---
 
-# 05｜Color system
+# 05｜Value / cel-shading system
 
-Dominant:
+Default value structure:
+
+1. **light** — aged off-white / warm off-white / pale gray structural surfaces;
+2. **midtone** — cold gray secondary planes;
+3. **dark** — charcoal / near-black deep structure, cast shadow and exposed interior.
+
+Use primarily **2–3 hard-edged cel-shadow tiers**.
+
+Critical priority:
+
+> **Off-white should usually be the dominant visible structural surface color. Black is for deep shadow, void, exposed structure and selected negative space — not the default material covering most architecture.**
+
+Avoid:
+
+- many soft gradient steps;
+- dense AO noise;
+- glossy highlights;
+- photoreal reflections;
+- flattening all surfaces into the same midtone.
+
+Depth should come from:
+
+- overlap;
+- perspective;
+- silhouette separation;
+- strong directional cast shadows;
+- large light-vs-dark planes;
+- simple cel-shaded value hierarchy.
+
+---
+
+# 06｜Color system
+
+## Dominant visible material colors
 
 - aged off-white;
+- warm off-white;
 - dirty ivory;
-- cold gray;
-- charcoal / black.
+- pale concrete gray;
+- light cold gray.
 
-Primary accent:
+## Shadow / deep structure
+
+- cold gray;
+- charcoal;
+- near-black.
+
+## Primary accent
 
 > **muted rust red / oxide red**
 
-Use selectively for:
+Use rust red selectively for:
 
 - repair plates;
 - old reinforcement;
 - red-white industrial identification bands;
 - civic / municipal lettering;
 - older module markings;
-- selected warning / maintenance areas.
+- selected warning / maintenance areas;
+- ceremonial/public-system accents when context supports them.
 
 The red should feel inherited from a long-used civic-industrial system, not like a polished red-white spacecraft livery.
 
 ---
 
-# 06｜Material language
+# 07｜Material language
 
-Materials are graphic, not PBR-first.
+Materials are graphic and animation-readable, not PBR-first.
 
-Metal should read through flat structural planes, seams, restrained scratches, replacement panels, paint aging and repair boundaries.
+Metal / public infrastructure should read through:
 
-Do not rely on mirror reflection, metallic glitter, micro-roughness texture or dense photo noise.
+- large painted structural planes;
+- seams and edges;
+- restrained scratches;
+- replacement panels;
+- paint aging;
+- repair boundaries;
+- hard light-shadow divisions.
+
+Do not rely on:
+
+- mirror reflection;
+- metallic glitter;
+- micro-roughness noise;
+- dense photo texture;
+- soft realistic shading everywhere.
+
+Rule:
+
+> **Materials should read through large painted surfaces and shadow blocks, not tiny texture noise.**
 
 ---
 
-# 07｜Damage + maintenance DNA
+# 08｜Damage + maintenance DNA
 
 A central visual identity is:
 
@@ -158,11 +259,11 @@ Old infrastructure may show:
 - later maintenance frames;
 - different generations of repair hardware.
 
-Damage must remain graphically readable at animation scale. Avoid thousands of tiny fragments.
+Damage must remain readable at animation scale. Avoid thousands of tiny fragments.
 
 ---
 
-# 08｜Text / slogan behavior
+# 09｜Text / slogan behavior
 
 Text belongs to the world, not to a floating poster layer by default.
 
@@ -187,28 +288,39 @@ Rules:
 
 ---
 
-# 09｜Seedance-first design rule
+# 10｜Seedance-first design rule
 
-Production environment sources should be designed for temporal stability from the start.
+Production environment source images should be designed for temporal stability from the start.
+
+For major environment masters, default to **2.35:1** when no other aspect ratio is explicitly locked.
 
 Prioritize:
 
 1. stable large geometry;
 2. readable silhouette;
-3. clear structural hierarchy;
-4. coherent large color blocks;
+3. strong stable light-shadow structure;
+4. coherent large off-white / gray / dark color blocks;
 5. fixed damage / repair landmarks;
 6. low high-frequency noise.
 
-Suppress tiny lights, fragile wires, dense panel seams, random micro-machinery and repeated reflective points.
+Suppress:
 
-If a frame becomes visually impressive but difficult to animate, simplify it.
+- tiny lights;
+- fragile wires;
+- dense panel seams;
+- random micro-machinery;
+- repeated reflective points;
+- high-frequency material noise.
+
+Seedance optimization means **simplify detail without flattening the lighting**.
+
+If a frame becomes visually impressive but difficult to animate, simplify micro-detail first; do not remove the major lighting hierarchy.
 
 ---
 
-# 10｜Mood / Oshii direction
+# 11｜Mood / Oshii direction
 
-The Oshii label in this project means a **project-specific production language**, not an instruction to copy any single existing film frame.
+The Oshii label in this project means a project-specific production language, not an instruction to copy any single existing film frame.
 
 Narrative mood targets:
 
@@ -219,20 +331,27 @@ Narrative mood targets:
 - public-system-first;
 - monumental but not heroic;
 - everyday operation continuing inside large infrastructure;
-- tension produced by normal systems, maintenance and institutional order rather than visual spectacle.
+- tension produced by normal systems, maintenance and institutional order rather than spectacle.
+
+Lighting may be visually strong while the dramatic tone remains restrained.
 
 ---
 
-# 11｜Style shorthand
+# 12｜Style shorthand
 
-> **《重庆时间》押井守风格 V1: serious graphic cel-animation; manga-inspired architectural linework; black/off-white/cold-gray large masses; large black negative space; 2–3 hard cel-shadow tiers; sparse muted rust-red civic/repair accents; old maintained public infrastructure; visible repair history; low micro-detail; Seedance-stable geometry.**
+> **《重庆时间》押井守风格 V1: mature cinematic cel-animation environment; dominant aged off-white structural planes; strong directional architectural lighting; large hard-edged light/shadow blocks; manga-inspired structural linework; 2–3 cel-shadow tiers; cold gray/charcoal deep structure; sparse muted rust-red civic/repair accents; visible repair history; low micro-detail; 2.35:1 Seedance-friendly masters.**
 
 ---
 
-# 12｜Hard exclusions
+# 13｜Hard exclusions
 
 Do not default to:
 
+- flat lighting;
+- evenly lit scenes;
+- weak structural shadows;
+- black-dominant poster-only composition;
+- monochrome crushed shadows;
 - photorealism;
 - PBR concept-art finish;
 - glossy sci-fi metal;
@@ -247,15 +366,15 @@ Do not default to:
 
 ---
 
-# 13｜Naming migration
+# 14｜Naming migration
 
-The user explicitly requested that the current approved `Animation Style V1` become the formal Oshii-named production lane.
+The user explicitly requested that the approved production language be formally named:
+
+> **《重庆时间》押井守动画风格 V1 / OSHII ANIMATION STYLE V1**
 
 Therefore:
 
 - `Animation Style V1` = legacy alias;
 - `Dungeon Style` = visual-development provenance;
-- the active default name is now **《重庆时间》押井守动画风格 V1 / OSHII ANIMATION STYLE V1**;
-- there is no longer a separate parallel “old Oshii lane” competing with the current Animation Style master.
-
-Any older document that says `Animation Style V1 + Oshii are separate lanes` is superseded by the active style router after this decision.
+- the active default name is **《重庆时间》押井守动画风格 V1 / OSHII ANIMATION STYLE V1**;
+- there is no separate parallel old Oshii lane competing with this current production style.

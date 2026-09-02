@@ -62,12 +62,15 @@ Old V1 spatial patch/map files are retired and are not active reading targets.
 - **Scene generation workflow:** `SCENE-PROMPT-TEMPLATE-V2.md`
 - **Visual anchor status:** `VISUAL-ANCHOR-INDEX-V2.md`
 - **Current teaser:** `TRAILER-TEASER-V3.md`
+- **Ring-city exterior / engineering execution spec:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
 
 Execution rule:
 
 > **Canon decides facts / action / time / location / spatial topology. Execution docs decide how those facts are visualized.**
 
 For any environment / KV / storyboard / scene-generation task, read Spatial V2 before the visual execution docs.
+
+For `RING-ORIENT-01 / CITY-03` exterior development specifically, read the ring-city exterior execution spec after Canon and before prompting/generation.
 
 ---
 
@@ -132,6 +135,14 @@ Future visual-environment development priority:
 8. EP06/07 shared infrastructure family;
 9. EP01 outer attached maintenance segment / detachment geometry.
 
+Current ring-city orientation text direction is now recorded in:
+
+> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
+
+Important status:
+
+> **text / engineering direction locked; latest generated exterior draft is provenance only and is not yet an approved visual anchor.**
+
 ---
 
 # 07｜Consistency / verification docs
@@ -160,6 +171,10 @@ Historical files may intentionally contain earlier Beijing / winter / snow / mul
 
 > **Historical detail does not become active merely because it is more detailed.**
 
+Current exterior-structure decision provenance:
+
+> `decision-logs/2026-09-02-2016-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE.md`
+
 ---
 
 # 09｜Docs / plans
@@ -176,6 +191,10 @@ EP01 causal design spec remains active within its scope:
 
 > `docs/superpowers/specs/2026-09-02-ep01-task-record-gravity-redesign.md`
 
+Exterior visual / engineering execution spec:
+
+> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
+
 ---
 
 # 10｜Current workflow gate
@@ -187,5 +206,9 @@ Story development next target:
 Visual development:
 
 > **new large environment/KV geometry must use Spatial V2 orientation assets first; old visual anchors are style/render evidence unless their geometry is explicitly still compatible.**
+
+Current exterior work:
+
+> **RING-ORIENT-01 / CITY-03 next redraw should use the locked exterior execution spec; do not promote the generated draft until explicit user visual approval.**
 
 No promotion to `main` until the user explicitly requests PR/merge and the intended story-causal promotion scope is reviewed.

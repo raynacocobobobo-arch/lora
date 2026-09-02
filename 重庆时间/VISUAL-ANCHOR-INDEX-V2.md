@@ -1,8 +1,8 @@
 # 《重庆时间》VISUAL ANCHOR INDEX V2
 
 - Updated: 2026-09-02
-- Status: `ACTIVE VISUAL ANCHOR / DIRECTION INDEX / SPATIAL V2 RECONCILED`
-- Canon basis: `CURRENT.md`, `SPATIAL-ENVIRONMENT-CANON-V2.md`, Master / World / Episode snapshots
+- Status: `ACTIVE VISUAL ANCHOR / DIRECTION INDEX / SPATIAL V2.1 ASTEROID CORE RECONCILED`
+- Canon basis: `CURRENT.md`, `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md`, `SPATIAL-ENVIRONMENT-CANON-V2.md`, Master / World / Episode snapshots
 - Rule: later Canon supersedes accidental spatial/content details in older images; approved render/material/drawing DNA may remain active.
 
 ---
@@ -12,7 +12,7 @@
 When generating a new large-setting KV, prioritize:
 
 1. current user instruction;
-2. `SPATIAL-ENVIRONMENT-CANON-V2.md` + current story/episode facts;
+2. `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md` + `SPATIAL-ENVIRONMENT-CANON-V2.md` + current story/episode facts;
 3. `VISUAL-CONSISTENCY-BIBLE-V2.md` / `SCENE-PROMPT-TEMPLATE-V2.md`;
 4. scene-specific approved anchor content **only where geometry remains compatible**;
 5. cross-scene approved art/render/material DNA;
@@ -23,7 +23,7 @@ Do not solve a Canon conflict by copying an old image.
 Two separate statuses must always be distinguished:
 
 - **STYLE / RENDER VALID** — linework, cel shading, material simplification, scale language can still be used;
-- **GEOMETRY VALID / SUPERSEDED** — whether that image's actual city layout remains compatible with Spatial V2.
+- **GEOMETRY VALID / SUPERSEDED** — whether that image's actual city layout remains compatible with Spatial V2.1 + V2.
 
 ---
 
@@ -71,7 +71,7 @@ Status:
 >
 > **STYLE / DISTRICT-SCALE CONTENT: VALID**
 >
-> **MACRO GEOGRAPHY: MUST FOLLOW SPATIAL V2**
+> **MACRO GEOGRAPHY: MUST FOLLOW SPATIAL V2.1 + V2**
 
 Locked useful direction:
 
@@ -83,7 +83,7 @@ Locked useful direction:
 - municipal, not luxury sci-fi;
 - 2.35:1 large-setting composition.
 
-Spatial V2 interpretation:
+Spatial interpretation:
 
 > Station is a subscene inside a District Module / connected public transit system. It does not prove an endless multi-layer city or continuous ground-plane metropolis.
 
@@ -97,7 +97,7 @@ Status:
 >
 > **INTERIOR / CEREMONY DNA: VALID**
 >
-> **EXTERIOR VIEW GEOMETRY: REINTERPRET THROUGH SPATIAL V2**
+> **EXTERIOR VIEW GEOMETRY: REINTERPRET THROUGH SPATIAL V2.1 + V2**
 
 Locked useful direction:
 
@@ -109,7 +109,7 @@ Locked useful direction:
 
 If an exterior/distant view appears:
 
-- use ring-city / Jialing district relationship when relevant;
+- use asteroid-centered ring-city / Jialing district relationship when relevant;
 - distant Earth only subordinate and only if composition truly needs it;
 - do not require an infinite structural canyon or giant open-space panorama.
 
@@ -164,7 +164,7 @@ Useful locked lessons:
 - finite engineered space;
 - large shapes first.
 
-Spatial V2 split:
+Spatial split:
 
 ### For EP02
 
@@ -200,13 +200,13 @@ Locked useful direction:
 - old white municipal equipment may appear when functionally needed;
 - difference reads from public activity + light, not explanatory text.
 
-Spatial V2 use:
+Spatial use:
 
-> Apply the lighting/behavior grammar inside ordinary district interfaces or Jialing shared infrastructure. Do not infer infinite enclosure, dramatically rotated districts or a giant central canyon from this anchor.
+> Apply the lighting/behavior grammar inside ordinary district interfaces or Jialing shared infrastructure. Do not infer infinite enclosure, dramatically rotated districts or a hollow central torus from this anchor.
 
 ---
 
-# 08｜EP08 content direction — updated Spatial V2 lock
+# 08｜EP08 content direction — updated Spatial lock
 
 Status:
 
@@ -233,43 +233,58 @@ Any previous “suspended giant public bridge” reading is no longer active if 
 
 ---
 
-# 09｜New Spatial V2 anchor families to develop
+# 09｜New Spatial V2.1 anchor families to develop
 
 These are Canon-defined but not yet promoted image anchors.
 
 ## RING-ORIENT-01
 
-> Overall exterior/orientation: one finite irregular ring-shipyard city, permanent ring backbone, large district modules, small attached service structures, clearly different bridge scales.
+> **Overall exterior/orientation: one finite irregular asteroid-centered ring-shipyard city, with a visibly engineered central asteroid core, permanent ring backbone, radial structural/service relationships, large district modules and small attached service structures.**
 
 Current textual execution status:
 
-> **TEXT / ENGINEERING DIRECTION LOCKED — IMAGE NOT YET APPROVED**
+> **ASTEROID-CORE TEXT / ENGINEERING DIRECTION LOCKED — IMAGE NOT YET APPROVED**
 
-Execution spec:
+Canon patch:
 
-> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
+> `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md`
+
+Current exterior execution spec:
+
+> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
+
+The older V1 exterior spec is superseded for central geometry.
 
 Hard visual/engineering locks for the next redraw:
 
+- city center is **not hollow**;
+- a real captured/stabilized/engineered asteroid is the central mass;
+- asteroid is integrated through structural collar / reinforcement / anchor zones and a limited set of readable radial structural/service links;
+- central asteroid is **not** T0 impactor;
+- central asteroid natural gravity does not provide normal city 1G;
 - main-ring centerline radius visual direction ≈ `1 km`, not 22 km;
 - ring topology does **not** generate artificial gravity;
 - permanent ring reads as segmented backbone / shipyard skeleton, not one monolithic solid donut shell;
 - district modules vary by age, size and repair generation;
-- central shipyard / structural void remains primarily open, with no giant floating central city;
-- Jialing is not the torus hole and is not represented as a central city disk;
-- external structure must show historical T0 meteor-impact damage plus emergency sealing, later reinforcement and long-term maintenance scars;
+- bounded work/transport clearances may remain around the asteroid, but the center must not read as a giant empty torus hole;
+- Jialing is not the torus hole and is not the asteroid itself;
+- external structure must show historical T0 meteor-impact damage plus emergency sealing, later reinforcement and long-term maintenance scars elsewhere on the city;
 - materials/structure must read as physically serviceable layered construction rather than decorative hard-surface armor;
 - rendering inherits the approved simplified cel-animation language, especially KV05's `large shapes first; micro-detail second` rule.
 
-Generated draft `20c61a92-d3d0-4d86-b9eb-e9e3ce9a76e4` remains provenance only and is **not** an approved visual anchor.
+Generated draft `20c61a92-d3d0-4d86-b9eb-e9e3ce9a76e4` remains provenance only and is **not** an approved visual anchor because it predates the asteroid-core macro correction.
 
 ## RING-TOPO-01
 
-> Unrolled topology / design-board image explaining ordinary districts, Jialing corridor, Trunk Bridge geography, small Familiar Lifeline and 302 outer position.
+> Unrolled / explanatory topology image showing ordinary districts, Jialing corridor, Trunk Bridge geography, small Familiar Lifeline, 302 outer position, and the central asteroid-core ↔ ring relationship.
+
+## ASTEROID-CORE-01
+
+> Dedicated core orientation asset: exposed natural asteroid mass + engineered stabilization lattice/collar + radial structural/service connections + bounded dock/maintenance clearances; no magical gravity or giant underground city.
 
 ## JIALING-V2-01
 
-> Early/connected Jialing: finite ring-interior open urban corridor, district masses on both sides, one large public bridge plus visibly smaller service/maintenance links, ordinary municipal activity.
+> Early/connected Jialing: finite ring-interior open urban corridor, district masses on both sides, one large public bridge plus visibly smaller service/maintenance links, ordinary municipal activity; selected wide views may frame the asteroid core in the distance without making it the Jialing geography.
 
 ## JIALING-DEG-V2-01
 
@@ -308,8 +323,13 @@ Anchor promotion requires actual generated image + user approval.
 - approved image ≠ every accidental sign is Canon;
 - approved style ≠ approved geography forever;
 - render/material DNA can survive a spatial Canon change;
-- old geometry cannot override Spatial V2;
+- old geometry cannot override Spatial V2.1 + V2;
 - local-time contrast does not require split-screen symmetry;
+- Second New Chongqing is **not hollow-centered**;
+- central asteroid core ≠ T0 impactor;
+- central asteroid core ≠ Jialing;
+- central asteroid core ≠ city gravity generator;
+- ring topology ≠ centrifugal gravity mechanism;
 - Jialing is never torus central hole / infinite canyon;
 - ordinary districts do not default to dramatic rotational orientation;
 - EP02 Trunk Bridge and Familiar Lifeline must read as different physical scales;
@@ -319,13 +339,13 @@ Anchor promotion requires actual generated image + user approval.
 - gravity does not need extreme inversion in every shot;
 - people/vehicles/robots are scale + public behavior, not clutter;
 - if image reads as 3D hard-SF rather than drawn cel background, simplify before adding detail;
-- ring-city exterior must never reintroduce `22 km`, centrifugal gravity, or a giant central floating city.
+- ring-city exterior must never reintroduce `22 km`, centrifugal gravity, hollow torus center, or a giant floating central city replacing the asteroid core.
 
 ---
 
 # 11｜Geometry supersession rule for old approved images
 
-Whenever an older approved image conflicts with Spatial V2, record/use it as:
+Whenever an older approved image conflicts with Spatial V2.1 + V2, record/use it as:
 
 ```yaml
 art_style: VALID
@@ -335,6 +355,7 @@ lighting_language: VALID_IF_RELEVANT
 exact_location_geometry: SUPERSEDED
 bridge_scale: RECHECK
 spatial_orientation: RECHECK
+central_core_geometry: RECHECK
 ```
 
 This allows the project to preserve what the user liked without keeping obsolete geography alive.

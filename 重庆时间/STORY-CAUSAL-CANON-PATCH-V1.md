@@ -1,50 +1,53 @@
 # 《重庆时间》STORY CAUSAL CANON PATCH V1
 
 - Updated: 2026-09-02
-- Status: `NEEDS_REVIEW / BRANCH-SCOPED PRECEDENCE PATCH`
+- Status: `NEEDS_REVIEW / BRANCH-SCOPED PRECEDENCE PATCH / SPATIAL V2 RECONCILED`
 - Branch: `chongqing-time-story-causal-repair`
-- Purpose: 在不重写 V4 Master 世界架构的情况下，明确本轮剧情因果修复对旧 episode summary / character summary 的 scoped supersession。
+- Spatial basis: `SPATIAL-ENVIRONMENT-CANON-V2.md`
+- Purpose: 明确本轮剧情因果修复对旧 episode / Master 摘要的 scoped supersession，并确保剧情机制不再携带已淘汰空间设定。
 
 ## Precedence on this branch
 
-For the scopes listed below:
+For the scopes below:
 
-> **latest explicit user correction → this patch → repaired episode snapshot → Master/Character summaries → legacy provenance**
+> **latest explicit user correction → this patch → Spatial V2 for geometry → repaired episode snapshot → reconciled Master/World → legacy provenance**
 
-Outside these scopes, existing V4 precedence remains unchanged.
+Outside these scopes, active V4 precedence remains unchanged.
 
 ---
 
 ## PATCH-01｜EP01 premise — task record / trusted time split / gravity choice
 
-The following EP01 engines are now `SUPERSEDED / NOT CANON ON THIS BRANCH`:
+The following engines are `SUPERSEDED / NOT CANON`:
 
 1. `system says nobody -> male finds hidden/current survivor`;
 2. `stale occupancy record -> physical clearance -> public current model also stale -> HOLD CUTOVER`.
 
 Active EP01 engine:
 
-> **男主与私人 AI 执行一张普通 302 Gravity Reference Reset 工单。开场任务纪录在当前行动中建立第二新重庆、T0 灾后维护、LOCAL OPERATION、Local Public Time、Local Gravity Frame、协议握手和安全重置窗口。多数维修步骤正常；最后 trusted public/local handshake 失败。男主进入旧 relay 建立当前物理桥接，partial handshake 首次提供可信 302 local time 与本地 safety channel，显示 `302 LOCAL = CHONGQING PUBLIC + 08:00`，因此他们发现安全重置窗口已过、已知 gravity re-lock / instability cycle 已经开始。**
+> **男主与私人 AI 执行普通 302 Gravity Reference Reset 工单。多数步骤正常，最后 trusted public/local handshake 失败。男主进入同一302城区内的旧 relay / Gravity Service area 建立当前物理桥接，partial handshake 首次提供可信 302 local time 与 safety channel，显示 `302 LOCAL = CHONGQING PUBLIC +08:00`。因此他们发现 safe reset window 已过，已知 gravity re-lock / vector-instability cycle 已经开始。**
 
-Time and gravity remain independent axes:
+Time and gravity are independent：
 
 > **time mismatch does not cause gravity failure; it causes the crew to misjudge where the known gravity cycle already is.**
 
-EP01 dominant turn:
+Dominant turn：
 
-> **撤离中 full handshake 完成，private AI 获得 Gravity Control，但当前男主 / debris / structural loads 已在异常向量下重新分布。立即 restore nominal gravity 会让男主几乎必死，因此 AI 拒绝立即恢复，把任务目标改成：先抵达安全重置点、固定男主，再恢复重力完成原任务。**
+> **撤离中 full handshake 完成，private AI 获得 Gravity Control，但当前男主/debris/loads 已被异常向量重新分布。立即 restore nominal gravity 会让男主几乎必死，因此 AI 拒绝立即恢复，把目标改成：先抵达外缘安全重置位置固定，再恢复完成原任务。**
 
-Plan B is a complete task-ending plan, not a decision to keep gravity abnormal forever.
+Plan B is a complete task-ending plan.
 
-Payoff / cost:
+Payoff / cost：
 
-> **男主真实抵达并被安全重置点的 recovery system 固定，回收开始工作，AI 准备 RESTORE；随后一处此前不可完整观测的 T0 深层结构裂伤在持续异常载荷下贯穿，使安全点的支撑结构本身脱离。方案已经开始成功，现实物理事实随后改变。AI 重新评估后，最优解仍是不恢复重力。**
+> **男主真实抵达并被302外缘小型附属维护/接口段上的 recovery system 固定，回收开始工作，AI准备RESTORE；随后此前不可完整观测的 T0 interface/structural scar 在持续异常载荷下贯穿，使这段小型附属结构失去有效结构连接并意外断接。方案已经开始成功，现实物理事实随后改变。302本体没有脱离。AI重新评估后最优解仍是不恢复重力。**
 
-End progression:
+This is not deliberate ejection.
 
-> **男主越过 Local Gravity Frame 后靠惯性漂离；AI 只用 EVA 能力止旋 / 减速，均成功但不足以返航。能源危机中她先关闭 high-compute nodes，最后为最大化 life support + minimum rescue beacon 而主动关闭 local core。最后一只未知人类 EVA 手抓住男主；身份留到 EP02。**
+End progression：
 
-Approved final dialogue direction:
+> **男主与小型脱离结构越过 Local Gravity Frame 后靠惯性漂离；AI用EVA能力止旋/减速，均成功但不足以返航。她先关闭high-compute nodes，最后为最大化life support + minimum rescue beacon主动关闭local core。未知人类EVA手抓住男主；身份留到EP02。**
+
+Approved final dialogue direction：
 
 > **“我很抱歉。”**
 >
@@ -52,7 +55,7 @@ Approved final dialogue direction:
 
 No dialogue after AI shutdown / final hand.
 
-EP01 lesson cluster becomes:
+EP01 lesson cluster：
 
 > **系统都在工作 ≠ shared reality intact。**
 >
@@ -64,112 +67,150 @@ EP01 lesson cluster becomes:
 
 ---
 
-## PATCH-02｜302 season continuity after the EP01 redesign
+## PATCH-02｜302 season continuity
 
-302 does not depend on an occupancy-record remap story anymore.
+302 no longer depends on occupancy-remap story.
 
-Correct active chain:
+Correct chain：
 
-> **T0 creates structural + local-time + gravity + protocol legacy damage / compatibility in 302**
-> → **EP01 routine reset exposes trusted `+08:00` public/local split and an extreme gravity/reference incident**
-> → **302 remains a real old district/service node under continued repair**
-> → **by EP04 some old nodes / routes can return to limited civic use**
-> → **by EP09 302 is real / occupied / safe / maintainable, but permanent preservation requires a non-generalizable time/gravity/bridge/service/protocol compatibility stack**
-> → **EP10 residents migrate first, then the final old compatibility stack exits.**
+> **T0 creates structural/interface + local-time + gravity + protocol legacy scars in 302**
+> → **EP01 exposes trusted +08 split, Extreme gravity incident and one small outer attached-segment detachment; 302 remains**
+> → **continued repair / Local Operation**
+> → **EP04 limited civic/public reuse**
+> → **EP09 302 is real / occupied / safe / maintainable; permanent preservation requires non-generalizable time/gravity/bridge/service/protocol stack**
+> → **migration begins after EP09**
+> → **EP10 people/services clear before final old compatibility stack exits.**
 
-The old mirror:
+New EP01→EP09 relation：
 
-> stale history cannot substitute for current fact → current fact cannot substitute for future obligation
-
-is superseded because stale occupancy history is no longer EP01's engine.
-
-New useful EP01→EP09 relation:
-
-> **EP01: a normal procedure / reasonable model must yield when the actual present physical state no longer supports it.**
+> **EP01: normal procedure / reasonable model must yield when actual present physical state no longer supports it.**
 >
-> **EP09: current truth and current operability must be fully acknowledged, but they still do not automatically create a permanent future public obligation to preserve every legacy exception.**
+> **EP09: current truth and operability must be fully acknowledged, but do not automatically create permanent future public obligation.**
 
-EP09 must therefore preserve 302 as genuinely real / occupied / safe / maintainable and may not make it conveniently broken to simplify the choice.
+EP09 may not make 302 conveniently broken.
 
 ---
 
 ## PATCH-03｜EP02 male/chief relationship bridge
 
-Restore the non-setting story function preserved in historical conversation provenance, with EP01 opening revised:
+> **EP01 最后抓住男主的未知女人在 EP02 才正式揭示为 current/new chief。**
 
-> **EP01 最后抓住男主的未知女人在 EP02 正式揭示为当前 / 新任科长并进入责任链。**
+EP02 opens from：
 
-EP02 must no longer open from:
+> **EP01 gravity/reference + small outer-segment detachment incident rescue and responsibility review.**
 
-> stale occupancy record closed / HOLD CUTOVER review.
+The chief gives male only a narrow present-state / execute-abort factual interface when unified systems cannot reliably verify current physical state.
 
-It opens from:
+This setup converges into the same episode's forced-loss **Level-1 Jialing Trunk Bridge** decision.
 
-> **EP01 gravity/reference incident rescue + incident responsibility / technical review.**
-
-The chief gives the male only a narrow present-state / execute-abort factual interface when unified systems cannot reliably verify current physical state; she does not give him broad administrative authority.
-
-This relationship setup must still converge into the same episode's forced-loss trunk-bridge decision.
+The Trunk Bridge is physically much larger than the later Familiar Lifeline.
 
 ---
 
-## PATCH-04｜EP03–EP08 mechanism repairs
+## PATCH-04｜EP03–EP08 mechanism + spatial repairs
 
-- EP03: seven minutes = shared physical crossability overlap, not clock offset; normal alternatives cannot meet medical waiting window.
-- EP04: cinema has a real one-night opportunity window before a multi-week service/structure reroute; ordinary life is not an arbitrary demo case.
-- EP05: bride reveal and current-subject consent are the same dramatic action; reveal is not author-only information.
-- EP06: shared synchronous action uses a cross-district thermal/environment node and a neutral mechanical phase reference; choosing one side's local timestamp would require unauthorized cross-time-domain trust, not magically declare permanent sovereignty.
-- EP07: Hub is healthy but designed around one coherent shared-city state; A/B divergence invalidates that design premise. Rotation, time-slicing, balanced mode and simple split must be explicitly shown insufficient.
-- EP08: degraded side revokes its own temporary public-force assignment; chief does not remotely commandeer it. Robots retain industrial force capability and are reclassified by the other local order as force-capable platforms without mutually recognized public authorization.
-- EP08 obvious-retreat gate: after public-force role is revoked, the humanoids return to their original **active maintenance role**. They are not free spare units: withdrawing them would force the degraded side to close/abandon the life-line interface they maintain.
-- EP08 shared-zone topology: the degraded-side humanoids must service **central shared transition equipment** (interface locks / Gravity Handoff / structural transition hardware) located in the bridge's common transition volume, not safely deep inside their own district. The better-resourced side also includes this same transition volume inside its critical public-safety envelope. Because the city has lost a mutually recognized institutional boundary, both local orders can correctly claim responsibility for the same physical shared zone. This is why the better-side platform can legally act under its own rules without the story implying a simple cross-border raid.
-- EP08 therefore closes both cheap escapes: `walk the robots away` would close the degraded side's life-line; `leave them as maintenance equipment` keeps force-capable machinery inside a physically shared zone whose public-safety authority is exactly what the two sides no longer jointly define.
+### EP03
+
+- seven minutes = shared physical crossability overlap, not clock offset;
+- other public routes still exist but cannot meet medical waiting window;
+- candidate route is a **small Level-4 maintenance bridge**, near the former Trunk Bridge's broader connection geography but structurally independent;
+- Familiar Lifeline remains physically small through EP04/08/10.
+
+### EP04
+
+- cinema has a real one-night opportunity window before multi-week service/structure reroute;
+- ordinary life is not an arbitrary demo case;
+- replace all `EP01 remap 302` language with **continued repair / limited civic reuse after EP01 incident**;
+- same small Familiar Lifeline gains schedule/public meaning without scale upgrade.
+
+### EP05
+
+- bride reveal and current-subject consent are same dramatic action;
+- reveal is not author-only information.
+
+### EP06
+
+- shared synchronous action uses a Jialing shared thermal/environment node and neutral mechanical phase reference;
+- choosing one side's local timestamp would require unauthorized cross-time-domain trust;
+- no new giant central city zone required.
+
+### EP07
+
+- Hub is healthy but designed around one coherent shared-city state;
+- A/B divergence invalidates design premise;
+- rotation/time-slicing/balanced/simple split must be shown insufficient;
+- Shared Hub belongs to the same Jialing shared-infrastructure family as EP06.
+
+### EP08
+
+- exact same **small Level-4 Familiar Lifeline** from EP03/04;
+- confrontation stages mainly at the **two bridgehead maintenance platforms**, connected by the narrow bridge;
+- degraded-side humanoids already work at their bridgehead on structure/interface/Gravity Handoff maintenance;
+- better-resourced side approaches from opposite bridgehead with one medium quadruped public-safety platform;
+- degraded side revokes its own temporary public-force assignment; chief does not remotely commandeer it;
+- after role revocation, humanoids return to active maintenance and cannot all leave without forcing degraded side to close the lifeline;
+- the other local order then reclassifies the still-force-capable bridgehead platforms under its own critical-route safety rule and programmatically disables them;
+- no giant militarized bridge deck and no requirement that the robots stand in a large central shared volume.
+
+EP08 cheap escapes are closed：
+
+> `walk robots away` = degraded side closes its own lifeline;
+>
+> `leave them as maintenance` = another local order still sees force-capable, non-recognized platforms remaining at the critical bridge/interface environment.
 
 ---
 
 ## PATCH-05｜EP09 private-AI continuity setup
 
-EP09 must establish BEFORE finale:
+EP09 must establish before finale：
 
-> **多数算力、缓存、可复制状态可以迁移；但 private AI 的同一 continuous subject 仍依赖一组长期 live legacy mappings / identity / reference / cross-fragment relations.**
+> **多数算力、缓存、可复制状态可以迁移；但 private AI 的同一 continuous subject 仍依赖长期 live legacy mappings / identity / reference / cross-fragment relations.**
 
-If those mappings are broken and reconstructed later:
+If mappings are broken and reconstructed：
 
 > high-similarity copy/reconstruction may remain, but continuity is not automatically preserved.
 
-This does not require locking exact computational engineering yet; exact substrate remains `VALIDATE_LATER`.
+Exact substrate remains `VALIDATE_LATER`.
 
-The AI explicitly retains survival preference:
+AI explicitly retains survival preference：
 
 > **她不想消失。**
 
-EP01 local-core shutdown is only a temporary/local operational survival action and does not pre-answer EP09/10 continuity stakes.
+EP01 local-core shutdown = temporary/local survival action, not continuity answer.
 
 ---
 
-## PATCH-06｜EP10 convergence
+## PATCH-06｜EP10 convergence + small-lifeline capacity
 
 EP10 citywide contraction is opening state, not a second independent story.
 
-Main finale action converges on:
+Main finale action converges on：
 
-> **302 old compatibility cluster + the familiar EP03→04→08 lifeline bridge.**
+> **302 old compatibility cluster + exact same small Level-4 Familiar Lifeline from EP03/04/08.**
+
+Capacity lock：
+
+> **bulk migration begins after EP09 and occurs before/during the broader contraction through then-active temporary routes, longer detours and staged public transfer. By EP10正片, the small Familiar Lifeline is only the last active legacy connection, carrying final residents/roles, maintenance/service and cutover actions.**
+
+It is not the sole route that evacuates the entire district during the episode.
 
 Residents leave first.
 
-The final important bridge remains technically healthy.
+Final small bridge remains technically healthy.
 
-Real private-AI preservation route:
+Real AI preservation route：
 
-> keep the last old district / bridge / service / local-time / gravity / protocol compatibility stack alive.
+> **keep 302 old compatibility cluster + small bridge + service + Local Time + gravity + protocol stack alive.**
 
-It must genuinely preserve the same continuous AI, and it must carry a real public legitimacy cost because it creates a permanent non-generalizable exception.
+It genuinely preserves the same continuous AI and carries a real public legitimacy cost because it creates a permanent non-generalizable exception.
 
-Final cutover remains:
+Final cutover：
 
-> occupancy clear → transit/service exit → gravity transition unload → temporal/protocol compatibility exit → mechanical bridge separation.
+> occupancy clear → transit/service exit → Gravity Handoff unload → temporal/protocol compatibility exit → mechanical bridge separation.
 
-The word `occupancy` here means EP10 **current evacuation clearance**, not an EP01 stale occupancy-record callback.
+`OCCUPANCY: CLEAR` = EP10 current evacuation clearance, not stale EP01 callback.
+
+Permanent ring backbone remains; city shrinks by retiring modules/connections, not by cutting the structural ring.
 
 No explosion.
 
@@ -177,32 +218,33 @@ No explosion.
 
 ## PATCH-07｜Drama Skill hard gate
 
-No episode may be treated as screenplay-ready only because setting progression is complete.
+No episode is screenplay-ready only because setting progression is complete.
 
-Before screenplay, each active episode must pass:
+Before screenplay, each episode passes：
 
 > `Trigger -> Goal -> Obstacle -> Choice -> Turn -> Cost -> State Delta`
 
-and
+and：
 
 > `Cold Open -> Pressure -> Turn -> Payoff/Progress -> End Image`.
 
-Required counterfactual checks:
+Required checks：
 
 - why now?
 - why this character?
 - what happens if no action?
-- why not the obvious cheaper alternative?
-- does character choice actually alter outcome?
-- does the episode still work when bridge/time/gravity jargon is removed?
-- is there exactly one dominant turn?
-- if the smart solution works, what cost remains afterward?
+- why not cheaper alternative?
+- does choice alter outcome?
+- does episode work with jargon removed?
+- exactly one dominant turn?
+- if smart solution works, what cost remains?
+- can audience explain where the character is and how they got there?
 
-For EP01 specifically:
+For EP01：
 
-- `+08:00` is **Pressure**, not a second turn;
-- private AI's refusal to restore immediately is the **Dominant Turn**;
-- latent structural fracture after real recovery success is **Cost after solution**;
-- final human hand is **Cliffhanger / relationship handoff**.
+- `+08:00` = Pressure;
+- AI refusal to restore = Dominant Turn;
+- small outer-segment detachment after real recovery success = Cost;
+- final human hand = Cliffhanger / relationship handoff.
 
 Old V4 no-gap/consistency PASS does not equal story-causality or screenplay PASS.

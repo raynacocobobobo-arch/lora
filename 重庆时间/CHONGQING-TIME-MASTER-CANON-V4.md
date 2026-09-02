@@ -1,13 +1,14 @@
 # 《重庆时间》MASTER CANON V4
 
-- Updated: 2026-09-01
-- Status: `LOCKED / ACTIVE PRIMARY SERIES CANON`
+- Updated: 2026-09-02
+- Status: `LOCKED / ACTIVE PRIMARY SERIES CANON / REPAIR-BRANCH RECONCILED`
 - Project: **《重庆时间》**
 - City: **第二新重庆市**
-- Episode authority: highest active V4 `Pilot-EPXX-LATEST-CANON-SNAPSHOT-*.md`
+- Episode authority: highest active repaired `Pilot-EPXX-LATEST-CANON-SNAPSHOT-*.md`
 - World authority: `WORLD-ARCHITECTURE-CANON-V4.md`
+- Spatial/environment authority: `SPATIAL-ENVIRONMENT-CANON-V2.md`
 - Character authority: `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-- Governance: `CANON-PRECEDENCE-V4.md`
+- Branch governance: `CURRENT.md`
 
 ---
 
@@ -15,11 +16,27 @@
 
 ## Premise
 
-> **陨石撞击后的第二新重庆市没有停止运行。为了尽量保存居民与公共系统，这座依靠无数桥梁连接的轨道巨城让各城区分别维持自己的时间、重力与公共秩序。每个局部都在合理地救、修、维持，却因此逐渐失去共同的“现在”、共同的“下方”和共同公共现实。城市越努力保住所有连接，整体越难继续作为一座城市。最终，重庆必须一边疏散，一边亲手结束仍然能够工作的桥和旧城区兼容状态，放弃一部分自己，才能重新获得一个可持续的共同现在。**
+> **陨石撞击后的第二新重庆市没有停止运行。为了尽量保存居民与公共系统，这座由环形船坞骨架、城区舱段和无数大小不同桥接结构组成的轨道城市，让各城区分别维持自己的时间、重力与公共秩序。每个局部都在合理地救、修、维持，却因此逐渐失去共同的“现在”、足够共同的物理参考和共同公共现实。城市越努力保住所有旧连接，整体越难继续作为一座城市。最终，重庆必须一边疏散，一边亲手结束仍然能够工作的桥和旧城区兼容状态，放弃一部分自己，才能重新获得一个可持续的共同现在。**
 
 核心不是 AI 失控。
 
 > **所有主体都在做局部正确的事。真正的危机是：共同前提破裂后，局部正确的保全开始彼此不兼容。**
+
+## Spatial identity
+
+第二新重庆的 active 空间模型：
+
+> **永久环形船坞骨架 + 大型城区舱段 + 小型附属工程模块 + 多尺度桥网。**
+
+设计尺度方向：主环半径约 `1 km`，主要城市内部最大有效净空约 `200 m`。
+
+`嘉陵江` 是环形城市内部的有限开放城市带，不是环中心大孔，也不是无限巨构深渊。
+
+绝大多数日常城区的 nominal down 视觉上大体一致；重力差主要在桥、接口和损伤区变得身体可见。
+
+第一季空间铁律：
+
+> **复用地点，改变状态；不靠不断增加新巨构制造升级。**
 
 ---
 
@@ -47,7 +64,7 @@ EP05 只从普通人的私人后果短暂回看 T0，不承担灾难工程讲解
 
 > **先撑住、先保住、以后还能重新接回来。**
 
-但是第二新重庆市本身是一座桥网巨城。主桥、服务桥、时间参考、重力过渡、协议状态、公共授权彼此耦合。
+第二新重庆本身是一座桥网城市。主桥、服务桥、时间 reference、Gravity Handoff、协议状态、公共授权彼此耦合。
 
 为了继续生活，各城区不断本地化：
 
@@ -65,6 +82,10 @@ EP05 只从普通人的私人后果短暂回看 T0，不承担灾难工程讲解
 全季动作：
 
 > **不断保连接 → 连接减少 → 临时连接成功 → 临时连接成为生活 → 局部时间正式分叉 → 共享能力主动退出 → 两套秩序在桥上互害 → 定义最低共同现实 → 疏散并主动断开旧连接。**
+
+空间上对应：
+
+> **EP01小型意外断接 → EP02大型主桥forced loss → EP03小维护桥获得公共价值 → EP04日常化 → EP08成为制度接触面 → EP10同一条小桥成为最后active legacy connection并被主动结束。**
 
 ---
 
@@ -92,11 +113,11 @@ EP05 只从普通人的私人后果短暂回看 T0，不承担灾难工程讲解
 
 T0 造成：
 
-- 结构损伤；
+- 结构 / 接口损伤；
 - 桥网断裂；
 - 能源 / 通信 / 交通改线；
-- 时间公共参考受损；
-- 人工重力共同参考受损；
+- 时间公共 reference 受损；
+- 人工重力共同 reference 受损；
 - 公共系统开始本地自治。
 
 ## Secondary preservation consequences
@@ -152,11 +173,11 @@ Hub 健康、有价值、仍然能工作，却被永久退出，使 A、B 都以
 
 - 保护居民；
 - 保护公共生命线；
-- 阻止无法验证的武装威胁。
+- 阻止无法验证的高力/公共强制威胁。
 
 结果仍然可能：
 
-> **合法、程序化地伤害另一套同样真实的重庆公共力量。**
+> **合法、程序化地伤害另一套同样真实的重庆公共力量与维护资源。**
 
 因此 EP08 证明：
 
@@ -176,7 +197,7 @@ EP10：
 
 > **执行未来共同边界。**
 
-人员优先撤离，随后逐项退出旧交通、服务、重力过渡、协议兼容和机械连接，使剩余城市不再无限背负彼此冲突的历史状态。
+人员优先迁移，随后逐项退出旧交通、服务、重力过渡、协议兼容和机械连接，使剩余城市不再无限背负彼此冲突的历史状态。
 
 ---
 
@@ -186,7 +207,7 @@ EP10：
 
 EP01–EP06 为主。
 
-- 灾害先制造失败；
+- 灾害/旧伤先制造失败；
 - 人仍在尽量抢救；
 - 停止继续维持是因为现实已经不允许无代价继续；
 - 不等于接受“未来城市应该更小”。
@@ -215,7 +236,7 @@ EP09–EP10。
 
 EP10 代表：
 
-> **已经有能力保住一座仍然正常的桥，却决定结束它所携带的不可持续旧连接条件。**
+> **已经有能力保住一条仍然正常的小型熟悉连接，却决定结束它所携带的不可持续旧连接条件。**
 
 ---
 
@@ -232,7 +253,7 @@ EP10 代表：
 5. `C5 Institutional` — 公共授权能否被另一边承认；
 6. `C6 Relational` — 无法拥有对方全部现实时，是否仍承认其独立判断。
 
-第二新重庆市的桥网让 Connection Stack 物理可见，但不能把“桥是隐喻”写成人物解释台词。
+第二新重庆的桥网让 Connection Stack 物理可见，但不能把“桥是隐喻”写成人物解释台词。
 
 整季：
 
@@ -272,7 +293,7 @@ EP10 代表：
 
 > **协议握手传递 / 确认状态，不自动传递主体连续性。**
 
-技术“协议握手”、现实物理连接、人物身体上的“手”必须保持三层区分。
+技术“协议握手”、现实物理连接、人物身体上的“手”保持三层区分。
 
 ---
 
@@ -341,8 +362,8 @@ EP09 才正式制度化，但来源是前八集累积。
 
 来源链：
 
-- EP01：系统未确认 ≠ 现实不存在；
-- EP03：一次动作不需要恢复所有共同事实，只需要足够真实事实；
+- EP01：正常程序与系统模型最终仍必须服从当前真实物理状态；
+- EP03：一次动作不需要恢复所有共同事实，只需要足够真实的共同执行条件；
 - EP04：普通生活不能无限等待完整统一；
 - EP06：共同动作可以建立在双方都受约束的 reference 上，而不是让某一局部获胜；
 - EP07：全部保存第一次局部失败；
@@ -359,7 +380,11 @@ EP09 才正式制度化，但来源是前八集累积。
 
 # 11｜Male B Story
 
-男主因为城市破碎重新获得“我的判断真的有用”的外部证明。
+男主的错误信念：
+
+> **只有我的判断无法被替代，它才真正有价值。**
+
+城市破碎重新给他大量“我的现场判断真的不可替代”的外部证据。
 
 成长不是让他失去专业能力，而是让他明白：
 
@@ -367,7 +392,7 @@ EP09 才正式制度化，但来源是前八集累积。
 
 季弧：
 
-> EP01 判断重获因果
+> EP01 他的现场物理存在真正成为任务不可替代的一环
 > → EP02 看到判断进入公共后果
 > → EP03–06 越来越会完成有限共同动作
 > → EP07 接受第三路仍然是真实损失
@@ -391,8 +416,8 @@ EP09 才正式制度化，但来源是前八集累积。
 
 季弧：
 
-> EP01 面对模型前提失效
-> → EP02 承担停止继续抢救时点
+> EP01 只以最终未知救援者身份出现，真实抓住男主
+> → EP02 身份揭示并承担停止继续抢救时点
 > → EP03–04 用窄授权让救援和生活继续
 > → EP06 明确让自己的权限也受共同规则限制
 > → EP07 批准健康 Hub 永久退出
@@ -414,6 +439,10 @@ EP09 才正式制度化，但来源是前八集累积。
 
 > **我知道 → 我不知道 → 我相信你。**
 
+EP01 first wound：
+
+> **她基于当时已知事实作出正确安全判断，Plan B 也真实开始成功；随后一个新的现场物理事实仍能击穿正确方案。**
+
 伦理 / 判断成长：
 
 - EP04：《罗生门》留下“问题框架本身可能需要重问”的文化经验；
@@ -432,16 +461,16 @@ EP09 才正式制度化，但来源是前八集累积。
 
 | EP | Primary dramatic function | Bridge / city progression | Time progression | Gravity progression | Preservation progression |
 |---|---|---|---|---|---|
-| EP01 | 302：系统现实漏掉具体存在 | 桥网作为空间种子 | 轻微 seed | **Extreme body danger** | 系统未覆盖 ≠ 不存在 |
-| EP02 | 长期抢救来到极限 | **重要主桥 forced loss** | 背景错位 | 结构载荷贡献 | 不是所有失败连接都救得回来 |
-| EP03 | 用足够事实完成一次医疗连接 | **临时生命线成立** | **七分钟裂纹** | Level 2 crossing constraint | 不恢复全部也能救一个动作 |
-| EP04 | 应急办法进入普通生活 | 生命线日常化 | 地方节律普通化 | Level 1 adaptation | 例外开始有生活价值 |
+| EP01 | 302例行Gravity Reset在共同reference失效后变成生存事件；AI拒绝致命restore | **302外缘小型附属接口意外断接**，桥/断接语法首次小尺度出现 | trusted `302 LOCAL = PUBLIC +08:00` 首次成为具体裂纹 | **Extreme body danger** | 当前真实状态可以推翻仍然“正确”的正常流程；正确方案也不保证结果 |
+| EP02 | 长期抢救来到极限 | **Level-1 嘉陵江主干桥 forced loss** | 背景错位 | 结构载荷 / Gravity Handoff 贡献 | 不是所有失败连接都救得回来 |
+| EP03 | 用足够事实完成一次医疗连接 | **小型 Level-4 maintenance lifeline 第一次公共使用** | **七分钟 shared-crossable window** | Level 2 crossing constraint | 不恢复全部也能救一个动作 |
+| EP04 | 应急办法进入普通生活 | **同一小生命线日常化** | 地方节律普通化 | Level 1 adaptation | 例外开始有生活价值 |
 | EP05 | Wedding Mirror / continuity break | 桥网塑造私人生活路径 | 私人“延迟未来”与城市不同现在互照 | 低权重 | 形式可保存，continuity 不可自动恢复 |
-| EP06 | 两个有效 local now 完成一个共同瞬间 | 共享接口 / 基础设施 | **失去共同现在正式前景化** | 故意大体兼容 | 差异可完成一次共同动作，但未恢复统一 |
-| EP07 | 健康 Hub 主动退出 | 共享节点减少 | 地方时间已正常化 | 更依赖地方重力服务 | **全部保存第一次局部失败** |
-| EP08 | 两套正确公共秩序生产制度暴力 | **生命线变武装边界** | 加剧运营错位 | Level 1–2 embodied boundary | 完整地方保全开始互害 |
+| EP06 | 两个有效 local now 完成一个共同瞬间 | 嘉陵江共享基础设施 | **失去共同现在正式前景化** | 故意大体兼容 | 差异可完成一次共同动作，但未恢复统一 |
+| EP07 | 健康 Hub 主动退出 | 同一共享基础设施家族的高阶 shared role 退出 | 地方时间已正常化 | 更依赖地方重力服务 | **全部保存第一次局部失败** |
+| EP08 | 两套正确公共秩序生产制度暴力 | **同一小生命线桥头变 legitimacy 接触面** | 加剧运营错位 | Level 1–2 embodied boundary | 完整地方保全开始互害 |
 | EP09 | 最低共同现实第一宗真实测试 | 302 的未来连接承诺被审查 | legacy local-now 成永久成本之一 | 专属 frame 成永久成本之一 | 承认真实 ≠ 永久保存 |
-| EP10 | 撤离 / cutover / 最后断桥 / AI 连续性成本 | **城市主动减少桥，熟悉生命线最终退出** | **剩余城市恢复可持续共同现在** | 最终关闭重力过渡 | 工作正常的连接也可能必须结束 |
+| EP10 | 迁移 / cutover / 最后active bridge / AI连续性成本 | **同一小生命线最终健康退出**；大部分迁移在正片前已通过其他路线完成 | **剩余城市恢复可持续共同现在** | 最终关闭 Gravity Handoff | 工作正常的连接也可能必须结束 |
 
 此矩阵是递进，不是每集 checklist。
 
@@ -449,41 +478,53 @@ EP09 才正式制度化，但来源是前八集累积。
 
 # 15｜EP01–EP10 high-level episode cards
 
-## EP01 — 302
+## EP01 — 302 Gravity Reference Reset
 
-统一系统无法确认 302 有有效居民；男主通过实时可交互信号与独立现场证据确认此刻有人，并用窄现场权限让仍以“无人”为前提的公共动作暂停 / 重新确认。局部重力参考严重失稳，女科长真实抓住男主。
+男主与私人 AI 前往外缘旧城区 302 执行一次例行 Gravity Reference Reset。远程/public-local trusted handshake 无法完成；男主必须进入旧 relay/service area 建立当前真实物理桥接。partial handshake 首次给出可信 `302 LOCAL = CHONGQING PUBLIC +08:00`，证明安全重置窗口已经过去，重力失稳已开始。
+
+full handshake 最终成功并拿回 Gravity Control，但此时立即恢复 nominal gravity 会杀死已被异常向量带离原位的男主。私人 AI 拒绝立即 restore，提出先利用错误重力到外缘安全重置位置固定，再恢复完成任务。Plan B 真的开始成功；随后 T0 潜在旧伤在异常载荷下扩展，使男主所在的小型外缘附属维护/接口段意外断接。302本体没有脱离。
+
+AI随后只能优化男主的生存状态，最终关闭 local core 让出共享功耗；男主失去意识前，一只未知 EVA 人手抓住他。EP02 才揭示救援者是女科长。
 
 本集回答：
 
-> **系统无法确认，不等于现实不存在。**
+> **恢复正常 ≠ 当前最安全；方案正确 ≠ 结果保证；现场新事实有最后一票。**
 
 ## EP02 — forced bridge loss
 
-一条灾后长期被抢救的嘉陵江主干桥持续恶化。男主确认现实还允许安全抢救多久；女科长决定何时必须停止继续抢救。桥真正失去，形成新的孤岛边界。
+一条灾后长期被抢救的 Level-1 嘉陵江主干桥持续恶化。男主确认现实还允许安全抢救多久；女科长决定何时必须停止继续抢救。最后安全人流/服务离开后，桥受控退出，形成新的孤岛边界。
 
 本集不是主动收缩。
 
-## EP03 — seven-minute lifeline
+主桥失去不代表全城无路，但正常绕行显著变长，使附近原本不起眼的小维护连接在EP03获得价值。
 
-正常跨区连接已失去，医疗刚需不能等待。两个本地系统都认为接口状态已完成，但真实可通行窗口错开七分钟。男主找到真实窗口，女科长只授权这一次，药通过一条低容量维护连接送达。
+## EP03 — seven-minute small lifeline
 
-这条连接因为成功，开始获得未来公共价值。
+医疗刚需不能承担长绕行的时间成本。主桥附近有一条结构独立、物理尺度很小的 Level-4 maintenance bridge；过去只服务维修人员、小型运输架和工业机器人。
+
+两端 local interface 都 READY，却只有约七分钟真实物理条件同时可通行。男主找到并验证窗口，女科长只授权这一次，医疗物资真正通过。
+
+> **这条桥因为成功获得公共价值，但物理上仍然是一条小维护桥。**
 
 ## EP04 — temporary city becomes life
 
-前几集形成的临时做法进入普通城市生活。EP03 生命线已有排班、容量、维护和重复使用。老电影院在完整永久状态仍未统一时获得“今晚这一场”的有限开放；任务结束后，男女主留下看《罗生门》。灾后纪念 / 人格重建社会实践作为背景种子出现。
+EP03 的同一条小维护桥开始形成简易排班、容量和维护惯例。EP01事故后持续修复的302旧节点/公共空间也进入有限恢复使用。
+
+一个老电影院只有今晚同时满足当前结构、安全、供电、疏散和居民可达条件；明天起附近旧公共层进入持续数周改线。男主确认“今晚一场”足够安全，女科长只批准今晚。之后两人留下看《罗生门》。
 
 ## EP05 — Wedding Mirror
 
-从 EP02 公共现场旁一个普通女人进入她的生命史；短暂回看 T0 私人后果。她真的继续生活，后来因城市连接变化进入新的区域，再次失联；数据和人格材料后来能够恢复，但不能证明原主体连续活到婚礼今天。婚礼最终揭示新郎和新娘都是重建人格。私人 AI 是“真正连续跨过这些集”的对照。
+从 EP02 公共现场旁一个普通女人进入她的生命史；短暂回看 T0 私人后果。她真的继续生活，后来自己的真人 continuity 也中断。今天朋友家人为两个人格重建举行迟到婚礼；仪式要求双方以当前主体身份确认，并不声称原主体连续复活。
 
-婚礼同时处在一个没有统一公共现在的城市里：某区夜间，其他区域可能仍是白天 / 黄昏。
+新娘确认继续，这一动作同时揭示她也是重建人格。
+
+婚礼处于一个没有统一公共现在的城市里：本区夜间，嘉陵江/环形城市另一处可能仍是黄昏或工作周期。
 
 ## EP06 — 重庆时间
 
-两个城区各自拥有有效本地时间和生活节律，却必须对共享公共基础设施在同一个真实瞬间执行一次动作。不能把任何一边本地时间偷偷升级成全城真理。三人退到双方都受约束的物理 reference，完成一次同步动作。
+两个城区各自拥有有效 local public time 和生活节律，却必须对嘉陵江共享热储能 / 环境换热节点在同一个真实瞬间完成负载交接。
 
-动作结束后，两边仍显示不同本地时间。
+不能把任何一边 local time 偷偷升级成共同公共 reference。三人退到共享设备本身双方都能直接观测的机械相位：AI映射，男主验证，女科长授权。一次共同瞬间成立，但动作结束后两边仍回到自己的 local now。
 
 本集回答：
 
@@ -491,17 +532,23 @@ EP09 才正式制度化，但来源是前八集累积。
 
 ## EP07 — healthy Hub exits
 
-共享 Hub 给 A 时 A 恢复而 B 不可承受；给 B 则反转。Hub 本身完全健康。私人 AI 重新检查“Hub 必须保留”的默认框架；男主确认 A/B 无 Hub 都能降级继续；女科长批准 Hub 永久退出。
+与EP06同属嘉陵江共享基础设施家族的一台 Shared Hub，本身完全健康，却仍按旧设计要求一套单一高阶城市状态。A/B已经形成两套真实分叉状态：服务A会让B失配，服务B则反转；轮流、balanced、简单拆分都不能无损解决。
+
+私人 AI 重新检查“Hub必须保留”的默认框架；男主确认 A/B 无 Hub 都能降级继续；女科长批准健康 Hub 的 shared-control role 永久退出。
 
 第一次局部承认：
 
 > **全部保存失败。**
 
-## EP08 — armed bridge standoff
+## EP08 — same small lifeline / legitimacy conflict
 
-EP03 生命线经过长期运行已经成为高度制度化的跨区桥 / 接口。两套地方公共安全秩序都无法验证对方公共武装的合法授权。较完整一侧有一台中型四足公共安全平台；资源退化一侧用多台普通工业人形机器人承担秩序维护。双方均正常履职。
+EP03/04那条小维护生命线仍然承担维修、医疗和少量必要通行。EP07后两端地方秩序更完整。
 
-女科长成功解除一侧控制以避免交火，却使这些平台失去可验证合法指挥链；另一侧系统因此完全合理地重新分类并程序化清除。
+资源更完整一侧按本地规则派一台中型四足公共安全平台；退化侧把本来就在桥头维护结构/接口/Gravity Handoff 的普通工业人形机器人临时加挂秩序任务。双方都合理。
+
+为避免直接交火，退化侧**自行撤销**工业机器人的 temporary public-force role；机器人恢复原本维护职责，因此仍必须留在桥头。主城区随后按自己的正常规则，把关键安全区内“仍具高力能力、但没有本区可承认公共强制身份”的平台重新分类并程序化 disable/clear。
+
+冲突主要发生在两端小型桥头维护平台，不把生命线拍成巨型军事边境桥。
 
 本集回答：
 
@@ -509,23 +556,23 @@ EP03 生命线经过长期运行已经成为高度制度化的跨区桥 / 接口
 
 ## EP09 — 302 boundary test
 
-EP08 后，女科长提出最低共同现实草案，经更高公共决策层讨论只获有限试行。她选择 302 作为第一宗实验对象。
+EP08 后，女科长提出最低共同现实草案，经更高公共决策层只获一宗有限试行。她选择302。
 
-男主确认 302 真实、安全、有人生活、技术上仍可继续。但长期保留需要未来城市永久维持旧本地时间、专属 Local Gravity Frame、桥 / 服务 / 数据 / 能源 / 环境 / 协议兼容栈。
+男主确认 302 是完整的 lived district：真实、安全、有人生活、技术上仍可继续。长期保留它则要求未来城市永久维持旧本地时间、专属 Local Gravity Frame、桥/服务/数据/能源/环境/协议兼容栈。
 
-302 被承认，却不再无条件获得永久特殊维护承诺。
+302被完整承认，却不再无条件获得永久特殊维护承诺，并进入迁移/过渡规划。
 
-## EP10 — active contraction / final bridge
+## EP10 — active contraction / final small bridge
 
-城市执行最低共同现实。人员先撤离，旧城区逐项关闭交通、服务、能源、数据和重力过渡。男主所在旧城区的公共系统无法完成可靠当前状态映射；私人 AI 因持续经历碎片化历史，可在女科长极窄临时授权下补足缺失中继 / mapping。
+城市收缩已经在执行。**大部分302居民在EP09后、EP10开场前已经通过当时仍存在的临时连接、远距离绕行和分批转运完成迁移。**这些路线随后逐步退出。
 
-男主与 AI 真正找到保存她的路线：不要彻底退出最后旧城区与兼容桥栈。这样同一个连续 AI 可以继续。
+到EP10正片，EP03以来那条 Level-4 Familiar Lifeline 只是**最后仍 active 的旧兼容连接**，承担最后少量人员、维修/服务和 time/gravity/protocol cutover；它从来没有物理升级成大桥。
 
-代价：未来第二新重庆市必须永久保留一个已经决定退出的旧时间、旧重力和旧协议碎片。
+男主与 AI 已经确认：保住同一个连续 AI 的真实路线，就是永久保留302旧兼容集群 + 这条小桥 + service/time/gravity/protocol mappings。方案真实可行，但会制造一个无法普遍给予其他退出碎片的永久例外。
 
-最终重要桥是观众从 EP03 起熟悉的生命线。它仍然结构正常、可通行、重力过渡可用。AI 给出最安全的退出顺序，男主逐项确认现实，女科长逐项授权。连接缓慢机械分离，不依靠爆炸。
+人和服务先退出；桥仍结构正常、可通行、Gravity Handoff可用。AI给出连续依赖和安全顺序，男主逐项确认现实，女科长逐项授权。最后机械连接安静释放，不爆炸。
 
-最终剩余城市更小、桥更少、能力更低，但重新拥有一个持续共同的公共现在。
+剩余城市更小、桥更少、能力更低，但重新拥有一个持续共同的公共现在。
 
 ---
 
@@ -533,7 +580,7 @@ EP08 后，女科长提出最低共同现实草案，经更高公共决策层讨
 
 外部参考仅作为创作结构来源，不复制具体角色 / 台词 / 战争剧情 / 爆破镜头。
 
-吸收的核心：
+吸收核心：
 
 > **最难结束的不是坏掉的东西，而是仍然有价值、仍在工作、甚至曾经救过人的连接。**
 
@@ -543,9 +590,9 @@ EP08 后，女科长提出最低共同现实草案，经更高公共决策层讨
 
 因此：
 
-- EP02 是“想保却保不住”的失败桥；
-- EP03→04→08 让一条临时生命线拥有真实记忆和公共价值；
-- EP10 让这条熟悉、健康的连接成为最后难以结束的桥之一；
+- EP02 是“想保却保不住”的大型失败桥；
+- EP03→04→08 让一条**物理上始终很小**的维护生命线拥有真实记忆和公共价值；
+- EP10 让这条熟悉、健康的小连接成为最后难以结束的 active legacy bridge；
 - 私人 AI 因连续跨越碎片历史而最适合帮助确定退出顺序；
 - 不使用英雄式爆炸，使用冷静、程序化的系统和机械分离。
 
@@ -555,12 +602,13 @@ EP08 后，女科长提出最低共同现实草案，经更高公共决策层讨
 
 终局不追求“恢复原样”。
 
-第二新重庆市最终：
+第二新重庆最终：
 
-- 更小；
-- 桥更少；
+- 永久环形主骨架仍在；
+- retained city 更小；
+- 城区/桥连接更少；
 - 公共能力降低；
-- 有明确永久废弃区域；
+- 有明确永久退出区域；
 - 不再维护所有历史兼容状态；
 - 仍保留创伤与缺口。
 
@@ -570,7 +618,7 @@ EP08 后，女科长提出最低共同现实草案，经更高公共决策层讨
 
 最终证明不靠庆典，而靠普通同步生活：
 
-- 不同城区公共钟重新一致；
+- 不同城区公共钟重新一致到足以共同生活；
 - 一班末段轨道交通按同一公共时刻运行；
 - 医院按同一交班框架工作；
 - 商业与维护进入同一城市周期；
@@ -582,28 +630,38 @@ EP08 后，女科长提出最低共同现实草案，经更高公共决策层讨
 
 ---
 
-# 18｜Hard prohibitions V4
+# 18｜Hard prohibitions V4 — repaired
 
 - no meteor impact during EP01 / EP02；
+- no stale-occupancy / hidden-resident EP01 engine；
 - no rogue-AI simplification；
 - no villain required to explain EP08；
 - no macro continuous-ground city model；
-- no generic open infinite internal abyss；
+- no infinite / bottomless internal abyss；
+- no `嘉陵江 = torus central hole`；
+- no routine multi-layer city traversal to reach space；
+- no default large-angle rotated ordinary districts；
+- no Familiar Lifeline physically promoted into a large Regional/Trunk bridge；
 - no time fragmentation treated as multiple suns / magic sky；
 - no time anomaly automatically causing gravity anomaly；
 - no repeated extreme gravity inversion every episode；
+- no whole-302 ejection in EP01；
+- no deliberate system ejection of occupied EP01 segment；
 - no EP02 active strategic bridge sacrifice；
 - no EP07 pretending the Hub was already broken；
-- no EP08 generic ground border checkpoint；
-- no wheeled security vehicles in the locked EP08 bridge confrontation；
+- no EP08 generic ground border checkpoint or giant military bridge deck；
+- no chief remotely revoking the degraded side's public-force role；
+- no wheeled security vehicles in the locked EP08 confrontation；
 - no private AI becoming city AI；
 - no copy / upload = continuity；
 - no AI instantly volunteering for disappearance；
 - no male skipping genuine preservation attempts；
 - no technically fake “there was never an alternative” finale；
-- no anonymous brand-new final bridge replacing the EP03→04→08 familiar lifeline history；
+- no whole-302 population funnel through the small lifeline during EP10正片；
+- no anonymous brand-new final bridge replacing the EP03→04→08 familiar small lifeline；
 - no final bridge conveniently failing to avoid the choice；
+- no cutting the permanent ring backbone as the finale solution；
 - no explosion as the default final bridge solution；
 - no dialogue explaining the bridge metaphor；
 - no visual motif overriding episode action；
-- no removed old mechanism without a V4 successor function。
+- no removed old mechanism without a successor function。

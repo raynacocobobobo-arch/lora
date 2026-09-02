@@ -1,7 +1,7 @@
 # 《重庆时间》CURRENT — Active Story + Spatial Entry Point
 
 - Updated: 2026-09-02
-- Status: `STORY-CAUSAL REPAIR ACTIVE / SPATIAL V2 VERIFIED PASS / REPAIR BRANCH`
+- Status: `STORY-CAUSAL REPAIR ACTIVE / SPATIAL V2 BASELINE VERIFIED / ASTEROID CORE V2.1 ACTIVE / POST-PATCH QA PENDING`
 - Branch: `chongqing-time-story-causal-repair`
 - Project: **《重庆时间》**
 - City: **第二新重庆市**
@@ -15,16 +15,17 @@ For conflicts, use this order:
 
 1. later explicit user confirmation;
 2. `STORY-CAUSAL-CANON-PATCH-V1.md` for scopes explicitly superseded by the current story repair;
-3. `SPATIAL-ENVIRONMENT-CANON-V2.md` for **city macro-form, environment geography, Jialing, bridge physical scale, 302 position, spatial movement, gravity visual-readability, environment design and visual blocking**;
-4. `EP01-STORY-OUTLINE-V1.md` for EP01 outline / scene progression / pilot rhythm / target-duration direction, interpreted through Spatial V2 for geometry;
-5. `EP01-EP10-SPATIAL-SCENE-MAP-V2.md` for first-season location reuse, route logic, bridgehead staging and spatial-state continuity;
-6. repaired highest relevant Episode Snapshot for episode-specific story facts;
-7. `CHONGQING-TIME-MASTER-CANON-V4.md` for active reconciled season architecture;
-8. `WORLD-ARCHITECTURE-CANON-V4.md` for active reconciled time / gravity / bridge / islanding world rules;
-9. `CHARACTER-RELATIONSHIP-BIBLE-V4.md` for non-superseded character / relationship facts;
-10. `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md` for current spatial QA status;
-11. visual/execution docs only after story + spatial architecture pass;
-12. legacy `../北京市没有冬天/**` and Git history only as provenance, never as active canon.
+3. `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md` for **central asteroid core, macro ring-core relation, exterior orientation, and central-space geometry**;
+4. `SPATIAL-ENVIRONMENT-CANON-V2.md` for **city macro-form outside the V2.1 superseded scope, environment geography, Jialing, bridge physical scale, 302 position, spatial movement, gravity visual-readability, environment design and visual blocking**;
+5. `EP01-STORY-OUTLINE-V1.md` for EP01 outline / scene progression / pilot rhythm / target-duration direction, interpreted through Spatial V2.1 + V2 for geometry;
+6. `EP01-EP10-SPATIAL-SCENE-MAP-V2.md` for first-season location reuse, route logic, bridgehead staging and spatial-state continuity;
+7. repaired highest relevant Episode Snapshot for episode-specific story facts;
+8. `CHONGQING-TIME-MASTER-CANON-V4.md` for active reconciled season architecture;
+9. `WORLD-ARCHITECTURE-CANON-V4.md` for active reconciled time / gravity / bridge / islanding world rules;
+10. `CHARACTER-RELATIONSHIP-BIBLE-V4.md` for non-superseded character / relationship facts;
+11. current consistency reports for their stated QA scope;
+12. visual/execution docs only after story + spatial architecture pass;
+13. legacy `../北京市没有冬天/**` and Git history only as provenance, never as active canon.
 
 The old files:
 
@@ -41,28 +42,34 @@ have been retired from the working branch and must not be referenced as active a
 
 1. `CURRENT.md`
 2. `STORY-CAUSAL-CANON-PATCH-V1.md`
-3. `SPATIAL-ENVIRONMENT-CANON-V2.md`
-4. `EP01-EP10-SPATIAL-SCENE-MAP-V2.md`
-5. relevant Episode Snapshot / EP01 outline
-6. `CHONGQING-TIME-MASTER-CANON-V4.md`
-7. `WORLD-ARCHITECTURE-CANON-V4.md`
-8. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
+3. `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md`
+4. `SPATIAL-ENVIRONMENT-CANON-V2.md`
+5. `EP01-EP10-SPATIAL-SCENE-MAP-V2.md`
+6. relevant Episode Snapshot / EP01 outline
+7. `CHONGQING-TIME-MASTER-CANON-V4.md`
+8. `WORLD-ARCHITECTURE-CANON-V4.md`
+9. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
 
 ## Visual / environment / storyboard work
 
 1. `CURRENT.md`
-2. `SPATIAL-ENVIRONMENT-CANON-V2.md`
-3. `EP01-EP10-SPATIAL-SCENE-MAP-V2.md`
-4. relevant Episode Snapshot / screenplay
-5. active visual-style canon / KV execution docs
+2. `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md`
+3. `SPATIAL-ENVIRONMENT-CANON-V2.md`
+4. `EP01-EP10-SPATIAL-SCENE-MAP-V2.md`
+5. relevant Episode Snapshot / screenplay
+6. active visual-style canon / KV execution docs
 
-**Future KV, environment concept art, storyboard, blocking and Seedance/scene-generation prompts must not skip Spatial V2.**
+**Future KV, environment concept art, storyboard, blocking and Seedance/scene-generation prompts must not skip V2.1 Asteroid Core Patch + Spatial V2.**
 
 ---
 
 # 03｜Active city architecture
 
-> **第二新重庆是一座建立在永久环形船坞骨架上的模块化太空城市。**
+> **第二新重庆是一座以一颗被捕获、稳定化并工程化固定的小行星为中央核心，在其外围建立永久环形船坞骨架、城区模块与多尺度桥网/服务连接的模块化太空城市。**
+
+Canonical shorthand:
+
+> **中央工程化小行星核心 + 永久环形船坞骨架 + 城区模块 + 多尺度桥网/服务连接。**
 
 Design scale direction：
 
@@ -70,13 +77,35 @@ Design scale direction：
 - major interior clear-height ≈ `200 m`；
 - ring form = architecture/topology, not gravity mechanism。
 
-Three physical scales：
+Three district/service physical scales remain：
 
 1. Permanent Ring Backbone；
 2. District Modules；
 3. Attached Service / Maintenance Modules。
 
-First-season contraction retires modules/connections, not the permanent ring backbone.
+The central asteroid core is a macro structural / industrial foundation and does not replace those three city asset scales.
+
+First-season contraction retires modules/connections, not the permanent ring backbone or central asteroid core.
+
+## Central asteroid core
+
+The city center is **not hollow**.
+
+It contains:
+
+- one captured asteroid;
+- engineered stabilization / reinforcement structure;
+- central dock / structural collar;
+- multiple bounded radial structural / service / logistics links toward the ring;
+- bounded maintenance / docking / transport work volumes around the core.
+
+The asteroid is not a bare rock magically holding the ring. It is treated as an engineered body with anchoring, restraint, inspection and redundant load paths.
+
+Critical distinction：
+
+> **central asteroid core ≠ T0 impactor.**
+
+The asteroid predates T0 and belongs to the city's construction history.
 
 ## Jialing
 
@@ -85,14 +114,19 @@ First-season contraction retires modules/connections, not the permanent ring bac
 Not：
 
 - torus central hole；
+- asteroid surface；
 - infinite canyon；
 - mandatory vertical abyss。
+
+Some Jialing views may frame the central asteroid core / radial dock structures in the distance, but Jialing remains lived public-city geography.
 
 ## Gravity readability
 
 Local Gravity Frames remain active.
 
 > **ordinary inhabited districts visually share a broadly similar nominal down; large differences are interface/damage/event exceptions.**
+
+The central asteroid's natural gravity is not normal lived-city 1G, and the ring does not rotate to generate artificial gravity.
 
 EP01 is the main Extreme gravity event; later episodes mostly use Level 1–3.
 
@@ -119,6 +153,8 @@ without physically becoming a big bridge.
 
 EP02 Trunk Bridge and the small lifeline are in the same broader connection geography but structurally independent.
 
+Radial asteroid-core structural / service links are a separate asset class and are not automatically Jialing bridges or Familiar Lifeline assets.
+
 ---
 
 # 05｜EP01 active engine + spatial lock
@@ -133,7 +169,8 @@ Important：
 - **302 itself does not detach**；
 - no system deliberate ejection；
 - no multi-layer city traversal；
-- no stale occupancy / hidden resident / HOLD CUTOVER engine。
+- no stale occupancy / hidden resident / HOLD CUTOVER engine；
+- the central asteroid core does not alter the EP01 movement chain.
 
 EP01 timing authority：
 
@@ -155,6 +192,8 @@ EP01 timing authority：
 | EP08 | same small lifeline + bridgeheads | two local public orders collide; degraded side voluntarily revokes role; maintenance humanoids still disabled |
 | EP09 | 302 as complete lived district | real/occupied/safe/maintainable; future special guarantee withdrawn; migration begins |
 | EP10 | retained city ↔ same small lifeline ↔ 302 | bulk migration mostly predates episode; small bridge is last active legacy connection and is deliberately retired healthy |
+
+The central asteroid core is the macro-city orientation foundation; it does not require a new episode-specific plot function unless later explicitly written.
 
 ---
 
@@ -250,23 +289,30 @@ EP01 only final unidentified hand; EP02 reveals her.
 - route is publicly non-generalizable；
 - final separation is mechanical, not explosive；
 - retained city regains sufficiently common public now；
-- permanent ring backbone remains.
+- permanent ring backbone remains；
+- central engineered asteroid core remains part of the retained macro-city structure unless a later explicit story decision says otherwise.
 
 ---
 
 # 11｜Verification status / current phase
 
-Spatial V2 verification report：
+Spatial V2 baseline verification report：
 
 > `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md`
 
-Result：
+Baseline result：
 
-> **PASS / active spatial-environment foundation for story + visual work.**
+> **PASS for pre-asteroid-core Spatial V2.**
+
+Current status after V2.1 patch：
+
+> **ASTEROID CORE PATCH ACTIVE / post-patch consistency re-verification pending.**
+
+Do not cite the earlier verification report as proof that the new asteroid-core geometry has already been audited.
 
 Current next story task：
 
-> **EP01 formal screenplay draft / scene writing, using `EP01-STORY-OUTLINE-V1.md` + Spatial V2.**
+> **EP01 formal screenplay draft / scene writing, using `EP01-STORY-OUTLINE-V1.md` + Spatial V2.1 + Spatial V2.**
 
 Before storyboard / production：
 
@@ -274,13 +320,15 @@ Before storyboard / production：
 2. spatial movement stays `ordinary city → 302 → service/interface → small outer attached segment → space`；
 3. no multi-layer traversal returns；
 4. Familiar Lifeline is not used in EP01 and remains a later separate small bridge asset；
-5. environment blocking receives user review before shot/Seedance handoff。
+5. environment blocking receives user review before shot/Seedance handoff；
+6. macro/exterior visuals must show asteroid-centered ring-city rather than a hollow torus.
 
 Before promotion/merge to `main`：
 
 1. story-causal readiness for the intended promotion scope must be reviewed；
-2. no stale Master/World/episode wording may override repaired story/spatial facts；
-3. user explicitly chooses PR/merge.
+2. asteroid-core patch consistency with active spatial/world/visual docs must be re-verified；
+3. no stale Master/World/episode wording may override repaired story/spatial facts；
+4. user explicitly chooses PR/merge.
 
 ---
 
@@ -288,4 +336,4 @@ Before promotion/merge to `main`：
 
 Legacy material remains available in Git history and `../北京市没有冬天/` only for provenance/non-conflicting function recovery.
 
-Historical setting text does not override active Story Repair + Spatial Environment V2.
+Historical setting text does not override active Story Repair + Spatial Environment V2.1 + Spatial Environment V2.

@@ -1,19 +1,17 @@
 # 《重庆时间》TRAILER / TEASER V3
 
 - Updated: 2026-09-02
-- Status: `ACTIVE NON-CANON EXECUTION DRAFT / V4-CANON ALIGNED`
+- Status: `ACTIVE NON-CANON EXECUTION DRAFT / STORY + SPATIAL V2 ALIGNED`
 - Target duration: `~56s`
 - Supersedes for active execution: legacy `TRAILER-TEASER-V2.md`
-- Canon basis: `CHONGQING-TIME-MASTER-CANON-V4.md` + active EP01–EP10 snapshots
+- Canon basis: `CURRENT.md` + `SPATIAL-ENVIRONMENT-CANON-V2.md` + active EP01–EP10 snapshots
 - Visual basis: `VISUAL-CONSISTENCY-BIBLE-V2.md` + `VISUAL-ANCHOR-INDEX-V2.md`
 
 ---
 
-# 01｜V3 的最高目标
+# 01｜Highest objective
 
-V3 不是把 V2 的“北京 / 冬季 / 雪”替换成几个重庆地名。
-
-它必须让观众在不到一分钟里自然读到《重庆时间》的四个核心层：
+V3 must let the audience naturally read four layers in under one minute：
 
 > **桥 = 空间连接**
 >
@@ -23,33 +21,21 @@ V3 不是把 V2 的“北京 / 冬季 / 雪”替换成几个重庆地名。
 >
 > **人物关系 = 连续性是否还能被保住**
 
-但执行原则仍然是：
+But each shot must first work as a shot.
 
-> **先让每个镜头成立，再让设定从镜头中的行动和环境自己长出来。**
+Execution principle：
 
-禁止做成：桥展示镜头 + 时间展示镜头 + 重力展示镜头的设定合集。
+> **private promise → readable ring city → forced large-bridge loss → ordinary life continues → local times diverge → tiny bridge genuinely helps → healthy shared capacity exits → local orders collide on the same tiny bridge → EP01 body crisis → rescue hand → tiny healthy final connection begins to exit → private continuity question.**
 
-V3 继承 V2 已经成立的高层语言：
-
-- 45–60 秒高密度，但不是全程快切；
-- 严肃手绘赛璐璐；
-- 巨构 / 公共系统优先于人物表情；
-- 危机主要来自仍在正常运行的系统；
-- 人体大动作稀缺；
-- 普通生活与城市裂变并置；
-- 婚礼誓词继续作为声音骨架，不改成解释主题的科幻台词。
-
-节奏：
-
-> **极静私人承诺 → 城市空间展开 → 被迫失去连接 → 日常继续 → 时间裂开 → 有限连接成功 → 公共能力收缩 → 秩序对峙 → 身体坠落 → 抓住 → 连接开始主动退出 → 极静私人连续性疑问。**
+No encyclopedic montage.
 
 ---
 
-# 02｜声音骨架：婚礼誓词继续保留
+# 02｜Sound spine — wedding vow remains ordinary
 
-使用普通传统婚礼誓词，不给角色塞主题说明。
+Use ordinary traditional wedding-vow language, not theme exposition.
 
-建议骨架：
+Direction：
 
 > 我愿意与你结为夫妻。
 >
@@ -65,450 +51,430 @@ V3 继承 V2 已经成立的高层语言：
 >
 > 将我们分开。
 
-禁止加入：
+Do not add：
 
-- “同一个现实”；
-- “同一个时间”；
-- “桥”；
-- “协议”；
-- “连续性”；
-- “共同重庆”；
-- 任何替观众解释母题的作者台词。
+- common reality；
+- common time；
+- bridge；
+- protocol；
+- continuity；
+- explanatory sci-fi language。
 
-V2 的关键反义剪辑继续保留：
+Key anti-meaning cut remains：
 
-> **“将我们分开。” → 女科长真实抓住坠落男主。**
-
-这仍然是 teaser 中唯一需要明确字面反义的声音—画面关系。
+> **“将我们分开。” → a real human hand catches the male.**
 
 ---
 
-# 03｜56 秒 V3 Shot List
+# 03｜56-second shot list — Spatial V2
 
-精确秒数后期允许 ±1–2 秒微调；必须保留结构和信息层级。
+Exact seconds may shift ±1–2s later.
 
 ## SEQ A｜私人承诺 / 城市第一次出现｜0:00–0:07
 
-### SHOT 01｜0:00–0:03｜3s｜婚礼公共厅 / 固定超大全景
+### SHOT 01｜0:00–0:03｜Wedding civic hall
 
-- 第二新重庆市公共婚礼 / 纪念仪式空间；
-- 严格中轴；
-- 红毯克制；
-- 人很小；
-- 老旧公共钢结构；
-- 远处工程开口中可见地球，但地球不抢画面；
-- 清洁机器人仍按程序工作。
+- monumental but restrained public ceremony interior；
+- red carpet/ceremony red only strong color；
+- people small；
+- aged municipal steel structure；
+- cleaning robot continues normal work；
+- exterior opening/view, if present, follows ring-city geometry; Earth tiny/subordinate only if useful。
 
-声音：
+Sound：
 
 > “我愿意与你结为夫妻。”
 
-功能：先建立“有人仍然在过日子”。
+Function：life continues.
 
-### SHOT 02｜0:03–0:07｜4s｜嘉陵江第一次建立
+### SHOT 02｜0:03–0:07｜Jialing V2 establishing
 
-从公共层看向巨大的封闭人工结构空腔：
+First spatial business card：
 
-- 上下不同高度横跨大量桥梁；
-- 轨道桥 / 区域桥 / 服务桥有明显尺度等级；
-- 人、列车、维修灯都很小；
-- 巨构边界清晰，空间巨大但有限；
-- 极远的工程观察 / 外层开口后方看到遥远地球。
+- **finite broad urban/public corridor inside the ring city**；
+- lived district masses clearly visible on both sides；
+- one large public bridge plus visibly smaller service/maintenance connections；
+- rail/public utility activity；
+- shared infrastructure embedded around the corridor；
+- clear structural boundaries；
+- no endless vertical abyss；
+- no torus-central-hole reading。
 
-声音：
+Sound：
 
 > “从今以后——”
 
-不出现“这就是嘉陵江”的说明字幕。
+No explanatory `嘉陵江` caption.
 
-这是作品第一张空间名片：
+Audience first understands：
 
-> **重庆不是一块地，而是一张桥网。**
-
----
-
-## SEQ B｜第一座重要桥保不住｜0:07–0:14
-
-### SHOT 03｜0:07–0:11｜4s｜EP02 嘉陵江主桥 / 极远固定
-
-- 一座城市主桥仍在承担最后阶段疏散 / 物流；
-- 桥体有长期加固和维修痕迹；
-- 两侧城区仍亮着；
-- 支撑、重力过渡和维护设备仍在工作；
-- 结构出现不可逆错位，缓慢进入受控分离；
-- 不爆炸。
-
-重点不是“桥坏得多壮观”，而是：
-
-> **大家仍在救，它仍然失去。**
-
-### SHOT 04｜0:11–0:14｜3s｜嘉陵江公共生活层
-
-同一空间附近：
-
-- 小店照常营业；
-- 一个维修工把工具箱放下喝水；
-- 远景可看到刚失去连接的桥位；
-- 另一座桥上仍有人正常通勤。
-
-功能：第一根“生活针脚”。
+> **这座城市靠很多不同尺度的连接活着。**
 
 ---
 
-## SEQ C｜《重庆时间》被观众第一次看懂｜0:14–0:22
+## SEQ B｜第一座大桥保不住｜0:07–0:14
 
-### SHOT 05｜0:14–0:18｜4s｜第二新重庆车站 / 同一站厅不同 local now
+### SHOT 03｜0:07–0:11｜EP02 Level-1 Trunk Bridge
 
-沿用 KV01 内容锁，但采用 V2 简化赛璐璐语言：
+- unmistakably large city-scale bridge；
+- final evacuation/service still occurring；
+- long repair/support history visible；
+- two district sides still lit；
+- controlled unloading/separation；
+- no explosion。
 
-- 2.35:1；
-- 正面中央透视；
-- 左右旧白色客运列车；
-- 左侧黄昏暖光；
-- 右侧夜间冷蓝公共照明；
-- 同一站厅仍正常运行；
-- 最多出现一组克制公共时钟 / 班次状态，不靠大量文字解释；
-- 无雪、无雨。
+Core：
 
-观众第一眼必须读到：
+> **大家仍想保，它仍然必须退出。**
 
-> **同一座重庆，已经不共享同一个生活时刻。**
+### SHOT 04｜0:11–0:14｜ordinary Jialing-side life after trunk loss
 
-### SHOT 06｜0:18–0:22｜4s｜正常接口 / 一侧日间、一侧夜间
+- small shop/public service still operating；
+- worker pauses with tool case；
+- lost large bridge location visible as a topology gap；
+- another distant route still functions；
+- a **tiny maintenance connection** can exist in the geography without being highlighted yet。
 
-完全封闭的跨区公共接口 / 桥接空间：
-
-- 左右是不同 public-time lighting state；
-- 没有天空；
-- 人员、班次、清洁 / 维护行为也处在不同日常周期；
-- 结构本身没有魔法边界；
-- 一个普通人穿过后进入另一套生活节律。
-
-时间断层靠生活和光区成立，不靠暴雪、传送门、时空裂缝。
+Function：city did not end when one big bridge did.
 
 ---
 
-## SEQ D｜有限连接真的救到人｜0:22–0:28
+## SEQ C｜《重庆时间》第一次被看懂｜0:14–0:22
 
-### SHOT 07｜0:22–0:25｜3s｜EP03 嘉陵江维护生命线
+### SHOT 05｜0:14–0:18｜station / connected civic zones with different Local Public Time
 
-- 很窄、很普通、明显不是为公众大流量设计的维护桥；
-- 医疗物资 / 担架固定在桥面运输系统上；
-- 人员扶栏；
-- 轻微重力过渡使悬挂物和人体姿态略偏；
-- 没有“医疗转运通道”大字；
-- 不英雄化。
+Use KV01's approved municipal/station DNA, but Spatial V2 geography：
 
-它的意义来自：
+- old off-white passenger trains；
+- maintained aged district-scale station/interface；
+- one connected zone in brighter work-cycle lighting, another in later/night public lighting；
+- different service/people rhythms make the contrast readable；
+- restrained clock/status only confirms；
+- no snow/rain requirement；
+- no implication ordinary district gravity directions differ wildly。
 
-> **这条不起眼的桥真的把一次现实行动接起来了。**
+Audience reads：
 
-### SHOT 08｜0:25–0:28｜3s｜EP04 同一桥已经成为生活
+> **同一座重庆已经不共享完全相同的生活时刻。**
 
-同一结构、明显更日常：
+### SHOT 06｜0:18–0:22｜ordinary cross-district interface
 
-- 小容量排队；
-- 工业机器人搬普通货物；
-- 熟练维护人员；
-- 一个普通居民已经知道哪里需要扶栏；
-- 远处嘉陵江桥网仍存在。
+- finite enclosed municipal connector；
+- two sides in different civic operating rhythms；
+- normal person moves through；
+- no portal / magical day-night wall；
+- modest Gravity Handoff can remain stable/background。
 
-不解释“这就是上一集的桥”。
+---
 
-通过形体、导视和结构连续性让观众认出来。
+## SEQ D｜不起眼的小桥真的救到人｜0:22–0:28
+
+### SHOT 07｜0:22–0:25｜EP03 Familiar Lifeline
+
+Hard spatial lock：
+
+> **physically small Level-4 maintenance bridge.**
+
+- narrow passage；
+- compact bridgeheads；
+- medical box on small transport rack；
+- people use handrail；
+- modest gravity handoff posture change；
+- industrial rather than landmark design；
+- no giant crowd；
+- no `医疗转运通道` sign。
+
+Meaning：
+
+> **这么小、这么普通的东西，真的把一次现实行动接起来了。**
+
+### SHOT 08｜0:25–0:28｜EP04 same small bridge, now ordinary
+
+Same exact physical structure：
+
+- small low-capacity queue；
+- ordinary cargo/industrial humanoid；
+- maintenance worker knows routine；
+- resident naturally knows where to hold railing；
+- physical scale unchanged。
+
+Recognition comes from shape/bridgeheads, not caption.
 
 ---
 
 ## SEQ E｜全部保存开始失败｜0:28–0:34
 
-### SHOT 09｜0:28–0:31｜3s｜EP07 共享 Hub
+### SHOT 09｜0:28–0:31｜EP07 Shared Hub family
 
-- A / B 两片城区与一个共享市政节点同框；
-- Hub 本身完好、灯亮、正常工作；
-- 一侧能力恢复时另一侧出现明显降级；
-- 不做夸张 HUD。
+- Hub belongs to Jialing shared-infrastructure family, not a new giant central city；
+- A/B local regions + one shared municipal system relation readable；
+- Hub healthy and lit；
+- when one side improves, other visibly degrades；
+- low HUD density。
 
-### SHOT 10｜0:31–0:34｜3s｜Hub 主动退出
+### SHOT 10｜0:31–0:34｜healthy Hub role retires
 
-同一大空间关系：
+Same spatial family：
 
-- Hub 逐层退出；
-- A、B 都没有熄灭，而是一起降级活着；
-- 少量系统 / 公共设备切换到本地模式。
+- shared-control layers quietly go offline；
+- A/B remain lit, both lower-capability/local；
+- no destruction spectacle。
 
-观众只需要理解：
+Audience reads：
 
 > **一个没坏的东西被关掉了，两边才同时留下。**
 
-这是 EP10 的早期视觉债务。
-
 ---
 
-## SEQ F｜秩序在那条救命桥上相遇｜0:34–0:40
+## SEQ F｜两套秩序在同一条小桥桥头相遇｜0:34–0:40
 
-### SHOT 11｜0:34–0:37｜3s｜EP08 桥上对峙建立
+### SHOT 11｜0:34–0:37｜EP08 two bridgeheads
 
-同一条从 EP03–04 长出来的公共桥 / 接口：
+Exact same Familiar Lifeline from SHOT 07/08：
 
-一侧：
+- narrow Level-4 bridge in center；
+- degraded-side compact maintenance bridgehead with multiple ordinary industrial humanoids and active interface equipment；
+- opposite bridgehead has one medium quadruped public-safety platform + staff；
+- quadruped more specialized/larger；
+- degraded robots ordinary, worn, maintenance-oriented；
+- bridge remains a real route；
+- Jialing context only as finite surrounding urban corridor, not giant abyss。
 
-- **1 台中型四足公共安全机器人**；
-- 专用、完整、体量明显更大。
+Hard locks：
 
-退化群岛侧：
+- no wheeled vehicles；
+- no mech army；
+- no wide military deck；
+- no `医疗转运通道`。
 
-- **多台普通工业人形机器人**；
-- 被本地 AI 调配来维护秩序；
-- 设备更旧、更普通，数量多但专业能力差。
+### SHOT 12｜0:37–0:40｜procedural tension
 
-硬锁：
-
-- 不要轮式车辆；
-- 不要机甲战争；
-- 不要大面积军事标识；
-- 不写“医疗转运通道”；
-- 桥下必须仍读得到嘉陵江封闭巨构空间。
-
-### SHOT 12｜0:37–0:40｜3s｜标准动作互相指向
-
-- 四足平台稳定转向；
-- 多台人形机器人同步进入阻挡 / 警戒姿态；
-- 桥中央仍保留真正需要通行的公共空间；
-- 双方动作都克制、规范、有程序感；
-- 不开火。
-
-核心：
-
-> **不是机器人失控，是两套都在保护人的秩序对准了彼此。**
+- humanoids lower/adjust tools or enter disciplined barrier posture；
+- quadruped turns/holds position；
+- actual bridgehead maintenance still visible；
+- no firing；
+- conflict reads as civic procedure colliding with civic procedure。
 
 ---
 
 ## SEQ G｜城市问题压到人的身体｜0:40–0:48
 
-### SHOT 13｜0:40–0:42｜2s｜EP01 重力前兆
+### SHOT 13｜0:40–0:42｜EP01 Gravity precursor inside 302
 
-- 一枚螺丝 / 工具向不该去的方向移动；
-- 男主脚下浮尘改变方向；
-- 空间声突然抽空一层。
+- small tool moves wrong way；
+- condensation/dust shifts；
+- old 302 service/interface environment；
+- one clear nominal orientation beginning to fail；
+- no giant `GRAVITY ERROR` text。
 
-不要显示“GRAVITY ERROR”大字。
+### SHOT 14｜0:42–0:46｜EP01 fall toward outer attached segment
 
-### SHOT 14｜0:42–0:46｜4s｜男主坠落
+Spatial V2 lock：
 
-- Local Gravity Frame 极端失配；
-- 男主从结构边缘失去“下方”；
-- 巨构压倒人物；
-- 嘉陵江 / 桥梁结构可成为背景尺度线索；
-- 人迅速变小；
-- 不拍长时间惊恐脸。
+- action remains within 302 Gravity Service / outer-interface route；
+- abnormal vector turns old wall/ceiling into fall direction；
+- male is carried toward one visible outer securing target；
+- no falling through multiple city layers；
+- no Jialing-as-background requirement；
+- the outer edge/space-facing direction is legible；
+- human rapidly becomes small against **one local structural volume**, not an infinite city abyss。
 
-这是全 teaser 最大人体动作。
+This is teaser's largest body action.
 
-### SHOT 15｜0:46–0:48｜2s｜戒指极静
+### SHOT 15｜0:46–0:48｜ring / wedding quiet beat
 
-婚礼厅。
+Wedding hall.
 
-新娘拿起戒指，新郎伸手。
+Bride raises ring; groom offers hand.
 
-声音压到：
+Sound reaches：
 
 > “直到死亡——”
 
-所有机械危机暂时退出。
+Mechanical crisis disappears for two seconds.
 
 ---
 
 ## SEQ H｜抓住 / 主动断开 / 私人连续性疑问｜0:48–0:56
 
-### SHOT 16｜0:48–0:51｜3s｜抓手
+### SHOT 16｜0:48–0:51｜physical rescue hand
 
-声音：
+Sound：
 
 > **“将我们分开。”**
 
-硬切回男主坠落。
+Hard cut to exterior drift.
 
-女科长抓住男主手腕 / 袖口。
+A real EVA-gloved human hand catches male's wrist / rescue point.
 
-- 不慢动作；
-- 真实重量把她身体拉偏；
-- 手、肩、衣料、惯性有明确重量；
-- 这是全 teaser 唯一真正人类动作高潮。
+- not slow-motion hero shot；
+- real inertia/weight shift；
+- no AI dialogue；
+- teaser may reveal woman visually only if current promo strategy allows; episode itself still withholds identity until EP02。
 
-### SHOT 17｜0:51–0:54｜3s｜一座仍亮着的桥开始退出
+### SHOT 17｜0:51–0:54｜EP10 hint: same small healthy Lifeline starts final release
 
-不是灾难爆炸镜头。
+This is **not a big bridge**.
 
-- 桥上已经无人；
-- 灯仍正常；
-- 结构没有坍塌；
-- 服务灯 / 状态仍显示可运行感；
-- 机械锁逐组释放；
-- 桥体极慢地与一侧脱开。
+- exact same narrow maintenance-bridge silhouette/bridgeheads established in SHOT 07/08/11；
+- no crowd; people/services already largely cleared；
+- lights/status still normal；
+- small Gravity/service connections entering orderly unload；
+- mechanical lock begins quiet release；
+- permanent ring backbone remains in the wider city context；
+- no explosion。
 
-不告诉观众这是 EP10 哪一座桥，不剧透私人 AI 选择。
+Do not explain which episode/AI cost.
 
-只留下一个问题：
+Leave question：
 
-> **为什么一座还能工作的桥，也要被断开？**
+> **为什么这条救过人、还正常的小桥，也要被断开？**
 
-这就是 V3 对《桥》的 A + 少量 B：作用于戏剧结构，不做表面翻拍。
+### SHOT 18｜0:54–0:56｜wedding continuity image → title
 
-### SHOT 18｜0:54–0:56｜2s｜婚礼同构 → 片名
+Return wedding.
 
-回到婚礼。
-
-- 戒指动作继续；
-- 新郎位置 / 形象出现非常轻微的不连续或已经空缺；
-- 城市公共系统仍在继续；
-- 不做大 glitch。
+- ring action continues；
+- very light discontinuity only if compatible with EP05 reveal strategy；
+- no giant glitch；
+- ordinary civic system continues。
 
 CUT TO BLACK：
 
 > **《重庆时间》**
 
-不追加解释性副标题。
+No explanatory subtitle.
 
 ---
 
-# 04｜V3 视觉优先级
+# 04｜V3 visual priority — Spatial V2
 
-## 第一优先：嘉陵江桥网 Establishing
+## Priority 1｜Ring-city orientation + Jialing V2
 
-必须一眼成立：
+Before teaser production, audience must be able to read：
 
-- 巨大封闭人工峡谷；
-- 多层、多尺度桥；
-- 上下左右都是城市结构；
-- 城市不是建立在连续地面上；
-- 远方地球只是稳定外部参照，不是主角。
+- finite irregular ring-city identity；
+- district modules；
+- Jialing as finite internal urban/public corridor；
+- clearly different bridge scales；
+- no infinite vertical megacity。
 
-这是《重庆时间》区别于普通空间站 / 赛博城市的首要空间资产。
+## Priority 2｜small Familiar Lifeline identity
 
-## 第二优先：第二新重庆车站时间断层
+The exact same small bridge needs a stable visual identity across：
 
-保留已批准 KV01 的内容基础：
+> EP03 → EP04 → EP08 → EP10。
 
-- 同一站厅；
-- 左黄昏、右夜间；
-- 旧白客运列车；
-- 公共系统仍运行；
-- 低文字密度；
-- 无雪。
+It must remain physically small in every appearance.
 
-## 第三优先：EP08 嘉陵江桥上武装对峙
+## Priority 3｜EP02 large Trunk Bridge contrast
 
-必须读到资源差异和真实公共接口：
+Viewer should immediately know：
 
-> **一台更专业的中型四足平台 vs 多台普通工业人形机器人。**
+> EP02 big bridge ≠ Familiar Lifeline。
 
-不是“双方各摆一支军队”。
+## Priority 4｜302 orientation / EP01 route
 
-## 第四优先：EP02 / EP10 两种断桥的对照
+Need a readable design showing：
 
-V3 内部视觉逻辑必须清楚区分：
+> 302 city-facing side → service/gravity side → small outer attached segment → space。
 
-- EP02：桥已被损伤逼到不能继续保，大家想保而保不住；
-- EP10 hint：桥仍正常，城市主动结束连接。
+No stacked-city traversal.
 
-## 第五优先：重力身体动作
+## Priority 5｜Local Public Time
 
-只让 EP01 的坠落成为最大人体奇观。
+Use station/ordinary interface to establish different civic rhythms.
 
-其他重力异常靠：
+## Priority 6｜EP06/07 shared infrastructure
 
-- 悬挂物偏斜；
-- 液面倾斜；
-- 扶栏；
-- 步态修正；
-- 货物固定；
-
-建立持续存在感。
+Same infrastructure family, not new macro districts.
 
 ---
 
-# 05｜赛璐璐执行硬规则
+# 05｜Cel execution hard rules
 
-采用 `VISUAL-CONSISTENCY-BIBLE-V2.md` 的简化巨构语言：
+Use `VISUAL-CONSISTENCY-BIBLE-V2.md`：
 
-- 2.35:1 为当前 KV / scene 默认；
-- 大钢板、大梁柱、大桥面、少量粗管线优先；
-- 机械微细节较高密度 3D hard-SF 方案减少约 40–50%；
-- 2–3 档硬边阴影；
-- 清晰线稿层级；
-- 冷灰蓝 / 深钢蓝 / 旧白为基础；
-- 少量暗红只承担公共警示 / 仪式点色；
-- 低镜面、低 bloom；
-- 禁止高频 greeble、密集小灯、密集窗口、屏幕海、文字海；
-- 人和机器人优先作为尺度与公共行动证据，不抢巨构。
+- 2.35:1 current default；
+- large steel plates / beams / decks / few thick pipes；
+- reduce micro mechanical detail ~40–50% vs dense hard-SF treatment；
+- 2–3 hard cel-shadow tiers；
+- clear line hierarchy；
+- cold gray-blue / deep steel blue / aged white；
+- restrained muted red；
+- low reflection / bloom；
+- no dense greeble, tiny lights/windows, screen/text sea；
+- people/robots = scale + civic action evidence。
 
-危机公式继续成立：
+Crisis formula：
 
-> **异常城市状态 × 正常公共运行 = 不安。**
+> **abnormal city state × normal public operation = unease.**
 
-但 V3 的“正常运行”具体化为：
+Concrete normal operation：
 
-- 列车仍到站；
-- 商店仍营业；
-- 桥仍排班；
-- 清洁机器人仍清扫；
-- 重力转换失败时人已经学会扶栏；
-- 安全机器人严格按程序维护秩序；
-- 桥在断开之前甚至仍显示可运行。
-
----
-
-# 06｜V3 Hard Prohibitions
-
-- 不出现第二新北京 / 北京作为 active visible city naming；
-- 不以冬季、雪、暴雪、清雪作为当前故事机制；
-- 不用一侧下雪一侧不下雪表达时间；
-- 不把 Local Public Time 做成魔法昼夜结界；
-- 不把重力异常自动解释为时间异常；
-- 不把所有镜头都放在嘉陵江；
-- 不让每集元素在 teaser 中平均分配；
-- 不把嘉陵江画成开放太空峡谷或真正有水的河；
-- 不把地球画得巨大并成为主视觉；
-- 不把桥网做成无限无边城市深渊；
-- 不用爆炸代替桥梁机械分离；
-- 不剧透私人 AI 的 EP10 完整选择；
-- 不出现军队式机器人阵列、机甲战争、轮式安保车；
-- 不出现“医疗转运通道”大字；
-- 不添加宣传口号、英雄雕像、巨大徽章；
-- 不用大量 clocks / UI / labels 解释设定；
-- 不把婚礼誓词改写成主题论文。
+- trains still arrive；
+- shops still open/close；
+- tiny lifeline still follows schedule；
+- cleaning robot still works；
+- people already know how to hold rail through mild gravity transition；
+- security systems follow procedure；
+- healthy bridge can still display normal state before retirement。
 
 ---
 
-# 07｜V3 与旧 V2 的功能替换表
+# 06｜V3 Hard Prohibitions — Spatial V2
 
-| V2 旧功能 | V3 新承担方式 |
+- no Beijing / winter / snow active mechanism；
+- no magical day-night barrier；
+- no time anomaly automatically causing gravity anomaly；
+- no `嘉陵江 = torus central hole`；
+- no giant enclosed infinite canyon / endless bridge levels；
+- no ordinary city defaulting to extreme rotated districts；
+- no every-shot Jialing spectacle；
+- no giant Earth as subject；
+- no explosion replacing mechanical bridge separation；
+- no giant Familiar Lifeline；
+- no physical scale change of Familiar Lifeline between EP03/04/08/10；
+- no EP08 giant military bridge deck / mech army / wheeled security car；
+- no EP01 multi-layer fall through the city；
+- no whole-302 ejection；
+- no EP10 giant evacuation crowd on the tiny bridge；
+- no cutting permanent ring backbone；
+- no promo shot accidentally reactivating stale occupancy/hidden-resident EP01；
+- no large UI/clock/text explanation；
+- no wedding vow rewritten as thematic essay.
+
+---
+
+# 07｜Old visual-function replacement table
+
+| Superseded visual function | Spatial V2 successor |
 |---|---|
-| 北京轨道巨城辨识 | 第二新重庆桥网城市 + 嘉陵江 |
-| 双时间 / 双季节 | 同一城市不同 Local Public Time：白天 / 黄昏 / 夜晚 |
-| 雪 / 清雪制造状态差 | 公共照明、班次、营业、作息和服务模式制造时间差 |
-| 暴雪基础设施危机 | 重力过渡、桥网退化、仍在运行的公共设备 |
-| 地面公共安全 checkpoint | 嘉陵江悬空公共桥 / 接口上的地方秩序重叠 |
-| 抽象跨区结构分离 | 城市主桥在桥网中的 forced loss |
-| 终局冬季统一想象 | teaser 不剧透终局；以“健康桥也开始退出”预埋主动收缩 |
+| Beijing/winter city identity | modular ring-shipyard Second New Chongqing |
+| giant vertical city abyss | finite Jialing urban corridor + clear bridge scale hierarchy |
+| generic multi-layer city scale | ring backbone + district modules + 200m clear-height scale |
+| “all bridges are big” | Level-1 Trunk vs Level-4 small Lifeline contrast |
+| ground EP08 checkpoint | two small lifeline bridgeheads |
+| abstract gravity fall through megacity | one 302 service/interface route toward outer attached segment |
+| anonymous healthy finale bridge | exact same small EP03/04/08 Familiar Lifeline |
+| bulk finale evacuation spectacle | pre-episode staged migration + final low-volume cutover |
 
-原则：
-
-> **任何被移除的旧视觉机制，都已经有新的剧情 / 空间功能承接；不得在后续分镜阶段因为“少了雪”再临时添加无因果奇观。**
+No removed visual function remains without successor.
 
 ---
 
-# 08｜当前制作顺序建议
+# 08｜Current production order
 
-1. 嘉陵江 Establishing KV；
-2. 第二新重庆车站 V4-consistent KV；
-3. EP08 嘉陵江桥上武装对峙 KV；
-4. EP03→EP04 熟悉生命线桥的状态设计；
-5. EP02 forced-loss 主桥；
-6. EP07 shared Hub；
-7. EP01 gravity fall / grab two-frame pair；
-8. EP10 non-spoiler healthy-bridge disengagement hint；
-9. 婚礼 continuity shots；
-10. 再按 Shot Asset List 拆生成段。
+Before shot-by-shot generation：
 
-后续生成不得跳过 `SCENE-PROMPT-TEMPLATE-V2.md` 的 Canon / Dramatic / Visual Handshake。
+1. `RING-ORIENT-01` overall ring-city orientation；
+2. `RING-TOPO-01` unrolled topology；
+3. `JIALING-V2-01` finite corridor / bridge scale reference；
+4. `302-ORIENT-01` city-facing vs space-facing；
+5. `EP02-TRUNK-01` large Level-1 bridge；
+6. `LIFELINE-SMALL-01` same small bridge + bridgeheads；
+7. `SHARED-INFRA-V2-01` EP06/07 family；
+8. `EP01-DETACH-01` outer attached segment geometry；
+9. then teaser shot assets.
+
+All future generation must pass `SCENE-PROMPT-TEMPLATE-V2.md` Spatial / Canon / Dramatic / Visual Handshake.

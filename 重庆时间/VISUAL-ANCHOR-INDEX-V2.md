@@ -1,7 +1,7 @@
 # 《重庆时间》VISUAL ANCHOR INDEX V2
 
 - Updated: 2026-09-02
-- Status: `ACTIVE VISUAL ANCHOR / DIRECTION INDEX / SPATIAL V2.1 ASTEROID CORE RECONCILED`
+- Status: `ACTIVE VISUAL ANCHOR / DIRECTION INDEX / SPATIAL V2.1 + SEEDANCE MASTER B RECONCILED`
 - Canon basis: `CURRENT.md`, `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md`, `SPATIAL-ENVIRONMENT-CANON-V2.md`, Master / World / Episode snapshots
 - Rule: later Canon supersedes accidental spatial/content details in older images; approved render/material/drawing DNA may remain active.
 
@@ -9,12 +9,12 @@
 
 # 01｜Global anchor hierarchy
 
-When generating a new large-setting KV, prioritize:
+When generating a new large-setting KV or production motion source, prioritize:
 
 1. current user instruction;
 2. `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md` + `SPATIAL-ENVIRONMENT-CANON-V2.md` + current story/episode facts;
-3. `VISUAL-CONSISTENCY-BIBLE-V2.md` / `SCENE-PROMPT-TEMPLATE-V2.md`;
-4. scene-specific approved anchor content **only where geometry remains compatible**;
+3. approved scene/macro visual master where geometry remains Canon-compatible;
+4. `VISUAL-CONSISTENCY-BIBLE-V2.md` / `SCENE-PROMPT-TEMPLATE-V2.md`;
 5. cross-scene approved art/render/material DNA;
 6. older image details only when non-conflicting.
 
@@ -24,6 +24,11 @@ Two separate statuses must always be distinguished:
 
 - **STYLE / RENDER VALID** — linework, cel shading, material simplification, scale language can still be used;
 - **GEOMETRY VALID / SUPERSEDED** — whether that image's actual city layout remains compatible with Spatial V2.1 + V2.
+
+For Seedance production also distinguish:
+
+- **DESIGN REFERENCE** — may be visually informative but too detailed / unstable for direct image-to-video;
+- **PRODUCTION MASTER** — approved source image intended to be supplied directly to Seedance.
 
 ---
 
@@ -174,11 +179,11 @@ KV04 may inform a **large Level-1 Trunk Bridge** separation if its scale is comp
 
 Do **not** copy KV04's large-bridge mass if that makes the Familiar Lifeline monumental.
 
-EP10 final physical asset is:
+EP10 current Canon final physical bridge asset remains:
 
 > **the same small Level-4 Familiar Lifeline introduced in EP03.**
 
-Only the procedural/mechanical grammar transfers: service exit → Gravity/protocol unload → quiet mechanical release.
+Only the procedural/mechanical grammar transfers unless a later explicit EP10 macro-spatial patch changes the finale architecture.
 
 ---
 
@@ -233,46 +238,85 @@ Any previous “suspended giant public bridge” reading is no longer active if 
 
 ---
 
-# 09｜New Spatial V2.1 anchor families to develop
+# 09｜RING-ORIENT-01 — Second New Chongqing macro exterior
 
-These are Canon-defined but not yet promoted image anchors.
+Status:
 
-## RING-ORIENT-01
+> **APPROVED / ACTIVE MACRO ORIENTATION ANCHOR**
+>
+> **APPROVED / ACTIVE SEEDANCE 2.5 PRODUCTION MASTER B**
 
-> **Overall exterior/orientation: one finite irregular asteroid-centered ring-shipyard city, with a visibly engineered central asteroid core, permanent ring backbone, radial structural/service relationships, large district modules and small attached service structures.**
+The user explicitly approved the Seedance-optimized B image as the production source.
 
-Current textual execution status:
+## Production asset
 
-> **ASTEROID-CORE TEXT / ENGINEERING DIRECTION LOCKED — IMAGE NOT YET APPROVED**
+> `assets/visual/second-new-chongqing/SECOND_NEW_CHONGQING_SEEDANCE_MASTER_B.webp`
 
-Canon patch:
+## Production master document
+
+> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-MASTER-B.md`
+
+## Seedance prompt document
+
+> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-VIDEO-PROMPT-B.md`
+
+## Canon basis
 
 > `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md`
+>
+> `SPATIAL-ENVIRONMENT-CANON-V2.md`
 
-Current exterior execution spec:
+## Macro geometry locked by approved B
 
-> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
+- one complete, finite, closed outer ring-city silhouette;
+- one visible engineered central asteroid core;
+- central asteroid remains natural rock integrated with an industrial collar / support system;
+- a limited number of major radial structural/service links;
+- thick modular outer district/service ring, not one smooth tube;
+- old off-white / cold gray-blue dominant modules;
+- selected faded industrial-red / rust-brown legacy/repair region;
+- one strong T0 historical impact + long-term repair landmark on the outer ring;
+- Earth remains small and distant; no low-Earth-orbit read;
+- mature simplified cel-animation environment rendering;
+- Seedance-friendly reduction of high-frequency micro-detail.
 
-The older V1 exterior spec is superseded for central geometry.
+## Production hierarchy
 
-Hard visual/engineering locks for the next redraw:
+For exterior motion work:
 
-- city center is **not hollow**;
-- a real captured/stabilized/engineered asteroid is the central mass;
-- asteroid is integrated through structural collar / reinforcement / anchor zones and a limited set of readable radial structural/service links;
-- central asteroid is **not** T0 impactor;
-- central asteroid natural gravity does not provide normal city 1G;
-- main-ring centerline radius visual direction ≈ `1 km`, not 22 km;
-- ring topology does **not** generate artificial gravity;
-- permanent ring reads as segmented backbone / shipyard skeleton, not one monolithic solid donut shell;
-- district modules vary by age, size and repair generation;
-- bounded work/transport clearances may remain around the asteroid, but the center must not read as a giant empty torus hole;
-- Jialing is not the torus hole and is not the asteroid itself;
-- external structure must show historical T0 meteor-impact damage plus emergency sealing, later reinforcement and long-term maintenance scars elsewhere on the city;
-- materials/structure must read as physically serviceable layered construction rather than decorative hard-surface armor;
-- rendering inherits the approved simplified cel-animation language, especially KV05's `large shapes first; micro-detail second` rule.
+> **B source image supplies geometry. Prompt supplies camera, motion, continuity and anti-drift constraints.**
 
-Generated draft `20c61a92-d3d0-4d86-b9eb-e9e3ce9a76e4` remains provenance only and is **not** an approved visual anchor because it predates the asteroid-core macro correction.
+Do not ask Seedance to redesign the station from prose when B is available.
+
+A separate high-detail A image is **not required** as a production dependency.
+
+Older high-detail exterior concepts remain provenance/engineering references only.
+
+## Motion-master constraints
+
+Preserve before micro detail:
+
+1. ring silhouette;
+2. asteroid core;
+3. radial-link layout impression;
+4. T0 repair-sector location;
+5. district massing/color family;
+6. distant Earth relation;
+7. cel-shaded large-shape language.
+
+Micro details such as exact antenna count, tiny lights, panel seams or maintenance craft are expendable.
+
+## EP10 note
+
+B is the intact-city macro production baseline.
+
+A larger EP10 macro separation / Legacy Sector release has been discussed, but until explicitly promoted into story/spatial Canon it remains **provisional design exploration**.
+
+If approved later, derive dedicated before/after motion masters from B instead of asking one source frame to invent a major structural split.
+
+---
+
+# 10｜Other Spatial V2.1 anchor families to develop
 
 ## RING-TOPO-01
 
@@ -318,7 +362,7 @@ Anchor promotion requires actual generated image + user approval.
 
 ---
 
-# 10｜Anchor anti-drift rules
+# 11｜Anchor anti-drift rules
 
 - approved image ≠ every accidental sign is Canon;
 - approved style ≠ approved geography forever;
@@ -333,17 +377,18 @@ Anchor promotion requires actual generated image + user approval.
 - Jialing is never torus central hole / infinite canyon;
 - ordinary districts do not default to dramatic rotational orientation;
 - EP02 Trunk Bridge and Familiar Lifeline must read as different physical scales;
-- Familiar Lifeline stays small through EP10;
+- Familiar Lifeline stays small through EP10 unless explicit later Canon supersedes that physical fact;
 - EP08 is bridgehead pressure, not giant military bridge;
 - EP10 does not show entire 302 population flooding across the small bridge;
 - gravity does not need extreme inversion in every shot;
 - people/vehicles/robots are scale + public behavior, not clutter;
 - if image reads as 3D hard-SF rather than drawn cel background, simplify before adding detail;
+- exterior motion generation must prioritize source-image geometry continuity over added micro detail;
 - ring-city exterior must never reintroduce `22 km`, centrifugal gravity, hollow torus center, or a giant floating central city replacing the asteroid core.
 
 ---
 
-# 11｜Geometry supersession rule for old approved images
+# 12｜Geometry supersession rule for old approved images
 
 Whenever an older approved image conflicts with Spatial V2.1 + V2, record/use it as:
 
@@ -356,6 +401,7 @@ exact_location_geometry: SUPERSEDED
 bridge_scale: RECHECK
 spatial_orientation: RECHECK
 central_core_geometry: RECHECK
+production_master_status: RECHECK
 ```
 
 This allows the project to preserve what the user liked without keeping obsolete geography alive.

@@ -241,6 +241,28 @@ These are Canon-defined but not yet promoted image anchors.
 
 > Overall exterior/orientation: one finite irregular ring-shipyard city, permanent ring backbone, large district modules, small attached service structures, clearly different bridge scales.
 
+Current textual execution status:
+
+> **TEXT / ENGINEERING DIRECTION LOCKED — IMAGE NOT YET APPROVED**
+
+Execution spec:
+
+> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
+
+Hard visual/engineering locks for the next redraw:
+
+- main-ring centerline radius visual direction ≈ `1 km`, not 22 km;
+- ring topology does **not** generate artificial gravity;
+- permanent ring reads as segmented backbone / shipyard skeleton, not one monolithic solid donut shell;
+- district modules vary by age, size and repair generation;
+- central shipyard / structural void remains primarily open, with no giant floating central city;
+- Jialing is not the torus hole and is not represented as a central city disk;
+- external structure must show historical T0 meteor-impact damage plus emergency sealing, later reinforcement and long-term maintenance scars;
+- materials/structure must read as physically serviceable layered construction rather than decorative hard-surface armor;
+- rendering inherits the approved simplified cel-animation language, especially KV05's `large shapes first; micro-detail second` rule.
+
+Generated draft `20c61a92-d3d0-4d86-b9eb-e9e3ce9a76e4` remains provenance only and is **not** an approved visual anchor.
+
 ## RING-TOPO-01
 
 > Unrolled topology / design-board image explaining ordinary districts, Jialing corridor, Trunk Bridge geography, small Familiar Lifeline and 302 outer position.
@@ -296,7 +318,8 @@ Anchor promotion requires actual generated image + user approval.
 - EP10 does not show entire 302 population flooding across the small bridge;
 - gravity does not need extreme inversion in every shot;
 - people/vehicles/robots are scale + public behavior, not clutter;
-- if image reads as 3D hard-SF rather than drawn cel background, simplify before adding detail.
+- if image reads as 3D hard-SF rather than drawn cel background, simplify before adding detail;
+- ring-city exterior must never reintroduce `22 km`, centrifugal gravity, or a giant central floating city.
 
 ---
 

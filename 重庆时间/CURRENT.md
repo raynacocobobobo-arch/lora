@@ -25,7 +25,13 @@ For conflicts, use this order:
 
 Critical branch override:
 
-> **EP01 stale occupancy record中的“仍在302的居民”没有被男主现场找到；该记录已经过时。不得恢复“系统漏掉一个仍活着居民→男主进去找到他”的旧实现。**
+> **EP01 的 active engine 已重构为：普通 302 Gravity Reference Reset 工单 → public/local handshake 失败 → partial handshake 首次暴露可信 `302 LOCAL = CHONGQING PUBLIC + 08:00` → 已错过安全重置窗口 → gravity re-lock / vector instability 已开始 → 撤离中 full handshake 成功 → private AI 拒绝立即恢复重力并改走 safe-reset Plan B → 方案真实开始成功后被 T0 隐蔽结构裂伤打断 → task completion 让位于男主生存 → AI 为维生主动关闭 local core → 未知人手抓住男主。**
+
+The following older EP01 engine is `SUPERSEDED / NOT CANON ON THIS BRANCH`:
+
+> **stale occupancy record → final physical clearance → public model also stale → HOLD CUTOVER**.
+
+It must not be blended back into the new EP01.
 
 ---
 
@@ -33,13 +39,14 @@ Critical branch override:
 
 1. `CURRENT.md`
 2. `STORY-CAUSAL-CANON-PATCH-V1.md`
-3. `consistency-reports/2026-09-02-EP01-EP10-STORY-CAUSAL-AUDIT-V1.md`
-4. `CHONGQING-TIME-MASTER-CANON-V4.md`
-5. `WORLD-ARCHITECTURE-CANON-V4.md`
-6. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-7. the repaired relevant episode snapshot
-8. applicable full-conversation provenance only when a story function is missing or disputed
-9. visual/execution docs only after story causality passes
+3. `docs/superpowers/specs/2026-09-02-ep01-task-record-gravity-redesign.md` when EP01 or its callbacks are involved
+4. `consistency-reports/2026-09-02-EP01-EP10-STORY-CAUSAL-AUDIT-V1.md`
+5. `CHONGQING-TIME-MASTER-CANON-V4.md`
+6. `WORLD-ARCHITECTURE-CANON-V4.md`
+7. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
+8. the repaired relevant episode snapshot
+9. applicable full-conversation provenance only when a story function is missing or disputed
+10. visual/execution docs only after story causality passes
 
 Do not use the previous V4 no-gap PASS as proof that screenplay causality has passed.
 
@@ -69,13 +76,21 @@ Do not use the previous V4 no-gap PASS as proof that screenplay causality has pa
 
 > **不再使用冬季 / 雪作为 active series mechanism。**
 
+EP01 first concrete time crack:
+
+> **302 trusted local time is revealed as `+08:00` relative to the public reference used for the task.**
+
+Time mismatch does not cause gravity failure; it causes operational misjudgment of the known gravity cycle.
+
 ## Gravity
 
 > **Local Gravity Frames**
 
-城区内部尽量稳定，危险主要集中在桥 / 接口 handoff。
+城区内部尽量稳定，危险主要集中在桥 / 接口 handoff and damaged service zones.
 
 时间与重力是独立故障轴。
+
+EP01 may use Extreme vector instability / reversal-level danger; later episodes should predominantly use lower severity.
 
 ---
 
@@ -87,7 +102,7 @@ Before screenplay, every episode must pass:
 
 > `Trigger -> Goal -> Obstacle -> Choice -> Turn -> Cost -> State Delta`
 
-and a 2–3 minute drama shape:
+and a 2–3 minute short-drama shape:
 
 > `Cold Open -> Pressure -> Turn -> Payoff/Progress -> End Image`.
 
@@ -99,6 +114,12 @@ Mandatory questions:
 - why not the obvious cheaper/easier alternative?
 - does the character choice actually change outcome?
 - if bridge/time/gravity jargon is removed, is there still a coherent story?
+- is there exactly one dominant turn?
+- if a clever third path appears, what real cost remains?
+
+EP01 additional architecture lock:
+
+> **task record is a dramatic measuring stick, not a lore dump. It first establishes how the ordinary task is supposed to end, then the episode proves that reality no longer allows the normal procedure to end normally.**
 
 ---
 
@@ -106,22 +127,22 @@ Mandatory questions:
 
 | EP | Snapshot | Repaired story function |
 |---|---|---|
-| EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V4.md` | stale occupancy record is closed; current 302 physical/gravity model is also stale; male halts wrong cutover; chief catches him |
-| EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V4.md` | chief/male responsibility split is formally established and immediately used on forced-loss Jialing trunk bridge |
+| EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V4.md` | ordinary 302 gravity-reference work order exposes `+08:00` trusted local-time split; full control succeeds but AI refuses lethal immediate restore, routes male to safe reset point, Plan B truly starts working, latent T0 structure failure defeats completion, AI ultimately shuts down local core for life support, unidentified hand rescues male |
+| EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V4.md` | EP01 rescuer is revealed as current/new chief; male-present-fact / chief-public-responsibility split is formalized and immediately used on forced-loss Jialing trunk bridge |
 | EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V4.md` | medical waiting window + only timely low-capacity route + seven-minute shared-crossable overlap |
 | EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V4.md` | lifeline becomes lived infrastructure; cinema has a real one-night opportunity window; Rashomon/memorial seed |
 | EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V5.md` | Wedding Mirror reveal is carried by bride's present-subject consent/choice, not author-only information |
 | EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V4.md` | two local time-authority domains complete one shared thermal/environment transfer using neutral mechanical phase reference |
 | EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V4.md` | healthy Hub correctly assumes one coherent shared city state; A/B divergence invalidates premise; obvious alternatives are closed before shutdown |
 | EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V3.md` | degraded side voluntarily revokes public-force role; retained industrial force capacity triggers other local order's programmatic disable |
-| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V4.md` | 302 current reality acknowledged but future permanent-special-maintenance guarantee withdrawn; AI continuity dependency pre-seeded |
-| EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V4.md` | citywide contraction is background; main story is evacuated 302 old cluster + familiar healthy bridge + real AI-preservation exception vs common boundary |
+| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V4.md` | 302 current reality / operability is acknowledged but future permanent-special-maintenance guarantee is withdrawn; AI continuity dependency pre-seeded |
+| EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V4.md` | citywide contraction is background; main story is evacuated 302 old compatibility cluster + familiar healthy bridge + real AI-preservation exception vs common boundary |
 
 ---
 
 # 06｜Cross-episode bridge lock
 
-Mandatory causal chain remains, with stronger integration into the old 302/Jialing service geography:
+Mandatory causal chain remains, with integration into the old 302/Jialing service geography:
 
 > **EP03 temporary maintenance lifeline** → **saves a real medical action** → **EP04 repeated use / ordinary infrastructure** → **EP08 public-order overlap / armed standoff** → **EP10 evacuation lifeline / final healthy connection to exit.**
 
@@ -137,11 +158,27 @@ False belief:
 
 > **只有我的判断无法被替代，它才真正有价值。**
 
-EP01 repair changes his first proof from “I found a hidden survivor” to:
+EP01 now reinforces this through:
 
-> **I stopped an irreversible public action because the current physical state was not what stale records/model said it was.**
+> **his physical presence is genuinely required to establish the trusted local bridge and execute inside changing geometry that no stale model can replace.**
+
+It no longer comes from finding a hidden resident or issuing a HOLD CUTOVER.
 
 ## Private AI
+
+EP01 baseline:
+
+> broad protocol/model/reference access + mature companionship + independent judgment.
+
+EP01 first wound:
+
+> **she chooses the correct safety strategy, Plan B truly begins working, and a newly revealed physical fact still defeats the outcome.**
+
+EP01 local shutdown:
+
+> **not permanent death; it is a suit-power survival action.**
+
+Season continuity lock remains:
 
 > **她不想消失。**
 
@@ -155,7 +192,13 @@ Copy / reconstruction is not treated as equivalent continuity.
 
 > **她不掌握真理，她只承担决定。**
 
-EP02 now visibly establishes why she becomes the public-responsibility counterpart to male present facts.
+EP01:
+
+> no early chief POV / no identifiable manager setup; only the final unidentified physical rescue hand.
+
+EP02:
+
+> the rescuer is revealed as the current/new chief and enters the public responsibility chain.
 
 ## Finale
 
@@ -168,30 +211,49 @@ EP02 now visibly establishes why she becomes the public-responsibility counterpa
 
 ---
 
-# 08｜Current phase
+# 08｜302 season chain — revised
+
+Active chain:
+
+> **T0 creates 302 structural / local-time / gravity / protocol scar**
+> → **EP01 routine reset exposes a trusted +08:00 split and extreme gravity/reference incident**
+> → **302 remains a real legacy district/service node under continued repair**
+> → **EP04 old nodes can appear in limited civic use**
+> → **EP09 302 is currently real / occupied / safe / maintainable but loses unconditional future permanent-special-maintenance guarantee**
+> → **EP10 residents migrate, then final old compatibility stack / familiar bridge exits.**
+
+Inactive chain:
+
+> stale occupancy record → physical clearance → remap → future 302
+
+`SUPERSEDED / NOT CANON ON THIS BRANCH`.
+
+---
+
+# 09｜Current phase
 
 **Do not begin screenplay-to-shots or new KV production from this branch yet.**
 
 Current phase:
 
-> **EP01–EP10 story causal repair + counterfactual verification.**
+> **EP01 macro redesign has been integrated; EP02/EP09/EP10 direct callbacks and causal verification must match before screenplay drafting.**
 
 Required before promotion/merge:
 
-1. repair all ten episode snapshots;
-2. run full causal verification;
-3. ensure no Master/Character stale summary can override repaired episode facts;
-4. user reviews the repaired story architecture;
-5. only then promote branch state to active main canon.
+1. all active episode snapshots must agree with new EP01 causality;
+2. full causal verification must be re-run for EP01 and affected handoffs;
+3. no stale Master/Character summary may override repaired episode facts;
+4. exact screenplay dialogue, shot timing and engineering details remain downstream;
+5. user reviews repaired story architecture before promotion to `main`.
 
 ---
 
-# 09｜Provenance
+# 10｜Provenance
 
 Legacy material remains provenance only:
 
 > `../北京市没有冬天/`
 
-Full V4 conversation record remains available for recovering non-conflicting story functions.
+Full conversation records remain available for recovering non-conflicting story functions.
 
-Historical dialogue does not override the latest explicit user correction on EP01.
+Historical dialogue does not override the approved EP01 task-record / gravity-choice redesign.

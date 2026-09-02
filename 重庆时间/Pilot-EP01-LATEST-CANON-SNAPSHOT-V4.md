@@ -1,12 +1,14 @@
 # 《重庆时间》EP01 — TASK RECORD / GRAVITY CHOICE SNAPSHOT
 
 - Updated: 2026-09-02
-- Status: `LOCKED_DIRECTION / STORY-CAUSAL REPAIR ON BRANCH / SCREENPLAY TBD`
+- Status: `LOCKED_DIRECTION / STORY + SPATIAL V2 RECONCILED / SCREENPLAY TBD`
 - Project basis: `CHONGQING-TIME-MASTER-CANON-V4.md`
 - World basis: `WORLD-ARCHITECTURE-CANON-V4.md`
+- Spatial basis: `SPATIAL-ENVIRONMENT-CANON-V2.md`
 - Character basis: `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
+- Outline basis: `EP01-STORY-OUTLINE-V1.md`
 - Design spec: `docs/superpowers/specs/2026-09-02-ep01-task-record-gravity-redesign.md`
-- Supersedes on this branch: **stale occupancy record → physical clearance → wrong cutover** as EP01's active engine.
+- Supersedes: **stale occupancy record → physical clearance → wrong cutover** as EP01 engine.
 
 ---
 
@@ -14,16 +16,14 @@
 
 EP01 is the audience's first complete contact with **第二新重庆市**.
 
-The episode must do two things at once without becoming a lore briefing:
+It must simultaneously:
 
-1. show how this damaged city still lives and works after T0;
-2. turn one ordinary maintenance job into the first proof that **local systems can all be functioning while the shared city reference is no longer whole**.
+1. show a damaged but functioning post-T0 city;
+2. prove through one ordinary maintenance task that **local systems can all be working while the shared city reference is no longer whole**.
 
-The episode is not about discovering a hidden resident and is not about proving that 302 exists.
+The episode is not about discovering a hidden resident and is not about proving 302 exists.
 
-It is:
-
-> **男主与私人 AI 进入 302 执行一次例行重力参考重置。直到协议部分握手成功，他们才得到第一份可信的 302 本地时间，发现它已比重庆公共时间快八分钟，安全重置窗口早已过去。重力失稳已经开始。AI 最终获得完整重力控制，却判断此刻恢复正常重力会直接杀死男主，于是暂缓恢复，利用异常重力把他送向安全重置点。两人一度真的把方案执行成功，但 T0 留下的隐蔽结构裂伤突然让“安全点”本身失效。AI 再次判断最优解仍是不恢复重力，并从“完成任务”转为“让男主活下来”。最后她为维生让出全部本地运行功耗而主动下线；男主失去意识前，一只真实的人手抓住了他。**
+> **男主与私人 AI 进入 302 执行例行 Gravity Reference Reset。partial handshake 首次给出可信 302 本地时间，显示 `302 LOCAL = CHONGQING PUBLIC +08:00`；他们这才知道安全重置窗口早已过去，gravity re-lock / vector instability 已经开始。full handshake 最终成功，Gravity Control 可用，但 AI 判断此刻恢复 nominal gravity 会直接杀死已经被异常向量带离原位的男主，因此拒绝立即 restore，改为先利用错误重力把他送到外缘安全重置位置固定，再恢复完成原任务。Plan B 真的开始成功；随后 T0 潜在旧伤在异常方向载荷下扩展，使男主所在的 302 外缘小型附属维护/接口段失去有效结构连接并意外断接。302 本体没有脱离。任务由“完成工单”转为“让男主活下来”。AI 最终为维生关闭 local core；男主失去意识前，一只真实的人手抓住他。**
 
 Episode-level dramatic question:
 
@@ -31,45 +31,43 @@ Episode-level dramatic question:
 
 ---
 
-# 02｜Opening principle — task record is the world-entry device
+# 02｜Opening — task record is the world-entry device
 
-Target direction: first `0:00–0:45/0:50`.
+Target direction: first `0:00–0:45`.
 
-EP01 不再把“轨道巨城”留到最后才揭晓。
+观众从开场就知道这里是一座仍然正常生活的人工太空城市，但不做历史旁白。
 
-观众从开场就应知道：
+## Ordinary city visuals
 
-> **这里是一个仍在生活的巨大人工城市。**
+男主前往302时只需要自然看到：
 
-但世界观必须通过男主正在执行的**城市维护任务纪录**进入，不用历史旁白，不做百科字幕，不开议会说明会。
-
-## Ordinary city layer
-
-男主前往 302 的过程中，画面自然经过：
-
-- 多层人工城区；
-- 上下交错的城市桥 / 轨道桥 / 服务桥；
-- 正常通勤的居民；
-- 运行中的列车与公共服务；
-- 桥侧 / 结构侧日常维护；
+- 环形船坞城市中的普通街区；
+- 不同尺度的城市桥 / 轨道 / 服务连接；
+- 正常通勤居民；
+- 运行中的列车和公共服务；
+- 桥侧日常维护；
 - 不同城区略有差异的公共照明 / 服务节律；
-- 已被工程化处理、仍能看见的 T0 旧损伤与临时加固。
+- 已工程化处理、仍可见的 T0 修补痕迹。
+
+不要求：
+
+- 穿越多层城区；
+- 上下无穷叠城；
+- 大角度翻转城区。
 
 城市不是末日废墟。
 
-核心感觉：
-
 > **大灾难已经发生过；人们把城市救回来，并继续在里面生活。**
 
-## Task record layer
+## Task record
 
-任务纪录只给今天行动必须知道的信息，功能性顺序为：
+任务纪录只给今天必须知道的信息：
 
 > `SECOND NEW CHONGQING / CITY MAINTENANCE`
 >
 > `T0 AFTERMATH MAINTENANCE`
 >
-> `TARGET: 302 OUTER-SHELL OLD DISTRICT / GRAVITY SERVICE SECTOR`
+> `TARGET: 302 OUTER LEGACY DISTRICT / GRAVITY SERVICE`
 >
 > `LOCAL OPERATION: ACTIVE`
 >
@@ -85,116 +83,120 @@ EP01 不再把“轨道巨城”留到最后才揭晓。
 >
 > `SAFE RESET WINDOW: ACTIVE`
 
-Exact UI wording remains execution-level `TBD`; the functions above are locked.
+Exact UI wording remains execution-level `TBD`; functions above are locked.
 
-The audience therefore understands before danger begins:
+Audience understands normal ending:
 
-> **握手 → 重置重力 → 在窗口结束前撤离。**
+> **握手 → 重置重力 → 窗口结束前撤离。**
 
 ## Male + private AI baseline
 
 私人 AI 从第一场就在。
 
-她和男主不是今天才认识，也不是“系统助手介绍场”。
+两人已经长期协作；不开“AI介绍场”。
 
-开场只需要通过熟练、生活化的配合证明：
+开场通过熟练、生活化配合证明：
 
 - 她参与他的工作；
 - 她知道他的习惯；
-- 两人对这种任务非常熟；
-- 彼此之间存在不以“今天是否成功”为条件的长期关系。
+- 两人熟悉此类维护；
+- 彼此关系不以今天任务成功为条件。
 
-可在日常段落埋下 `早安` 语言母题，给结尾回收；具体对白除最终方向外仍 `TBD`。
+可埋 `早安` 母题，给结尾回收。
 
 ---
 
-# 03｜Why 302 / why this task / why the male must enter
+# 03｜302 spatial lock / why male must enter
 
-302 是第二新重庆外壳侧的旧城区 / 重力服务节点之一。
+302 是：
+
+> **挂接在第二新重庆主环外缘的一组旧城区舱段，一面朝城，一面临空。**
+
+它不是一栋楼，也不是必须经过许多城市层才能到达的“地下区”。
+
+302 内部有：
+
+- 正常生活 / 公共空间；
+- 旧 service / relay；
+- Gravity Service；
+- 外缘附属维护接口。
 
 T0 后：
 
-- 结构曾受撞击；
+- 结构/接口曾受损；
 - 一部分区域长期维修；
-- Local Gravity Frame 为保证区域继续使用而本地维持；
-- 公共时间和本地时间之间依赖灾后 mapping；
-- 一些 old relay / service layer 仍在承担 legacy compatibility。
+- Local Gravity Frame 为继续生活而本地维持；
+- public/local time 依赖灾后 mapping；
+- old relay / service 仍承担 legacy compatibility。
 
-今天处理的是一个**已知、周期性、可维护**的重力参考问题，不是突然出现的新怪物。
+今天处理的是一个**已知、周期性、可维护**的重力 reference 问题。
 
 Normal procedure:
 
 > trusted public/local handshake
 > → confirm current reference
 > → reset / re-lock gravity reference
-> → worker exits before the hazardous re-lock window.
+> → exit before hazardous re-lock window.
 
-远程 handshake 一直无法通过最后一层 trusted reference validation。
+远程 handshake 无法通过最终 trusted-reference validation。
 
-这就是 why male：
+因此男主必须进入：
 
-> **必须由现场人员进入旧 relay / service layer，建立当前真实物理节点到系统之间的可信桥接；私人 AI 负责协议、历史映射和模型，男主负责真实节点接入与现场执行。**
+> **同一302城区内部的 old relay / Gravity Service area，建立当前真实物理节点到系统之间的可信桥接。**
 
-这不是“AI做不到所以叫人来按按钮”。
+私人 AI = protocol / historical mapping / model / control。
 
-两人的能力从第一集就是互补关系。
+男主 = current physical node access / execution。
+
+不是“AI不会按按钮”。
 
 ---
 
-# 04｜Pressure 1 — most of the routine job works
+# 04｜Pressure 1 — routine job mostly works
 
-Target direction: approximately `0:45–1:15`.
+进入302后不要立即灾难化。
 
-进入 302 后不要立即灾难化。
+前几个步骤顺利：
 
-前几个步骤应该顺利：
+- access nodes pass；
+- hardware alive；
+- Gravity Controller responsive；
+- identity / local service usable；
+- only final trusted public/local handshake invalid。
 
-- early relay / access node passes;
-- hardware is alive;
-- Gravity Controller is responsive;
-- identity / local service status looks usable;
-- only the final public/local trusted handshake remains invalid.
-
-This gives the audience a clear expectation:
+Expectation:
 
 > **再处理最后一个节点，任务就结束。**
 
-Small gravity-drift evidence may appear:
+Small drift evidence:
 
-- liquid / condensed water has a slight angle;
-- a hanging maintenance object is not perfectly vertical;
-- loose objects drift toward an unexpected side;
-- the male's body feels a subtle frame bias.
+- condensation略有角度；
+- 悬挂工具不完全垂直；
+- 小物件缓慢向非预期方向偏；
+- 男主体感到轻微 frame bias。
 
-Neither character treats this as a supernatural reveal because gravity drift is the known reason they are here.
+这只是已知问题的早期表现。
 
-Private AI continues counting the safe window using the last trusted available shared reference: `CHONGQING PUBLIC` plus the last valid public↔302 mapping.
+AI 的安全窗口仍依据最后可信的 `CHONGQING PUBLIC + last trusted mapping`。
 
-Important logic:
+> **她知道 302 time-domain mapping 不可信，但 handshake 完成前不能把未认证 local timestamp 当危险动作依据。**
 
-> **她知道 302 的 time-domain mapping 不可信，但在 handshake 完成以前，她没有资格把未认证 local timestamp 当成安全动作依据。**
-
-So the AI is not “wrong” or stupid.
+AI 不是算错。
 
 ---
 
-# 05｜Pressure 2 — partial handshake reveals the eight-minute truth
+# 05｜Pressure 2 — partial handshake reveals +08:00
 
-The male reaches the disaster-era local relay and establishes a current physical bridge.
+男主在旧 relay 建立当前 physical bridge。
 
-Private AI restarts handshake.
+AI 重启 handshake。
 
-The first success is **partial**, not full control.
+第一阶段只是 partial：
 
-Function:
+> enough local bus / safety / time authority becomes trusted;
+> gravity actuation authority still unavailable.
 
-> enough local bus / safety / time authority comes online to produce a trusted local timestamp and local warning channel;
->
-> gravity actuation authority is still unavailable.
-
-302's damaged non-personal system / EVA safety layer comes online in fragments.
-
-Function-only warning direction:
+302 local safety layer fragmented warning:
 
 > `GRAVITY RE-LOCK...`
 >
@@ -202,87 +204,74 @@ Function-only warning direction:
 >
 > `LOCAL GRAVITY VECTOR... UNSTABLE...`
 
-Then for the first time:
+然后首次可信比较：
 
 > `CHONGQING PUBLIC  14:xx`
 >
 > `302 LOCAL         14:xx + 08:00`
 
-Exact clock values are screenplay / UI execution details; **offset `+08:00` is locked direction**.
+`+08:00` direction locked.
 
-The dramatic meaning is immediate:
+Meaning:
 
-> **他们不是还有几分钟。**
->
-> **他们已经晚了八分钟。**
-
-Time and gravity remain independent failure axes.
+> **不是还有几分钟；已经晚了八分钟。**
 
 Correct causality:
 
-> T0 left a known gravity reset / re-lock vulnerability;
-> → 302 local time continued valid locally;
-> → public/local trusted mapping became stale;
-> → crew misjudged where the known gravity cycle already was;
-> → once trusted local time appears, they discover the gravity hazard window has already begun.
+> T0 leaves known gravity re-lock/reset vulnerability
+> → 302 local time remains valid locally
+> → trusted public/local mapping becomes stale
+> → crew misjudges where the gravity cycle already is
+> → partial handshake restores enough trusted local authority to reveal the hazard window is already active.
 
-Do NOT write:
-
-> wrong clock caused gravity to break.
+Time does not cause gravity failure.
 
 ---
 
 # 06｜Pressure 3 — maintenance becomes evacuation
 
-Once the local warning is trustworthy, the male immediately evacuates.
+一旦 local warning 可信，男主立即撤离。
 
-Private AI does not waste time explaining the world.
+空间仍然是：
 
-She switches from maintenance support to escape support.
+> **302 service/gravity path → 302 outer attached interface direction。**
 
-Gravity event grammar:
+不是穿越其他城区。
 
-> **vector instability / re-lock cascade**, not one arbitrary fixed 180° switch.
+Gravity grammar:
 
-Progression can move through:
+> **vector instability / re-lock cascade**
+
+Progression:
 
 > subtle lean
 > → strong lateral pull
-> → previous floor becomes unusable
-> → debris and equipment change load direction
-> → original wall/ceiling becomes the new fall direction
-> → outer-hull side becomes the dominant “down”.
+> → previous floor unusable
+> → debris/equipment change load direction
+> → wall/ceiling becomes fall direction
+> → outer-facing side becomes dominant “down”.
 
-The ruined 302 environment now pays off everything shown earlier:
+早期环境回收：
 
-- temporary supports become collision hazards;
-- collapsed floors remove routes;
-- loose old equipment begins moving;
-- exposed structure becomes necessary handholds;
-- pressure boundaries are crossed and the EVA visor seals.
+- temporary supports become hazards；
+- loose equipment moves；
+- exposed structure becomes handholds；
+- pressure boundary requires visor seal。
 
-The disaster sequence should obey one macro rhythm:
+每次成功动作只买到几秒，随后当前几何再次改变。
 
-> **every successful short action buys only a few seconds before the environment permanently changes again.**
+男主的 physical bridge 仍 live，所以 AI 在背景继续完成 handshake。
 
-No exact copyrighted scene recreation is intended; this is high-level disaster pacing only.
+Two-front action:
 
-At the same time, the physical bridge the male created remains live, so:
-
-> **private AI continues completing the remaining handshake in the background while he evacuates.**
-
-Thus the two characters are solving the same problem in different layers:
-
-- male = current physical execution;
-- private AI = reference/protocol/model/control path.
+- male = current physical survival；
+- AI = reference/protocol/control path。
 
 ---
 
-# 07｜Dominant Turn — full control succeeds, but restore is now lethal
+# 07｜Dominant Turn — full control succeeds, restore is lethal
 
-Target direction: around the structural midpoint / high-pressure transition.
-
-The male reaches the large outer-shell gravity maintenance volume and is already being carried toward the old “ceiling” / outer-hull side.
+男主已进入 302 外缘 Gravity Service / attached-interface direction。
 
 Then:
 
@@ -290,282 +279,229 @@ Then:
 >
 > `GRAVITY CONTROL AVAILABLE`
 
-This is the episode's largest **false victory**.
+False victory:
 
-From the opening task record onward, the promised ending was:
+> handshake complete → restore → finish.
 
-> handshake complete → restore gravity → finish task.
+男主要求恢复 nominal gravity。
 
-The male therefore naturally orders / asks:
-
-> restore nominal gravity.
-
-Private AI does **not** execute.
+AI 不执行。
 
 Reason:
 
-- the male has already been displaced under the abnormal vector;
-- large debris and equipment have redistributed;
-- temporary structures are carrying loads in the abnormal direction;
-- immediate return to nominal would reverse the load field and send the male + debris back through the maintenance volume.
+- male displaced under abnormal vector；
+- debris/equipment redistributed；
+- temporary structures carry abnormal-direction loads；
+- immediate nominal restore reverses load direction and drives male/debris back through the maintenance volume。
 
-Backstage risk model:
+The one dominant turn:
 
-> immediate restore = near-zero male survival;
-> hold current emergency vector long enough to reach a safe reset position = low but non-zero survival.
+> **目标从“现在恢复重力”改为“先把男主送到安全重置位置固定，再恢复完成任务”。**
 
-Do not over-display percentages on screen unless later screenplay review proves they help.
+AI不是选择永久异常重力。
 
-## The one dominant turn
+Plan B 仍然是完整的 task-ending plan。
 
-> **The goal changes from “restore gravity now” to “do not restore yet; get the male to a safe reset position, secure him, then restore gravity and finish the task.”**
+这同时锁定她的 independent agency：
 
-Private AI is not choosing permanent failure.
-
-Her Plan B remains a complete task-ending plan.
-
-This turn also establishes her independent agency:
-
-> she can disagree with the male's immediate command when the current safety state makes that command lethal.
+> 当前安全状态使命令致命时，她可以拒绝男主的立即指令。
 
 ---
 
-# 08｜Payoff / Progress — exploit the wrong gravity to reach the right place
+# 08｜Payoff — use bad gravity to reach safe reset
 
-Private AI identifies one singular target:
+AI identifies one singular target:
 
-> **outer-hull gravity transition / emergency reset position** (`exact hardware/name TBD`).
+> **302 outer attached interface / emergency reset securing position**
 
-Function locked:
+Exact hardware/name remains `TBD`.
 
-- mechanically / structurally suitable for securing a worker during emergency frame restoration;
-- near the outer-hull transition zone;
-- if male reaches and is secured there, AI can restore nominal gravity and complete the maintenance task.
+Function:
 
-The escape therefore has one visible objective.
+- structurally intended to secure a worker during emergency Gravity Frame restoration；
+- located on the small outer attached maintenance/interface segment；
+- once male is secured, AI can restore nominal gravity and complete task。
 
-No device cascade.
+Bad gravity becomes the route.
 
-The abnormal Gravity Vector that created the danger becomes the only usable route to the safe point.
+AI helps with route/timing/attitude/minimal EVA support。
 
-The male stops trying to “return to the old floor” and begins moving with the bad vector.
+男主 continuously supplies current physical geometry。
 
-Private AI helps with:
-
-- route selection;
-- timing;
-- attitude correction;
-- minimal EVA / suit assistance;
-- current safe handholds / geometry.
-
-The male contributes the changing physical facts she cannot assume from stale geometry.
-
-They reach the reset position.
+They reach the point.
 
 Crucial lock:
 
-> **He actually gets secured / caught by its emergency recovery system.**
+> **He genuinely gets secured/caught by the emergency recovery system.**
 
 The mechanism works.
 
 Recovery genuinely begins.
 
-They are physically moving toward the safe state.
+AI prepares `RESTORE`.
 
-Private AI prepares `RESTORE`.
+Characters/audience believe original work order is about to complete.
 
-Both characters and audience should believe:
-
-> **the original work order is about to be completed.**
-
-A quiet work-like emotional beat is preferred over triumph.
-
-Directionally, AI may say something as simple as:
-
-> “好了。”
-
-Exact dialogue `TBD`.
+A quiet work-like line such as `好了。` remains candidate dialogue, not locked.
 
 ---
 
-# 09｜Cost after solution — a new physical fact invalidates the safe point
+# 09｜Cost after solution — attached segment loses connection
 
 This is the episode's one true unexpected physical intervention.
 
 Not:
 
-- AI miscalculation;
-- male error;
-- tether simply breaking;
-- random battery failure;
-- another protocol problem.
+- AI miscalculation；
+- male error；
+- tether simply breaks；
+- battery failure；
+- another protocol problem；
+- system deliberately ejects an occupied module。
 
-Best locked function:
+Locked function:
 
-> **a latent T0 meteor-impact fracture exists inside / behind the safe point's structural load path. It was not fully observable in advance. Prolonged abnormal-direction loading propagates it until the supporting structure itself tears loose.**
+> **T0 left a latent fracture / interface scar inside the load path that attaches this small outer maintenance segment to 302. Prolonged abnormal-direction loading propagates it after Plan B has already started working. The attached segment itself then loses its valid structural connection and accidentally detaches.**
 
-So:
+Chain:
 
-> the recovery mechanism worked;
-> → the male was successfully secured;
-> → the system began returning him;
-> → then the physical support reality changed.
+> recovery mechanism worked
+> → male secured
+> → recovery began
+> → current physical support/interface changed
+> → attached segment disconnects.
 
-This seeds the series rule:
+This seeds:
 
 > **方案正确 ≠ 结果保证。**
-
-and:
-
+>
 > **现场新事实有最后一票。**
 
-The safe point / anchor support moves or tears free toward the outer hull.
+AI still has `RESTORE NOMINAL` and reassesses.
 
-Private AI still has `RESTORE NOMINAL` available and reassesses.
-
-The answer is still:
+Answer remains:
 
 > **DO NOT RESTORE.**
 
-But the meaning is now different:
+Meaning differs:
 
-- first no-restore = delay restoration until safe point;
-- second no-restore = safe point is no longer a valid safe point, and restoration would still reverse debris/loads without returning the male.
+- first no-restore = wait until secured；
+- second no-restore = the safe reference itself is no longer connected to the city; restoring still reverses local loads without returning male。
 
-This is not a second dominant turn.
-
-It is the cost that proves the dominant turn's rule under changed physical conditions.
+This is Cost, not a second dominant turn.
 
 ---
 
-# 10｜Outer-space transition — task completion becomes impossible
+# 10｜Outer-space transition
 
-The male / detached structure continues toward the outer-hull boundary under the abnormal local field.
+The small detached segment + male continue outward with acquired motion.
 
-Once he crosses beyond the Local Gravity Frame's effective acceleration region:
+Once beyond 302 Local Gravity Frame's effective acceleration region:
 
 > artificial acceleration falls away;
-> his acquired velocity remains;
-> “向上坠落” becomes inertial drift into space.
+> acquired velocity remains;
+> “向上坠落” becomes inertial drift.
 
 No vacuum suction.
 
 No explosion required.
 
-This is the first point where the episode can fully open the city's external scale:
+External reveal should show a **readable ring-shipyard city**, not the superseded infinite layered megacity:
 
-- Second New Chongqing's layered hull;
-- Jialing structural void / bounded canyon volume;
-- bridges above, below and farther away;
-- multi-orientation urban layers;
-- distant Earth only as subordinate external reference.
+- curved ring-city mass；
+- distinct district-module clusters；
+- multiple bridge scales around the Jialing urban corridor；
+- the visible scar / repaired surfaces of a long-used city；
+- distant Earth only as subordinate external reference。
 
 The reveal is not “surprise, they were in space.”
 
-It is:
-
-> **the ordinary city from the opening is now seen from the outside, after its invisible shared-reference machinery has failed around one person.**
+> **the ordinary city from the opening is seen from outside after one small connection has failed around one person.**
 
 ---
 
-# 11｜Deceleration — AI can still help, but cannot return him
+# 11｜Deceleration — AI can still help, cannot return him
 
-After reaching space, do not start a second action movie.
+After space transition, do not start a second action movie.
 
-Private AI uses only simple EVA capability:
+AI uses simple EVA capability:
 
-1. stop / reduce uncontrolled rotation;
-2. reduce outbound relative velocity.
+1. stop/reduce uncontrolled rotation；
+2. reduce outbound relative velocity。
 
-Both actions should genuinely succeed.
+Both genuinely succeed.
 
-But the suit is not a return vehicle.
+But the suit is not a return vehicle; remaining delta-v is insufficient.
 
-Remaining delta-v / propellant is insufficient to bring him back to the city.
-
-Therefore the emotional state becomes:
+Emotional state:
 
 > **everything still possible is working; it is simply not enough.**
 
-Private AI continues searching for a viable return / rescue path, but do not dramatize a chain of failed drones, hoists, robots and devices.
+AI searches briefly for viable return/rescue path.
 
-A short search phase is enough to establish:
+No drone/hoist/device failure cascade.
 
-> no confirmed executable return path remains.
-
-This is the first EP01 wound in her long arc:
+First AI wound:
 
 > **correct reasoning can improve survival and still fail to guarantee a good outcome.**
 
-She may begin a self-questioning line such as `如果我刚才……`; exact dialogue remains `TBD` and must not become melodramatic breakdown / ERROR behavior.
-
 ---
 
-# 12｜Power descent — from high capability to no capability
+# 12｜Power descent
 
-The male's EVA suit has suffered enough incident damage / increased life-support load that shared suit power becomes critical.
+Suit damage/increased life-support load makes shared power critical.
 
-Exact medical / power figures remain `VALIDATE_LATER`.
+Exact medical/power numbers remain `VALIDATE_LATER`.
 
-Do not use “seconds in vacuum = instant oxygen depletion.”
+Plausible contributors:
 
-Plausible functional causes can include a combination of:
+- impact/concussion；
+- degraded CO2 scrubbing/circulation；
+- stabilized partial pressure loss；
+- increased life-support draw；
+- exhaustion/stress。
 
-- impact / concussion;
-- degraded circulation / CO2 scrubbing;
-- partial pressure loss already stabilized;
-- increased life-support draw;
-- exhaustion and stress.
+AI first shuts high-compute functions:
 
-Private AI first shuts down high-compute functions:
+- external search；
+- gravity modeling；
+- high-rate trajectory simulation；
+- nonessential sensing/reasoning。
 
-- external search;
-- gravity modeling;
-- high-rate trajectory simulation;
-- high-compute reasoning / nonessential sensing.
-
-She remains present for a short time after those nodes go dark.
-
-This is important:
+She remains present after these go dark.
 
 > **first she loses the ability to keep finding answers; only later does she choose to stop running at all.**
 
-If the male asks whether there is another way, her answer may finally be some version of:
+If male asks for another way, candidate direction remains:
 
 > **“我不知道。” / “没有我能确认的。”**
 
 Exact line `TBD`.
 
-Then suit power accounting reaches the final trade:
+Final power trade:
 
 > keeping `AI LOCAL CORE` alive measurably reduces remaining life-support time;
-> shutting it down leaves maximum available power to `LIFE SUPPORT` + `MINIMUM RESCUE BEACON`.
+> shutdown maximizes `LIFE SUPPORT + MINIMUM RESCUE BEACON`.
 
-The AI is not “converted into battery power.”
+AI is not converted into battery power; she stops consuming shared suit power.
 
-She simply stops consuming the shared suit power bus.
-
-This shutdown is a local operational shutdown and does **not** lock permanent subject death / continuity outcome for later episodes.
+This is local operational shutdown, not permanent continuity death.
 
 ---
 
-# 13｜AI shutdown / final dialogue direction
+# 13｜AI shutdown / dialogue
 
-The male can see that she is preparing to shut down.
-
-He does not want her to.
+男主看见她准备关机，不希望她停。
 
 No long optimality explanation.
 
-The approved final dialogue direction is:
+Approved final direction:
 
 > **“我很抱歉。”**
 >
 > **“祝你早安……晚安。”**
 
-The `早安 / 晚安` line pays the opening everyday-time motif and the episode's broken shared-now premise without having a character explain the symbolism.
-
-After that:
+Then:
 
 > `AI LOCAL CORE: SHUTDOWN`
 >
@@ -573,43 +509,31 @@ After that:
 >
 > `RESCUE BEACON: MINIMUM ACTIVE`
 
-Exact UI wording remains execution `TBD`.
-
-Private AI voice disappears.
-
 No dialogue after this point.
 
 ---
 
-# 14｜End Image — a physical hand
+# 14｜End Image — physical hand
 
-The male continues drifting slowly.
+男主缓慢漂移，意识因伤势/维生下降而收窄。
 
-His awareness narrows through accumulated injury / life-support degradation, not theatrical instant asphyxia.
-
-Sound reduces to breath / suit ambience and then near silence.
-
-As his vision almost blacks out:
+Near black:
 
 > **a real EVA-gloved human hand catches his wrist.**
 
-His body changes relative motion.
+Relative motion changes.
 
-He barely sees an indistinct EVA visor / figure.
+Second hand reaches chest rescue ring/tether.
 
-A second hand begins attaching to his chest rescue ring / tether.
+Do not identify rescuer in EP01.
 
-Do not identify the rescuer in EP01.
+No early chief POV.
 
-Do not show an early chief POV.
-
-Do not add a line like “有人抓住你了。”
+No line like “有人抓住你了。”
 
 CUT TO BLACK.
 
-EP02 reveals that the rescuer is the new / current female chief.
-
-The hand remains the season's first pure physical connection motif:
+EP02 reveals rescuer = current/new female chief.
 
 > **all higher systems have fallen away; one person physically catches another.**
 
@@ -619,155 +543,146 @@ The hand remains the season's first pure physical connection motif:
 
 ## Cold Open
 
-> maintenance task record + ordinary working city establishes world / relationship / rules.
+> task record + ordinary ring city establishes world / relationship / normal task ending.
 
 ## Pressure
 
-> routine task mostly works → final handshake cannot establish trusted current reference → partial handshake reveals +8 minutes and expired gravity window → evacuation through worsening gravity instability.
+> routine mostly works → trusted handshake fails → partial handshake reveals +08 and expired window → evacuation through worsening gravity instability.
 
 ## Dominant Turn
 
-> full gravity control becomes available, but private AI refuses immediate nominal restoration because current geometry makes it lethal; goal changes to **safe reset point first, restore second**.
+> full control succeeds, but AI refuses lethal immediate restore; target becomes safe-reset first, restore second.
 
-## Payoff / Progress
+## Payoff
 
-> the pair uses abnormal gravity to reach the safe point; the male is genuinely secured and recovery starts; the task is almost completed.
+> bad gravity is exploited; male reaches the securing point; recovery genuinely begins.
 
-## Cost after solution
+## Cost
 
-> latent T0 structural fracture invalidates the safe point after success begins; the AI reassesses and still cannot safely restore nominal gravity.
+> latent T0 interface damage propagates; the small attached segment loses structural connection after success begins.
 
-## End progression
+## End
 
-> task completion becomes impossible → AI switches entirely to male survival → EVA aid succeeds but cannot return him → compute shuts down → AI core shuts down for life support → human hand catches him.
+> task completion impossible → AI prioritizes survival → EVA aid helps but cannot return him → compute descends → AI local core shuts down → human hand catches him.
 
-This episode therefore has exactly one dominant turn.
+Exactly one dominant turn.
 
-The `+08:00` reveal is Pressure.
+`+08:00` = Pressure.
 
-The latent fracture is Cost.
+Detachment = Cost.
 
-The final hand is Cliffhanger / relationship handoff.
+Final hand = Cliffhanger / relationship handoff.
 
 ---
 
 # 16｜State Delta
 
-EP01 establishes the following persistent facts:
-
-1. Second New Chongqing is already in long-term post-T0 recovery; local operation is ordinary survival infrastructure, not a new emergency invented in EP01.
-2. 302 has a real disaster-era gravity/reference scar and a local-operation compatibility history.
-3. A trusted public/local time mapping can fail while both local and public systems continue functioning; 302's trusted local time is revealed to be eight minutes ahead of the public reference used by the crew during this task.
-4. Time mismatch does not cause gravity failure; it causes operational misjudgment of a known gravity re-lock/reset cycle.
-5. Male + private AI require each other in different layers: current physical bridge/execution vs protocol/model/reference/control.
-6. Private AI independently refuses an immediately lethal restore command and proposes a complete safe-reset Plan B.
-7. The Plan B genuinely begins succeeding before latent T0 structural damage changes the physical fact and defeats task completion.
-8. EP01 seeds three series grammars: `restore normal != current safest`, `correct solution != guaranteed outcome`, `present physical fact can invalidate a model after the model was reasonable`.
-9. The male survives the gravity event / space drift only because private AI repeatedly improves his survival state and eventually frees suit power for life support + rescue beacon.
-10. Private AI's local session shuts down at the end of EP01; this does not establish permanent continuity death.
-11. An unidentified human rescuer physically catches the male at the end; EP02 reveals her as the current/new female chief.
-12. 302 remains a real old district/service node available for later limited civic use and later minimum-common-reality/finale callbacks; EP01 no longer depends on a stale occupancy record or hidden resident.
-13. `DEBT_MALE_VALUE` remains open: the male experiences a crisis in which his real-time physical presence is materially necessary to the outcome, reinforcing his temptation to equate value with irreplaceable field presence.
-14. `DEBT_AI_KNOWLEDGE` opens: the AI makes a correct safety judgment, then sees a new physical fact defeat the successful plan; this is an early wound on `我知道 → 我不知道 → 我相信你`.
-15. `DEBT_HAND_CONNECTION` opens: a physical human hand saves the male after digital/system capabilities have withdrawn.
+1. Second New Chongqing is already in long-term post-T0 recovery; Local Operation is ordinary survival infrastructure.
+2. 302 is an outer legacy district with a real time/gravity/protocol/interface scar.
+3. Trusted public/local time mapping can fail while public and local systems keep functioning; `302 LOCAL = PUBLIC +08:00` becomes the first concrete trusted split.
+4. Time mismatch does not cause gravity failure; it causes hazard-window misjudgment.
+5. Male + AI are complementary: current physical bridge/execution vs protocol/model/reference/control.
+6. AI independently refuses lethal immediate restore and proposes a complete safe-reset Plan B.
+7. Plan B genuinely begins succeeding.
+8. A new physical fact — the small attached outer segment losing connection — defeats task completion without making AI stupid or wrong.
+9. 302 itself remains connected and available for EP04/09/10.
+10. Male survives the space event only because AI repeatedly improves survival state and finally frees shared suit power.
+11. AI local session shuts down; this is not permanent continuity death.
+12. Unidentified human rescuer catches male; EP02 reveals her identity.
+13. `DEBT_MALE_VALUE` remains open: field presence was genuinely necessary.
+14. `DEBT_AI_KNOWLEDGE` opens: correct judgment can be defeated by newly revealed reality.
+15. `DEBT_HAND_CONNECTION` opens.
 
 ---
 
-# 17｜EP01 → EP02 / EP09 / EP10 handoff
+# 17｜EP01 handoffs
 
 ## EP02
 
-EP02 begins from:
+EP02 begins from rescue completion + incident review.
 
-> rescue completion + EP01 incident responsibility / technical review.
+Chief reveal occurs there, not earlier.
 
-The woman who physically caught the male is revealed as the new/current chief.
+Relationship split:
 
-The formal relationship lesson remains:
-
-> male supplies present physical execute/abort reality;
-> chief owns public authorization / responsibility.
-
-Do not refer to a stale occupancy record / HOLD CUTOVER as the reason this relationship exists.
+> male = present physical execute/abort fact;
+> chief = public authorization/responsibility.
 
 ## EP09
 
-The repaired mirror is no longer:
+Callback:
 
-> stale history vs current fact.
-
-The useful callback becomes:
-
-> **EP01 taught that “normal” procedure and a functioning model must still yield to the actual present state. EP09 applies the same respect for present truth to a harder question: 302 can be currently real, occupied, safe and maintainable, yet those facts still do not automatically create a permanent future public obligation to preserve every legacy compatibility exception.**
+> **EP01: current physical reality can invalidate nominally correct procedure.**
+>
+> **EP09: after current reality is honestly acknowledged, it still does not automatically create permanent future public obligation.**
 
 ## EP10
 
-302's final relevance grows from:
+302 chain:
 
-> T0 scar / local time + gravity + protocol compatibility
+> T0 time/gravity/protocol/interface scars
+> → EP01 +08 / gravity / small outer detachment incident
 > → continued repair / limited reuse
-> → EP09 future-boundary test
-> → EP10 final legacy compatibility stack exit.
+> → EP09 future-boundary trial
+> → EP10 migration + legacy compatibility exit.
 
-Do not use:
-
-> EP01 occupancy record → remap → finale
-
-as the active chain.
+No stale occupancy/remap chain.
 
 ---
 
-# 18｜Episode Card — macro approved direction
+# 18｜Episode Card
 
 ```yaml
 episode_id: EP01
-target_duration: "2m55s–3m15s direction; screenplay must earn every beat"
-episode_function: "用一张正常城市维护工单把第二新重庆的灾后桥网、Local Time、Local Gravity Frame和协议握手机制一次性变成可见生活规则；随后让302的八分钟time-reference裂缝把例行重力重置变成逃生。完整握手成功后，私人AI第一次拒绝立即恢复正常重力，并提出到安全重置点再恢复的完整Plan B。方案真实开始成功，却被T0隐蔽结构旧伤打断，任务最终让位于男主生存；AI为维生主动关闭本地运行，结尾由一只真实人手抓住男主。"
-opening_hook: "一个仍正常生活的轨道巨城里，男主与私人AI接到一张普通302 Gravity Reference Reset工单；任务纪录本身展示这座灾后城市如何靠local time / gravity / protocol继续运行。"
-dominant_turn: "完整handshake成功、Gravity Control可用以后，私人AI判断立即restore nominal会杀死男主，因此拒绝现在恢复，把任务目标改为：先抵达安全重置点并固定，再恢复重力完成任务。"
+target_duration: "3m30s–4m00s direction; exact screenplay runtime TBD"
+episode_function: "普通302 Gravity Reference Reset工单暴露可信+08:00 public/local split；gravity instability已开始。full control成功后AI拒绝致命的立即restore，改走safe-reset-first Plan B。Plan B真实开始成功后，T0潜在旧伤使男主所在的302外缘小型附属维护/接口段意外断接；302本体仍在。任务让位于男主生存，AI最终关闭local core，未知人手完成救援。"
+opening_hook: "仍正常生活的环形船坞城市里，男主与私人AI前往外缘旧城区302执行一张普通重力参考重置工单。"
+dominant_turn: "HANDSHAKE COMPLETE / GRAVITY CONTROL AVAILABLE之后，AI判断立即恢复会杀死男主，拒绝restore并把目标改成先到安全重置位置固定。"
 core_conflict: "正常流程终于重新可执行时，当前物理现实已经改变到继续执行正常流程反而更危险。"
-conflict_grammar: "restored control authority vs changed present physical state。"
-novelty_vs_prior: "Pilot opener，不靠系统漏人/隐藏居民证明premise；通过一张普通维护工单让time/gravity/protocol三层共同参考在身体危机中首次咬合，并把AI独立判断与男主现场物理执行绑定为同一动作。"
+conflict_grammar: "restored control authority vs changed present physical state"
 progression:
-  reveal_or_knowledge: "local systems can remain functional while public/local shared now is stale; +08:00 becomes the first concrete crack in shared city reference."
-  pressure_or_public_action: "routine post-T0 maintenance becomes an emergency abort/survival event; task completion is ultimately abandoned."
-  relationship_or_capability: "male=present physical bridge/execution; private AI=protocol/model/control; AI proves independent judgment and later loses capability layer by layer while prioritizing male survival."
-callback_or_debt: "302 legacy compatibility -> EP09/10; AI correct-judgment wound -> I know/I don't know arc; physical hand -> chief reveal in EP02 and connection motif."
-cost_after_solution: "safe-reset Plan B really begins working, then latent T0 structure failure destroys the safe reference; task remains unresolved, male is stranded outside, AI must shut down local operation to extend life support."
-payoff_or_progress: "episode proves both central world premise and male/AI dependency through one causal job rather than exposition."
-ending_cliffhanger_or_image: "after private AI says the approved early/late greeting direction and shuts down, an unidentified EVA-gloved human hand catches the nearly unconscious male's wrist and reaches for his rescue ring."
-mechanism_status: "LOCKED_DIRECTION / exact gravity hardware, suit power figures, structural fracture engineering VALIDATE_LATER"
-dialogue_status: "TBD except final '我很抱歉 / 祝你早安……晚安' is LOCKED_DIRECTION"
+  reveal_or_knowledge: "local systems can remain functional while shared public/local reference is stale; +08:00 is the first concrete crack"
+  pressure_or_public_action: "routine maintenance becomes evacuation; task completion is ultimately abandoned"
+  relationship_or_capability: "male=current physical execution; AI=protocol/model/control; AI proves independent judgment then loses capability layer by layer"
+callback_or_debt: "302 legacy compatibility -> EP09/10; correct-judgment wound -> AI arc; physical hand -> EP02 chief reveal"
+cost_after_solution: "safe-reset recovery truly begins, then the small outer attached segment loses structural connection; male is stranded outside and AI must shut down local operation for life support"
+payoff_or_progress: "world premise and male/AI dependency are proven through one causal job"
+ending_cliffhanger_or_image: "after '我很抱歉 / 祝你早安……晚安' and AI shutdown, an unidentified EVA-gloved hand catches the male's wrist"
+mechanism_status: "LOCKED_DIRECTION / exact gravity hardware, interface engineering and suit power figures VALIDATE_LATER"
+dialogue_status: "TBD except final apology/greeting direction locked"
 state_delta:
-  - "302 trusted local/public time split of +08:00 exposed during EP01 task"
-  - "time and gravity remain independent T0 aftermath axes"
-  - "private AI refuses immediate nominal gravity restoration on current-safety grounds"
-  - "safe-reset Plan B genuinely begins succeeding before latent structure failure"
-  - "male exits Local Gravity Frame and survives space drift"
-  - "private AI local session shuts down to preserve life support and rescue beacon"
-  - "unidentified human rescuer catches male; identity carried to EP02"
-  - "302 remains real legacy node for later reuse/boundary callbacks"
-continuation_capsule: "EP02 opens after the unidentified rescuer has recovered the male. The EP01 gravity maintenance task did not end normally; its incident record proves a trusted shared reference can fail while local systems continue operating. The rescuer is revealed as the new/current chief, who formalizes public responsibility around male present-physical facts; private AI remains the male's established companion, and her EP01 local shutdown is not permanent continuity death."
+  - "302 trusted local/public split +08 exposed"
+  - "time and gravity remain independent"
+  - "AI refuses immediate nominal gravity restore"
+  - "safe-reset Plan B genuinely begins succeeding"
+  - "small 302 outer attached segment accidentally detaches; 302 itself remains"
+  - "male survives space drift"
+  - "AI local session shuts down for life support/beacon"
+  - "unidentified human rescuer catches male"
+continuation_capsule: "EP02 opens after rescue. Incident review shows shared reference can fail while local systems continue. The rescuer is revealed as the current/new chief; AI shutdown was temporary/local, not permanent continuity death."
 ```
 
 ---
 
 # 19｜Hard prohibitions
 
-- no active stale occupancy-record / hidden resident engine;
-- no early female-chief POV or identifiable reveal;
-- no delayed “we are actually in space” twist;
-- no exposition prologue detached from the current maintenance task;
-- no implication that time error directly causes gravity failure;
-- no one-shot magical gravity flip as the full escape grammar;
-- no AI stupidity required to create the +08:00 reveal;
-- no full handshake = automatic safe restoration;
-- no AI choosing permanent abnormal gravity as the original plan;
-- no male simply missing/slipping from the final safe point;
-- no rescue equipment that fails before it genuinely starts working;
-- no AI miscalculation as the latent structural failure explanation;
-- no vacuum sucking the male out;
-- no repeated post-space rescue device cascade;
-- no “AI becomes battery” language;
-- no permanent AI death implication from the local shutdown;
-- no explanatory dialogue after the final hand appears.
+- no stale occupancy / hidden resident engine；
+- no early chief reveal；
+- no detached lore prologue；
+- no multi-layer-city traversal to reach the exterior；
+- no infinite internal canyon requirement；
+- no time error directly causing gravity failure；
+- no one-shot magical gravity flip as full escape grammar；
+- no AI stupidity required for +08 reveal；
+- no full handshake = automatic safe restore；
+- no AI choosing permanent abnormal gravity as Plan A；
+- no male simply slips from safe point；
+- no recovery equipment failing before genuine success begins；
+- no AI miscalculation as detachment cause；
+- no deliberate system ejection of occupied segment；
+- no whole-302 detachment；
+- no vacuum suction；
+- no post-space device-rescue cascade；
+- no AI-as-battery language；
+- no permanent AI death implication；
+- no explanatory dialogue after final hand.

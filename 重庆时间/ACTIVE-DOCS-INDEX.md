@@ -1,7 +1,7 @@
 # 《重庆时间》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-03
-- Status: `REPAIR BRANCH ACTIVE / ASTEROID CORE V2.1 ACTIVE / ANIMATION STYLE V1 DEFAULT SETTING-ART ROUTE / OSHII STYLE PRESERVED`
+- Status: `REPAIR BRANCH ACTIVE / ASTEROID CORE V2.1 ACTIVE / OSHII ANIMATION STYLE V1 DEFAULT SETTING-ART ROUTE`
 - Branch: `chongqing-time-story-causal-repair`
 - Rule: story, world, spatial/environment, character and episode authorities are explicit; execution docs never override Canon.
 
@@ -68,12 +68,12 @@ Old V1 spatial patch/map files are retired and are not active reading targets.
 - **Active style router:** `VISUAL-STYLE-ROUTING-INDEX-V2.md`
 - **Current teaser:** `TRAILER-TEASER-V3.md`
 
-## Animation Style V1 — active default production route
+## Oshii Animation Style V1 / 押井守动画风格 V1 — active default production route
 
-- **Formal style lock:** `docs/visual/2026-09-03-ANIMATION-STYLE-V1-LOCK.md`
-- **Prompt package:** `docs/visual/2026-09-03-ANIMATION-STYLE-V1-PROMPT.md`
-- **Second New Chongqing current exterior master:** `docs/visual/2026-09-03-SECOND-NEW-CHONGQING-ANIMATION-MASTER-V1.md`
-- **Persistent master image:** `/重庆时间/visual/style-masters/SECOND_NEW_CHONGQING_ANIMATION_STYLE_MASTER_V1.png`
+- **Formal style lock:** `docs/visual/2026-09-03-OSHII-ANIMATION-STYLE-V1-LOCK.md`
+- **Prompt package:** `docs/visual/2026-09-03-OSHII-ANIMATION-STYLE-V1-PROMPT.md`
+- **Persistent master image:** `/重庆时间/visual/style-masters/SECOND_NEW_CHONGQING_OSHII_ANIMATION_STYLE_MASTER_V1.png`
+- **Asset locator:** `docs/visual/SECOND-NEW-CHONGQING-OSHII-ANIMATION-ASSET-LOCATOR.md`
 - **Master fingerprint:** `1918×820 / SHA-256 35f4f27601817f95a7bc7f1c5854aa8aaa0eba5afa613600f1d842edae15f80a`
 
 Status:
@@ -82,19 +82,22 @@ Status:
 
 Core rule:
 
-> **剧本 / Spatial Canon 决定“画什么”；Animation Style V1 决定“怎么画”。**
+> **剧本 / Spatial Canon 决定“画什么”；押井守动画风格 V1 决定“怎么画”。**
 
 Core visual DNA:
 
+- serious graphic cel-animation;
 - manga-inspired structural linework;
 - strong black negative space;
 - aged off-white / gray structural masses;
 - 2–3 hard cel-shadow tiers;
 - sparse muted rust-red repair / civic-system accents;
+- selected red-white functional identification / repair bands;
 - visible age / impact / maintenance history;
 - low micro-detail density;
 - Seedance-stable large silhouettes;
-- in-world municipal/civic lettering only when contextual.
+- in-world municipal/civic lettering only when contextual;
+- quiet, procedural, lived-in public-system mood rather than spectacle.
 
 Text behavior:
 
@@ -102,6 +105,20 @@ Text behavior:
 - `团结协作 共同前进` and `科学引领未来` are approved examples of contextual civic lettering;
 - no floating `第二新重庆` / `SECOND NEW CHONGQING` film title in ordinary production source frames;
 - no infographic explanation panels.
+
+## Naming migration
+
+The user explicitly merged the previous production names.
+
+Current status:
+
+- `Animation Style V1` = legacy alias for **Oshii Animation Style V1**;
+- the previous separate `Oshii Style` lane is no longer a competing parallel production route;
+- `Dungeon Style` remains visual-development provenance only.
+
+Decision record:
+
+- `decision-logs/2026-09-03-0035-OSHII-ANIMATION-STYLE-V1-RENAME.md`
 
 ## Dungeon Style provenance
 
@@ -114,19 +131,7 @@ Historical documents remain available:
 - `docs/visual/2026-09-03-DUNGEON-STYLE-VISUAL-ASSET-LOCK-V1.md`
 - `docs/visual/2026-09-03-DUNGEON-STYLE-PROMPT-V1.md`
 
-The useful graphic simplification discoveries from that route have been absorbed into Animation Style V1.
-
-Future production prompts do not need to reference an external work or the old `Dungeon Style` label.
-
-## Oshii Style / 押井守风格
-
-Status:
-
-> **PRESERVED / PARALLEL / NOT SUPERSEDED**
-
-If the user explicitly asks for `押井守风格`, route to the preserved Oshii lane.
-
-Do not auto-hybridize Animation Style V1 + Oshii.
+Useful graphic simplification discoveries from that route are inherited by Oshii Animation Style V1.
 
 ## Exterior engineering / Seedance history
 
@@ -136,7 +141,7 @@ Do not auto-hybridize Animation Style V1 + Oshii.
 
 Interpretation now:
 
-> Earlier B remains macro-geometry / continuity provenance. The approved Animation Master V1 is the preferred current exterior rendering reference and project-wide environment style anchor.
+> Earlier B remains macro-geometry / continuity provenance. The approved Oshii Animation Style V1 master is the preferred current exterior rendering reference and project-wide environment style anchor.
 
 ---
 
@@ -150,9 +155,9 @@ Unless the user explicitly chooses another style, every new setting image must f
 4. identify parent city/spatial asset and valid geometry anchor;
 5. read `VISUAL-CONSISTENCY-BIBLE-V2.md` for functional visual grammar;
 6. read `VISUAL-STYLE-ROUTING-INDEX-V2.md`;
-7. default route = **ANIMATION STYLE V1**;
-8. read `docs/visual/2026-09-03-ANIMATION-STYLE-V1-LOCK.md`;
-9. read `docs/visual/2026-09-03-ANIMATION-STYLE-V1-PROMPT.md`;
+7. default route = **OSHII ANIMATION STYLE V1**;
+8. read `docs/visual/2026-09-03-OSHII-ANIMATION-STYLE-V1-LOCK.md`;
+9. read `docs/visual/2026-09-03-OSHII-ANIMATION-STYLE-V1-PROMPT.md`;
 10. generate one production reference image;
 11. run separate story/spatial QC and style/Seedance QC.
 
@@ -160,7 +165,7 @@ A style reference may never override scene facts.
 
 ---
 
-# 05｜Animation Style V1 high-level lock
+# 05｜Oshii Animation Style V1 high-level lock
 
 New setting art should inherit:
 
@@ -173,7 +178,8 @@ New setting art should inherit:
 - visible age / impact / repair history;
 - low micro-detail density;
 - Seedance-friendly stable silhouettes;
-- large in-world municipal/civic lettering only when useful.
+- large in-world municipal/civic lettering only when useful;
+- quiet public-system operation and restrained cinematic tension.
 
 Do not add visual noise just to increase realism.
 
@@ -221,7 +227,7 @@ A possible later EP10 macro Legacy Sector separation has been discussed but rema
 
 ---
 
-# 08｜Visual anchor use after Animation Style V1 lock
+# 08｜Visual anchor use after Oshii Animation Style V1 lock
 
 ## Macro geometry continuity
 
@@ -234,13 +240,13 @@ A possible later EP10 macro Legacy Sector separation has been discussed but rema
 - T0 repair-sector logic;
 - distant Earth relation.
 
-The current preferred exterior visual master is:
+The current preferred exterior visual/style master is:
 
-> `/重庆时间/visual/style-masters/SECOND_NEW_CHONGQING_ANIMATION_STYLE_MASTER_V1.png`
+> `/重庆时间/visual/style-masters/SECOND_NEW_CHONGQING_OSHII_ANIMATION_STYLE_MASTER_V1.png`
 
 ## New rendering default
 
-For newly generated setting art, use Animation Style V1 unless explicitly overridden.
+For newly generated setting art, use Oshii Animation Style V1 unless explicitly overridden.
 
 Do not silently restore obsolete geography such as:
 
@@ -259,13 +265,13 @@ Do not let style inflate object scale.
 
 # 09｜Visual-development priority
 
-1. Animation-Style ordinary lived district;
-2. Animation-Style finite Jialing wide view with clearly different bridge scales;
-3. Animation-Style 302 city-facing / space-facing orientation;
-4. Animation-Style EP02 Level-1 Trunk Bridge;
-5. Animation-Style Familiar Lifeline + both bridgeheads;
-6. Animation-Style EP06/07 shared infrastructure family;
-7. Animation-Style EP01 outer attached maintenance segment / detachment geometry;
+1. Oshii-style ordinary lived district;
+2. Oshii-style finite Jialing wide view with clearly different bridge scales;
+3. Oshii-style 302 city-facing / space-facing orientation;
+4. Oshii-style EP02 Level-1 Trunk Bridge;
+5. Oshii-style Familiar Lifeline + both bridgeheads;
+6. Oshii-style EP06/07 shared infrastructure family;
+7. Oshii-style EP01 outer attached maintenance segment / detachment geometry;
 8. robots/equipment setting assets as required by screenplay;
 9. if EP10 macro split is approved later, lock split geometry before generating state masters.
 
@@ -296,6 +302,7 @@ Important visual decision logs:
 - `decision-logs/2026-09-02-2116-SEEDANCE-MASTER-B-LOCK.md`
 - `decision-logs/2026-09-03-0004-DUNGEON-STYLE-PARALLEL-LOCK.md`
 - `decision-logs/2026-09-03-0026-ANIMATION-STYLE-V1-LOCK.md`
+- `decision-logs/2026-09-03-0035-OSHII-ANIMATION-STYLE-V1-RENAME.md`
 
 ---
 
@@ -305,9 +312,9 @@ Story development remains governed by active story/episode Canon.
 
 Visual setting-art production now uses:
 
-> **SCRIPT / SPATIAL CANON + VALID GEOMETRY ANCHOR + ANIMATION STYLE V1**
+> **SCRIPT / SPATIAL CANON + VALID GEOMETRY ANCHOR + OSHII ANIMATION STYLE V1**
 
-unless the user explicitly routes the scene to Oshii Style or another style.
+unless the user explicitly routes the scene to another style.
 
 For major structural state changes, especially a possible EP10 macro separation:
 

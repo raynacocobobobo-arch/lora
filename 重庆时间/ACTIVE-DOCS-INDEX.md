@@ -1,7 +1,7 @@
 # 《重庆时间》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-02
-- Status: `REPAIR BRANCH ACTIVE / SPATIAL V2 BASELINE VERIFIED / ASTEROID CORE V2.1 ACTIVE`
+- Status: `REPAIR BRANCH ACTIVE / SPATIAL V2 BASELINE VERIFIED / ASTEROID CORE V2.1 ACTIVE / SEEDANCE MASTER B APPROVED`
 - Branch: `chongqing-time-story-causal-repair`
 - Rule: story, world, spatial/environment, character and episode authorities are all explicit; execution docs never override Canon.
 
@@ -64,7 +64,10 @@ Old V1 spatial patch/map files are retired and are not active reading targets.
 - **Scene generation workflow:** `SCENE-PROMPT-TEMPLATE-V2.md`
 - **Visual anchor status:** `VISUAL-ANCHOR-INDEX-V2.md`
 - **Current teaser:** `TRAILER-TEASER-V3.md`
-- **Current ring-city exterior / engineering execution spec:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
+- **Current ring-city engineering basis:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
+- **Approved Seedance production master B:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-MASTER-B.md`
+- **Seedance 2.5 exterior prompt B:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-VIDEO-PROMPT-B.md`
+- **Approved production image asset:** `assets/visual/second-new-chongqing/SECOND_NEW_CHONGQING_SEEDANCE_MASTER_B.webp`
 - **Superseded exterior geometry reference:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
 
 Execution rule:
@@ -73,7 +76,11 @@ Execution rule:
 
 For any environment / KV / storyboard / scene-generation task, read V2.1 Asteroid Core Patch and Spatial V2 before the visual execution docs.
 
-For `RING-ORIENT-01 / CITY-03` exterior development specifically, read the asteroid-core patch first, then the V1.1 asteroid-core exterior execution spec.
+For Second New Chongqing exterior motion work:
+
+> **use B as the direct production source image. B image supplies geometry; Seedance prompt supplies camera/motion/continuity constraints.**
+
+A separate high-detail A master is not required as a production dependency.
 
 ---
 
@@ -91,11 +98,13 @@ For `RING-ORIENT-01 / CITY-03` exterior development specifically, read the aster
 - ordinary inhabited districts have broadly similar visual nominal down;
 - Local Gravity Frame differences become most visible at bridge/interface/damage zones;
 - EP02 bridge = **large Level-1 Trunk Bridge**;
-- EP03/04/08/10 Familiar Lifeline = **small Level-4 maintenance bridge for the entire season**;
+- EP03/04/08/10 Familiar Lifeline = **small Level-4 maintenance bridge for the entire season** under current Canon;
 - 302 = outer legacy district cluster, **one side faces city, one side faces space**;
 - EP01 loses only a small 302 outer attached maintenance/interface segment, not 302 itself;
-- EP10 bulk 302 migration largely predates the episode; small lifeline is only the last active legacy connection;
-- city contraction retires modules/connections, not the permanent ring backbone or central asteroid core.
+- EP10 bulk 302 migration largely predates the episode; small lifeline is currently the last active legacy connection;
+- city contraction currently retires modules/connections, not the permanent ring backbone or central asteroid core.
+
+A possible later EP10 macro Legacy Sector separation has been discussed but remains provisional until explicitly promoted into story/spatial Canon.
 
 ---
 
@@ -111,8 +120,8 @@ For `RING-ORIENT-01 / CITY-03` exterior development specifically, read the aster
 - no stale occupancy / hidden resident / HOLD CUTOVER EP01 engine;
 - EP03 small Familiar Lifeline must causally reach EP04 / EP08 / EP10;
 - EP08 = one medium quadruped vs ordinary industrial humanoids at the same small lifeline bridgeheads; degraded side voluntarily revokes temporary public-force role;
-- EP10 = people first, then service/gravity/protocol/mechanical separation;
-- final important bridge = same familiar small bridge, technically healthy;
+- EP10 current Canon = people first, then service/gravity/protocol/mechanical separation;
+- final important bridge under current Canon = same familiar small bridge, technically healthy;
 - private AI wants to survive and has a real preservation route; copy/upload ≠ continuity.
 
 ---
@@ -121,7 +130,26 @@ For `RING-ORIENT-01 / CITY-03` exterior development specifically, read the aster
 
 Existing approved visual anchors remain useful for **style, drawing language, lighting and material discipline** where they do not contradict Spatial V2.1 + Spatial V2 geometry.
 
-They must not silently restore old geography such as:
+## Current macro exterior production anchor
+
+`RING-ORIENT-01` is now approved through Seedance Production Master B.
+
+Use:
+
+> `assets/visual/second-new-chongqing/SECOND_NEW_CHONGQING_SEEDANCE_MASTER_B.webp`
+
+Production locks:
+
+- complete closed ring-city silhouette;
+- engineered asteroid core;
+- limited major radial structural/service links;
+- modular old off-white / gray-blue ring massing;
+- fixed recognizable T0 historical repair sector;
+- distant small Earth;
+- simplified cel-animation large-shape language;
+- reduced high-frequency detail for image-to-video stability.
+
+Do not silently restore old geography such as:
 
 - hollow empty torus center;
 - bottomless internal canyon;
@@ -133,32 +161,26 @@ They must not silently restore old geography such as:
 - centrifugal ring gravity;
 - giant floating central city instead of engineered asteroid core.
 
-Future visual-environment development priority:
+---
 
-1. overall asteroid-centered ring-city orientation;
-2. central asteroid-core orientation / structural relation asset;
-3. unrolled topology updated to show central asteroid relation;
-4. ordinary lived district;
-5. finite Jialing wide view with visibly different bridge scales and optional distant asteroid-core framing;
-6. 302 city-facing / space-facing orientation;
-7. large EP02 Trunk Bridge;
-8. small Familiar Lifeline + both bridgeheads;
-9. EP06/07 shared infrastructure family;
-10. EP01 outer attached maintenance segment / detachment geometry.
+# 07｜Visual-development priority after B approval
 
-Current ring-city orientation text direction is recorded in:
+1. **B-based normal exterior Seedance motion tests**;
+2. central asteroid-core closer orientation asset only if a screenplay shot requires it;
+3. ordinary lived district;
+4. finite Jialing wide view with clearly different bridge scales;
+5. 302 city-facing / space-facing orientation;
+6. large EP02 Trunk Bridge;
+7. small Familiar Lifeline + both bridgeheads;
+8. EP06/07 shared infrastructure family;
+9. EP01 outer attached maintenance segment / detachment geometry;
+10. if EP10 macro split is approved later, derive dedicated separation-state motion masters from B.
 
-> `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md`
->
-> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
-
-Important status:
-
-> **asteroid-core macro direction is locked; exterior image anchor still requires a new redraw + explicit user approval.**
+Do not create a high-detail A image merely as a prerequisite for motion production.
 
 ---
 
-# 07｜Consistency / verification docs
+# 08｜Consistency / verification docs
 
 Spatial V2 baseline consolidation verification:
 
@@ -178,7 +200,7 @@ Story-causal reports remain active only within their stated scopes.
 
 ---
 
-# 08｜Legacy / provenance
+# 09｜Legacy / provenance
 
 Historical root:
 
@@ -198,9 +220,13 @@ Asteroid-core macro correction provenance:
 
 > `decision-logs/2026-09-02-2023-ASTEROID-CORE-MACRO-PATCH.md`
 
+Seedance production-master promotion provenance:
+
+> `decision-logs/2026-09-02-2116-SEEDANCE-MASTER-B-LOCK.md`
+
 ---
 
-# 09｜Docs / plans
+# 10｜Docs / plans
 
 Spatial V2 design spec:
 
@@ -214,24 +240,30 @@ EP01 causal design spec remains active within its scope:
 
 > `docs/superpowers/specs/2026-09-02-ep01-task-record-gravity-redesign.md`
 
-Current exterior visual / engineering execution spec:
+Current exterior engineering execution basis:
 
 > `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
 
+Current exterior production master:
+
+> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-MASTER-B.md`
+
+Current Seedance exterior prompt:
+
+> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-VIDEO-PROMPT-B.md`
+
 ---
 
-# 10｜Current workflow gate
+# 11｜Current workflow gate
 
-Story development next target:
+Story development remains governed by active story/episode Canon.
 
-> **EP01 formal screenplay draft using approved outline + Spatial V2.1 + Spatial V2.**
+Visual production:
 
-Visual development:
+> **Second New Chongqing macro exterior no longer needs a new redraw before motion testing: approved B is the active direct Seedance source.**
 
-> **new large environment/KV geometry must use the asteroid-centered orientation first; old visual anchors are style/render evidence unless their geometry is explicitly still compatible.**
+For any major structural state change, especially a possible EP10 macro separation:
 
-Current exterior work:
+> **lock story geometry first → create/approve target-state B-derived keyframe → then animate.**
 
-> **RING-ORIENT-01 / CITY-03 must now be redrawn as an asteroid-centered ring-shipyard city. Do not promote any hollow-center exterior draft.**
-
-Before promotion/merge of the spatial repair scope, asteroid-core patch consistency should receive a new cross-doc verification pass.
+Do not ask Seedance to invent a city-scale structural transformation from the intact B source alone.

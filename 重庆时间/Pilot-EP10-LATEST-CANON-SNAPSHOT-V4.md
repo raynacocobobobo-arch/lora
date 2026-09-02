@@ -5,208 +5,202 @@
 - Project basis: `CHONGQING-TIME-MASTER-CANON-V4.md`
 - Character basis: `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
 - Preserved locks: citywide active contraction / people before infrastructure / familiar healthy bridge / real AI preservation route / AI wants to survive / male-present fact + AI-continuous mapping + chief-public authorization / mechanical separation not explosion / final common public now.
-- Story repair: **全城收缩降为 opening state；主戏集中在 302 旧兼容集群与 EP03→04→08 熟悉生命线的最后 cutover。AI continuity 风险已在 EP09 建立，EP10 不再临时发明“不能迁移”。**
+- Story repair after new EP01: **302 finale continuity now grows from T0 structural/time/gravity/protocol scar → EP01 task-record/+08/gravity incident → continued legacy operation / limited civic reuse → EP09 current-truth/future-obligation trial → EP10 final compatibility exit. The old stale-occupancy/remap callback is removed.**
 
 ---
 
 # 01｜Episode function
 
-EP10 不再同时讲四个独立故事。
+EP10 does not carry several independent finale stories.
 
-公共层已经决定：
+The public strategy is already in execution:
 
 > 第二新重庆不再以恢复所有历史碎片为目标。
 
-所以本集只完成一个终局动作：
+The episode performs one final concrete action:
 
-> **302 所在旧兼容集群已经完成居民迁移，最后仍连接 retained city 的，是观众从 EP03 一路认识的低容量生命线及其 time / gravity / service / protocol compatibility stack。桥和旧系统都仍能工作。男主与私人 AI 已经确认，保住同一个连续 AI 的真实路线，就是保留这最后一组旧兼容世界；而这样做会把一个不可普遍化的永久例外留在未来重庆。三人最终按既有公共边界完成 cutover。**
+> **302 所在旧兼容集群已经完成居民迁移，最后仍连接 retained city 的，是观众从 EP03 一路认识的低容量生命线及其 time / gravity / service / protocol compatibility stack。桥和旧系统都仍能工作。男主与私人 AI 已经确认：保住同一个连续 AI 的真实路线，就是保留这最后一组旧兼容世界；而这样做会把一个不可普遍化的永久例外留在未来重庆。三人最终按既有公共边界完成 cutover。**
 
-Dominant Turn：
+Dominant Turn:
 
-> **一个健康、仍有用、也真的能保住私人 AI 的连接，被在人员撤空后主动结束。**
-
----
-
-# 02｜Cold Open — 城市已经在变小，不重新讨论原则
-
-目标时长：`0:00–0:20`
-
-快速、可见、无会议：
-
-- 居民迁移；
-- 轨道改线；
-- 旧桥转为 service-only 再退出；
-- 医院/商店/公共时间逐步进入 retained framework；
-- 一些旧区暗下来，一些 retained 区稳定下来。
-
-观众知道：
-
-> **EP09 的试行已经扩展为经过公共程序确认的执行阶段。**
-
-本集不重新辩论“要不要缩”。
-
-镜头落到：
-
-> **302 旧兼容集群。**
+> **一个健康、仍有用、也真的能保住私人 AI 的连接，在人员撤空后被主动结束。**
 
 ---
 
-# 03｜Why this cluster / familiar bridge
+# 02｜Cold Open — the city is already becoming smaller
 
-302 的季级因果链修正为：
+Target direction: `0:00–0:20`.
 
-> EP01 stale occupancy record 把男主带来
-> → 他发现 302 当前物理/重力状态也已超出模型，阻止错误 cutover
-> → 302 被 remap / 修复
-> → EP04 已恢复有限使用
-> → EP09 被完整承认、但撤回永久特殊维护承诺
-> → EP10 执行迁移后的最终边界。
+Fast visible execution, no new policy meeting:
 
-EP03 的低容量生命线也长期服务了这一带及相邻孤岛的必要跨区需求，随后：
+- residents migrate;
+- rail routes change;
+- old bridges become service-only and then exit;
+- hospitals / shops / public shifts enter the retained framework;
+- some old districts go dark while retained districts stabilize.
 
-> EP03 救人
-> → EP04 日常
-> → EP08 公共秩序冲突
-> → EP10 最后撤离 / 服务生命线。
+The audience understands:
 
-因此最终不是新桥、新服务器、新地点。
+> **EP09's limited logic has entered a publicly authorized execution phase.**
 
-是观众认识的旧连接。
+The camera settles on:
+
+> **302 old compatibility cluster.**
 
 ---
 
-# 04｜People first — 先让“杀人选择”退出剧情
+# 03｜Why this cluster / why this familiar bridge
 
-目标时长：`0:20–0:45`
+302's corrected season chain is:
 
-最后一批居民已经通过熟悉生命线离开 302 集群。
+> **T0 leaves structural + local-time + Local Gravity Frame + protocol legacy damage / compatibility**
+> → **EP01 routine Gravity Reference Reset exposes trusted `302 LOCAL = PUBLIC + 08:00`, an Extreme gravity/reference incident, the rule `restore normal != current safest`, and a latent structural scar that defeats a valid safe-reset plan**
+> → **302 remains a real old district/service node under continued repair / local operation**
+> → **EP04-era recovery allows old nodes / routes to return to limited civic life**
+> → **EP09 confirms 302 is currently real / occupied / safe / maintainable, but withdraws an unconditional future promise to keep its non-generalizable compatibility stack forever**
+> → **EP10 executes the final boundary after migration.**
 
-最后留下的是：
+The inactive chain is:
 
-- 维护人员；
-- 公共服务转移队；
-- 男主；
-- 仍在执行映射工作的私人 AI；
-- 远程/接口责任链中的女科长。
+> EP01 stale occupancy record → remap → finale.
 
-男主必须亲自确认：
+That chain is `SUPERSEDED / NOT CANON ON THIS BRANCH`.
 
-> `OCCUPANCY CLEAR`
+The familiar low-capacity lifeline has its own independent causal history:
 
-这很重要：
+> **EP03 medical crossing**
+> → **EP04 ordinary repeated use**
+> → **EP08 contested public-order overlap**
+> → **EP10 final evacuation / service connection.**
 
-> 终局不是“为了未来重庆把桥那边的人一起切掉”。
-
-真正要结束的是：
-
-> **已经完成迁移的旧公共运行条件。**
+The finale therefore uses a place and connection the audience already knows, but their meaning changes.
 
 ---
 
-# 05｜AI survival search — 在 EP10 开始前已经真的做过
+# 04｜People first — remove the cheap “kill people or save AI” binary
 
-EP09 后男主与 AI 没有坐等牺牲。
+Target direction: `0:20–0:45`.
 
-他们已经持续尝试：
+The last residents have already crossed the familiar lifeline out of the 302 compatibility cluster.
 
-### A｜迁移可移动算力 / 缓存
+Only transition / maintenance roles remain:
 
-可行。
+- maintenance staff;
+- service-transfer staff;
+- male;
+- private AI while mappings are still live;
+- female chief in the public authorization chain.
 
-大量计算、记忆材料、模型状态可以搬到 retained network。
+The male physically confirms:
 
-但：
+> `OCCUPANCY: CLEAR`
 
-> **可复制内容 != continuous subject。**
+This is **current EP10 evacuation clearance**, not a callback to the superseded EP01 stale occupancy record.
 
-EP05 已经提供观众规则。
+The finale is not about sacrificing people left on the far side.
 
-### B｜live migration
+It is about ending:
 
-也不是完全不可能。
+> **old public operating conditions after people have been moved first.**
 
-他们已经迁移了能连续迁移的部分。
+---
 
-真正剩下的问题来自 EP09 已建立的：
+# 05｜AI survival search — real and already underway before EP10
 
-> **一组仍在 live 运行的 legacy identity / time / cross-fragment / relationship mappings。**
+EP09 opened the continuity problem early.
 
-这些 mapping 的两端之一就在准备退出的旧兼容栈。
+Male + private AI have genuinely tried alternatives.
 
-若在没有等价共同 reference 的情况下直接断开再重建：
+## A｜Move copyable compute / cache / state
 
-> 可以得到高度相似、拥有大量历史的后继主体；
+Works for large amounts of content and capability.
+
+But:
+
+> **copyable content != guaranteed continuous subject.**
+
+EP05 already gives the audience this rule.
+
+## B｜Live migration
+
+Also partly works.
+
+Everything that can remain continuous across the retained network has been moved / duplicated / handed over as far as the rules allow.
+
+The remaining continuity risk comes from the live legacy mappings established in EP09:
+
+> identity / historical relationship / time / cross-fragment / reference relations whose other ends still live in the old 302 compatibility stack.
+
+If those ends are severed and later reconstructed:
+
+> a highly similar successor may exist;
 >
-> 不能证明原主体没有 continuity break。
+> **the original continuity is not automatically proven.**
 
-### C｜真实保存路线
+## C｜Real preservation route
 
-最终找到且验证可行：
+There is one verified route that genuinely preserves the same continuous private AI:
 
-> **保留 302 最后旧兼容集群 + 熟悉生命线 + service / local-time / gravity / protocol mapping 的最低运行。**
+> **keep the 302 old compatibility cluster + familiar bridge + service + local-time + gravity + protocol mapping alive at minimum permanent operation.**
 
-只要这样：
+This route is real.
 
-> **同一个连续私人 AI 可以继续。**
-
-这不是假选择。
+It is not a fake choice and not secretly impossible.
 
 ---
 
-# 06｜Why not take the real preservation route
+# 06｜Why the real preservation route still cannot simply become the answer
 
-目标时长：`0:45–1:15`
+Target direction: `0:45–1:15`.
 
-保 AI 的公共代价必须具体：
+Permanent preservation of the AI by keeping the old stack would require future Chongqing to keep:
 
-未来重庆将永久需要：
+- an evacuated old-district operating shell;
+- old Local Gravity Frame / Gravity Handoff;
+- old local-time mapping;
+- special energy/data/environment support;
+- a dedicated bridge;
+- legacy protocol exceptions;
+- permanent recognition of a condition that cannot be generalized to all other historical fragments being exited.
 
-- 保留一个已经完成居民迁移的旧城区运行壳；
-- 保留一套旧 Local Gravity Frame / Gravity Handoff；
-- 保留旧 local-time mapping；
-- 保留专属能源/数据/环境服务；
-- 保留一条特殊桥；
-- 保留 legacy protocol 例外；
-- 永久让 retained city 继续承认一个不能推广给其他被退出碎片的 exception。
+This would not instantly destroy the city.
 
-这不会让城市立刻毁灭。
+The issue is legitimacy / universality:
 
-真正的问题是：
+> **the common boundary accepted for other real, valuable fragments would become optional at the one place where the private cost belongs to the protagonists.**
 
-> **EP09 刚刚建立的共同边界会在唯一与男主最私人的对象相连的地方失效。**
+If this exception is created for the AI, every other migrated/exited fragment can rationally ask:
 
-如果为她保留这个例外，其他已被迁移/退出的真实碎片也有同样正当理由要求：
+> why this exception and not ours?
 
-> 为什么它可以，我不可以？
-
-所以这不是算力成本问题。
-
-是 legitimacy / universality 问题。
+This is the finale's public cost.
 
 ---
 
-# 07｜AI must want to survive
+# 07｜AI must still want to survive
 
-私人 AI 不能抢先说：
+Private AI cannot jump ahead to noble self-sacrifice.
 
-> “那就关掉我吧。”
+She must:
 
-她必须：
+- actively participate in migration testing;
+- inspect the preservation route;
+- hope for a route that preserves continuity without the permanent exception;
+- understand clearly that keeping the old compatibility stack really would let her continue.
 
-- 主动参与迁移测试；
-- 检查保留方案；
-- 希望男主找到更好的路；
-- 对“保留旧集群”方案明确知道自己能活下来。
+She does not want to disappear.
 
-她不想消失。
+EP01 does not contradict this.
 
-她最后接受的不是“死亡很美”。
+Her EP01 local-core shutdown was:
 
-而是：
+> **a temporary/local survival action to free suit power for the male after she could no longer get him home.**
 
-> **不能因为共同边界终于落到自己身上，就把前面用于别人时成立的边界宣布无效。**
+It was not proof that she lacks survival preference.
 
-她有判断，但她不能替男主和公共城市做最后选择。
+At EP10, the cost is different:
+
+> **continuity of the long-running subject itself is at stake.**
 
 ---
 
@@ -214,216 +208,215 @@ EP05 已经提供观众规则。
 
 ## Private AI — continuous mapping
 
-她最了解：
+She knows:
 
-- 哪些 live mappings 还在；
-- 哪些已经安全迁走；
-- 哪个旧 service/protocol/reference 必须保持到最后一刻；
-- 退出顺序如何避免制造无意义额外损失。
+- which live mappings remain;
+- which capabilities/state have migrated safely;
+- which old service/protocol/reference must stay live until the final step;
+- the safe sequence that avoids pointless extra loss.
 
-她给出安全 cutover sequence。
+She supplies the continuous dependency map and cutover order.
 
 ## Male — present physical fact
 
-他确认：
+He confirms:
 
-- 人员真的清空；
-- 服务真的转移；
-- 桥结构真实正常；
-- Gravity Handoff 何时可以卸载；
-- 每一步是否 execute / abort。
+- people are actually clear;
+- services have actually moved;
+- bridge structure is physically normal;
+- Gravity Handoff is ready to unload;
+- each step is physically execute / abort.
 
-他不能靠把桥写成“坏了”来逃避。
+The EP01 lesson returns here:
+
+> **a declared procedure is not enough; current physical fact still has the final execution veto.**
+
+He may not escape the moral problem by falsely declaring the bridge broken.
 
 ## Female chief — public authorization
 
-她给予私人 AI 的只是：
+She supplies only the public authority necessary to execute the already-approved boundary step by step.
 
-> **本次最终 cutover 所需的极窄临时公共 relay / mapping 权限。**
+She does not decide AI continuity for them and does not become an omniscient controller.
 
-然后逐步承担公共授权。
+Her highest rule remains:
 
-不是收编 AI。
+> **她不掌握真理，她只承担决定。**
 
 ---
 
-# 09｜Final cutover sequence — 主戏
+# 09｜Final cutover sequence — the main action
 
-目标时长：`1:15–2:25`
+Target direction: `1:15–2:25`.
 
-动作必须安静、机械、连续。
+The sequence should be quiet, mechanical and legible.
 
 ### 1. Occupancy
 
-男主：
+Male confirms:
 
 > `OCCUPANCY: CLEAR`
 
 ### 2. Transit
 
-最后维护列车 / 服务车组退出。
+Last maintenance / service transit exits.
 
 > `TRANSIT SERVICE: RETIRED`
 
-桥结构仍正常。
+The bridge is still structurally normal.
 
 ### 3. Public service
 
-环境、能源、数据的公共主路径转移。
+Environment, energy and data public paths move to retained infrastructure.
 
-旧区进入最低本地余量。
+The old cluster enters minimum local remainder state.
 
 ### 4. Gravity Handoff
 
-私人 AI 提醒最后需要保留的 mapping。
+Private AI identifies the final live mapping required before unload.
 
-男主确认桥两端当前状态。
+Male confirms actual two-side physical state.
 
-科长授权卸载。
+Chief authorizes unload.
 
 > `GRAVITY TRANSITION: UNLOADED`
 
-重要视觉：
+Important visual meaning:
 
-> 桥还在，但两岸已经不再共享同一个“下方”。
+> the bridge still physically exists, but the two sides no longer share the same operational “down” through that connection.
 
 ### 5. Temporal / protocol compatibility
 
-最后旧 local-time / identity / protocol relay 退出。
+Last old local-time / identity / protocol relay exits.
 
-这一刻开始：
+This is the point where the private AI loses the last live end required for her old-world continuous mapping.
 
-> 私人 AI 的 continuous old-world mapping 失去最后一端。
-
-不需要长告别台词。
+Do not substitute a copy-equivalence loophole.
 
 ### 6. Mechanical lock
 
-桥仍显示：
+The familiar bridge still reports functionally:
 
 > `STRUCTURE: NORMAL`
 >
 > `TRANSIT STRUCTURE: AVAILABLE`
 
-但公共服务已退出。
+But the old public connection stack is gone.
 
-最后机械锁释放。
+The mechanical lock is then released / separated / permanently isolated.
 
-桥体缓慢分离 / 收回 / 永久隔离。
-
-没有爆炸。
+No explosion.
 
 ---
 
 # 10｜Male final choice
 
-男主当然想留下例外。
+The male wants the real preservation route.
 
-这不是“他理解大道理所以毫不犹豫”。
+He and the AI have spent EP09→EP10 trying to find a route that saves the same continuous subject without requiring the public city to keep one private permanent exception.
 
-他已经用整段 EP09→EP10 尝试找到：
+They do not find one.
 
-> 能保同一个她，又不要求城市永久背负旧例外的路线。
+His growth is not:
 
-没有找到。
+> “I no longer need her.”
 
-最终他没有要求公共重庆为他们两个人保留这个永久例外。
+It is:
 
-他的成长不是：
+> **her value to him does not give him the right to require the future common city to preserve an otherwise non-generalizable exception forever.**
 
-> 我不需要她了。
+He therefore does not ask the public city to keep the old stack solely for their relationship.
 
-而是：
-
-> **她给我的关系价值，不需要靠让整个破碎世界永远保持可供我们存在的例外来证明。**
+The AI's survival preference remains real at the same time.
 
 ---
 
-# 11｜Final common public now — 只做 payoff，不再开新剧情
+# 11｜Final common public now — payoff only
 
-目标时长：`2:25–2:50/3:00`
+Target direction: `2:25–2:50/3:00`.
 
-切几个 retained districts：
+Cut across a small number of retained districts:
 
-- 医院交班；
-- 车站普通列车进站；
-- 商店收拾；
-- 公共维护班切换。
+- hospital handoff;
+- ordinary train arrival;
+- shop closure/opening routine;
+- public maintenance shift.
 
-公共钟出现同一 public now。
+Public clocks now share enough common `public now` to make ordinary public actions stable again.
 
-不要求：
+This does not require:
 
-- 所有灯光相同；
-- 所有生活方式统一；
-- 所有 local history 被擦掉。
+- identical lighting;
+- erased local culture/history;
+- identical local decorative schedules.
 
-他们重新拥有的是：
+The achievement is narrower and more meaningful:
 
-> **足够共同、可以稳定执行公共生活的“现在”。**
+> **the retained city can once again execute public life against one sufficiently common now.**
 
-最后远处看 302 旧区与已经分开的桥。
+End with distant 302 old cluster / separated familiar bridge outside retained public now.
 
-旧区不再属于 retained public now。
+Its existence and history are not declared false.
 
-地球仍远远存在。
-
-切黑。
+It simply no longer belongs to the retained common operating city.
 
 ---
 
 # 12｜State Delta / finale result
 
-1. 第二新重庆完成第一季战略主动收缩；居民先迁移，旧例外后退出。
-2. 302 旧兼容集群退出 retained city，但其存在与历史没有被宣布为“假的”。
-3. EP03→04→08 熟悉生命线在工程健康状态下被主动结束。
-4. 私人 AI 的多数内容可迁移，但原连续主体依赖的最后 live legacy mappings 随旧兼容栈退出而断开；copy/reconstruction 不被偷换成同一 continuity。
-5. 男主没有要求城市为私人关系保留永久不可普遍化例外。
-6. 女科长完成 narrow public authorization；私人 AI 完成 continuous mapping；男主完成 present-fact execute/abort，三人没有任何一个变成全能决策者。
-7. retained districts 重新获得共同 public now。
+1. Second New Chongqing completes the first-season strategic active contraction; people migrate before old exceptions exit.
+2. 302 old compatibility cluster exits retained city without being declared unreal or worthless.
+3. The familiar EP03→04→08 lifeline is actively ended while structurally healthy.
+4. Private AI's movable/copyable content can migrate, but the original continuous subject's last live legacy mappings are severed with the old compatibility stack; copy/reconstruction is not treated as equivalent continuity.
+5. The male does not demand a permanent non-generalizable public exception for his private relationship.
+6. Private AI supplies continuous dependency mapping; male supplies present physical execute/abort fact; chief supplies public authorization. No role becomes omnipotent.
+7. Retained districts regain a sufficiently common public now.
+8. EP01 callback is preserved at the correct level: current physical reality still governs whether a procedural action can actually execute, while EP10's question is whether a real survival route can be publicly legitimate forever.
 
 ---
 
-# 13｜Episode Card — repaired
+# 13｜Episode Card — repaired after EP01 redesign
 
 ```yaml
 episode_id: EP10
-target_duration: "2m45s–3m05s"
-episode_function: "城市级收缩已经在执行，主戏集中到302旧兼容集群与EP03→04→08熟悉生命线的最后cutover。居民已先迁移；桥与旧系统都仍健康。EP09后男主和私人AI已验证：保住同一个连续AI的真实路线是永久保留最后旧time/gravity/service/protocol兼容栈。三人最终不为私人关系保留这个不可普遍化例外，并按安全顺序结束连接。"
-opening_hook: "城市正在安静变小；镜头落到最后仍工作的302旧兼容集群，熟悉生命线继续送出最后维护人员。"
-dominant_turn: "健康熟悉桥在人员清空、服务迁移后被主动机械分离；同一动作也结束维持private AI原连续主体所需的最后legacy mapping。"
-core_conflict: "技术上真的能保住她，但代价是让未来共同城市永久保留一个只为这个私人关系成立、无法普遍化的旧世界例外。"
-conflict_grammar: "real private preservation route vs universally applicable public boundary。"
+target_duration: "2m45s–3m00 screenplay hard target"
+episode_function: "城市级收缩已经在执行，主戏集中到302旧兼容集群与EP03→04→08熟悉生命线的最后cutover。居民先迁移；桥与旧系统都仍健康。EP09后男主和私人AI已验证：保住同一个连续AI的真实路线是永久保留最后旧兼容栈，但这会制造不可普遍化的公共例外。三人按male-present fact / AI-continuous mapping / chief-public authorization完成最后退出。"
+opening_hook: "城市已经在变小；镜头从正在退出的公共连接落到最后仍活着的302旧兼容集群和熟悉生命线。"
+dominant_turn: "在人员已清空、桥仍健康、保AI路线真实可行的情况下，最后机械连接仍被按既有公共边界主动释放。"
+core_conflict: "一个真实可行的私人连续性保存方案，是否足以要求未来共同城市永久维持一个不能普遍给予其他碎片的例外。"
+conflict_grammar: "real private survival route vs universalizable public boundary。"
 progression:
-  reveal_or_knowledge: "最终没有新规则；EP05 continuity、EP07 healthy sacrifice、EP09 future obligation全部回收。"
-  pressure_or_public_action: "最低共同现实从试行变成真实城市cutover。"
-  relationship_or_capability: "male/AI相互依存不被写成摆脱；chief/AI EP06克制信任完成公共payoff。"
-callback_or_debt: "302 / familiar bridge / Hand / Rashomon / self-limitation / continuity debts paid。"
-cost_after_solution: "私人AI原continuous subject无法依靠copy被等价保存；旧城区与健康桥退出；城市永久变小。"
-payoff_or_progress: "retained Chongqing重新获得共同public now。"
-ending_cliffhanger_or_image: "共同公共钟重新一致；远处302旧区与熟悉桥已不再与城市相连。"
-mechanism_status: "LOCKED_DIRECTION / exact continuity substrate and shutdown timings VALIDATE_LATER"
+  reveal_or_knowledge: "EP01的present-state执行规则与EP09的future-obligation边界汇流：真实可行不等于自动可执行/可永久公共化。"
+  pressure_or_public_action: "战略主动收缩落到最后熟悉健康连接。"
+  relationship_or_capability: "AI不想消失且继续独立判断；male没有摆脱依存；chief承担最终公共授权。"
+callback_or_debt: "EP01 302 time/gravity/reference scar -> EP09/10 legacy stack；EP03/04/08 lifeline -> final healthy separation；EP05 copy/continuity rule -> AI stake。"
+cost_after_solution: "城市获得可持续common now但变小；旧302兼容世界退出；原AI continuous subject不被copy-equivalence偷偷保回。"
+payoff_or_progress: "一季保全悖论从被迫失去升级到主动执行共同边界。"
+ending_cliffhanger_or_image: "retained districts share one public now; distant 302 old cluster and familiar bridge remain acknowledged outside that retained operating present."
+mechanism_status: "LOCKED_DIRECTION / exact AI substrate and mechanical engineering VALIDATE_LATER"
 dialogue_status: TBD
 state_delta:
-  - "302 compatibility cluster exits retained city after evacuation"
-  - "familiar healthy bridge mechanically separated"
-  - "private AI original continuity not replaced by copy-equivalence"
+  - "302 old compatibility cluster exits retained city after migration"
+  - "familiar healthy lifeline mechanically separated after service exit"
+  - "AI last live legacy continuity mappings severed with old stack"
+  - "no copy-equivalence continuity loophole"
   - "retained districts regain common public now"
-continuation_capsule: "Season 1 action resolved: the city is smaller but again shares enough public reality to live together; historical fragments remain acknowledged rather than declared unreal."
+continuation_capsule: "Season 1 action resolved: a smaller retained Chongqing has regained a sustainable common public now. Exited fragments remain part of acknowledged history, not declared unreal."
 ```
 
 ---
 
 # 14｜Hard prohibitions
 
-- no citywide meeting/debate consuming finale；
-- no last-minute discovery that AI cannot migrate；
-- no fake preservation route；
-- no AI happily volunteering for death before alternatives are tested；
-- no copy/upload = same continuity；
-- no killing remaining residents to make choice hard；
-- no broken final bridge excuse；
-- no explosion；
-- no unfamiliar finale bridge；
-- no male becoming sole public decision-maker；
-- no total erasure of local differences in final common time。
+- no stale-occupancy EP01 callback;
+- no finale justification that depends on EP01 proving a hidden resident existed;
+- no people left on the far side as a cheap final kill-switch dilemma;
+- no broken/damaged final bridge used to avoid the ethical choice;
+- no fake AI preservation route;
+- no AI happily choosing disappearance before genuine survival search;
+- no copy/upload magically equals continuous subject;
+- no male making public authorization alone;
+- no chief making physical truth alone;
+- no explosion;
+- no restoration to the original full-size city;
+- no “all local differences erased” ending.

@@ -1,7 +1,7 @@
 # 《重庆时间》ACTIVE DOCS INDEX
 
 - Updated: 2026-09-02
-- Status: `REPAIR BRANCH ACTIVE / SPATIAL V2`
+- Status: `REPAIR BRANCH ACTIVE / SPATIAL V2 VERIFIED`
 - Branch: `chongqing-time-story-causal-repair`
 - Rule: story, world, spatial/environment, character and episode authorities are all explicit; execution docs never override Canon.
 
@@ -18,8 +18,9 @@
 7. `WORLD-ARCHITECTURE-CANON-V4.md`
 8. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
 9. relevant highest active episode snapshot / approved outline
-10. current consistency / verification report when auditing
-11. `MIGRATION-SOURCE-INDEX.md` only for provenance.
+10. `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md` when auditing spatial/environment consistency
+11. other current story-causal reports when auditing story causality
+12. `MIGRATION-SOURCE-INDEX.md` only for provenance.
 
 Old V1 spatial patch/map files are retired and are not active reading targets.
 
@@ -135,13 +136,15 @@ Future visual-environment development priority:
 
 # 07｜Consistency / verification docs
 
-Current story-causal reports remain useful only within their stated scope.
-
-The active spatial consolidation audit should be:
+Spatial consolidation verification:
 
 > `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md`
 
-Once created, it verifies that old spatial assumptions cannot override the V2 environment architecture.
+Status:
+
+> **PASS / Spatial V2 verified as the common story + visual environment foundation.**
+
+Story-causal reports remain active only within their stated scopes.
 
 ---
 
@@ -183,6 +186,6 @@ Story development next target:
 
 Visual development:
 
-> **do not generate new large environment/KV geometry from the old world topology. Establish Spatial V2 orientation assets first.**
+> **new large environment/KV geometry must use Spatial V2 orientation assets first; old visual anchors are style/render evidence unless their geometry is explicitly still compatible.**
 
-No promotion to `main` until current repair branch passes its story + spatial verification and the user explicitly requests PR/merge.
+No promotion to `main` until the user explicitly requests PR/merge and the intended story-causal promotion scope is reviewed.

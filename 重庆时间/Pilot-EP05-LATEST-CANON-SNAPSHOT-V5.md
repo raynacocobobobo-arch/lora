@@ -1,302 +1,285 @@
-# 《重庆时间》EP05 — LATEST CANON SNAPSHOT V5
+# 《重庆时间》EP05 — STORY CAUSAL REPAIR SNAPSHOT
 
-- Updated: 2026-09-01
-- Status: `LOCKED / ACTIVE V4 EPISODE CANON`
+- Updated: 2026-09-02
+- Status: `NEEDS_REVIEW / STORY-CAUSAL REPAIR ON BRANCH`
 - Project basis: `CHONGQING-TIME-MASTER-CANON-V4.md`
 - Character basis: `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-- Approval scope: Wedding Mirror / T0 ordinary-person flashback / bride continuity break / memorial-practice origin / local-time visual counterpoint / private-AI continuity mirror locked; exact T0 trigger, groom-loss confirmation, relocation motive, data medium, organizers, dialogue and shot timing remain `EXECUTION_TBD`.
+- Preserved locks: Wedding Mirror / EP02 ordinary-woman POV / short T0 flashback / groom reconstruction known earlier / final bride-continuity reveal / local-time counterpoint / private-AI continuity mirror.
 
 ---
 
 # 01｜Episode function
 
-EP05 仍然是 **Wedding Mirror**。
+EP05 不能只是一支“最后告诉观众新娘也是重建人格”的概念短片。
 
-核心语义：
+本集必须有一个现在时故事：
 
-> **数据、关系、形式和人格表达可以被重新保存或重建，但这些都不能自动证明原主体从过去连续活到了今天。**
+> **一场由仍然活着的朋友和家人发起的迟到婚礼已经准备完成。大家都知道新郎是人格重建；他们想完成两个人原本失去的那一天。仪式开始前，记录/主持流程要求两个当前主体明确确认：这场仪式属于现在的他们，不构成对原真人主体连续性的法律/公共证明。新娘必须选择——在这个事实被明确承认以后，还要不要继续。**
 
-本集通过一个普通女人的生命史让观众亲自经历这种误认。
+Dominant Turn：
 
----
+> **新娘以当前主体身份确认继续；这一确认同时让观众发现，她也不是从 EP02 连续活到今天的真人，而是后续人格重建。婚礼继续，但意义从“终于补回原本那场婚礼”转成“两个当前主体与活着的人一起完成一段真实关系留下的形式”。**
 
-# 02｜Opening from EP02, not from T0
+核心：
 
-顺序锁定：
-
-1. 回到 EP02 熟悉的公共现场；
-2. 镜头从男主 / 女科长身边转走；
-3. 跟上当时只是普通居民的真人新娘；
-4. 一个普通生活物件 / 消息 / 记录触发非常短的 T0 回看；
-5. 回到 EP02 当下，继续她灾后的真实生活。
-
-这样本集保持：
-
-> **公共决定现场 → 普通人的生命史。**
-
-而不是灾难前传。
+> **reconstruction can carry meaning without pretending continuity was never broken。**
 
 ---
 
-# 03｜T0 flashback — private consequence only
+# 02｜Opening — 从 EP02 公共现场接走她
 
-T0 只展示：
+目标时长：`0:00–0:25`
 
-- 城市报警 / 自动隔离已经发生；
-- 跨区联系迅速不稳定；
-- 普通桥网和公共交通突然不再可靠；
-- 新娘试图联系未婚夫；
-- 原本普通的共同未来突然失去继续条件；
-- 她最终获得足以确认“他已经不在了”的现实事实。
+回到 EP02 主桥失去时点。
 
-不要求：
+镜头不再跟男女主。
 
-- 正面拍撞击奇观；
-- 解释工程链；
-- 让她目击死亡；
-- 把本集变成灾难片。
+跟上当时只是普通居民的真人女人。
 
-T0 回答：
+她已经知道未婚夫在 T0 后失去。
 
-> **为什么 EP02 时她已经知道未婚夫不在。**
+一个普通物件 / 消息触发极短 T0：
 
-以及：
+- 城市警报与交通中断；
+- 她尝试联系未婚夫；
+- 路径断裂；
+- 最后获得足以确认“他已经不在”的现实事实。
 
-> **灾难首先从一个普通人那里拿走的，是本来已经存在的未来。**
+不拍撞击奇观，不拍死亡。
 
 ---
 
-# 04｜Bridge network shapes life, but does not become melodramatic cause
+# 03｜Her real continuous life — 她真的活过一段新的生活
 
-新娘与未婚夫灾前生活原本依赖正常的城市跨区连接。
+目标时长：`0:25–0:55`
 
-T0 后：
+回到 EP02 后。
 
-- 某些日常路径失去；
-- 城区成为实际孤岛；
-- 她被迫重新安排生活半径。
-
-EP03 的生命线成功以后：
-
-> **有限跨区移动重新变成一个可信的生活选择。**
-
-这使她后来能够：
-
-- 迁居；
-- 换工作 / 调整生活；
-- 与另一块城区建立新的普通日常。
-
-精确动机 `EXECUTION_TBD`。
-
-必须避免：
-
-> **“桥害死了她。”**
-
-正确：
-
-> **桥网的开放 / 关闭改变她能选择什么生活，而不是作为单一戏剧机关决定她命运。**
-
----
-
-# 05｜Her real continuous life
-
-真人新娘在失去未婚夫后：
-
-> **真的继续生活了一段时间。**
-
-她不是：
-
-- 一直筹备婚礼；
-- 等待重建未婚夫；
-- 公共政策评论者；
-- 只作为灾难受害者存在。
-
-她普通地：
+几个很短的真人生活片段：
 
 - 工作；
-- 回家；
 - 搬迁；
-- 使用新形成的跨区连接；
-- 进入新的生活关系和日程。
+- 一个人吃饭 / 回家；
+- EP03 生命线建立以后重新跨区；
+- 在新的生活半径里建立普通日程。
 
-后来持续群岛化 / 连接退化使她所在的局部再次失去稳定共同接入。
+重点：
 
-她最后明确的真人连续状态必须是：
+> **她没有把余生变成等待一场婚礼。**
 
-> **普通生活。**
+后来新的群岛化 / 数据断裂让她最后一次可确认真人状态停在一个普通日子。
 
-之后进入时间省略。
+然后时间省略。
 
----
-
-# 06｜Continuity break
-
-后来能够重新获得：
-
-- 部分真实记录；
-- 缓存；
-- 影像；
-- 关系数据；
-- 人格材料；
-- 社会记忆。
-
-这些材料可以支撑一个非常像她、拥有真实关系来源的人格重建。
-
-但它们不能证明：
-
-> **原真人主体从最后一次确认状态连续活到了婚礼今天。**
-
-因此：
-
-> **data recovery ≠ subject recovery。**
+不提供真人主体从该点连续到今天的证据。
 
 ---
 
-# 07｜Why the wedding exists
+# 04｜Present-day goal — 婚礼今天真的要发生
 
-这场婚礼属于 EP04 已经建立的灾后纪念 / 人格重建社会实践。
+目标时长：`0:55–1:20`
 
-主要组织 / 维持者来自：
+当前。
 
-> **仍然活着的朋友、家人或两人原本的社会关系。**
+婚礼现场不豪华。
 
-内部情感前提：
+组织者主要是：
 
-> **“他们本来应该有这一天。”**
+- 仍活着的朋友；
+- 家人；
+- 原社会关系中愿意完成这件事的人。
 
-它不是：
-
-- 两个重建人格突然自己决定举办婚礼；
-- 家庭误以为两个原主体真的复活；
-- 公共系统强制安排纪念仪式。
-
-重建人格作为当前主体可以参与这场仪式。
-
-但婚礼的意义即使在最终 Reveal 后仍成立，因为：
-
-> **它本来就是活着的人为失去的人和失去的未来完成一种纪念 / 延续形式。**
-
----
-
-# 08｜Reveal structure
-
-观众可以较早知道：
+观众较早知道：
 
 > **新郎是人格重建。**
 
-表层故事允许观众继续以为：
+这不作为悬念。
 
-> **真人新娘活到了今天，与重建新郎完成迟来的婚礼。**
+大家仍自然把新娘当作“那个活到今天的人”。
 
-唯一大 Reveal：
+婚礼的当前目标很明确：
 
-> **新娘也不是从 EP02 连续活到今天的原真人，而是后续人格重建。**
+> **今天完成仪式。**
 
-公平性：
-
-- T0 / EP02 / EP03 后续中出现的真人新娘画面都是真的；
-- 不允许倒打一耙说前面真人也是 AI；
-- 时间空白后不提供能够证明连续真人 A→B 的证据；
-- 观众自己把相似状态补成连续主体。
+不是研究人格哲学。
 
 ---
 
-# 09｜Local-time replacement — no gap in EP05→EP06
+# 05｜Pressure — 仪式不能靠含糊维持意义
 
-本集不再依赖任何外部季节状态作为片尾过渡。
+这个社会在 EP04 已经建立了纪念/人格重建实践。
 
-取代其原有“局部状态差异 + 下一集入口”功能的是：
+因此主持/登记程序不会假装：
 
-> **婚礼发生在一座已经没有共同 public now 的城市里。**
+> reconstruction = original continuous human.
 
-例如：
+仪式开始前必须有一个非常短的当前主体确认：
 
-- 婚礼厅所在城区进入夜间公共照明；
-- 嘉陵江对面的另一块 retained district 仍处于白天或黄昏运行；
-- 两边商店 / 轨道 / 维护班次呈现不同生活阶段；
-- 公共钟显示不一致。
+> **两位参与者以今天的当前主体身份自愿参加；原主体连续状态中断的事实不因此改变。**
 
-画面不需要角色解释。
+精确措辞 `TBD`，不做法律讲座。
 
-情绪关系：
+这一步不是为了“揭穿”新娘。
 
-> **两个重建人格试图完成一个被延迟的共同未来，而城市自身已经无法自然回答“我们共同处在什么时候”。**
+它本来就是这个社会避免用纪念仪式伪造 continuity 的正常边界。
 
-这直接把观众送进 EP06。
+于是新娘面对真正选择：
 
----
-
-# 10｜Private AI as positive continuity contrast
-
-婚礼中的两个人格重建具有：
-
-- 真实数据来源；
-- 真实关系来源；
-- 有意义的当前人格；
-- 可以完成真实的当下仪式。
-
-但这不等于原主体 continuity。
-
-私人 AI 则不同：
-
-> **她是真正从前几集连续经历到今天的同一主体。**
-
-这不要求角色当场对比。
-
-观众的观看经验已经形成：
-
-> **“像同一个人”与“真的是同一个连续主体”不是同一件事。**
-
-这为 EP10 阻止 copy/upload 偷换 continuity 建立情感证据。
+> **如果这场婚礼不能被描述成“原来的我们终于回来完成了”，它还要不要继续？**
 
 ---
 
-# 11｜Hand motif
+# 06｜Reveal 与 Choice 必须是同一个动作
 
-婚礼可以自然存在：
+目标时长：`1:20–1:50`
 
-- 牵手；
-- 戒指；
-- 仪式接触。
+主持系统读取双方当前主体状态。
 
-它回响 EP01 的真实抓住，但含义不同：
+新郎：
 
-> **接触形式可以被重建。**
+> reconstruction / continuity break 已知。
 
-本集不把“手”做成哲学特写。
+轮到新娘。
 
-它为 EP10：
+观众第一次看到：
 
-> **真实连续 AI 存在，但男主仍无法以相同方式触碰她**
+> **她的真人连续确认也早已在多年前中断；现在站在这里的是基于真实记录、关系数据与人格材料形成的当前重建主体。**
 
-继续建立层级。
+不能用“掀皮肤”“机器人眼睛”之类廉价 reveal。
+
+只需要一个克制、明确、公平的公共事实。
+
+然后她必须自己确认：
+
+> **继续。**
+
+不是家人替她决定。
+
+不是系统自动继续。
+
+不是因为她误以为自己就是原真人。
+
+她知道边界，仍选择参加。
+
+这就是 dominant turn。
 
 ---
 
-# 12｜Episode Card V5
+# 07｜Payoff — Reveal 不取消意义
+
+目标时长：`1:50–2:25`
+
+婚礼继续。
+
+戒指、牵手、朋友家人看着。
+
+这时观众重新理解前面的所有画面：
+
+- T0 的真人经历是真的；
+- EP02 后她真的活过；
+- 后来 continuity 确实断了；
+- 今天的主体也是真实当前主体；
+- 但不是原主体从过去连续走到今天。
+
+所以：
+
+> **数据和形式可以回来，失去过的连续主体没有因此被补回。**
+
+同时：
+
+> **失去 continuity 也不等于今天发生的关系和仪式是假的。**
+
+---
+
+# 08｜Local-time counterpoint → EP06
+
+婚礼发生在已经没有自然共同 public now 的城市里。
+
+婚礼厅所在区：
+
+> 夜间公共照明。
+
+嘉陵江另一边：
+
+> 仍处在黄昏/较亮工作阶段。
+
+公共钟不同。
+
+两个人格重建正在完成一个迟到的“共同未来”，而整座城市本身已经无法自然给出一个共同“现在”。
+
+不解释。
+
+直接把情绪送进 EP06。
+
+---
+
+# 09｜Private AI continuity mirror
+
+私人 AI 不需要在婚礼现场发表感想。
+
+观众已经被训练去区分：
+
+> **像同一个主体 / 拥有真实记忆与关系来源**
+>
+> 与
+>
+> **从过去连续存在到现在**
+
+不是同一件事。
+
+这条证据在 EP09–EP10 将用于：
+
+- copy / reconstruction 不等于保住同一个私人 AI；
+- AI 的生存问题必须讨论 continuity，而不能用“复制一个一样的”偷换。
+
+---
+
+# 10｜State Delta
+
+1. Wedding Mirror 社会实践被完整呈现：人格重建可以作为当前主体参与有意义的仪式，但不冒充原主体 continuity。
+2. 新娘和新郎都被确认不是原真人连续活到今天的主体。
+3. 婚礼仍然完成，建立“continuity break ≠ current meaninglessness”。
+4. 观众得到 finale 必需规则：copy/reconstruction ≠ same continuous subject。
+5. 不同 local now 从背景进入强情绪 counterpoint，为 EP06 公共时间冲突准备。
+6. Hand motif 继续：当前主体可以真实牵手，但形式相似不能证明原主体连续。
+
+---
+
+# 11｜Episode Card — repaired
 
 ```yaml
 episode_id: EP05
-episode_function: "从EP02公共现场旁一个普通女人的真实生命史出发，短暂回看T0私人后果；她在失去未婚夫后真实继续生活，EP03生命线又让她重新安排人生，后来新的群岛化中断她的连续可确认状态。数据和人格形式能够回来，但不能证明原主体连续到今天；婚礼最终揭示新娘和新郎都是人格重建。"
-dominant_turn: "观众已接受‘真人新娘+重建新郎’后，发现新娘也不是原真人的连续延续。"
-core_conflict: "记录、关系、人格形式和未完成未来都可以重建，但这些是否等于原主体连续存在。"
-conflict_grammar: "representation / reconstruction vs continuity。"
-cost_after_solution: "婚礼可以让失去的未来获得一种当前形式，但不能把已经中断的两个原主体补回来。"
-transition_to_EP06: "婚礼本身处在不同城区拥有不同local now的城市里；情感性的昼/昏/夜并存直接升级为EP06的共同现在问题。"
+target_duration: "2m20s–2m45s"
+episode_function: "从EP02旁观的真人女人生命史进入当前Wedding Mirror：她失去未婚夫后真实继续生活，后来自己的连续真人状态也在群岛化中中断。今天朋友家人为两个人格重建举行迟到婚礼；仪式要求双方以当前主体身份确认、不声称原主体连续复活。新娘确认继续，这一动作同时揭示她也是重建人格。"
+opening_hook: "EP02公共现场旁的普通真人女人被镜头接走，短暂回到T0私人失去，再看她如何真正继续生活。"
+dominant_turn: "新娘在自己的continuity break被公开确认后，仍以当前主体身份选择继续婚礼。"
+core_conflict: "如果仪式不能假装失去从未发生，关系留下来的形式与今天的主体是否仍有资格完成它。"
+conflict_grammar: "reconstruction/representation vs continuity, without denying current agency。"
+progression:
+  reveal_or_knowledge: "新娘也不是连续真人；copy/reconstruction不能自动恢复原主体。"
+  pressure_or_public_action: "灾后社会实践明确承认current subject而不伪造continuity。"
+  relationship_or_capability: "为private AI终局建立正面对照：她是连续主体，因此复制替代不了她。"
+callback_or_debt: "EP04 memorial seed paid；EP05 local-time counterpoint -> EP06；continuity rule -> EP09/10。"
+cost_after_solution: "婚礼完成，但原本失去的两个人没有因此回来；形式获得现在的意义，却不能修复过去的连续断裂。"
+payoff_or_progress: "Reveal由角色选择承载，不再只是作者的信息技巧。"
+ending_cliffhanger_or_image: "两位当前主体牵手；窗外/远处不同城区处在不同public now。"
+mechanism_status: "LOCKED_DIRECTION / exact ceremony wording TBD"
+dialogue_status: TBD
+state_delta:
+  - "both bride and groom are reconstructions/current subjects, not continuous originals"
+  - "wedding completes without claiming restored continuity"
+  - "copy/reconstruction != continuous subject rule made audience-legible"
+continuation_capsule: "EP06把EP05的情绪背景升级成公共行动：两个都有效的local now必须对一个共享设施在同一真实瞬间行动。"
 ```
 
 ---
 
-# 13｜Hard prohibitions
+# 12｜Hard prohibitions
 
-- no impact spectacle replacing private POV；
-- no bride directly watching groom die as default；
-- no bride preparing wedding continuously from EP02 onward；
-- no bridge accident as simplistic cause of bride loss；
-- no data recovery = subject recovery；
-- no early human scenes retroactively declared reconstructed；
-- no family necessarily believing reconstructions are original people；
-- no memorial ritual presented as proof of continuity；
-- no time-engineering plot taking over Wedding Mirror；
-- no gap between EP05 emotional state difference and EP06 public-time problem；
-- no copy / similarity treated as continuity。
+- no reveal as pure author trick with no present character choice；
+- no family pretending reconstructions are definitely originals；
+- no reconstruction treated as fake/non-person；
+- no data recovery = continuity；
+- no direct impact spectacle；
+- no bride spending all intervening years waiting for wedding；
+- no time-system plot stealing the Wedding Mirror。

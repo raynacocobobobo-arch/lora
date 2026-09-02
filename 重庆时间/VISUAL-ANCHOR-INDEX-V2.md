@@ -1,9 +1,9 @@
 # 《重庆时间》VISUAL ANCHOR INDEX V2
 
-- Updated: 2026-09-01
-- Status: `ACTIVE VISUAL ANCHOR / DIRECTION INDEX`
-- Canon basis: V4 Master / World / Episode snapshots
-- Rule: later Canon supersedes accidental spatial/content details in older images; approved render/material DNA may remain active.
+- Updated: 2026-09-02
+- Status: `ACTIVE VISUAL ANCHOR / DIRECTION INDEX / SPATIAL V2 RECONCILED`
+- Canon basis: `CURRENT.md`, `SPATIAL-ENVIRONMENT-CANON-V2.md`, Master / World / Episode snapshots
+- Rule: later Canon supersedes accidental spatial/content details in older images; approved render/material/drawing DNA may remain active.
 
 ---
 
@@ -11,13 +11,19 @@
 
 When generating a new large-setting KV, prioritize:
 
-1. V4 Canon scene facts;
-2. V2 Visual Bible / Prompt Template;
-3. scene-specific approved anchor content;
-4. cross-scene approved art/render/material DNA;
-5. older image details only when they do not conflict.
+1. current user instruction;
+2. `SPATIAL-ENVIRONMENT-CANON-V2.md` + current story/episode facts;
+3. `VISUAL-CONSISTENCY-BIBLE-V2.md` / `SCENE-PROMPT-TEMPLATE-V2.md`;
+4. scene-specific approved anchor content **only where geometry remains compatible**;
+5. cross-scene approved art/render/material DNA;
+6. older image details only when non-conflicting.
 
 Do not solve a Canon conflict by copying an old image.
+
+Two separate statuses must always be distinguished:
+
+- **STYLE / RENDER VALID** — linework, cel shading, material simplification, scale language can still be used;
+- **GEOMETRY VALID / SUPERSEDED** — whether that image's actual city layout remains compatible with Spatial V2.
 
 ---
 
@@ -26,28 +32,34 @@ Do not solve a Canon conflict by copying an old image.
 Status:
 
 > **APPROVED / PRIMARY LARGE-SETTING RENDERING ANCHOR**
+>
+> **STYLE / RENDER: VALID**
+>
+> **EXACT GEOMETRY: NOT UNIVERSAL / DO NOT COPY**
 
 Scene family:
 
-> A / B / shared municipal Hub interior.
+> shared municipal / Hub-like large infrastructure interior.
 
 Most important locked lesson:
 
 > **large shapes first; micro-detail second.**
 
-Preserve across V4 large-setting work:
+Preserve:
 
 - simplified steel masses;
 - few thick pipe groups;
-- strong clear structural silhouettes;
+- strong structural silhouettes;
 - restrained signage;
 - sparse people / municipal equipment;
-- 2–3 tier hard cel shadow blocks;
+- 2–3 tier hard cel-shadow blocks;
 - low photoreal reflection noise;
 - cold gray-blue / deep steel blue / aged white palette;
-- serious drawn background rather than high-density 3D concept art.
+- serious drawn background, not dense 3D concept art.
 
-Do NOT preserve by copying its exact hall geometry or central composition into unrelated scenes.
+Do not preserve by copying exact hall geometry / central-axis layout into unrelated scenes.
+
+Future shared-infrastructure images must locate themselves within the Spatial V2 Jialing infrastructure family.
 
 ---
 
@@ -56,20 +68,24 @@ Do NOT preserve by copying its exact hall geometry or central composition into u
 Status:
 
 > **APPROVED DIRECTION / ACTIVE STATION ANCHOR**
+>
+> **STYLE / DISTRICT-SCALE CONTENT: VALID**
+>
+> **MACRO GEOGRAPHY: MUST FOLLOW SPATIAL V2**
 
-Locked content direction:
+Locked useful direction:
 
-- 第二新重庆市公共铁路 / station family;
-- old off-white passenger carriages, not bright new vehicles;
+- public railway / station family;
+- old off-white passenger carriages;
 - maintained but aged environment;
 - no rain requirement;
-- local public-time contrast can produce different dusk/night operating zones when the scene requires it;
-- public transport / station remains municipal rather than luxury sci-fi;
+- Local Public Time contrast can affect lighting/operations;
+- municipal, not luxury sci-fi;
 - 2.35:1 large-setting composition.
 
-V4 interpretation:
+Spatial V2 interpretation:
 
-> Station can exist inside one urban district / bridge-linked transit structure. It must not imply the entire macro city is a continuous ground-plane rail city.
+> Station is a subscene inside a District Module / connected public transit system. It does not prove an endless multi-layer city or continuous ground-plane metropolis.
 
 ---
 
@@ -78,19 +94,26 @@ V4 interpretation:
 Status:
 
 > **APPROVED DIRECTION / ACTIVE WEDDING-HALL ANCHOR**
+>
+> **INTERIOR / CEREMONY DNA: VALID**
+>
+> **EXTERIOR VIEW GEOMETRY: REINTERPRET THROUGH SPATIAL V2**
 
-Locked content direction:
+Locked useful direction:
 
-- monumental civic ceremony / observation interior;
-- architecture dominates, people are smaller-scale;
-- restrained red carpet / ceremony red as focused strong color;
-- large structural window / observation architecture can include distant Earth only as subordinate context;
-- simplified structure and reflections;
+- monumental civic ceremony interior;
+- architecture dominates, people smaller-scale;
+- restrained ceremony red as focused strong color;
+- simplified structure/reflection;
 - serious public facility, not luxury space hotel.
 
-V4 interpretation:
+If an exterior/distant view appears:
 
-> EP05 local-time contrast may be visible through adjacent civic lighting / distant district operation, but the wedding remains the dramatic subject. Do not turn the hall into an engineering time-interface demo.
+- use ring-city / Jialing district relationship when relevant;
+- distant Earth only subordinate and only if composition truly needs it;
+- do not require an infinite structural canyon or giant open-space panorama.
+
+EP05 remains emotionally about the wedding, not engineering geography.
 
 ---
 
@@ -98,7 +121,9 @@ V4 interpretation:
 
 Status:
 
-> **RENDER / MATERIAL REFERENCE ONLY — SPATIAL CONTENT SUPERSEDED**
+> **STYLE / MATERIAL REFERENCE ONLY**
+>
+> **SPATIAL CONTENT: SUPERSEDED**
 
 Useful legacy DNA:
 
@@ -109,13 +134,13 @@ Useful legacy DNA:
 
 Superseded content:
 
-> Generic ground checkpoint / floor-hall interpretation is no longer the active EP08 scene geometry.
+> generic ground checkpoint / floor hall.
 
-Current EP08 Canon requires:
+Current EP08 geometry:
 
-> **suspended inter-district bridge/interface over the enclosed Jialing structural cavity.**
+> **the same small Level-4 Familiar Lifeline + two compact bridgehead maintenance platforms.**
 
-Do not regenerate EP08 from the old ground-hall composition.
+Do not regenerate EP08 from old KV03 composition.
 
 ---
 
@@ -123,24 +148,37 @@ Do not regenerate EP08 from the old ground-hall composition.
 
 Status:
 
-> **APPROVED STRUCTURAL / CRISIS-GRAMMAR ANCHOR**
+> **APPROVED CRISIS-GRAMMAR / MECHANICAL-SEPARATION ANCHOR**
+>
+> **STYLE / SEPARATION LOGIC: VALID**
+>
+> **BRIDGE SCALE / LOCATION MUST BE SCENE-SPECIFIC**
 
 Useful locked lessons:
 
-- city-scale connector bridge;
-- bounded internal maintenance cavity;
-- finite engineered volume;
-- traffic / evacuation / service behavior still visible;
+- bridge action first-readable;
 - controlled mechanical separation;
 - no explosion;
 - mature municipal infrastructure;
-- bridge action first-readable.
+- traffic/service behavior can remain visible;
+- finite engineered space;
+- large shapes first.
 
-V4 correction / expansion:
+Spatial V2 split:
 
-> EP02 bridge now belongs to a wider city bridge network and can sit within / across the Jialing structural system. The bridge is important but not unique in the city.
+### For EP02
 
-Do not turn all bridge scenes into the same KV04 mechanism.
+KV04 may inform a **large Level-1 Trunk Bridge** separation if its scale is compatible.
+
+### For EP10
+
+Do **not** copy KV04's large-bridge mass if that makes the Familiar Lifeline monumental.
+
+EP10 final physical asset is:
+
+> **the same small Level-4 Familiar Lifeline introduced in EP03.**
+
+Only the procedural/mechanical grammar transfers: service exit → Gravity/protocol unload → quiet mechanical release.
 
 ---
 
@@ -149,65 +187,95 @@ Do not turn all bridge scenes into the same KV04 mechanism.
 Status:
 
 > **APPROVED DIRECTION / ACTIVE LOCAL-TIME VISUAL REFERENCE**
+>
+> **LOCAL-TIME / LIGHTING GRAMMAR: VALID**
+>
+> **EXACT LARGE-CAVITY GEOMETRY: NOT CANON**
 
-Locked correction history reflected in final direction:
+Locked useful direction:
 
-- normal public interface, not a conceptually labeled “time interface”;
-- no visible sky required;
-- fully enclosed engineered city volume;
+- normal public interface, not labeled “time interface”;
+- no visible natural sky required;
 - two connected zones can have different civic day/night lighting states;
-- old white municipal buses/equipment may be present where scene function requires transport;
-- difference should read from public activity and light, not explanatory text.
+- old white municipal equipment may appear when functionally needed;
+- difference reads from public activity + light, not explanatory text.
 
-V4 role:
+Spatial V2 use:
 
-> Primary visual reference for EP06-style local-public-time contrast, subject to V2 simplification density.
+> Apply the lighting/behavior grammar inside ordinary district interfaces or Jialing shared infrastructure. Do not infer infinite enclosure, dramatically rotated districts or a giant central canyon from this anchor.
 
 ---
 
-# 08｜EP08 bridge-standoff direction
+# 08｜EP08 content direction — updated Spatial V2 lock
 
 Status:
 
-> **USER-APPROVED CONTENT DIRECTION / CANON LOCK — EXACT IMAGE NOT REQUIRED AS IMMUTABLE ANCHOR**
+> **USER-APPROVED CONTENT DIRECTION / ACTIVE**
+>
+> **OLD LARGE/GENERIC BRIDGE GEOMETRY: SUPERSEDED**
 
 Current lock:
 
-- bridge, not continuous ground;
+- exact same **small Level-4 Familiar Lifeline** from EP03/04;
+- two compact bridgehead maintenance platforms;
 - one side: one medium four-legged municipal public-security platform;
-- other degraded side: multiple ordinary industrial humanoid robots coordinated to maintain order;
-- visible size / capability asymmetry;
+- degraded side: multiple ordinary industrial humanoid maintenance robots;
+- visible capability asymmetry;
 - degraded side has fewer specialized resources;
-- serious armed standoff / public-order danger;
-- bridge remains a real public route;
+- industrial humanoids remain because they maintain their bridgehead/interface;
+- force/public-order pressure but not battlefield;
+- narrow bridge remains a real route;
 - no wheeled security vehicles;
 - no `医疗转运通道` sign;
-- no generic military-mecha design;
-- Jialing cavity remains bounded engineered space.
+- no generic military-mecha design.
 
-This direction supersedes the old KV03 ground-checkpoint spatial interpretation.
+Any previous “suspended giant public bridge” reading is no longer active if it enlarges the Familiar Lifeline beyond Level 4.
 
 ---
 
-# 09｜V4 new anchor families still to develop
+# 09｜New Spatial V2 anchor families to develop
 
-These are Canon-defined but not yet promoted image anchors:
+These are Canon-defined but not yet promoted image anchors.
 
-## JIALING-EST-01
+## RING-ORIENT-01
 
-> Early / connected Jialing River establishing image: many bridge levels, lived municipal activity, enclosed finite structure, tiny distant Earth aperture.
+> Overall exterior/orientation: one finite irregular ring-shipyard city, permanent ring backbone, large district modules, small attached service structures, clearly different bridge scales.
 
-## JIALING-DEG-01
+## RING-TOPO-01
 
-> Mid/late degradation: fewer active bridges, local-time differences, dark service layers, retained lifeline carrying disproportionate public value.
+> Unrolled topology / design-board image explaining ordinary districts, Jialing corridor, Trunk Bridge geography, small Familiar Lifeline and 302 outer position.
 
-## EP10-BRIDGE-01
+## JIALING-V2-01
 
-> Familiar still-healthy lifeline undergoing staged service/gravity/protocol/mechanical separation after evacuation.
+> Early/connected Jialing: finite ring-interior open urban corridor, district masses on both sides, one large public bridge plus visibly smaller service/maintenance links, ordinary municipal activity.
+
+## JIALING-DEG-V2-01
+
+> Mid/late Jialing: same finite corridor with fewer active links, visible former Trunk Bridge gap, local-time operating differences, small lifeline carrying disproportionate social importance.
+
+## 302-ORIENT-01
+
+> 302 whole-area orientation: city-facing ordinary old district on one side; service/gravity/attached-maintenance edge toward space on the other.
+
+## EP01-DETACH-01
+
+> Small 302 outer attached maintenance/interface segment; clear connection to 302; Plan-B securing point; geometry capable of accidentally disconnecting without whole-302 failure.
+
+## EP02-TRUNK-01
+
+> Large Level-1 Jialing Trunk Bridge; unmistakably much larger than the later lifeline.
+
+## LIFELINE-SMALL-01
+
+> EP03/04/08/10 same physically small Level-4 maintenance bridge, narrow span and two compact bridgeheads.
+
+## SHARED-INFRA-V2-01
+
+> EP06/07 shared thermal/environment + Hub family inside Jialing public-infrastructure geography.
 
 ## GRAVITY-L1-01
 
-> Ordinary subtle gravity adaptation in daily public life, not spectacle.
+> Ordinary subtle gravity adaptation with broadly stable nominal down; no spectacle.
 
 Anchor promotion requires actual generated image + user approval.
 
@@ -216,11 +284,34 @@ Anchor promotion requires actual generated image + user approval.
 # 10｜Anchor anti-drift rules
 
 - approved image ≠ every accidental sign is Canon;
-- approved style ≠ same composition everywhere;
-- approved old city geometry cannot override V4 bridge-network Canon;
-- local-time contrast does not require split-screen symmetry every time;
-- Jialing does not need Earth visible in every shot;
+- approved style ≠ approved geography forever;
+- render/material DNA can survive a spatial Canon change;
+- old geometry cannot override Spatial V2;
+- local-time contrast does not require split-screen symmetry;
+- Jialing is never torus central hole / infinite canyon;
+- ordinary districts do not default to dramatic rotational orientation;
+- EP02 Trunk Bridge and Familiar Lifeline must read as different physical scales;
+- Familiar Lifeline stays small through EP10;
+- EP08 is bridgehead pressure, not giant military bridge;
+- EP10 does not show entire 302 population flooding across the small bridge;
 - gravity does not need extreme inversion in every shot;
-- municipal equipment family should feel related without being identical clones;
-- people / vehicles / robots are scale and behavior, not clutter;
-- when a new image reads as 3D hard-SF rather than drawn cel background, simplify before adding anything.
+- people/vehicles/robots are scale + public behavior, not clutter;
+- if image reads as 3D hard-SF rather than drawn cel background, simplify before adding detail.
+
+---
+
+# 11｜Geometry supersession rule for old approved images
+
+Whenever an older approved image conflicts with Spatial V2, record/use it as:
+
+```yaml
+art_style: VALID
+render_language: VALID
+material_language: VALID_IF_RELEVANT
+lighting_language: VALID_IF_RELEVANT
+exact_location_geometry: SUPERSEDED
+bridge_scale: RECHECK
+spatial_orientation: RECHECK
+```
+
+This allows the project to preserve what the user liked without keeping obsolete geography alive.

@@ -1,199 +1,291 @@
-# 《重庆时间》CURRENT — Canonical Entry Point
+# 《重庆时间》CURRENT — Active Story + Spatial Entry Point
 
 - Updated: 2026-09-02
-- Status: `LOCKED / V4 ACTIVE ON MAIN`
+- Status: `STORY-CAUSAL REPAIR ACTIVE / SPATIAL V2 VERIFIED PASS / REPAIR BRANCH`
+- Branch: `chongqing-time-story-causal-repair`
 - Project: **《重庆时间》**
 - City: **第二新重庆市**
-- Purpose: future ChatGPT / Codex / Agent sessions MUST start here.
+- Purpose: this branch is the active integration surface for EP01–EP10 story causality and the unified spatial/environment architecture before promotion to `main`.
 
 ---
 
-# 01｜Authority / precedence
+# 01｜Authority / precedence on this branch
 
 For conflicts, use this order:
 
 1. later explicit user confirmation;
-2. highest relevant active V4 Episode Snapshot for episode-specific facts;
-3. `CHONGQING-TIME-MASTER-CANON-V4.md` for season architecture;
-4. `WORLD-ARCHITECTURE-CANON-V4.md` for city / bridge / 嘉陵江 / time / gravity world rules;
-5. `CHARACTER-RELATIONSHIP-BIBLE-V4.md` for character and relationship facts;
-6. active execution docs for visual / teaser execution only;
-7. V4 consistency reports and migration-source index for verification / provenance;
-8. legacy `../北京市没有冬天/**` only for historical provenance and non-conflicting development detail.
+2. `STORY-CAUSAL-CANON-PATCH-V1.md` for scopes explicitly superseded by the current story repair;
+3. `SPATIAL-ENVIRONMENT-CANON-V2.md` for **city macro-form, environment geography, Jialing, bridge physical scale, 302 position, spatial movement, gravity visual-readability, environment design and visual blocking**;
+4. `EP01-STORY-OUTLINE-V1.md` for EP01 outline / scene progression / pilot rhythm / target-duration direction, interpreted through Spatial V2 for geometry;
+5. `EP01-EP10-SPATIAL-SCENE-MAP-V2.md` for first-season location reuse, route logic, bridgehead staging and spatial-state continuity;
+6. repaired highest relevant Episode Snapshot for episode-specific story facts;
+7. `CHONGQING-TIME-MASTER-CANON-V4.md` for active reconciled season architecture;
+8. `WORLD-ARCHITECTURE-CANON-V4.md` for active reconciled time / gravity / bridge / islanding world rules;
+9. `CHARACTER-RELATIONSHIP-BIBLE-V4.md` for non-superseded character / relationship facts;
+10. `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md` for current spatial QA status;
+11. visual/execution docs only after story + spatial architecture pass;
+12. legacy `../北京市没有冬天/**` and Git history only as provenance, never as active canon.
 
-Governance details:
+The old files:
 
-> `CANON-PRECEDENCE-V4.md`
+- `SPATIAL-ARCHITECTURE-CANON-PATCH-V1.md`
+- `EP01-EP10-SPATIAL-SCENE-MAP-V1.md`
 
-Legacy V3.2 patches are no longer live dependencies. Their still-valid functions have been absorbed into V4 Master / Character / Episode authority.
+have been retired from the working branch and must not be referenced as active authority.
 
 ---
 
-# 02｜Required read order
+# 02｜Required read order for future work
 
-For any new story / screenplay / visual task:
+## Story / screenplay work
 
 1. `CURRENT.md`
-2. `ACTIVE-DOCS-INDEX.md`
-3. `CANON-PRECEDENCE-V4.md`
-4. `CHONGQING-TIME-MASTER-CANON-V4.md`
-5. `WORLD-ARCHITECTURE-CANON-V4.md`
-6. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-7. the highest active relevant episode snapshot
-8. if visual: `VISUAL-CONSISTENCY-BIBLE-V2.md`
-9. if generating scene/KV: `SCENE-PROMPT-TEMPLATE-V2.md`
-10. if teaser asset: `TRAILER-TEASER-V3.md`
-11. `VISUAL-ANCHOR-INDEX-V2.md` for approved / provisional visual anchor status
+2. `STORY-CAUSAL-CANON-PATCH-V1.md`
+3. `SPATIAL-ENVIRONMENT-CANON-V2.md`
+4. `EP01-EP10-SPATIAL-SCENE-MAP-V2.md`
+5. relevant Episode Snapshot / EP01 outline
+6. `CHONGQING-TIME-MASTER-CANON-V4.md`
+7. `WORLD-ARCHITECTURE-CANON-V4.md`
+8. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
 
-Do not begin from the legacy root and attempt to infer V4 by applying patches manually.
+## Visual / environment / storyboard work
 
----
+1. `CURRENT.md`
+2. `SPATIAL-ENVIRONMENT-CANON-V2.md`
+3. `EP01-EP10-SPATIAL-SCENE-MAP-V2.md`
+4. relevant Episode Snapshot / screenplay
+5. active visual-style canon / KV execution docs
 
-# 03｜Current V4 series lock
-
-## Title / city
-
-> **《重庆时间》**
->
-> **第二新重庆市**
-
-## Premise
-
-> 陨石撞击后的第二新重庆市没有停止运行。为了继续保护居民和公共系统，各城区逐渐分别维持自己的本地时间、Local Gravity Frame 和地方公共秩序。每个局部都在合理救城，却因此越来越难共享同一个“现在”、同一个物理参考和同一个公共现实。最终，城市必须先疏散，再主动结束一部分仍然能够工作的桥和旧城区兼容条件，让一个更小但可持续的重庆重新拥有共同现在。
-
-## Core city architecture
-
-> **城市级不是连续地面，而是多层人工城区 + 大量桥 / 轨道 / 服务管廊连接网络。**
-
-`嘉陵江`：
-
-> **贯穿城市的重要超巨型封闭人工结构空腔 / 城市峡谷，不是真实水体。**
-
-## Time
-
-> **不再使用冬季 / 雪作为 active series mechanism。**
-
-时间断层由不同城区的：白天 / 黄昏 / 夜晚 / 班次 / 营业 / 交通 / 维护 / 公共照明等 Local Public Time 状态体现。
-
-## Gravity
-
-> **Local Gravity Frames**
-
-城区内部尽量稳定，危险主要集中在桥 / 接口 handoff。
-
-时间与重力是独立故障轴。
+**Future KV, environment concept art, storyboard, blocking and Seedance/scene-generation prompts must not skip Spatial V2.**
 
 ---
 
-# 04｜Organic integration hard rule
+# 03｜Active city architecture
 
-> **人物需求 / 公共行动 first；设定只在改变动作或后果时进入。**
+> **第二新重庆是一座建立在永久环形船坞骨架上的模块化太空城市。**
 
-禁止机械地让每一集都 foreground：bridge + time + gravity + 嘉陵江 spectacle。
+Design scale direction：
 
-十集各自必须保留唯一 dominant dramatic function。
+- main-ring radius ≈ `1 km`；
+- major interior clear-height ≈ `200 m`；
+- ring form = architecture/topology, not gravity mechanism。
+
+Three physical scales：
+
+1. Permanent Ring Backbone；
+2. District Modules；
+3. Attached Service / Maintenance Modules。
+
+First-season contraction retires modules/connections, not the permanent ring backbone.
+
+## Jialing
+
+> **嘉陵江 = 环形城市内部连续、有限、百米级的开放公共城市带。**
+
+Not：
+
+- torus central hole；
+- infinite canyon；
+- mandatory vertical abyss。
+
+## Gravity readability
+
+Local Gravity Frames remain active.
+
+> **ordinary inhabited districts visually share a broadly similar nominal down; large differences are interface/damage/event exceptions.**
+
+EP01 is the main Extreme gravity event; later episodes mostly use Level 1–3.
 
 ---
 
-# 05｜Active episode map
+# 04｜Bridge scale lock
 
-| EP | Active snapshot | Core V4 function |
+Bridge physical scale and narrative importance are separate.
+
+- EP02 = **Level-1 Jialing Trunk Bridge**, large city-scale connection.
+- EP03→04→08→10 Familiar Lifeline = **Level-4 small maintenance bridge for the entire season**.
+
+The Familiar Lifeline can gain：
+
+- medical/public use；
+- schedule；
+- maintenance responsibility；
+- legitimacy conflict；
+- finale meaning；
+
+without physically becoming a big bridge.
+
+> **物理尺度很小，叙事尺度很大。**
+
+EP02 Trunk Bridge and the small lifeline are in the same broader connection geography but structurally independent.
+
+---
+
+# 05｜EP01 active engine + spatial lock
+
+> **普通302 Gravity Reference Reset → final trusted handshake fails → partial handshake reveals `302 LOCAL = CHONGQING PUBLIC +08:00` → safe reset window already expired → gravity vector instability active → full handshake succeeds → AI refuses lethal immediate nominal restore → safe-reset-first Plan B → Plan B genuinely begins working → T0 latent interface scar causes the small 302 outer attached maintenance/interface segment to accidentally lose structural connection → male drifts outside → AI prioritizes survival and shuts local core → unidentified human hand catches him.**
+
+Important：
+
+- `+08:00` = Pressure, not dominant turn；
+- dominant turn = full control available, AI refuses immediate restore；
+- detachment = Cost after Plan B genuinely works；
+- **302 itself does not detach**；
+- no system deliberate ejection；
+- no multi-layer city traversal；
+- no stale occupancy / hidden resident / HOLD CUTOVER engine。
+
+EP01 timing authority：
+
+> **3m30s–4m00s direction; exact screenplay runtime TBD.**
+
+---
+
+# 06｜EP01–EP10 active spatial/story map
+
+| EP | Primary spatial asset | Active dramatic/spatial function |
 |---|---|---|
-| EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V4.md` | 302 current reality + extreme gravity body risk |
-| EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V4.md` | failing Jialing trunk bridge / forced loss |
-| EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V4.md` | seven-minute crack + first low-capacity lifeline |
-| EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V4.md` | emergency infrastructure becomes ordinary life; Rashomon + memorial seed |
-| EP05 | `Pilot-EP05-LATEST-CANON-SNAPSHOT-V5.md` | Wedding Mirror / private continuity + local-time emotional counterpoint |
-| EP06 | `Pilot-EP06-LATEST-CANON-SNAPSHOT-V4.md` | title episode: two valid local nows, no common now |
-| EP07 | `Pilot-EP07-LATEST-CANON-SNAPSHOT-V4.md` | healthy shared Hub exits; total preservation first locally fails |
-| EP08 | `Pilot-EP08-LATEST-CANON-SNAPSHOT-V3.md` | two correct public orders collide on familiar suspended bridge |
-| EP09 | `Pilot-EP09-LATEST-CANON-SNAPSHOT-V4.md` | minimum common reality trial; 302 future compatibility cost |
-| EP10 | `Pilot-EP10-LATEST-CANON-SNAPSHOT-V4.md` | evacuate → verify → service/gravity/protocol exit → healthy familiar bridge separation; private-AI final cost |
+| EP01 | 302 + small attached outer segment | `+08` / AI refuses lethal restore / small accidental detachment |
+| EP02 | Level-1 Jialing Trunk Bridge | long rescue reaches forced-loss threshold; major direct capacity exits |
+| EP03 | **small Level-4 Familiar Lifeline** | medical window makes tiny maintenance route the only timely candidate |
+| EP04 | same small lifeline + 302/legacy ordinary public space | emergency connection becomes repeat-use life; no remap language |
+| EP05 | ordinary district / wedding | continuity mirror; no topology change |
+| EP06 | Jialing shared thermal/environment node | two local times complete one neutral-reference transaction |
+| EP07 | Shared Hub in same infrastructure family | healthy shared-control role retires |
+| EP08 | same small lifeline + bridgeheads | two local public orders collide; degraded side voluntarily revokes role; maintenance humanoids still disabled |
+| EP09 | 302 as complete lived district | real/occupied/safe/maintainable; future special guarantee withdrawn; migration begins |
+| EP10 | retained city ↔ same small lifeline ↔ 302 | bulk migration mostly predates episode; small bridge is last active legacy connection and is deliberately retired healthy |
 
 ---
 
-# 06｜Cross-episode bridge lock
+# 07｜Familiar Lifeline season arc
 
-The familiar bridge causal chain is mandatory:
+```text
+EP03  small engineering maintenance bridge
+  ↓
+EP04  same small bridge gains schedule / ordinary use
+  ↓
+EP08  same small bridgeheads become legitimacy contact surface
+  ↓
+EP10  same small bridge becomes last active legacy connection
+  ↓
+      healthy but deliberately retired
+```
 
-> **EP03 temporary maintenance lifeline** → **saves a real medical action** → **EP04 repeated use / ordinary infrastructure** → **EP08 public-order overlap / armed standoff** → **EP10 evacuation lifeline / final important healthy connection to exit.**
+Do not introduce a new finale bridge.
 
-Do not substitute a new anonymous finale bridge.
+Do not visually scale it up in later episodes.
 
 ---
 
-# 07｜Character / finale locks
+# 08｜302 season chain
+
+> **T0 creates structural/interface + time + gravity + protocol scars**
+> → **EP01 +08 / gravity incident / small outer attached-segment detachment; 302 remains**
+> → **continued repair/local operation**
+> → **EP04 limited civic/public reuse**
+> → **EP09 current 302 real/occupied/safe/maintainable + future permanent-special guarantee withdrawn**
+> → **migration begins after EP09**
+> → **EP10 last active legacy connection/service stack exits after people moved first.**
+
+Inactive chain：
+
+> stale occupancy → physical clearance → remap → future 302
+
+`SUPERSEDED / NOT CANON`.
+
+---
+
+# 09｜EP10 migration capacity lock
+
+The Familiar Lifeline remains small.
+
+Therefore：
+
+> **the majority of 302 population migrates before EP10 through then-active temporary routes, longer detours and staged transfer.**
+
+As contraction advances those routes retire.
+
+By EP10：
+
+> **the small Familiar Lifeline is the last active legacy connection**, carrying only final residents/roles, maintenance/service and cutover functions.
+
+“Last bridge” means last active connection, not the sole bulk-evacuation route.
+
+---
+
+# 10｜Character / finale locks
 
 ## Male
 
-False belief:
+False belief：
 
 > **只有我的判断无法被替代，它才真正有价值。**
 
-Private AI already gives him belonging before EP01 without requiring usefulness.
-
-EP10: he MUST genuinely search for a way to preserve the AI before accepting the public cost boundary.
+He remains the present physical execute/abort fact source, but his growth is not to require the broken world to need him forever.
 
 ## Private AI
 
-> **她不想消失。**
+Arc：
 
-She is not sacrificial by default. She does not become city AI. Copy / upload / reconstruction does not preserve the same subject continuity.
+> **我知道 → 我不知道 → 我相信你。**
+
+She does not want to disappear.
+
+EP01 local shutdown = temporary/local survival action, not continuity death.
+
+EP09/10：copyable state != guaranteed continuous subject.
 
 ## Female chief
 
 > **她不掌握真理，她只承担决定。**
 
-EP06 chief↔AI: **mutual misreading → restrained recognition.**
-
-EP10 public role is narrow authorization / cutover recognition, not takeover.
+EP01 only final unidentified hand; EP02 reveals her.
 
 ## Finale
 
-The final important bridge is technically healthy. No explosion shortcut.
-
-The real preservation route for the private AI is to keep the old district + bridge/service/time/gravity/protocol compatibility stack alive. That route must be technically real and publicly costly.
-
----
-
-# 08｜Current production / execution phase
-
-V4 Canon migration body has been merged into `main` and is the active project authority.
-
-Current visual direction:
-
-> **large environment / scene-setting KVs first.**
-
-Primary visual assets:
-
-1. 嘉陵江 bridge-field establishing;
-2. second-new-Chongqing station local-time KV;
-3. EP08 Jialing suspended bridge standoff;
-4. familiar EP03→04 lifeline states;
-5. EP02 forced-loss bridge;
-6. EP07 shared Hub;
-7. EP01 gravity fall / catch pair;
-8. EP10 non-spoiler healthy bridge disengagement hint;
-9. Wedding continuity shots.
-
-Before any image generation, use `SCENE-PROMPT-TEMPLATE-V2.md`.
+- people migrate first；
+- small Familiar Lifeline remains physically healthy；
+- real AI preservation route genuinely works if old 302 compatibility world stays permanently alive；
+- route is publicly non-generalizable；
+- final separation is mechanical, not explosive；
+- retained city regains sufficiently common public now；
+- permanent ring backbone remains.
 
 ---
 
-# 09｜Provenance / legacy
+# 11｜Verification status / current phase
 
-Legacy V3.2 root:
+Spatial V2 verification report：
 
-> `../北京市没有冬天/`
+> `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md`
 
-Pre-V4 non-chat active snapshot:
+Result：
 
-> `../北京市没有冬天/archive/2026-09-01-pre-chongqing-time-v4/`
+> **PASS / active spatial-environment foundation for story + visual work.**
 
-Full V4 decision conversation remains:
+Current next story task：
 
-> `../北京市没有冬天/decision-logs/2026-09-01-2324-CHONGQING-TIME-V4-FULL-CONVERSATION.md`
+> **EP01 formal screenplay draft / scene writing, using `EP01-STORY-OUTLINE-V1.md` + Spatial V2.**
 
-Do not rewrite archived historical wording to look V4-compliant. Archive is provenance, not current Canon.
+Before storyboard / production：
 
-Use `MIGRATION-SOURCE-INDEX.md` when deeper V3.2 provenance is needed.
+1. screenplay preserves one dominant turn；
+2. spatial movement stays `ordinary city → 302 → service/interface → small outer attached segment → space`；
+3. no multi-layer traversal returns；
+4. Familiar Lifeline is not used in EP01 and remains a later separate small bridge asset；
+5. environment blocking receives user review before shot/Seedance handoff。
+
+Before promotion/merge to `main`：
+
+1. story-causal readiness for the intended promotion scope must be reviewed；
+2. no stale Master/World/episode wording may override repaired story/spatial facts；
+3. user explicitly chooses PR/merge.
+
+---
+
+# 12｜Provenance
+
+Legacy material remains available in Git history and `../北京市没有冬天/` only for provenance/non-conflicting function recovery.
+
+Historical setting text does not override active Story Repair + Spatial Environment V2.

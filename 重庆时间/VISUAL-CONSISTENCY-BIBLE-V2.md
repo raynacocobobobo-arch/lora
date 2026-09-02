@@ -1,10 +1,10 @@
 # 《重庆时间》VISUAL CONSISTENCY BIBLE V2
 
-- Updated: 2026-09-01
-- Status: `LOCKED / ACTIVE NON-CANON VISUAL EXECUTION STANDARD`
-- Canon basis: `CHONGQING-TIME-MASTER-CANON-V4.md`, `WORLD-ARCHITECTURE-CANON-V4.md`
+- Updated: 2026-09-02
+- Status: `LOCKED / ACTIVE NON-CANON VISUAL EXECUTION STANDARD / SPATIAL V2 RECONCILED`
+- Canon basis: `CURRENT.md`, `SPATIAL-ENVIRONMENT-CANON-V2.md`, `CHONGQING-TIME-MASTER-CANON-V4.md`, `WORLD-ARCHITECTURE-CANON-V4.md`
 - Aspect ratio default: **2.35:1**
-- Current KV phase: **large environment / scene-setting images first**; character-action shots follow later.
+- Current KV phase: **Spatial V2 orientation assets first; large environment / scene-setting images before character-action shots.**
 
 ---
 
@@ -12,21 +12,25 @@
 
 > **Canon decides WHAT exists, WHERE, WHEN and WHAT happens.**
 >
+> **Spatial V2 decides macro geometry / topology / location relationship.**
+>
 > **Visual Bible + approved anchors decide HOW those facts are visualized.**
 
-视觉统一必须同时通过两个测试：
+视觉统一必须同时通过：
 
 > **像同一部片。**
 >
 > **像这场戏。**
+>
+> **空间位置说得通。**
 
-禁止为了统一风格把所有场景重新画成同一个中轴大厅。
+禁止为了统一风格把所有场景重新画成同一个大厅，也禁止为了奇观发明与 Spatial V2 冲突的新城市层级。
 
 ---
 
 # 02｜Highest production rule
 
-大场景统一采用：
+大场景采用：
 
 > **简化赛璐璐巨构语言。**
 
@@ -36,7 +40,7 @@
 
 优先：
 
-- 巨大清晰的建筑块面；
+- 巨大清晰建筑块面；
 - 大钢板；
 - 大梁柱；
 - 桥面 / 平台；
@@ -47,13 +51,13 @@
 - 大块明暗；
 - 克制材质高光；
 - 少量真正有意义的导视；
-- 少量车辆 / 人 / 机器人作为尺度和公共行为。
+- 少量人 / 机器人 / 公共交通作为尺度证据。
 
 如果画面开始像：
 
 > **premium 3D hard-SF concept art**
 
-则优先：
+优先：
 
 > **减少 30–50% 微细节，而不是继续添加设计。**
 
@@ -67,139 +71,233 @@
 >
 > **SECOND NEW CHONGQING**
 
-英文只在真正需要双语公共导视时出现。
-
-城市视觉不是 generic sci-fi city。
+城市不是 generic sci-fi city。
 
 基本 DNA：
 
 - 中国式公共基础设施尺度与秩序；
-- 长期使用、维护、修补后的轨道巨城；
+- 长期建设、扩建、维修形成的环形船坞城市；
 - industrial brutalism + municipal retro-futurism；
 - 不崭新的大型市政系统；
 - 成熟城市而非新建太空基地；
-- 技术很先进，但很多外露设备具有“修过、补过、继续工作”的历史感。
+- 新旧城区模块接口、修补和替换历史可见；
+- 技术先进但设备是“用过、修过、还在工作”。
 
 ---
 
-# 04｜Macro city rule: bridge network, not continuous ground
+# 04｜Macro city rule — ring shipyard + district modules
 
-第二新重庆市城市级画面不得默认使用：
+第二新重庆整体必须先读成：
 
-> **连续大地板 + 一排建筑。**
+> **一个有限、可认知、不规则环形船坞城市。**
 
-局部城区内部可以有正常地面。
+设计尺度方向：
 
-但当镜头表达“城市整体 / 跨区关系 / 嘉陵江 / 群岛化”时，必须体现：
+- main-ring radius ≈ `1 km`；
+- major interior clear-height ≈ `200 m`。
 
-- 多层人工城区；
-- 不同高度的平台；
-- 主桥 / 区域桥 / 服务桥 / 维护桥；
-- 结构空腔；
-- 上下左右均可能存在城市功能；
-- 桥是公共生活普通组成，而不是每次出现都像特殊奇观。
+200m 表示最大空间尺度感，不表示人物要穿越几十层城区。
 
-一帧优先读懂：
+宏观城市由：
 
-> **哪两个 / 哪几块城市结构正在通过什么连接发生关系。**
+1. permanent ring backbone；
+2. large district modules；
+3. attached service/maintenance modules；
+4. multiple bridge scales
 
-再读设备细节。
+组成。
+
+局部城区内部可以拥有正常街道/地面/建筑。
+
+城市整体镜头必须让观众先理解：
+
+> **哪几块城区模块通过什么尺度的连接发生关系。**
+
+禁止回到：
+
+- 无尽上下叠城；
+- 所有方向都是城市；
+- 角色无法判断主空间方向的 Escher megacity。
+
+多层只作为局部构图语言，不作为必须学习的城市地理。
 
 ---
 
-# 05｜嘉陵江 Visual Canon
+# 05｜嘉陵江 Visual Canon — V2
 
-嘉陵江不是水体。
+嘉陵江不是水体，也不是 torus 中央大孔。
 
 视觉定义：
 
-> **贯穿第二新重庆市的超巨型封闭人工结构峡谷 / 城市结构空腔。**
+> **环形城市内部一条连续、有限、百米级的开放公共城市带。**
 
 必须同时成立：
 
-- monumental；
-- enclosed；
+- large but readable；
 - engineered；
 - inhabited / maintained；
-- finite。
+- finite；
+- multiple bridge scales visible；
+- district mass on both sides。
 
-## Mandatory spatial cues
+## Recommended cues
 
-至少出现若干：
+一张嘉陵江宽景优先包含若干：
 
-- 近 / 中 / 远层桥梁；
-- 巨型舱壁；
-- 结构梁；
-- 服务层；
-- 内部楼板；
-- 维护平台；
-- 粗管组；
-- 设备区；
-- 明确远端结构边界。
+- 一座大尺度公共桥；
+- 一两条小 service / maintenance connections；
+- 两侧城区体量；
+- 轨道；
+- shared utility / thermal / Hub设施；
+- 明确结构边界；
+- 公共行为。
 
-禁止把“巨大”画成：
+目标不是“越深越宏伟”。
 
-> 无限城市深渊 / 开放宇宙船坞 / 没有边界的世界。
+目标是：
 
-## Earth aperture
+> **桥的尺度、连接密度和城区关系一眼可读。**
 
-部分嘉陵江视角远端可以通过：
+禁止：
 
-> **大型结构观察口 / 外层维护开口**
+- infinite canyon；
+- bottomless city abyss；
+- bridges above/below forever；
+- open universe dock mistaken for Jialing；
+- torus central hole labeled as Jialing。
 
-看到遥远地球。
+## Central ring void
+
+城市总体环中心可以有更大结构/船坞空域，但它不是嘉陵江。
+
+## Exterior reference
+
+少数临江/外缘开口可看到远处地球/太空。
 
 地球：
 
-- 小；
-- 远；
-- 不抢主体；
-- 作为稳定外部 reference 和空间尺度。
-
-不能使用巨大蓝色地球占据半个画面来制造“科幻感”。
+- small；
+- distant；
+- secondary；
+- scale/reference only。
 
 ---
 
-# 06｜Jialing degradation states
+# 06｜Jialing season degradation states
 
 ## Early / connected
 
-- 多层桥可用；
-- 公共交通 / 维护 / 物流正常；
-- 人流不需要密集，但城市 connection density 明显高；
-- 结构灯光连续。
+- 多种尺度桥可见；
+- 公共交通/维护/物流正常；
+- connection density 高；
+- 城区仍明显属于同一城市。
+
+## EP02 / trunk loss
+
+- 一座大型 Level-1 Trunk Bridge 退出；
+- 其缺口长期留在后续宽景；
+- 小桥仍在，但与主桥体量明显不同。
 
 ## Mid / fragmented
 
-- 一部分桥关闭；
-- 某些桥低容量；
-- 部分服务层变暗；
-- local day/night 差异明显；
-- 临时生命线开始承担过多功能。
+- 一部分桥关闭或降级；
+- local day/night差异明显；
+- **EP03小型 Level-4 Familiar Lifeline** 获得公共价值；
+- 它始终小，不因戏剧重要变大。
 
 ## Late / institutionalized fragmentation
 
 - retained connections 少；
-- 地方公共系统 / 机器人在接口出现；
+- 地方公共系统/机器人在桥头出现；
 - 一侧资源退化可见；
-- 桥上同时承担交通 + 维护 + 管理 + 安保。
+- EP08同一小生命线的**桥头**承担维护 + 通行 + 安保/制度冲突。
 
 ## EP10 / contraction
 
-- 疏散 / 改线持续；
-- 桥一组组退出；
-- 连接密度明显下降；
-- 嘉陵江画面越来越空；
-- 废弃城区逐渐退出公共灯和交通；
-- 仍然健康的最后重要桥可以处于受控机械分离。
+- bulk migration 已经长期进行；
+- 其他临时/绕行连接逐步退出；
+- 小生命线成为最后 active legacy connection；
+- 它只承载最后人员/服务/cutover，不画成大规模人口潮吞吐桥；
+- final mechanical separation 克制安静。
 
 关键：
 
-> **空间没有扩大，是城市连接减少了。**
+> **空间没有扩大，是连接减少了。**
 
 ---
 
-# 07｜Material family
+# 07｜302 visual geography
+
+302 必须有明确双面关系：
+
+> **一面朝城，一面临空。**
+
+## City-facing side
+
+- ordinary old district life；
+- residential/public space；
+- small transit/service access；
+- EP04 cinema / EP09 lived district可在此类空间中展开。
+
+## Service / space-facing side
+
+- older Gravity Service；
+- legacy relay；
+- maintenance structures；
+- small attached outer interface modules；
+- EVA edge。
+
+EP01 route：
+
+> city-facing 302 → service/gravity side → small outer attached segment → space。
+
+禁止：
+
+- 通过很多城区层到达外部；
+- 整个302像单一设备舱；
+- whole-302 ejection；
+- “外壳是五层工程迷宫”式说明图。
+
+---
+
+# 08｜Bridge scale visual lock
+
+桥的视觉尺度必须严格区分。
+
+## EP02 Trunk Bridge — Level 1
+
+- very large；
+- city-scale transit/service；
+- large structural mass；
+- recognizable in Jialing wide views。
+
+## Familiar Lifeline — Level 4, ALWAYS SMALL
+
+EP03/04/08/10同一物理资产。
+
+它适合：
+
+- people on foot；
+- small transport rack；
+- industrial humanoids；
+- bridgehead maintenance；
+- low-capacity emergency/public use。
+
+不适合：
+
+- heavy rail；
+- wide vehicular flow；
+- giant crowds；
+- military parade；
+- heroic mega-bridge silhouette。
+
+核心：
+
+> **物理尺度很小，叙事尺度很大。**
+
+---
+
+# 09｜Material family
 
 主材质：
 
@@ -210,7 +308,7 @@
 - 焊缝；
 - 铆接 / 螺栓；
 - 补丁板；
-- 更换过的结构件；
+- 替换结构件；
 - 局部磨损；
 - 工程编号与少量警示色。
 
@@ -222,12 +320,12 @@
 
 - 废土锈蚀；
 - 全新洁白未来主义；
-- 豪华 spaceship interior；
-- 镜面金属展厅。
+- luxury spaceship interior；
+- mirror-metal showroom。
 
 ---
 
-# 08｜Palette
+# 10｜Palette
 
 主色：
 
@@ -236,17 +334,15 @@
 - charcoal；
 - 旧白；
 - 暖色工作灯；
-- 少量暗红 / muted red 作为警示、仪式或公共焦点。
+- 少量暗红 / muted red。
 
-红色必须克制。
+红色克制，只作为明确焦点/警示/仪式使用。
 
-例如婚礼红毯可以成为该场唯一强色焦点。
-
-不要用霓虹紫 / 青 / 粉建立 generic cyberpunk 氛围。
+禁止霓虹紫青粉构成 generic cyberpunk。
 
 ---
 
-# 09｜Signage
+# 11｜Signage
 
 导视家族：
 
@@ -256,100 +352,99 @@
 - 大区 / 线路 / 接口编号；
 - 少量英文。
 
-导视功能：
+功能：
 
-> **确认空间和公共状态，而不是解释剧情。**
+> **确认空间和公共状态，不解释剧情。**
 
-如果删掉文字以后画面就完全看不懂动作，说明空间设计失败。
+删掉文字以后动作仍应可理解。
 
 禁止：
 
-- 每个设备都贴一串字；
-- 用大段屏幕说明世界观；
-- 在 EP08 直接写“医疗转运通道”；
-- 用“跨时序接口”之类自我解释性词汇；
-- 为了可读性把正常公共接口写成概念展板。
+- 每个设备贴大量字；
+- 大屏解释世界观；
+- EP08直接写“医疗转运通道”；
+- 概念展板式自我说明。
 
 ---
 
-# 10｜Local Public Time visual grammar
+# 12｜Local Public Time visual grammar
 
-不同 local now 主要通过人工城市行为表现。
-
-允许：
+不同 local now 通过人工城市行为表现：
 
 - 一区明亮日间公共照明；
-- 一区黄昏过渡光；
+- 一区黄昏过渡；
 - 一区夜间低照度；
 - 商铺开闭差；
-- 轨道班次 / 站台活动差；
-- 清洁 / 维护班次；
+- transit frequency差；
+- 清洁/维护班次；
 - 医院交班；
 - 公共钟。
 
-重要：
+不需要自然天空。
 
-> **默认不需要天空。**
-
-特别是封闭接口 / 桥 / 嘉陵江内部画面，必须让观众知道这是同一巨大人工城市内部的不同公共时间状态。
-
-## State contrast rule
-
-A/B 差异优先通过：
+State contrast priority：
 
 1. light level；
 2. public activity；
 3. transit frequency；
-4. open / closed service zones；
-5. workers / robots；
-6. clocks / signage 最后确认。
+4. open/closed service zones；
+5. workers/robots；
+6. clocks/signage last。
 
-不要只靠文字写 `DAY / NIGHT`。
+不要只靠 `DAY/NIGHT` 字样。
 
 ---
 
-# 11｜Gravity visual grammar
+# 13｜Gravity visual grammar — V2
 
-重力异常必须视觉可读但克制。
+绝大多数普通城区：
+
+> **nominal down visually broadly aligned.**
+
+Local Gravity Frame 差异主要在：
+
+- bridge handoff；
+- old interfaces；
+- damaged service zones；
+- specific event windows。
 
 ## Level 1
 
 - 液面倾斜；
-- 悬挂物偏向；
-- 松散物件慢滑；
-- 轻微不同垂线。
+- 悬挂物轻偏；
+- 松散物慢滑。
 
 ## Level 2
 
 - 行人扶栏；
-- 工业机器人改变步态；
-- 担架 / 货箱固定；
-- 桥过渡处姿态改变。
+- 工业机器人改步态；
+- 小运输架固定；
+- bridge transition姿态调整。
 
 ## Level 3
 
 - 大型运输受限；
-- 临时固定装置；
-- 桥通行窗口明显受约束。
+- temporary fixation；
+- narrow operating window。
 
-## High / extreme
+## Extreme
 
-只用于少量真正的戏剧动作，如 EP01 身体坠落。
+主要保留给 EP01。
 
-禁止把每个场景做成：
+禁止日常默认：
 
+- 90°不同城区；
 - Escher maze；
-- 360° 人在墙上走；
-- 持续失重 spectacle；
-- 纯视觉奇观而不改变动作。
+- 360°墙上行走；
+- persistent zero-G spectacle。
 
-重力最好的使用方式通常是：
+重力最好的背景表达：
 
-> **一个非常普通的人或机器已经学会如何适应。**
+> **普通人/机器已经习惯小差异。**
 
 ---
 
-# 12｜Time / gravity visual independence
+# 14｜Time / gravity independence
 
 不要把：
 
@@ -359,104 +454,100 @@ A/B 差异优先通过：
 
 > 白天 = 重力正常
 
-做成视觉编码。
+做成编码。
 
-两者独立。
+EP06：时间差在前景，重力大体稳定。
 
-EP06 可明确展示：
-
-> 两边公共时间完全不同，但桥的重力过渡大体稳定。
-
-EP03 / EP08 则可在桥上表现重力差，而时间承担不同层级压力。
+EP03/08：小桥重力 handoff 身体可感，时间只是另一层压力。
 
 ---
 
-# 13｜Municipal equipment family
+# 15｜Municipal equipment family
 
-公共设备统一像同一座城市采购 / 维护体系：
+公共设备统一像同一城市采购/维修体系：
 
 - 旧白外壳；
-- 深色底盘 / 关节；
-- 蓝色小面积状态标识；
+- 深色底盘/关节；
+- 蓝色小状态标识；
 - 暗红安全标识；
-- 结构简单、厚重；
-- 长期维修留下替换板和编号。
+- 简单厚重；
+- 替换板/编号可见。
 
-优先：
+> **功能轮廓先于 greeble。**
 
-> **功能轮廓先于表面 greeble。**
-
-机器人也遵循：
+机器人：
 
 - 不做高端玩具机甲；
-- 不为“酷”添加过多武器和装甲；
+- 不为酷添加过多武器/装甲；
 - 公共安全设备是市政系统，不是军队。
 
 ---
 
-# 14｜EP08 security visual lock
+# 16｜EP08 security visual lock — bridgeheads, not mega-bridge battle
 
 EP08 主场景：
 
-> **嘉陵江上方的悬空跨区公共桥 / 接口。**
+> **同一条 EP03/04 small Familiar Lifeline + 两端 bridgehead maintenance platforms。**
 
-不是地面大厅。
+资源完整侧：
 
-资源较完整一侧：
+> **one medium quadruped public-safety platform。**
 
-> **一台中型四足公共安全机器人 / 平台。**
+退化侧：
 
-退化孤岛一侧：
-
-> **多台普通工业人形机器人，被本地系统协调承担秩序维护。**
+> **ordinary industrial humanoids already maintaining their bridgehead/interface, temporarily given public-order role and later voluntarily returned to maintenance.**
 
 视觉要求：
 
-- 四足平台明显更大、更专业；
-- 普通人形机器人数量更多但单体更弱；
-- 退化一侧结构、照明、设备维护程度更差；
-- 两边都仍是同一城市文明家族；
-- 有武装 / 强制能力压力，但不是 battlefield；
-- 桥仍然承担实际公共通行。
+- small narrow bridge between two bridgeheads；
+- quadruped clearly more professional；
+- humanoids more numerous but ordinary industrial；
+- degraded side maintenance/resource quality lower；
+- both remain same civic design family；
+- force pressure, not battlefield；
+- humanoids staying at bridgehead reads as maintenance necessity；
+- programmatic disable is brief, precise, non-explosive。
 
 锁定：
 
 > **无轮式安保车辆。**
 
+禁止：
+
+- giant border bridge；
+- broad military deck；
+- central shared arena designed only for combat。
+
 ---
 
-# 15｜Composition
+# 17｜Composition
 
-默认 2.35:1。
+Default 2.35:1。
 
 优先：
 
-- 稳定；
-- 建筑性；
-- 第一眼可读；
-- 结构关系明确；
-- 大尺度空间通过人 / 机器人 / 车辆 / 栏杆等参照建立。
+- stable；
+- architectural；
+- first-read clear；
+- structural relationship legible；
+- human/robot/railings as scale。
 
-中轴只在场景本身支持时使用。
-
-不能因为某些 KV 成功，就把所有场景复制为中央大厅正对称构图。
-
-## Readability hierarchy
+Readability hierarchy：
 
 1. major spatial relationship；
-2. one dominant dramatic / functional state；
-3. large circulation / equipment；
-4. signage / status；
-5. small people / robots / maintenance；
+2. dominant dramatic/functional state；
+3. large circulation/equipment；
+4. signage/status；
+5. people/robots/maintenance；
 6. micro-detail。
 
 一帧原则：
 
-> **一个主要空间关系 + 一个主要场景状态。**
+> **一个主要空间关系 + 一个主要状态。**
 
 ---
 
-# 16｜Rendering style
+# 18｜Rendering style
 
 目标：
 
@@ -466,66 +557,84 @@ EP08 主场景：
 
 - 清晰线稿边界；
 - 结构化机械轮廓；
-- 2–3 档硬阴影；
+- 2–3档硬阴影；
 - 大阴影块；
 - 受控渐变；
-- 克制 bloom；
-- 材质反射简化。
+- 克制bloom；
+- 简化材质反射。
 
 禁止：
 
 > **3D render with anime filter。**
 
-如果微细节、镜面反射、体积雾和灯点开始承担主要“高级感”，说明方向跑偏。
+如果微细节、镜面、体积雾和灯点承担主要高级感，方向跑偏。
 
 ---
 
-# 17｜Environmental storytelling
+# 19｜Environmental storytelling
 
-每个大奇观镜头最好保留 1–3 个正在继续的普通公共行为，例如：
+每个大场景保留 1–3 个普通公共行为：
 
-- 清洁机器人继续工作；
-- 维修人员更换结构件；
-- 轨道车进站；
-- 医疗箱通过；
-- 店铺营业 / 关门；
-- 小型服务机器人运行；
-- 公共导视更新；
-- 工人交班。
+- cleaning robot；
+- maintenance worker；
+- train arrival；
+- medical box crossing；
+- shop opening/closing；
+- service robot；
+- signage update；
+- shift handoff。
 
-这些行为证明：
+这些证明：
 
 > **城市不是概念模型，它还在生活。**
 
-但不要为了“生活感”把画面塞满 NPC。
+不要塞满NPC。
 
 ---
 
-# 18｜Crisis grammar
+# 20｜Crisis grammar
 
-《重庆时间》的危机不以爆炸为默认语言。
+危机不以爆炸为默认语言。
 
-优先表现：
+优先：
 
-- 连接逐步失效；
-- 服务仍正常但彼此不兼容；
-- 灯仍亮着；
-- 桥仍可用但被限制；
-- 机器人仍按规则工作；
-- 系统程序化分离；
-- 公共行为继续。
+- connection gradually becomes unavailable；
+- services still work but become incompatible；
+- lights remain on；
+- bridge remains usable but limited；
+- robots obey rules；
+- procedural separation；
+- public life continues。
 
-EP10 尤其要避免英雄式炸桥动作。
+EP01：小附属接口意外断接，不是爆炸弹射。
 
-正确：
+EP10：
 
-> **交通 / 数据 / 环境 / 重力 / 协议逐项退出，机械锁缓慢释放。**
+> **transit / data / environment / gravity / protocol exit one by one, then small healthy bridge lock releases.**
 
 ---
 
-# 19｜Global negative direction
+# 21｜Priority Spatial V2 visual assets
 
-Do not use as positive style drivers:
+在继续大量 episode KV 前，优先完成：
+
+1. ring-city overall exterior / orientation；
+2. unrolled ring topology diagram；
+3. ordinary lived district interior；
+4. Jialing wide view showing different bridge scales；
+5. 302 whole-area orientation: city-facing vs space-facing；
+6. EP02 Level-1 Trunk Bridge；
+7. Familiar Lifeline + both small bridgeheads；
+8. EP06/07 shared-infrastructure family；
+9. EP01 small outer attached segment + detachment geometry。
+
+这些图是后续视觉化空间基准，不只是漂亮概念图。
+
+---
+
+# 22｜Global negative direction
+
+Do not use as positive style/spatial drivers：
 
 - generic cyberpunk；
 - sleek spacecraft；
@@ -533,6 +642,10 @@ Do not use as positive style drivers:
 - luxury sci-fi lobby；
 - endless space dock；
 - infinite abyss；
+- endless vertical city layers；
+- torus central hole as Jialing；
+- default rotated ordinary districts；
+- giant Familiar Lifeline；
 - premium hard-SF greeble density；
 - every-surface micro-panels；
 - dense tiny lights；
@@ -540,25 +653,26 @@ Do not use as positive style drivers:
 - mirror metal；
 - screens explaining everything；
 - neon city；
-- photoreal metallic reflection noise；
-- giant Earth as spectacle；
+- giant Earth spectacle；
 - generic battlefield / military base；
 - same central-axis hall copied across scenes。
 
 ---
 
-# 20｜Large-setting QC
-
-每张大场景生成后必须检查：
+# 23｜Large-setting QC
 
 ```yaml
+spatial_v2_parent_asset_identified: pass/fail
+ring_city_topology_respected: pass/fail/not_applicable
 major_shape_reads_before_micro_detail: pass/fail
 one_dominant_spatial_relationship: pass/fail
 one_dominant_scene_state: pass/fail
 scene_geometry_matches_actual_function: pass/fail
-bridge_network_logic_if_macro_city_view: pass/fail/not_applicable
-finite_engineered_volume: pass/fail
-jialing_is_enclosed_if_present: pass/fail/not_applicable
+bridge_physical_level_correct: pass/fail/not_applicable
+familiar_lifeline_remains_small: pass/fail/not_applicable
+jialing_is_finite_open_urban_corridor: pass/fail/not_applicable
+302_city_facing_vs_space_facing_logic_correct: pass/fail/not_applicable
+ordinary_nominal_down_visually_readable: pass/fail
 local_public_time_reads_through_behavior: pass/fail/not_applicable
 gravity_visualization_matches_severity: pass/fail/not_applicable
 time_gravity_not_accidentally_coupled: pass/fail
@@ -572,4 +686,4 @@ same_city_not_same_room: pass/fail
 
 只有“画得像”不够。
 
-> **画面必须把本场真正发生的动作和城市物理逻辑都读对。**
+> **画面必须把本场真正发生的动作、桥尺度和城市物理关系都读对。**

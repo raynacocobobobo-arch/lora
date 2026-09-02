@@ -15,13 +15,14 @@ For conflicts, use this order:
 
 1. later explicit user confirmation;
 2. `STORY-CAUSAL-CANON-PATCH-V1.md` for scopes explicitly superseded by the current repair;
-3. repaired highest relevant Episode Snapshot for episode-specific facts;
-4. `CHONGQING-TIME-MASTER-CANON-V4.md` for non-superseded season architecture;
-5. `WORLD-ARCHITECTURE-CANON-V4.md` for city / bridge / 嘉陵江 / time / gravity world rules;
-6. `CHARACTER-RELATIONSHIP-BIBLE-V4.md` for non-superseded character / relationship facts;
-7. active execution docs for visual / teaser execution only;
-8. current story-causal audit / verification reports for QA;
-9. legacy `../北京市没有冬天/**` only for historical provenance and non-conflicting story-function recovery.
+3. `EP01-STORY-OUTLINE-V1.md` for EP01 **outline / scene progression / pilot rhythm / target-duration direction**;
+4. repaired highest relevant Episode Snapshot for other episode-specific facts;
+5. `CHONGQING-TIME-MASTER-CANON-V4.md` for non-superseded season architecture;
+6. `WORLD-ARCHITECTURE-CANON-V4.md` for city / bridge / 嘉陵江 / time / gravity world rules;
+7. `CHARACTER-RELATIONSHIP-BIBLE-V4.md` for non-superseded character / relationship facts;
+8. active execution docs for visual / teaser execution only;
+9. current story-causal audit / verification reports for QA;
+10. legacy `../北京市没有冬天/**` only for historical provenance and non-conflicting story-function recovery.
 
 Critical branch override:
 
@@ -33,20 +34,29 @@ The following older EP01 engine is `SUPERSEDED / NOT CANON ON THIS BRANCH`:
 
 It must not be blended back into the new EP01.
 
+EP01 latest approved outline/timing direction:
+
+> **`EP01-STORY-OUTLINE-V1.md`**
+>
+> **3m30s–4m00s direction; exact screenplay runtime remains TBD.**
+
+This supersedes earlier 2m55s–3m15s timing direction only; macro causality remains the same approved task-record / gravity-choice architecture.
+
 ---
 
 # 02｜Required read order for story work on this branch
 
 1. `CURRENT.md`
 2. `STORY-CAUSAL-CANON-PATCH-V1.md`
-3. `docs/superpowers/specs/2026-09-02-ep01-task-record-gravity-redesign.md` when EP01 or its callbacks are involved
-4. `consistency-reports/2026-09-02-EP01-EP10-STORY-CAUSAL-AUDIT-V1.md`
-5. `CHONGQING-TIME-MASTER-CANON-V4.md`
-6. `WORLD-ARCHITECTURE-CANON-V4.md`
-7. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-8. the repaired relevant episode snapshot
-9. applicable full-conversation provenance only when a story function is missing or disputed
-10. visual/execution docs only after story causality passes
+3. `EP01-STORY-OUTLINE-V1.md` when EP01 outline / pacing / screenplay work is involved
+4. `docs/superpowers/specs/2026-09-02-ep01-task-record-gravity-redesign.md` when EP01 causal rationale or callbacks are involved
+5. `consistency-reports/2026-09-02-EP01-EP10-STORY-CAUSAL-AUDIT-V1.md`
+6. `CHONGQING-TIME-MASTER-CANON-V4.md`
+7. `WORLD-ARCHITECTURE-CANON-V4.md`
+8. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
+9. the repaired relevant episode snapshot
+10. applicable full-conversation provenance only when a story function is missing or disputed
+11. visual/execution docs only after story causality passes
 
 Do not use the previous V4 no-gap PASS as proof that screenplay causality has passed.
 
@@ -102,7 +112,7 @@ Before screenplay, every episode must pass:
 
 > `Trigger -> Goal -> Obstacle -> Choice -> Turn -> Cost -> State Delta`
 
-and a 2–3 minute short-drama shape:
+and the short-drama shape:
 
 > `Cold Open -> Pressure -> Turn -> Payoff/Progress -> End Image`.
 
@@ -121,13 +131,17 @@ EP01 additional architecture lock:
 
 > **task record is a dramatic measuring stick, not a lore dump. It first establishes how the ordinary task is supposed to end, then the episode proves that reality no longer allows the normal procedure to end normally.**
 
+EP01 story-film grammar lock:
+
+> **the outline must preserve a But / Therefore causal chain rather than an “and then” event list; the `早安 → 祝你早安……晚安` motif should return with changed meaning rather than decorative repetition.**
+
 ---
 
 # 05｜Repair-branch episode map
 
-| EP | Snapshot | Repaired story function |
+| EP | Snapshot / outline | Repaired story function |
 |---|---|---|
-| EP01 | `Pilot-EP01-LATEST-CANON-SNAPSHOT-V4.md` | ordinary 302 gravity-reference work order exposes `+08:00` trusted local-time split; full control succeeds but AI refuses lethal immediate restore, routes male to safe reset point, Plan B truly starts working, latent T0 structure failure defeats completion, AI ultimately shuts down local core for life support, unidentified hand rescues male |
+| EP01 | `EP01-STORY-OUTLINE-V1.md` + `Pilot-EP01-LATEST-CANON-SNAPSHOT-V4.md` | ordinary 302 gravity-reference work order exposes `+08:00` trusted local-time split; full control succeeds but AI refuses lethal immediate restore, routes male to safe reset point, Plan B truly starts working, latent T0 structure failure defeats completion, AI ultimately shuts down local core for life support, unidentified hand rescues male |
 | EP02 | `Pilot-EP02-LATEST-CANON-SNAPSHOT-V4.md` | EP01 rescuer is revealed as current/new chief; male-present-fact / chief-public-responsibility split is formalized and immediately used on forced-loss Jialing trunk bridge |
 | EP03 | `Pilot-EP03-LATEST-CANON-SNAPSHOT-V4.md` | medical waiting window + only timely low-capacity route + seven-minute shared-crossable overlap |
 | EP04 | `Pilot-EP04-LATEST-CANON-SNAPSHOT-V4.md` | lifeline becomes lived infrastructure; cinema has a real one-night opportunity window; Rashomon/memorial seed |
@@ -158,9 +172,13 @@ False belief:
 
 > **只有我的判断无法被替代，它才真正有价值。**
 
-EP01 now reinforces this through:
+EP01 reinforces this through:
 
 > **his physical presence is genuinely required to establish the trusted local bridge and execute inside changing geometry that no stale model can replace.**
+
+But EP01 ending also opens the counter-pressure:
+
+> **after his own skill and system capability are exhausted, an unknown human physically reaches him and saves him.**
 
 It no longer comes from finding a hidden resident or issuing a HOLD CUTOVER.
 
@@ -173,6 +191,10 @@ EP01 baseline:
 EP01 first wound:
 
 > **she chooses the correct safety strategy, Plan B truly begins working, and a newly revealed physical fact still defeats the outcome.**
+
+EP01 capability descent:
+
+> broad model/search/control → reduced high-compute capability → no confirmed answer → presence only → local shutdown for male survival.
 
 EP01 local shutdown:
 
@@ -236,15 +258,23 @@ Inactive chain:
 
 Current phase:
 
-> **EP01 macro redesign has been integrated; EP02/EP09/EP10 direct callbacks and causal verification must match before screenplay drafting.**
+> **EP01 formal outline V1 is approved and stored. Next work is scene-by-scene screenplay design / screenplay draft using `EP01-STORY-OUTLINE-V1.md` as the active outline authority.**
 
-Required before promotion/merge:
+Required before storyboard / production:
 
-1. all active episode snapshots must agree with new EP01 causality;
-2. full causal verification must be re-run for EP01 and affected handoffs;
-3. no stale Master/Character summary may override repaired episode facts;
-4. exact screenplay dialogue, shot timing and engineering details remain downstream;
-5. user reviews repaired story architecture before promotion to `main`.
+1. screenplay preserves the one dominant turn: `full control available -> AI refuses immediate restore -> safe-point-first Plan B`;
+2. `+08:00` remains Pressure, not a second turn;
+3. safe-point recovery genuinely starts working before latent structure failure;
+4. post-space sequence decelerates rather than adding another device-rescue cascade;
+5. dialogue and exact engineering remain separately reviewable;
+6. screenplay receives user review before screenplay-to-shots / Seedance handoff.
+
+Required before promotion/merge to `main`:
+
+1. active episode snapshots remain consistent with new EP01 causality;
+2. no stale Master/Character summary may override repaired episode facts;
+3. downstream screenplay mechanism and continuity checks pass their own review scope;
+4. user explicitly chooses promotion/PR/merge.
 
 ---
 
@@ -256,4 +286,4 @@ Legacy material remains provenance only:
 
 Full conversation records remain available for recovering non-conflicting story functions.
 
-Historical dialogue does not override the approved EP01 task-record / gravity-choice redesign.
+Historical dialogue does not override the approved EP01 task-record / gravity-choice redesign or `EP01-STORY-OUTLINE-V1.md` within its approved scope.

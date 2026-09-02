@@ -1,9 +1,9 @@
 # 《重庆时间》ACTIVE DOCS INDEX
 
-- Updated: 2026-09-02
-- Status: `REPAIR BRANCH ACTIVE / SPATIAL V2 BASELINE VERIFIED / ASTEROID CORE V2.1 ACTIVE / SEEDANCE MASTER B APPROVED`
+- Updated: 2026-09-03
+- Status: `REPAIR BRANCH ACTIVE / ASTEROID CORE V2.1 ACTIVE / DUNGEON STYLE DEFAULT SETTING-ART ROUTE / OSHII STYLE PRESERVED`
 - Branch: `chongqing-time-story-causal-repair`
-- Rule: story, world, spatial/environment, character and episode authorities are all explicit; execution docs never override Canon.
+- Rule: story, world, spatial/environment, character and episode authorities are explicit; execution docs never override Canon.
 
 ---
 
@@ -18,10 +18,9 @@
 7. `CHONGQING-TIME-MASTER-CANON-V4.md`
 8. `WORLD-ARCHITECTURE-CANON-V4.md`
 9. `CHARACTER-RELATIONSHIP-BIBLE-V4.md`
-10. relevant highest active episode snapshot / approved outline
-11. `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md` only for the pre-V2.1 Spatial V2 baseline audit
-12. other current story-causal reports when auditing story causality
-13. `MIGRATION-SOURCE-INDEX.md` only for provenance.
+10. relevant highest active episode snapshot / approved outline / screenplay
+11. current consistency reports only within their stated QA scope
+12. `MIGRATION-SOURCE-INDEX.md` only for provenance.
 
 Old V1 spatial patch/map files are retired and are not active reading targets.
 
@@ -58,33 +57,104 @@ Old V1 spatial patch/map files are retired and are not active reading targets.
 
 ---
 
-# 03｜Active non-Canon execution layer
+# 03｜Active non-Canon visual execution layer
 
-- **Visual standard:** `VISUAL-CONSISTENCY-BIBLE-V2.md`
+## Functional / spatial visual rules
+
+- **Visual functional standard:** `VISUAL-CONSISTENCY-BIBLE-V2.md`
 - **Scene generation workflow:** `SCENE-PROMPT-TEMPLATE-V2.md`
-- **Visual anchor status:** `VISUAL-ANCHOR-INDEX-V2.md`
+- **Legacy/detailed anchor registry:** `VISUAL-ANCHOR-INDEX-V2.md`
+- **Current anchor overlay / setting-art routing:** `VISUAL-ANCHOR-INDEX-V3.md`
+- **Visual style router:** `VISUAL-STYLE-ROUTING-INDEX-V1.md`
 - **Current teaser:** `TRAILER-TEASER-V3.md`
-- **Current ring-city engineering basis:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
-- **Approved Seedance production master B:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-MASTER-B.md`
+
+## Dungeon Style / 地牢风格 — active default setting-art route
+
+- **Formal style lock / Scheme A:** `docs/visual/2026-09-03-DUNGEON-STYLE-VISUAL-ASSET-LOCK-V1.md`
+- **Generation prompt:** `docs/visual/2026-09-03-DUNGEON-STYLE-PROMPT-V1.md`
+- **Persistent master image:** `/重庆时间/visual/style-masters/SECOND_NEW_CHONGQING_DUNGEON_STYLE_MASTER_V1.png`
+- **Master image fingerprint:** `1923×818 / SHA-256 d0dd5a9029108c07d14f37d2e9968d4bb6e63a93d094f1736a5b83bf36c913c9`
+
+Status:
+
+> **APPROVED / DEFAULT FOR NEW SETTING ART**
+
+Core rule:
+
+> **剧本/空间设定决定“画什么”；地牢风格决定“怎么画”。**
+
+## Oshii Style / 押井守风格
+
+Status:
+
+> **PRESERVED / PARALLEL / NOT SUPERSEDED**
+
+Dungeon Style does not rename, delete, auto-convert or overwrite the previously established Oshii-style route.
+
+If the user explicitly asks for `押井守风格`, route to the preserved Oshii lane.
+
+Do not auto-hybridize Dungeon + Oshii.
+
+## Exterior engineering / Seedance history
+
+- **Ring-city engineering basis:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
+- **Earlier approved Seedance macro B master doc:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-MASTER-B.md`
 - **Seedance 2.5 exterior prompt B:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-VIDEO-PROMPT-B.md`
-- **Approved production image asset:** `assets/visual/second-new-chongqing/SECOND_NEW_CHONGQING_SEEDANCE_MASTER_B.webp`
-- **Superseded exterior geometry reference:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
 
-Execution rule:
+Interpretation after Dungeon Style lock:
 
-> **Canon decides facts / action / time / location / spatial topology. Execution docs decide how those facts are visualized.**
+> Seedance Master B remains valuable macro-geometry / intact-city continuity evidence. Dungeon Style Master V1 is the preferred new setting-art style/material/graphic-language anchor.
 
-For any environment / KV / storyboard / scene-generation task, read V2.1 Asteroid Core Patch and Spatial V2 before the visual execution docs.
-
-For Second New Chongqing exterior motion work:
-
-> **use B as the direct production source image. B image supplies geometry; Seedance prompt supplies camera/motion/continuity constraints.**
-
-A separate high-detail A master is not required as a production dependency.
+Do not discard valid B geometry simply because the rendering lane changed.
 
 ---
 
-# 04｜Spatial V2.1 + V2 hard locks
+# 04｜Mandatory workflow for future setting images
+
+Unless the user explicitly chooses another style, every new setting image must follow:
+
+1. read `CURRENT.md`;
+2. read current Spatial V2.1/V2 when relevant;
+3. read relevant episode snapshot / outline / screenplay;
+4. identify parent city/spatial asset and valid geometry anchor;
+5. read `VISUAL-CONSISTENCY-BIBLE-V2.md` for functional visual grammar;
+6. read `VISUAL-STYLE-ROUTING-INDEX-V1.md`;
+7. default route = **DUNGEON STYLE**;
+8. read `docs/visual/2026-09-03-DUNGEON-STYLE-VISUAL-ASSET-LOCK-V1.md`;
+9. read `docs/visual/2026-09-03-DUNGEON-STYLE-PROMPT-V1.md`;
+10. generate one image;
+11. run separate story/spatial QC and style/Seedance QC.
+
+A style reference may never override scene facts.
+
+---
+
+# 05｜Dungeon Style high-level lock
+
+New setting art should inherit:
+
+- strong black negative space / large black-white graphic relationships;
+- aged off-white / gray dominant structural masses;
+- simplified illustrated mechanical linework;
+- 2–3 hard cel-shadow tiers;
+- sparse muted rust-red accents;
+- selected red-white functional module/repair bands;
+- visible age / impact / repair history;
+- low micro-detail density;
+- Seedance-friendly stable silhouettes;
+- large in-world municipal/civic lettering only when useful.
+
+Text behavior:
+
+- `第二新重庆市` may appear as an **in-world municipal marking** on physical architecture;
+- `科学引领未来` is a validated example of one in-world civic slogan;
+- no floating top-of-frame film title by default;
+- no infographic explanation panels;
+- no requirement to place slogans in every scene.
+
+---
+
+# 06｜Spatial V2.1 + V2 hard locks
 
 - macro city = **engineered central asteroid core + permanent ring-shipyard backbone + district modules + multi-scale bridge/service network**;
 - city center is **not hollow**;
@@ -108,7 +178,7 @@ A possible later EP10 macro Legacy Sector separation has been discussed but rema
 
 ---
 
-# 05｜Story hard locks
+# 07｜Story hard locks
 
 - project title = **《重庆时间》**;
 - city = **第二新重庆市**;
@@ -126,81 +196,67 @@ A possible later EP10 macro Legacy Sector separation has been discussed but rema
 
 ---
 
-# 06｜Visual anchor use after Spatial V2.1
+# 08｜Visual anchor use after Dungeon Style lock
 
-Existing approved visual anchors remain useful for **style, drawing language, lighting and material discipline** where they do not contradict Spatial V2.1 + Spatial V2 geometry.
+## Macro geometry continuity
 
-## Current macro exterior production anchor
+`RING-ORIENT-01` and the prior approved B work remain geometry/landmark evidence for:
 
-`RING-ORIENT-01` is now approved through Seedance Production Master B.
-
-Use:
-
-> `assets/visual/second-new-chongqing/SECOND_NEW_CHONGQING_SEEDANCE_MASTER_B.webp`
-
-Production locks:
-
-- complete closed ring-city silhouette;
+- complete ring-city silhouette;
 - engineered asteroid core;
-- limited major radial structural/service links;
-- modular old off-white / gray-blue ring massing;
-- fixed recognizable T0 historical repair sector;
-- distant small Earth;
-- simplified cel-animation large-shape language;
-- reduced high-frequency detail for image-to-video stability.
+- limited major radial links;
+- modular ring massing;
+- T0 repair-sector logic;
+- distant Earth relation.
 
-Do not silently restore old geography such as:
+## New rendering default
+
+For newly generated setting art, use Dungeon Style unless explicitly overridden.
+
+Do not silently restore obsolete geography such as:
 
 - hollow empty torus center;
 - bottomless internal canyon;
 - endless vertical city layers;
 - giant Familiar Lifeline;
-- ordinary districts rotated at extreme angles;
 - generic ground checkpoint for EP08;
 - whole-302 ejection;
 - centrifugal ring gravity;
 - giant floating central city instead of engineered asteroid core.
 
----
-
-# 07｜Visual-development priority after B approval
-
-1. **B-based normal exterior Seedance motion tests**;
-2. central asteroid-core closer orientation asset only if a screenplay shot requires it;
-3. ordinary lived district;
-4. finite Jialing wide view with clearly different bridge scales;
-5. 302 city-facing / space-facing orientation;
-6. large EP02 Trunk Bridge;
-7. small Familiar Lifeline + both bridgeheads;
-8. EP06/07 shared infrastructure family;
-9. EP01 outer attached maintenance segment / detachment geometry;
-10. if EP10 macro split is approved later, derive dedicated separation-state motion masters from B.
-
-Do not create a high-detail A image merely as a prerequisite for motion production.
+Do not let style inflate object scale.
 
 ---
 
-# 08｜Consistency / verification docs
+# 09｜Visual-development priority
 
-Spatial V2 baseline consolidation verification:
+1. new Dungeon-style ordinary lived district;
+2. Dungeon-style finite Jialing wide view with clearly different bridge scales;
+3. Dungeon-style 302 city-facing / space-facing orientation;
+4. Dungeon-style EP02 Level-1 Trunk Bridge;
+5. Dungeon-style Familiar Lifeline + both bridgeheads;
+6. Dungeon-style EP06/07 shared infrastructure family;
+7. Dungeon-style EP01 outer attached maintenance segment / detachment geometry;
+8. robots/equipment setting assets as required by screenplay;
+9. if EP10 macro split is approved later, lock the split geometry before generating state masters.
 
-> `consistency-reports/2026-09-02-SPATIAL-ENVIRONMENT-V2-VERIFICATION.md`
-
-Baseline status:
-
-> **PASS for pre-V2.1 Spatial V2.**
-
-Current post-patch status:
-
-> **ASTEROID CORE V2.1 ACTIVE / re-verification pending.**
-
-Do not treat the old verification report as proof that asteroid-core integration has already passed a full cross-doc audit.
-
-Story-causal reports remain active only within their stated scopes.
+Exterior motion can continue from the current macro asset family, but new setting stills should use Dungeon Style as the default rendering route.
 
 ---
 
-# 09｜Legacy / provenance
+# 10｜Consistency / verification
+
+Spatial V2 baseline verification remains valid only for its original scope.
+
+Current post-asteroid-core status remains:
+
+> **ASTEROID CORE V2.1 ACTIVE / cross-doc re-verification pending where not already completed.**
+
+Style routing requires a separate visual QC and does not change Canon verification status.
+
+---
+
+# 11｜Legacy / provenance
 
 Historical root:
 
@@ -208,62 +264,29 @@ Historical root:
 
 Git history and old branch documents remain provenance.
 
-Historical files may intentionally contain earlier Beijing / winter / snow / multi-layer / hollow-center / old EP01 engine wording.
+Historical visual styles remain valid only where explicitly preserved or non-conflicting.
 
-> **Historical detail does not become active merely because it is more detailed.**
+Important decision logs:
 
-Exterior-structure decision provenance:
-
-> `decision-logs/2026-09-02-2016-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE.md`
-
-Asteroid-core macro correction provenance:
-
-> `decision-logs/2026-09-02-2023-ASTEROID-CORE-MACRO-PATCH.md`
-
-Seedance production-master promotion provenance:
-
-> `decision-logs/2026-09-02-2116-SEEDANCE-MASTER-B-LOCK.md`
+- `decision-logs/2026-09-02-2016-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE.md`
+- `decision-logs/2026-09-02-2023-ASTEROID-CORE-MACRO-PATCH.md`
+- `decision-logs/2026-09-02-2116-SEEDANCE-MASTER-B-LOCK.md`
+- `decision-logs/2026-09-03-0004-DUNGEON-STYLE-PARALLEL-LOCK.md`
 
 ---
 
-# 10｜Docs / plans
-
-Spatial V2 design spec:
-
-> `docs/superpowers/specs/2026-09-02-second-new-chongqing-spatial-environment-v2.md`
-
-Spatial V2 implementation plan:
-
-> `docs/superpowers/plans/2026-09-02-second-new-chongqing-spatial-environment-v2.md`
-
-EP01 causal design spec remains active within its scope:
-
-> `docs/superpowers/specs/2026-09-02-ep01-task-record-gravity-redesign.md`
-
-Current exterior engineering execution basis:
-
-> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
-
-Current exterior production master:
-
-> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-MASTER-B.md`
-
-Current Seedance exterior prompt:
-
-> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-SEEDANCE-VIDEO-PROMPT-B.md`
-
----
-
-# 11｜Current workflow gate
+# 12｜Current workflow gate
 
 Story development remains governed by active story/episode Canon.
 
-Visual production:
+Visual setting-art production now uses:
 
-> **Second New Chongqing macro exterior no longer needs a new redraw before motion testing: approved B is the active direct Seedance source.**
+> **SCRIPT / SPATIAL CANON + VALID GEOMETRY ANCHOR + DUNGEON STYLE V1**
+
+unless the user explicitly routes the scene to Oshii Style or another style.
 
 For any major structural state change, especially a possible EP10 macro separation:
 
-> **lock story geometry first → create/approve target-state B-derived keyframe → then animate.**
+> **lock story geometry first → create/approve target-state keyframe → then animate.**
 
-Do not ask Seedance to invent a city-scale structural transformation from the intact B source alone.
+Do not ask Seedance to invent a city-scale structural transformation from an intact source alone.

@@ -64,7 +64,8 @@ Old V1 spatial patch/map files are retired and are not active reading targets.
 - **Scene generation workflow:** `SCENE-PROMPT-TEMPLATE-V2.md`
 - **Visual anchor status:** `VISUAL-ANCHOR-INDEX-V2.md`
 - **Current teaser:** `TRAILER-TEASER-V3.md`
-- **Ring-city exterior / engineering execution spec:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
+- **Current ring-city exterior / engineering execution spec:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
+- **Superseded exterior geometry reference:** `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
 
 Execution rule:
 
@@ -72,7 +73,7 @@ Execution rule:
 
 For any environment / KV / storyboard / scene-generation task, read V2.1 Asteroid Core Patch and Spatial V2 before the visual execution docs.
 
-For `RING-ORIENT-01 / CITY-03` exterior development specifically, read the asteroid-core patch first, then the ring-city exterior execution spec.
+For `RING-ORIENT-01 / CITY-03` exterior development specifically, read the asteroid-core patch first, then the V1.1 asteroid-core exterior execution spec.
 
 ---
 
@@ -135,20 +136,21 @@ They must not silently restore old geography such as:
 Future visual-environment development priority:
 
 1. overall asteroid-centered ring-city orientation;
-2. unrolled topology updated to show central asteroid relation;
-3. ordinary lived district;
-4. finite Jialing wide view with visibly different bridge scales and optional distant asteroid-core framing;
-5. 302 city-facing / space-facing orientation;
-6. large EP02 Trunk Bridge;
-7. small Familiar Lifeline + both bridgeheads;
-8. EP06/07 shared infrastructure family;
-9. EP01 outer attached maintenance segment / detachment geometry.
+2. central asteroid-core orientation / structural relation asset;
+3. unrolled topology updated to show central asteroid relation;
+4. ordinary lived district;
+5. finite Jialing wide view with visibly different bridge scales and optional distant asteroid-core framing;
+6. 302 city-facing / space-facing orientation;
+7. large EP02 Trunk Bridge;
+8. small Familiar Lifeline + both bridgeheads;
+9. EP06/07 shared infrastructure family;
+10. EP01 outer attached maintenance segment / detachment geometry.
 
 Current ring-city orientation text direction is recorded in:
 
 > `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.1-ASTEROID-CORE.md`
 >
-> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
+> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
 
 Important status:
 
@@ -192,7 +194,9 @@ Exterior-structure decision provenance:
 
 > `decision-logs/2026-09-02-2016-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE.md`
 
-Asteroid-core macro correction provenance should be read through the active V2.1 patch.
+Asteroid-core macro correction provenance:
+
+> `decision-logs/2026-09-02-2023-ASTEROID-CORE-MACRO-PATCH.md`
 
 ---
 
@@ -210,9 +214,9 @@ EP01 causal design spec remains active within its scope:
 
 > `docs/superpowers/specs/2026-09-02-ep01-task-record-gravity-redesign.md`
 
-Exterior visual / engineering execution spec:
+Current exterior visual / engineering execution spec:
 
-> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.md`
+> `docs/visual/2026-09-02-SECOND-NEW-CHONGQING-EXTERIOR-STRUCTURE-V1.1-ASTEROID-CORE.md`
 
 ---
 

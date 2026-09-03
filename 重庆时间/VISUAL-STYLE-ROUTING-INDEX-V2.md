@@ -1,7 +1,7 @@
 # 《重庆时间》VISUAL STYLE ROUTING INDEX V2
 
 - Updated: 2026-09-03
-- Status: `ACTIVE / OSHII ANIMATION STYLE V1 DEFAULT / SEEDANCE-NATIVE`
+- Status: `ACTIVE / OSHII ANIMATION STYLE V1 DEFAULT / SEEDANCE-NATIVE / IDENTITY-FIRST`
 
 ---
 
@@ -15,11 +15,17 @@ There is no separate “normal V1” and “Seedance simplified V1”.
 
 > **Oshii Animation Style V1 itself is the Seedance production style.**
 
-Visual style never overrides current screenplay / Spatial Canon.
+But style routing happens **after** scene identity is locked.
+
+> **Visual style never defines the place. Canon + parent-space relationship define the place; style only defines how that place is drawn.**
 
 ---
 
 # 02｜Active references
+
+Scene-generation method:
+
+> `SCENE-PROMPT-TEMPLATE-V2.md`
 
 Style lock:
 
@@ -39,7 +45,27 @@ Lighting / color calibration anchor:
 
 ---
 
-# 03｜Current shorthand
+# 03｜Scene identity gate
+
+Before routing into Oshii V1, establish:
+
+1. exact location;
+2. parent space;
+3. 2–4 large physical cues that make the location unique;
+4. adjacent system/space it connects toward;
+5. current episode function/state.
+
+Hard rule:
+
+> **If changing the sign could turn the image into another generic district, scene identity has failed. Do not generate yet.**
+
+For 302 specifically, read `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.2-302-ORIGIN-LAYER.md` before generation.
+
+302 lived/public space must not become generic old housing; it needs a few large inherited industrial/logistics cues. The asteroid mine itself remains mainly an EP09/EP10 origin-layer location and is not inserted into EP01 merely to prove identity.
+
+---
+
+# 04｜Current style shorthand
 
 > **mature cinematic cel-animation environment + dominant aged off-white structural planes + strong readable structural lighting + 2–3 hard cel-shadow tiers + sparse rust-red civic/repair accents + visible maintenance history + progressive detail reduction with distance + stable Seedance-ready large geometry.**
 
@@ -57,7 +83,34 @@ Important:
 
 ---
 
-# 04｜Default output
+# 05｜Seedance compression rule
+
+Seedance compression happens only after scene identity is correct.
+
+Delete first:
+
+- repeated small windows;
+- thin railings;
+- fine pipes/cables;
+- tiny lights;
+- distant crowd detail;
+- small signs;
+- decorative greeble.
+
+Do **not** delete first:
+
+- scene-defining industrial ancestry;
+- parent-space cues;
+- bridge-scale cues;
+- major functional machinery;
+- entry/exit relationship;
+- continuity landmarks.
+
+> **删噪声，不删身份。**
+
+---
+
+# 06｜Default output
 
 For major environment masters:
 
@@ -65,41 +118,48 @@ For major environment masters:
 
 Production priority:
 
-1. current Canon / story geography;
-2. parent asset / approved geometry;
-3. large silhouette and main spatial relationship;
-4. lighting structure;
-5. large material/color blocks;
-6. key functional objects and repair landmarks;
-7. micro-detail last.
+1. current Canon / episode facts;
+2. scene identity;
+3. parent asset / spatial relationship;
+4. semantic anchors;
+5. large silhouette and main geometry;
+6. lighting structure;
+7. large material/color blocks;
+8. key functional objects / repair landmarks;
+9. micro-detail last.
 
 ---
 
-# 05｜Simple workflow
+# 07｜Simple workflow
 
 ```text
 read current Canon / episode facts
-→ identify the actual scene and parent space
+→ lock scene identity
+→ lock parent-space relationship
+→ identify 2–4 semantic anchors
 → check approved visual master if one exists
-→ decide the scene's meaningful time-of-day / lighting logic
-→ generate one 2.35:1 Seedance-ready image in Oshii Animation Style V1
-→ reject if geometry, style, light or detail density drifts
+→ route into Oshii Animation Style V1
+→ decide meaningful day/night/dusk lighting state
+→ apply Seedance compression without deleting identity anchors
+→ generate one 2.35:1 image
+→ reject if identity, geography, style, lighting or detail density drifts
 ```
 
-Ask the user only when the unresolved choice would materially change:
+Ask the user only when the unresolved choice materially changes:
 
 - story facts;
 - spatial Canon;
 - important orientation;
 - meaningful day/night/dusk state;
 - major object/function definition;
-- scene blocking.
+- scene blocking;
+- reveal timing.
 
 For ordinary art-direction details, use the established style master and continue without unnecessary clarification.
 
 ---
 
-# 06｜Naming
+# 08｜Naming
 
 - `Animation Style V1` = legacy alias;
 - `Dungeon Style` = development provenance only;

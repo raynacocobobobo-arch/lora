@@ -1,7 +1,7 @@
 # 《重庆时间》VISUAL STYLE ROUTING INDEX V2
 
 - Updated: 2026-09-03
-- Status: `ACTIVE / OSHII ANIMATION STYLE V1 DEFAULT / SEEDANCE-NATIVE / IDENTITY-FIRST`
+- Status: `ACTIVE / OSHII ANIMATION STYLE V1 DEFAULT / ATMOSPHERE-FIRST / SEEDANCE-NATIVE`
 
 ---
 
@@ -15,17 +15,23 @@ There is no separate “normal V1” and “Seedance simplified V1”.
 
 > **Oshii Animation Style V1 itself is the Seedance production style.**
 
-But style routing happens **after** scene identity is locked.
+But style routing happens only after the scene-generation method has resolved what the image actually is.
 
-> **Visual style never defines the place. Canon + parent-space relationship define the place; style only defines how that place is drawn.**
+> **Canon + episode action geography define the place; Scene Prompt V3 defines the image mode/composition; Oshii V1 defines how it is drawn.**
 
 ---
 
 # 02｜Active references
 
-Scene-generation method:
+Active scene-generation method for new environment / atmosphere work:
+
+> `SCENE-PROMPT-TEMPLATE-V3.md`
+
+Legacy lower-level method:
 
 > `SCENE-PROMPT-TEMPLATE-V2.md`
+
+Use V2 only as provenance / fallback for older scene-generation decisions. New major environment images route through V3.
 
 Style lock:
 
@@ -45,29 +51,84 @@ Lighting / color calibration anchor:
 
 ---
 
-# 03｜Scene identity gate
+# 03｜Natural-language routing
 
-Before routing into Oshii V1, establish:
+The following user phrasing automatically triggers `SCENE-PROMPT-TEMPLATE-V3.md`:
 
-1. exact location;
-2. parent space;
-3. 2–4 large physical cues that make the location unique;
-4. adjacent system/space it connects toward;
-5. current episode function/state.
+- `重庆时间，按设定出图`
+- `重庆时间，按设定出图，EPxx...`
+- `按重庆时间设定出图`
+- `按 GitHub 设定出这个场景`
+- `EPxx 的核心空间`
+- `场景气氛图`
+- `环境母图`
+- `大场景`
+- `这个场景视觉化一下`
 
-Hard rule:
+If the request contains `核心空间 / 场景气氛图 / 环境母图 / 大场景`, default output mode is:
 
-> **If changing the sign could turn the image into another generic district, scene identity has failed. Do not generate yet.**
+> **2.35:1 wide atmosphere master / establishing environment**
 
-For 302 specifically, read `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.2-302-ORIGIN-LAYER.md` before generation.
-
-302 lived/public space must not become generic old housing; it needs a few large inherited industrial/logistics cues. The asteroid mine itself remains mainly an EP09/EP10 origin-layer location and is not inserted into EP01 merely to prove identity.
+Do not answer those requests with a local machine room or equipment close-up unless the user explicitly asks for `局部 / 节点 / 设备 / 特写 / 机房`.
 
 ---
 
-# 04｜Current style shorthand
+# 04｜Core-space routing
 
-> **mature cinematic cel-animation environment + dominant aged off-white structural planes + strong readable structural lighting + 2–3 hard cel-shadow tiers + sparse rust-red civic/repair accents + visible maintenance history + progressive detail reduction with distance + stable Seedance-ready large geometry.**
+For an episode `核心剧情空间`, choose the **dominant action geography**, not the most memorable named node.
+
+Evaluate:
+
+1. runtime coverage;
+2. dominant physical action coverage;
+3. state-change coverage.
+
+Example EP01:
+
+- old relay = key node;
+- Gravity Service machine room = local functional shot;
+- **302 service/gravity path → outer-facing maintenance/interface route** = dominant action geography;
+- atmosphere master therefore establishes the larger Gravity Service Spine / outer service void.
+
+---
+
+# 05｜Scene identity gate
+
+Before routing into Oshii V1, establish:
+
+1. exact location/system;
+2. parent space;
+3. dominant action geography;
+4. 2–4 large physical identity anchors;
+5. adjacent space/system it leads toward;
+6. narrative affordances required by later action.
+
+Hard rule:
+
+> **If changing the sign can turn the image into another generic district, scene identity has failed.**
+
+For 302, read `SPATIAL-ENVIRONMENT-CANON-PATCH-V2.2-302-ORIGIN-LAYER.md`.
+
+---
+
+# 06｜Composition routing
+
+Major atmosphere masters must select a composition family intentionally:
+
+- **axial / center-symmetrical monumental** — procedural infrastructure, long service routes, institutional order;
+- **near-symmetrical with one controlled break** — ordered system with one meaningful scar/asymmetry;
+- **oblique structural panorama** — movement direction or bridge geography dominates;
+- **layered cross-space wide** — two sides + one shared object must read together.
+
+Center symmetry is a strong project tool, not a universal default for every scene.
+
+The recent 302 Gravity Service Spine studies validated axial / near-symmetrical atmosphere composition as a useful family for EP01 infrastructure.
+
+---
+
+# 07｜Current style shorthand
+
+> **mature cinematic cel-animation environment + dominant aged off-white structural planes + strong readable structural lighting + 2–3 hard cel-shadow tiers + sparse rust-red civic/repair accents + visible maintenance history + large atmosphere-first spatial read + progressive detail reduction with distance + stable Seedance-ready geometry.**
 
 Important:
 
@@ -76,73 +137,85 @@ Important:
 - do not make every scene the same color temperature;
 - day / dusk / night / Local Public Time variation is allowed when story and space support it;
 - unify the light-shadow language, not the time-of-day color;
-- foreground may carry necessary functional detail;
-- midground is simplified;
-- background is reduced to large masses, major light-shadow planes and a few key lines;
-- repeated windows, railings, pipes, tiny lights, distant people and small signs must not dominate the image.
+- wide environment masters prioritize whole-space relationship before local object detail.
 
 ---
 
-# 05｜Seedance compression rule
+# 08｜Seedance structural compression
 
-Seedance compression happens only after scene identity is correct.
+Seedance optimization is now defined as **structural compression**, not simple detail deletion.
 
-Delete first:
+Preserve:
 
-- repeated small windows;
-- thin railings;
-- fine pipes/cables;
-- tiny lights;
-- distant crowd detail;
+- primary silhouette;
+- dominant route;
+- large structural frames;
+- major open void;
+- large wall planes;
+- 1–3 main bridge/platform masses;
+- major repair landmark;
+- main light direction and cast-shadow masses;
+- minimal scale figures.
+
+Merge/simplify:
+
+- repeated catwalks;
+- dense cross-bridges;
+- background structural grids;
+- window/opening repetition;
+- fine rails;
+- micro-pipe networks;
+- tiny lamps;
 - small signs;
-- decorative greeble.
+- distant decorative machinery.
 
-Do **not** delete first:
+Use three readable depth bands:
 
-- scene-defining industrial ancestry;
-- parent-space cues;
-- bridge-scale cues;
-- major functional machinery;
-- entry/exit relationship;
-- continuity landmarks.
+> **foreground frame → main midground architecture → simplified far mass.**
 
-> **删噪声，不删身份。**
+Core rule:
+
+> **删噪声，不删身份；合并结构，不削平空间。**
 
 ---
 
-# 06｜Default output
+# 09｜Default output priority
 
 For major environment masters:
 
-> **single 2.35:1 production frame**, unless the current scene requires another ratio.
+> **single 2.35:1 production frame**, unless the scene explicitly requires another ratio.
 
-Production priority:
+Priority:
 
 1. current Canon / episode facts;
-2. scene identity;
-3. parent asset / spatial relationship;
-4. semantic anchors;
-5. large silhouette and main geometry;
-6. lighting structure;
-7. large material/color blocks;
-8. key functional objects / repair landmarks;
-9. micro-detail last.
+2. shot mode;
+3. dominant action geography;
+4. scene identity;
+5. parent-space relationship;
+6. narrative affordances;
+7. composition strength;
+8. Oshii V1 style;
+9. lighting structure;
+10. Seedance stability;
+11. micro-detail last.
 
 ---
 
-# 07｜Simple workflow
+# 10｜Simple workflow
 
 ```text
 read current Canon / episode facts
-→ lock scene identity
-→ lock parent-space relationship
-→ identify 2–4 semantic anchors
-→ check approved visual master if one exists
+→ determine shot mode
+→ locate dominant action geography
+→ lock scene identity and parent-space direction
+→ identify 2–4 large semantic anchors
+→ identify later-action affordances
+→ choose composition family
 → route into Oshii Animation Style V1
 → decide meaningful day/night/dusk lighting state
-→ apply Seedance compression without deleting identity anchors
+→ apply Seedance structural compression
 → generate one 2.35:1 image
-→ reject if identity, geography, style, lighting or detail density drifts
+→ run thumbnail / relabel / story-action / Seedance-motion QC
 ```
 
 Ask the user only when the unresolved choice materially changes:
@@ -155,12 +228,13 @@ Ask the user only when the unresolved choice materially changes:
 - scene blocking;
 - reveal timing.
 
-For ordinary art-direction details, use the established style master and continue without unnecessary clarification.
+For ordinary art-direction details, proceed from the established method and style master without unnecessary clarification.
 
 ---
 
-# 08｜Naming
+# 11｜Naming
 
 - `Animation Style V1` = legacy alias;
 - `Dungeon Style` = development provenance only;
-- `押井守风格`, `押井守风格 V1`, `现在的动画风格` all route to **OSHII ANIMATION STYLE V1**.
+- `押井守风格`, `押井守风格 V1`, `现在的动画风格` all route to **OSHII ANIMATION STYLE V1**;
+- new major environment-generation method = **SCENE PROMPT TEMPLATE V3 / atmosphere-first method**.

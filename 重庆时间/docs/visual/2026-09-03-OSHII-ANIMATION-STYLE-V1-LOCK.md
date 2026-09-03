@@ -1,380 +1,287 @@
 # 《重庆时间》押井守动画风格 V1 — VISUAL LOCK
 
 - Updated: 2026-09-03
-- Status: `APPROVED / ACTIVE / DEFAULT FOR NEW SETTING ART + SEEDANCE ENVIRONMENT SOURCES`
+- Status: `APPROVED / ACTIVE / DEFAULT / SEEDANCE-NATIVE PRODUCTION STYLE`
 - Official Chinese name: **《重庆时间》押井守动画风格 V1**
 - Internal English name: **CHONGQING TIME — OSHII ANIMATION STYLE V1**
 - Short name: **押井守风格 V1 / OSHII STYLE V1**
-- Previous internal name: `Animation Style V1` — legacy alias for the same production style.
-- Canon status: **NON-CANON VISUAL EXECUTION LAYER** — this document controls how scenes are drawn, never what story/spatial facts are true.
-- 2026-09-03 calibration: **white/off-white dominance + strong directional structural lighting + explicit anti-flat-light rule**.
+- Canon status: **NON-CANON VISUAL EXECUTION LAYER** — Canon 决定画什么，本文件决定怎么画。
 
 ---
 
-# 01｜Corrected core definition
+# 01｜核心定义
 
-The active definition is:
+> **严肃动画电影环境 + 旧白工业公共结构 + 强结构光影 + 2–3 档硬边赛璐璐 + 漫画式建筑结构线稿 + 少量锈红公共/维修系统色 + 明显历史维修痕迹 + 天然适配 Seedance 的低高频细节设计。**
 
-> **严肃动画电影背景 + 明确结构光影 + 旧白/灰白公共工业结构主体 + 2–3 档硬边赛璐璐 + 漫画式建筑结构线稿 + 少量锈红维修/公共系统色 + 可见长期维修历史 + 低微细节 Seedance 稳定设计。**
+这套风格从现在开始直接作为 **Seedance 生产风格本体**，不再另分“普通 V1 / Seedance 简化版”。
 
-The project rule is:
+它不是：
 
-> **剧本 / Spatial Canon 决定“画什么”；押井守动画风格 V1 决定“怎么画”。**
+- 黑白漫画封面；
+- 高细节硬表面概念图；
+- 写实 PBR 科幻渲染；
+- 靠密集机械零件制造宏大感。
 
-Important correction:
+它应该首先读成：
 
-> **This style is NOT a flat black-and-white manga poster style. It is a cinematic anime environment style with strong readable light-shadow structure.**
+> **可以直接进入动画镜头的成熟科幻动画环境。**
 
 ---
 
-# 02｜Primary style master + lighting calibration anchor
+# 02｜视觉母版
 
-## Primary project-wide style master
-
-Persistent image:
+Primary style master:
 
 > `/重庆时间/visual/style-masters/SECOND_NEW_CHONGQING_OSHII_ANIMATION_STYLE_MASTER_V1.png`
 
-Role:
+它锁定：
 
-> **APPROVED SPACE-STATION VISUAL MASTER + APPROVED PROJECT-WIDE OSHII ANIMATION STYLE MASTER**
+- 旧白 / 灰白主体结构；
+- 锈红维修与识别系统；
+- 漫画式工业线稿；
+- 大块面赛璐璐关系；
+- 老旧、修补、仍在运行的公共基础设施感。
 
-Fingerprint:
-
-- dimensions: `1918 × 820`
-- SHA-256: `35f4f27601817f95a7bc7f1c5854aa8aaa0eba5afa613600f1d842edae15f80a`
-
-## Lighting / color calibration anchor
-
-Persistent image:
+Lighting / color calibration anchor:
 
 > `/重庆时间/visual/style-masters/OSHII_STYLE_V1_LIGHTING_CALIBRATION_HALL_V1.png`
 
-Role:
+它锁定：
 
-> **APPROVED LIGHTING / WHITE-MATERIAL / INTERIOR CONTRAST CALIBRATION ANCHOR**
-
-Fingerprint:
-
-- dimensions: `1915 × 821`
-- SHA-256: `a991c49eecf481dd2785e7c38587499ea71ff059fed06141b4760a34ff005c31`
-
-This calibration image specifically locks:
-
-- off-white / warm off-white as the dominant visible structural material;
-- bright readable illuminated planes;
-- strong directional light;
-- hard-edged architectural cast shadows;
-- clear separation of light / midtone / deep shadow;
-- restrained rust-red accents;
-- dark audience / deep-shadow zones used as contrast, not as the dominant whole-frame material;
-- 2.35:1 production-source composition for this environment family.
-
-The station master supplies the project-wide material/graphic DNA; the hall calibration anchor corrects the light/color interpretation for interiors and other lit public spaces.
+- 明确受光面；
+- 清楚的投影大形；
+- 白色结构面不能被压成一片灰黑；
+- 强光影不能因为 Seedance 优化而被削平。
 
 ---
 
-# 03｜Linework hierarchy
+# 03｜材质与颜色
 
-## Primary structural lines
+主要可见结构：
 
-Use stronger, stable, continuous outlines for:
+- aged off-white；
+- warm off-white；
+- dirty ivory；
+- pale gray / light cold gray。
 
-- main architectural silhouette;
-- bridge body;
-- district mass;
-- station hull;
-- large beams / columns;
-- asteroid silhouette;
-- main machinery housing.
+深部结构与阴影：
 
-## Secondary structural lines
+- cold gray；
+- charcoal；
+- near-black。
 
-Use medium-weight simplified lines for:
-
-- major panel divisions;
-- doors / maintenance hatches;
-- reinforcement frames;
-- major repair boundaries;
-- major railings and access structures.
-
-## Micro-detail
-
-Actively suppress:
-
-- dense screw / bolt fields;
-- hundreds of thin pipes;
-- antenna forests;
-- tiny repeated panel lines;
-- decorative hard-surface greeble;
-- small lights used only to imply scale.
-
-Rule:
-
-> **Only draw micro-detail when it explains function, damage history or scale.**
-
----
-
-# 04｜Lighting system — HARD LOCK
-
-This is now a primary style rule, not an optional scene effect.
-
-For scenes with an available directional source, use:
-
-- **strong directional lighting**;
-- **large readable illuminated planes**;
-- **large hard-edged cast-shadow shapes**;
-- architecture-defined shadow geometry;
-- clear light / midtone / deep-shadow hierarchy;
-- shadows that carve the structure and reveal depth;
-- restrained atmospheric softness only where needed.
-
-The image must NOT default to:
-
-- flat lighting;
-- evenly distributed exposure;
-- weak diffuse fill over the entire frame;
-- crushed black poster composition;
-- low-contrast gray wash.
-
-Key rule:
-
-> **The light must explain the architecture.**
-
-For interiors near a large window, hatch, skylight or observation opening, directional exterior light should create obvious bright wall/floor planes and hard structural shadows.
-
-For exterior deep-space scenes, retain strong cel-shaded form separation even when there is no conventional interior sunlight beam.
-
----
-
-# 05｜Value / cel-shading system
-
-Default value structure:
-
-1. **light** — aged off-white / warm off-white / pale gray structural surfaces;
-2. **midtone** — cold gray secondary planes;
-3. **dark** — charcoal / near-black deep structure, cast shadow and exposed interior.
-
-Use primarily **2–3 hard-edged cel-shadow tiers**.
-
-Critical priority:
-
-> **Off-white should usually be the dominant visible structural surface color. Black is for deep shadow, void, exposed structure and selected negative space — not the default material covering most architecture.**
-
-Avoid:
-
-- many soft gradient steps;
-- dense AO noise;
-- glossy highlights;
-- photoreal reflections;
-- flattening all surfaces into the same midtone.
-
-Depth should come from:
-
-- overlap;
-- perspective;
-- silhouette separation;
-- strong directional cast shadows;
-- large light-vs-dark planes;
-- simple cel-shaded value hierarchy.
-
----
-
-# 06｜Color system
-
-## Dominant visible material colors
-
-- aged off-white;
-- warm off-white;
-- dirty ivory;
-- pale concrete gray;
-- light cold gray.
-
-## Shadow / deep structure
-
-- cold gray;
-- charcoal;
-- near-black.
-
-## Primary accent
+主要强调色：
 
 > **muted rust red / oxide red**
 
-Use rust red selectively for:
+用于：
 
-- repair plates;
-- old reinforcement;
-- red-white industrial identification bands;
-- civic / municipal lettering;
-- older module markings;
-- selected warning / maintenance areas;
-- ceremonial/public-system accents when context supports them.
+- 维修补强；
+- 老替换板；
+- 红白功能识别带；
+- 公共标语；
+- 区域/设备识别。
 
-The red should feel inherited from a long-used civic-industrial system, not like a polished red-white spacecraft livery.
+锈红必须少而明确，不做整画面红白涂装。
 
 ---
 
-# 07｜Material language
+# 04｜光影原则
 
-Materials are graphic and animation-readable, not PBR-first.
+**光影结构统一，色温不必统一。**
 
-Metal / public infrastructure should read through:
+《重庆时间》允许日间、夜间、黄昏以及不同 Local Public Time 并置，因此：
 
-- large painted structural planes;
-- seams and edges;
-- restrained scratches;
-- replacement panels;
-- paint aging;
-- repair boundaries;
-- hard light-shadow divisions.
+- 日间可使用中性 / 冷白方向光；
+- 黄昏可使用克制的暖方向光；
+- 夜间可使用冷环境光与局部人工暖光；
+- 时间接口空间可出现受控的暖冷并置。
 
-Do not rely on:
+但无论时间段如何变化，都必须保持：
 
-- mirror reflection;
-- metallic glitter;
-- micro-roughness noise;
-- dense photo texture;
-- soft realistic shading everywhere.
+- 大面积明确受光面；
+- 大块硬边投影；
+- 清楚的 light / midtone / deep-shadow 层级；
+- 光线服务空间结构，而不是把所有表面照成平均灰。
+
+核心规则：
+
+> **统一的是光影组织方法，不是统一成一种色温。**
+
+禁止默认：
+
+- 平光；
+- 均匀曝光；
+- 全画面暖黄滤镜；
+- 全画面冷蓝滤镜；
+- 灰雾化低对比。
+
+---
+
+# 05｜Seedance 原生细节逻辑
+
+Seedance 稳定性不是后期“减细节”，而是从设计阶段就控制信息密度。
+
+## 前景
+
+允许必要功能细节，但只保留真正说明：
+
+- 空间功能；
+- 尺度；
+- 维修历史；
+- 关键动作。
+
+## 中景
+
+明显简化：
+
+- 合并重复窗格；
+- 合并栏杆与管线节奏；
+- 减少小型外挂设备；
+- 保留主要桥、平台、车辆、机器和人物群组。
+
+## 远景
+
+必须进一步归纳成：
+
+- 大轮廓；
+- 大体量；
+- 大明暗；
+- 少量关键结构线；
+- 少量稳定灯光。
+
+> **远景不是缩小版前景。**
+
+如果一张图静态信息很丰富，但移动后容易出现窗格、栏杆、人物、灯点、文字和机械件漂移，则该图不合格。
+
+---
+
+# 06｜需要主动压低的高风险元素
+
+默认控制：
+
+- 密集 panel lines；
+- 大量细管道；
+- 重复细栏杆；
+- 小窗格海洋；
+- 大面积密集小灯；
+- 远景密集人群；
+- 无叙事功能的小型机械外挂；
+- 高频岩石碎纹；
+- 大量独立中文小字牌。
+
+文字仍可存在，但应：
+
+- 少；
+- 大；
+- 属于世界内部；
+- 放在稳定的大结构表面上。
+
+不要为了“丰富”把每一块墙都写满。
+
+---
+
+# 07｜形体与线稿
+
+优先级：
+
+1. 主空间轮廓；
+2. 大结构关系；
+3. 光影切面；
+4. 材质色块；
+5. 关键功能物；
+6. 微细节。
+
+线稿层级：
+
+- 主轮廓：明确、稳定；
+- 次结构：简洁、可读；
+- 微结构：能删则删。
 
 Rule:
 
-> **Materials should read through large painted surfaces and shadow blocks, not tiny texture noise.**
+> **Only draw detail when it explains function, history, scale or action.**
 
 ---
 
-# 08｜Damage + maintenance DNA
+# 08｜维修与历史感
 
-A central visual identity is:
+《重庆时间》的工业空间不能像新造的展品。
 
-> **original structure + historical damage + emergency repair + later reinforcement + newer replacement parts.**
+常见组合：
 
-Old infrastructure may show:
+> **原结构 + T0 / 历史损伤 + 应急修补 + 后期加强 + 新旧替换件。**
 
-- large missing shell areas;
-- exposed dark structural frame;
-- rust-red reinforcement plates;
-- mismatched replacement panels;
-- impact scars;
-- simplified burn / ablation blocks;
-- later maintenance frames;
-- different generations of repair hardware.
+用大形表达：
 
-Damage must remain readable at animation scale. Avoid thousands of tiny fragments.
+- 外板缺口；
+- 暴露结构；
+- 锈红加强件；
+- 不同年代替换板；
+- 大尺度维修框架；
+- 局部烧蚀 / 磨损。
 
----
-
-# 09｜Text / slogan behavior
-
-Text belongs to the world, not to a floating poster layer by default.
-
-Approved behaviors:
-
-- weathered hull lettering;
-- old metal signs;
-- large civic / industrial wall slogans;
-- municipal/module markings.
-
-Approved examples:
-
-- `团结协作 共同前进`
-- `科学引领未来`
-- `第二新重庆市`
-
-Rules:
-
-- `第二新重庆市` may appear as an in-world municipal marking;
-- do not place floating `第二新重庆` / `SECOND NEW CHONGQING` titles unless the user explicitly asks for poster typography;
-- do not add infographic labels, leader lines or explanation panels to production source frames.
+不要靠成千上万的小碎片表达损伤。
 
 ---
 
-# 10｜Seedance-first design rule
+# 09｜文字与标语
 
-Production environment source images should be designed for temporal stability from the start.
+文字属于世界，不属于海报层。
 
-For major environment masters, default to **2.35:1** when no other aspect ratio is explicitly locked.
+允许：
 
-Prioritize:
+- `第二新重庆市` 这类城市/区域标识；
+- 公共导视；
+- 老式工业标语；
+- 维修编号。
 
-1. stable large geometry;
-2. readable silhouette;
-3. strong stable light-shadow structure;
-4. coherent large off-white / gray / dark color blocks;
-5. fixed damage / repair landmarks;
-6. low high-frequency noise.
+默认不允许：
 
-Suppress:
-
-- tiny lights;
-- fragile wires;
-- dense panel seams;
-- random micro-machinery;
-- repeated reflective points;
-- high-frequency material noise.
-
-Seedance optimization means **simplify detail without flattening the lighting**.
-
-If a frame becomes visually impressive but difficult to animate, simplify micro-detail first; do not remove the major lighting hierarchy.
+- 浮动电影标题；
+- 解释框；
+- 技术图注；
+- 满屏小字号牌匾。
 
 ---
 
-# 11｜Mood / Oshii direction
+# 10｜2.35:1 与 Seedance 生产图
 
-The Oshii label in this project means a project-specific production language, not an instruction to copy any single existing film frame.
+大型环境母图默认：
 
-Narrative mood targets:
+> **2.35:1 cinematic wide frame**
 
-- quiet;
-- severe;
-- procedural;
-- lived-in;
-- public-system-first;
-- monumental but not heroic;
-- everyday operation continuing inside large infrastructure;
-- tension produced by normal systems, maintenance and institutional order rather than spectacle.
+除非具体场景另有要求。
 
-Lighting may be visually strong while the dramatic tone remains restrained.
+一张合格的生产母图，应当在缩小观看时仍能清楚读到：
 
----
+1. 主空间是什么；
+2. 最大结构关系是什么；
+3. 光从哪里来；
+4. 哪些是主要明暗块；
+5. 1–3 个关键视觉锚点在哪里。
 
-# 12｜Style shorthand
-
-> **《重庆时间》押井守风格 V1: mature cinematic cel-animation environment; dominant aged off-white structural planes; strong directional architectural lighting; large hard-edged light/shadow blocks; manga-inspired structural linework; 2–3 cel-shadow tiers; cold gray/charcoal deep structure; sparse muted rust-red civic/repair accents; visible repair history; low micro-detail; 2.35:1 Seedance-friendly masters.**
+如果只能放大才能感受到“好看”，说明细节比结构抢戏。
 
 ---
 
-# 13｜Hard exclusions
+# 11｜后续出图工作方式
 
-Do not default to:
+默认流程保持简单：
 
-- flat lighting;
-- evenly lit scenes;
-- weak structural shadows;
-- black-dominant poster-only composition;
-- monochrome crushed shadows;
-- photorealism;
-- PBR concept-art finish;
-- glossy sci-fi metal;
-- cyberpunk neon;
-- dense kitbash greeble;
-- luxury-futurist design;
-- bright multi-color lighting;
-- tiny-light scale tricks;
-- infographic sheets as production sources;
-- floating movie-title typography;
-- endless detail added merely to look expensive.
+> **先读当前剧情 / Spatial Canon → 确认场景到底是什么 → 找已有母资产 → 按押井守风格 V1 直接生成 Seedance 可用单图。**
+
+遇到以下情况再向用户确认：
+
+- 会改变空间 Canon；
+- 会新增重要世界机制；
+- 两种构图意味着不同剧情事实；
+- 场景时间段 / 朝向在剧情上具有意义且现有资料无法判定。
+
+普通美术执行细节不需要反复询问，按现有母版和风格规则稳定推进。
 
 ---
 
-# 14｜Naming migration
+# 12｜风格一句话
 
-The user explicitly requested that the approved production language be formally named:
-
-> **《重庆时间》押井守动画风格 V1 / OSHII ANIMATION STYLE V1**
-
-Therefore:
-
-- `Animation Style V1` = legacy alias;
-- `Dungeon Style` = visual-development provenance;
-- the active default name is **《重庆时间》押井守动画风格 V1 / OSHII ANIMATION STYLE V1**;
-- there is no separate parallel old Oshii lane competing with this current production style.
+> **《重庆时间》押井守风格 V1 = 可直接进入 Seedance 的成熟赛璐璐工业动画环境：旧白大结构、强而清楚的结构光影、克制锈红、明显维修历史、远近细节主动衰减、大轮廓和大色块优先。**

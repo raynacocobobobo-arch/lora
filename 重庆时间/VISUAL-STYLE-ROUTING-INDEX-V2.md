@@ -1,49 +1,25 @@
 # 《重庆时间》VISUAL STYLE ROUTING INDEX V2
 
 - Updated: 2026-09-03
-- Status: `ACTIVE VISUAL STYLE ROUTER / OSHII ANIMATION STYLE V1 DEFAULT / LIGHTING-CALIBRATED`
-- Supersedes routing defaults in: `VISUAL-STYLE-ROUTING-INDEX-V1.md`
+- Status: `ACTIVE / OSHII ANIMATION STYLE V1 DEFAULT / SEEDANCE-NATIVE`
 
 ---
 
-# 01｜Routing principle
+# 01｜Default route
 
-Visual style is not Canon.
+All new environment / setting art defaults to:
 
-Resolve story / spatial facts first, then select the visual lane.
+> **《重庆时间》押井守动画风格 V1 / OSHII ANIMATION STYLE V1**
 
-Default order:
+There is no separate “normal V1” and “Seedance simplified V1”.
 
-1. current explicit user instruction;
-2. scene/asset-specific approved style lock;
-3. this routing index;
-4. general Visual Bible / legacy anchors.
+> **Oshii Animation Style V1 itself is the Seedance production style.**
+
+Visual style never overrides current screenplay / Spatial Canon.
 
 ---
 
-# 02｜OSHII ANIMATION STYLE V1 / 押井守动画风格 V1
-
-Status:
-
-> **ACTIVE / DEFAULT FOR ALL NEW ENVIRONMENT + SETTING ART**
->
-> **ACTIVE / DEFAULT FOR SEEDANCE ENVIRONMENT SOURCE IMAGES**
-
-Official Chinese name:
-
-> **《重庆时间》押井守动画风格 V1**
-
-Internal English name:
-
-> **CHONGQING TIME — OSHII ANIMATION STYLE V1**
-
-Style master:
-
-> `/重庆时间/visual/style-masters/SECOND_NEW_CHONGQING_OSHII_ANIMATION_STYLE_MASTER_V1.png`
-
-Lighting / color calibration anchor:
-
-> `/重庆时间/visual/style-masters/OSHII_STYLE_V1_LIGHTING_CALIBRATION_HALL_V1.png`
+# 02｜Active references
 
 Style lock:
 
@@ -53,101 +29,78 @@ Prompt package:
 
 > `docs/visual/2026-09-03-OSHII-ANIMATION-STYLE-V1-PROMPT.md`
 
-Corrected shorthand:
+Primary style master:
 
-> **mature cinematic cel-animation environment + dominant aged off-white structural planes + strong directional architectural lighting + large hard-edged light/shadow blocks + manga-inspired structural linework + 2–3 cel-shadow tiers + cold gray/charcoal deep structure + sparse muted rust-red civic/repair accents + visible repair history + low micro-detail + Seedance-stable geometry.**
+> `/重庆时间/visual/style-masters/SECOND_NEW_CHONGQING_OSHII_ANIMATION_STYLE_MASTER_V1.png`
 
-Hard correction:
+Lighting / color calibration anchor:
 
-- do **not** interpret this route as flat black-and-white manga poster art;
-- do **not** default to flat/even lighting;
-- old off-white / warm off-white must usually remain the dominant visible architectural material;
-- black is reserved for deep shadow, exposed structure, void and selected negative space;
-- strong structural cast shadows are part of the style;
-- Seedance simplification removes micro-detail before it removes lighting hierarchy.
+> `/重庆时间/visual/style-masters/OSHII_STYLE_V1_LIGHTING_CALIBRATION_HALL_V1.png`
 
 ---
 
-# 03｜Naming migration
+# 03｜Current shorthand
 
-Current meaning:
+> **mature cinematic cel-animation environment + dominant aged off-white structural planes + strong readable structural lighting + 2–3 hard cel-shadow tiers + sparse rust-red civic/repair accents + visible maintenance history + progressive detail reduction with distance + stable Seedance-ready large geometry.**
 
-- `Animation Style V1` = legacy alias for **Oshii Animation Style V1**;
-- old separate `Oshii Style lane` = merged into the current production lane;
-- `Dungeon Style` = visual-development provenance only;
-- there is no production decision between `Animation Style V1` and `Oshii Style`.
+Important:
 
-If the user says `押井守风格`, `押井守风格 V1`, `现在的动画风格` or `Animation Style V1`, route to **OSHII ANIMATION STYLE V1**.
-
----
-
-# 04｜Default decision table
-
-| Request | Default route |
-|---|---|
-| New city / environment setting image | **OSHII ANIMATION STYLE V1** |
-| New architecture / bridge / facility setting art | **OSHII ANIMATION STYLE V1** |
-| Seedance environment source | **OSHII ANIMATION STYLE V1** |
-| Major Seedance environment master | **OSHII ANIMATION STYLE V1 / default 2.35:1 unless otherwise locked** |
-| Second New Chongqing exterior | **OSHII ANIMATION STYLE V1 + current station master geometry** |
-| User explicitly says 押井守 | **OSHII ANIMATION STYLE V1** |
-| User explicitly requests another style | follow explicit request |
-| Character with separate locked character style | follow character lock; do not force environment style |
+- do not interpret the style as flat black-and-white manga poster art;
+- do not interpret Seedance optimization as flat lighting;
+- do not make every scene the same color temperature;
+- day / dusk / night / Local Public Time variation is allowed when story and space support it;
+- unify the light-shadow language, not the time-of-day color;
+- foreground may carry necessary functional detail;
+- midground is simplified;
+- background is reduced to large masses, major light-shadow planes and a few key lines;
+- repeated windows, railings, pipes, tiny lights, distant people and small signs must not dominate the image.
 
 ---
 
-# 05｜Mandatory workflow
+# 04｜Default output
+
+For major environment masters:
+
+> **single 2.35:1 production frame**, unless the current scene requires another ratio.
+
+Production priority:
+
+1. current Canon / story geography;
+2. parent asset / approved geometry;
+3. large silhouette and main spatial relationship;
+4. lighting structure;
+5. large material/color blocks;
+6. key functional objects and repair landmarks;
+7. micro-detail last.
+
+---
+
+# 05｜Simple workflow
 
 ```text
-READ SCRIPT / CANON
-→ identify parent spatial asset
-→ identify valid geometry anchor
-→ route style
-→ read Oshii Animation Style V1 lock + corrected prompt
-→ identify scene light source / lighting logic
-→ generate one production reference image
-→ story/spatial QC
-→ lighting/color/style QC
-→ Seedance QC
+read current Canon / episode facts
+→ identify the actual scene and parent space
+→ check approved visual master if one exists
+→ decide the scene's meaningful time-of-day / lighting logic
+→ generate one 2.35:1 Seedance-ready image in Oshii Animation Style V1
+→ reject if geometry, style, light or detail density drifts
 ```
 
-Default lane:
+Ask the user only when the unresolved choice would materially change:
 
-```yaml
-style_route: oshii_animation_style_v1
-style_lock: docs/visual/2026-09-03-OSHII-ANIMATION-STYLE-V1-LOCK.md
-prompt_package: docs/visual/2026-09-03-OSHII-ANIMATION-STYLE-V1-PROMPT.md
-lighting_default: strong_directional_structural_light_when_scene_allows
-visible_structure_color_default: aged_off_white
-seedance_major_environment_aspect_default: 2.35:1
-flat_lighting_default: false
-```
+- story facts;
+- spatial Canon;
+- important orientation;
+- meaningful day/night/dusk state;
+- major object/function definition;
+- scene blocking.
+
+For ordinary art-direction details, use the established style master and continue without unnecessary clarification.
 
 ---
 
-# 06｜Text routing
+# 06｜Naming
 
-Default production source frames:
-
-- no floating film title;
-- no infographic explanation;
-- in-world civic slogans allowed when contextually justified;
-- municipal markings allowed;
-- `第二新重庆市` is an in-world municipal marking, not a default poster title.
-
----
-
-# 07｜Seedance priority
-
-Prioritize:
-
-1. large silhouette;
-2. main structural geometry;
-3. stable directional lighting and major cast-shadow shapes;
-4. off-white / gray / charcoal value-block stability;
-5. major damage / repair landmarks;
-6. restrained rust-red distribution;
-7. signage placement if visible;
-8. micro-detail last.
-
-If detail threatens temporal stability, simplify detail first — **do not flatten the lighting**.
+- `Animation Style V1` = legacy alias;
+- `Dungeon Style` = development provenance only;
+- `押井守风格`, `押井守风格 V1`, `现在的动画风格` all route to **OSHII ANIMATION STYLE V1**.

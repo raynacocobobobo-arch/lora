@@ -1,7 +1,7 @@
 # 《重庆时间》ACTIVE DOCS INDEX
 
-- Updated: 2026-09-03
-- Status: `REPAIR BRANCH ACTIVE / ASTEROID CORE V2.1 + 302 ORIGIN V2.2 ACTIVE / SCENE PROMPT V3 ACTIVE / OSHII ANIMATION STYLE V1 DEFAULT`
+- Updated: 2026-09-04
+- Status: `REPAIR BRANCH ACTIVE / ASTEROID CORE V2.1 + 302 ORIGIN V2.2 ACTIVE / SCENE PROMPT V3 ACTIVE / OSHII ANIMATION STYLE V1 DEFAULT / FEMALE CHIEF FACE LOCK V2 ACTIVE`
 - Branch: `chongqing-time-story-causal-repair`
 - Rule: story, world, spatial/environment, character and episode authorities are explicit; execution docs never override Canon.
 
@@ -62,6 +62,33 @@ For 302 origin / asteroid-mining conflicts, V2.2 has higher priority than the na
 ---
 
 # 03｜Active non-Canon visual execution layer
+
+## Female Chief / 女科长 — active character visual lock
+
+Status:
+
+> **ACTIVE / FEMALE CHIEF VISUAL PROFILE V2 + FACE LOCK V2**
+
+- **Active character visual profile:** `FEMALE-CHIEF-VISUAL-PROFILE-V2.md`
+- **Face Lock task spec:** `docs/visual/2026-09-04-FEMALE-CHIEF-FACE-LOCK-V2.md`
+- **Face editing prompt package:** `docs/visual/2026-09-04-FEMALE-CHIEF-FACE-PROMPT-V2.md`
+- **Handoff entry:** `docs/visual/2026-09-04-FEMALE-CHIEF-HANDOFF.md`
+- **Identity preview:** `visual/character/female-chief/face-lock-v2/FEMALE_CHIEF_FACE_BASE_V1_PREVIEW.jpg`
+- **Full-body preview:** `visual/character/female-chief/face-lock-v2/FEMALE_CHIEF_FULLBODY_BASE_V1_PREVIEW.jpg`
+
+V2 supersedes `FEMALE-CHIEF-VISUAL-PROFILE-V1.md` only for visual execution. Character / relationship Canon remains `CHARACTER-RELATIONSHIP-BIBLE-V4.md`.
+
+Current hair lock:
+
+> **black straight hair + low ponytail / low tie.**
+
+The short-bob instruction in V1 is historical provenance, not current default.
+
+Task rule:
+
+> **identity first; controlled 15–20% facial revision; no new-character redesign.**
+
+Preview JPGs are handoff navigation assets; production editing should use the user's original high-resolution images.
 
 ## Functional / spatial visual rules
 
